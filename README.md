@@ -44,6 +44,7 @@ You may use this Markdown Bible in:
 
 As per specification on their [site](https://berean.bible/licensing.htm):
 
-> The Berean Bible and Majority Bible texts are officially placed into the public domain as of April 30, 2023. See terms and conditions.  
+> The Berean Bible and Majority Bible texts are officially placed into the public domain as of April 30, 2023. See terms and conditions.
+>   
 > Licensing is not required for any use. However, you are welcome to complete the licensing form in order to receive communications as we develop new resources.
 
