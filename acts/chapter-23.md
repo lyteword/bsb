@@ -1,0 +1,77 @@
+---
+weight: 23
+---
+
+# Chapter 23
+
+<sup>1</sup> Paul looked directly at the Sanhedrin and said, “Brothers, I have conducted myself before God in all good conscience to this day.” 
+
+<sup>2</sup> At this, the high priest Ananias ordered those standing near Paul to strike him on the mouth. 
+
+<sup>3</sup> Then Paul said to him, “God will strike you, you whitewashed wall! You sit here to judge me according to the law, yet you yourself violate the law by commanding that I be struck.” 
+
+<sup>4</sup> But those standing nearby said, “How dare you insult the high priest of God!” 
+
+<sup>5</sup> “Brothers,” Paul replied, “I was not aware that he was the high priest, for it is written: ‘Do not speak evil about the ruler of your people.’” 
+
+<sup>6</sup> Then Paul, knowing that some of them were Sadducees and others Pharisees, called out in the Sanhedrin, “Brothers, I am a Pharisee, the son of a Pharisee. It is because of my hope in the resurrection of the dead that I am on trial.” 
+
+<sup>7</sup> As soon as he had said this, a dispute broke out between the Pharisees and Sadducees, and the assembly was divided. 
+
+<sup>8</sup> For the Sadducees say that there is neither a resurrection, nor angels, nor spirits, but the Pharisees acknowledge them all. 
+
+<sup>9</sup> A great clamor arose, and some scribes from the party of the Pharisees got up and contended sharply, “We find nothing wrong with this man. What if a spirit or an angel has spoken to him?” 
+
+<sup>10</sup> The dispute grew so violent that the commander was afraid they would tear Paul to pieces. He ordered the soldiers to go down and remove him by force and bring him into the barracks. 
+
+<sup>11</sup> The following night the Lord stood near Paul and said, “Take courage! As you have testified about Me in Jerusalem, so also you must testify in Rome.” 
+
+<sup>12</sup> When daylight came, the Jews formed a conspiracy and bound themselves with an oath not to eat or drink until they had killed Paul. 
+
+<sup>13</sup> More than forty of them were involved in this plot. 
+
+<sup>14</sup> They went to the chief priests and elders and said, “We have bound ourselves with a solemn oath not to eat anything until we have killed Paul. 
+
+<sup>15</sup> Now then, you and the Sanhedrin petition the commander to bring him down to you on the pretext of examining his case more carefully. We are ready to kill him on the way.” 
+
+<sup>16</sup> But when the son of Paul’s sister heard about the plot, he went into the barracks and told Paul. 
+
+<sup>17</sup> Then Paul called one of the centurions and said, “Take this young man to the commander; he has something to tell him.” 
+
+<sup>18</sup> So the centurion took him to the commander and said, “Paul the prisoner sent and asked me to bring this young man to you. He has something to tell you.” 
+
+<sup>19</sup> The commander took the young man by the hand, drew him aside, and asked, “What do you need to tell me?” 
+
+<sup>20</sup> He answered, “The Jews have agreed to ask you to bring Paul to the Sanhedrin tomorrow on the pretext of acquiring more information about him. 
+
+<sup>21</sup> Do not let them persuade you, because more than forty men are waiting to ambush him. They have bound themselves with an oath not to eat or drink until they have killed him; they are ready now, awaiting your consent.” 
+
+<sup>22</sup> So the commander dismissed the young man and instructed him, “Do not tell anyone that you have reported this to me.” 
+
+<sup>23</sup> Then he called two of his centurions and said, “Prepare two hundred soldiers, seventy horsemen, and two hundred spearmen to go to Caesarea in the third hour of the night. 
+
+<sup>24</sup> Provide mounts for Paul to take him safely to Governor Felix.” 
+
+<sup>25</sup> And he wrote the following letter: 
+
+<sup>26</sup> Claudius Lysias, To His Excellency, Governor Felix: Greetings. 
+
+<sup>27</sup> This man was seized by the Jews, and they were about to kill him when I came with my troops to rescue him. For I had learned that he is a Roman citizen, 
+
+<sup>28</sup> and since I wanted to understand their charges against him, I brought him down to their Sanhedrin. 
+
+<sup>29</sup> I found that the accusation involved questions about their own law, but there was no charge worthy of death or imprisonment. 
+
+<sup>30</sup> When I was informed that there was a plot against the man, I sent him to you at once. I also instructed his accusers to present their case against him before you. 
+
+<sup>31</sup> So the soldiers followed their orders and brought Paul by night to Antipatris. 
+
+<sup>32</sup> The next day they returned to the barracks and let the horsemen go on with him. 
+
+<sup>33</sup> When the horsemen arrived in Caesarea, they delivered the letter to the governor and presented Paul to him. 
+
+<sup>34</sup> The governor read the letter and asked what province Paul was from. Learning that he was from Cilicia, 
+
+<sup>35</sup> he said, “I will hear your case when your accusers arrive.” Then he ordered that Paul be kept under guard in Herod’s Praetorium. 
+
+
