@@ -1,63 +1,71 @@
----
-weight: 7
----
-
 # Chapter 7
 
-<sup>1</sup> In the first year of the reign of Belshazzar over Babylon, Daniel had a dream, and visions passed through his mind as he lay on his bed. He wrote down the dream, and this is the summary of his account. 
+## Daniel’s Vision of the Four Beasts
 
-<sup>2</sup> Daniel declared: “In my vision in the night I looked, and suddenly the four winds of heaven were churning up the great sea. 
+**(Revelation 13:1–10)**
 
-<sup>3</sup> Then four great beasts came up out of the sea, each one different from the others: 
+<sup>1</sup> In the first year of the reign of Belshazzar over Babylon, Daniel had a dream, and visions passed through his mind as he lay on his bed. He wrote down the dream, and this is the summary of his account.
 
-<sup>4</sup> The first beast was like a lion, and it had the wings of an eagle. I watched until its wings were torn off and it was lifted up from the ground and made to stand on two feet like a man, and given the mind of a man. 
+<sup>2</sup> Daniel declared: “In my vision in the night I looked, and suddenly the four winds of heaven were churning up the great sea.[^3234]
 
-<sup>5</sup> Suddenly another beast appeared, which looked like a bear. It was raised up on one of its sides, and it had three ribs in its mouth between its teeth. So it was told, ‘Get up and gorge yourself on flesh!’ 
+<sup>3</sup> Then four great beasts came up out of the sea, each one different from the others:
 
-<sup>6</sup> Next, as I watched, another beast appeared. It was like a leopard, and on its back it had four wings like those of a bird. The beast also had four heads, and it was given authority to rule. 
+<sup>4</sup> The first beast was like a lion, and it had the wings of an eagle. I watched until its wings were torn off and it was lifted up from the ground and made to stand on two feet like a man and given the mind of a man.
 
-<sup>7</sup> After this, as I watched in my vision in the night, suddenly a fourth beast appeared, and it was terrifying—dreadful and extremely strong—with large iron teeth. It devoured and crushed; then it trampled underfoot whatever was left. It was different from all the beasts before it, and it had ten horns. 
+<sup>5</sup> Suddenly another beast appeared, which looked like a bear. It was raised up on one of its sides, and it had three ribs in its mouth between its teeth. So it was told, ‘Get up and gorge yourself on flesh!’
 
-<sup>8</sup> While I was contemplating the horns, suddenly another horn, a little one, came up among them, and three of the first horns were uprooted before it. This horn had eyes like those of a man and a mouth that spoke words of arrogance. 
+<sup>6</sup> Next, as I watched, suddenly another beast appeared. It was like a leopard, and on its back it had four wings like those of a bird. The beast also had four heads, and it was given authority to rule.
 
-<sup>9</sup> As I continued to watch, thrones were set in place, and the Ancient of Days took His seat. His clothing was white as snow, and the hair of His head was like pure wool. His throne was flaming with fire, and its wheels were all ablaze. 
+<sup>7</sup> After this, as I watched in my vision in the night, suddenly a fourth beast appeared, and it was terrifying—dreadful and extremely strong—with large iron teeth. It devoured and crushed; then it trampled underfoot whatever was left. It was different from all the beasts before it, and it had ten horns.
 
-<sup>10</sup> A river of fire was flowing, coming out from His presence. Thousands upon thousands attended Him, and myriads upon myriads stood before Him. The court was convened, and the books were opened. 
+<sup>8</sup> While I was contemplating the horns, suddenly another horn, a little one, came up among them, and three of the first horns were uprooted before it. This horn had eyes like those of a man and a mouth that spoke words of arrogance.
 
-<sup>11</sup> Then I kept watching because of the arrogant words the horn was speaking. As I continued to watch, the beast was slain, and its body was destroyed and thrown into the blazing fire. 
+## Daniel’s Vision of the Ancient of Days
 
-<sup>12</sup> As for the rest of the beasts, their dominion was removed, but they were granted an extension of life for a season and a time. 
+<sup>9</sup> As I continued to watch, thrones were set in place, and the Ancient of Days took His seat. His clothing was white as snow, and the hair of His head was like pure wool. His throne was flaming with fire, and its wheels were all ablaze.
 
-<sup>13</sup> In my vision in the night I continued to watch, and I saw One like the Son of Man coming with the clouds of heaven. He approached the Ancient of Days and was led into His presence. 
+<sup>10</sup> A river of fire was flowing, coming out from His presence. Thousands upon thousands attended Him, and myriads upon myriads stood before Him. The court was convened, and the books were opened.
 
-<sup>14</sup> And He was given dominion, glory, and kingship, that the people of every nation and language should serve Him. His dominion is an everlasting dominion that will not pass away, and His kingdom is one that will never be destroyed. 
+<sup>11</sup> Then I kept watching because of the arrogant words the horn was speaking. As I continued to watch, the beast was slain, and its body was destroyed and thrown into the blazing fire.
 
-<sup>15</sup> I, Daniel, was grieved in my spirit, and the visions in my mind alarmed me. 
+<sup>12</sup> As for the rest of the beasts, their dominion was removed, but they were granted an extension of life for a season and a time.
 
-<sup>16</sup> I approached one of those who were standing there, and I asked him the true meaning of all this. So he told me the interpretation of these things: 
+## Daniel’s Vision of the Son of Man
 
-<sup>17</sup> ‘These four great beasts are four kings who will arise from the earth. 
+<sup>13</sup> In my vision in the night I continued to watch, and I saw One like the Son of Man [^3235] coming with the clouds of heaven.[^3236] He approached the Ancient of Days and was led into His presence.
 
-<sup>18</sup> But the saints of the Most High will receive the kingdom and possess it forever—yes, forever and ever.’ 
+<sup>14</sup> And He was given dominion, glory, and kingship, that the people of every nation and language should serve Him. His dominion is an everlasting dominion that will not pass away, and His kingdom is one that will never be destroyed.
 
-<sup>19</sup> Then I wanted to know the true meaning of the fourth beast, which was different from all the others—extremely terrifying—devouring and crushing with iron teeth and bronze claws, then trampling underfoot whatever was left. 
+## Daniel’s Visions Interpreted
 
-<sup>20</sup> I also wanted to know about the ten horns on its head and the other horn that came up, before which three of them fell—the horn whose appearance was more imposing than the others, with eyes and with a mouth that spoke words of arrogance. 
+<sup>15</sup> I, Daniel, was grieved in my spirit, and the visions in my mind alarmed me.
 
-<sup>21</sup> As I watched, this horn was waging war against the saints and prevailing against them, 
+<sup>16</sup> I approached one of those who were standing there, and I asked him the true meaning of all this. So he told me the interpretation of these things:
 
-<sup>22</sup> until the Ancient of Days arrived and pronounced judgment in favor of the saints of the Most High, and the time came for them to possess the kingdom. 
+<sup>17</sup> ‘These four great beasts are four kings who will arise from the earth.
 
-<sup>23</sup> This is what he said: ‘The fourth beast is a fourth kingdom that will appear on the earth, different from all the other kingdoms, and it will devour the whole earth, trample it down, and crush it. 
+<sup>18</sup> But the saints of the Most High will receive the kingdom and possess it forever—yes, forever and ever.’
 
-<sup>24</sup> And the ten horns are ten kings who will rise from this kingdom. After them another king, different from the earlier ones, will rise and subdue three kings. 
+<sup>19</sup> Then I wanted to know the true meaning of the fourth beast, which was different from all the others—extremely terrifying—devouring and crushing with iron teeth and bronze claws, then trampling underfoot whatever was left.
 
-<sup>25</sup> He will speak out against the Most High and oppress the saints of the Most High, intending to change the appointed times and laws; and the saints will be given into his hand for a time, and times, and half a time. 
+<sup>20</sup> I also wanted to know about the ten horns on its head and the other horn that came up, before which three of them fell—the horn whose appearance was more imposing than the others, with eyes and with a mouth that spoke words of arrogance.
 
-<sup>26</sup> But the court will convene, and his dominion will be taken away and completely destroyed forever. 
+<sup>21</sup> As I watched, this horn was waging war against the saints and prevailing against them,
 
-<sup>27</sup> Then the sovereignty, dominion, and greatness of the kingdoms under all of heaven will be given to the people, the saints of the Most High. His kingdom will be an everlasting kingdom, and all rulers will serve and obey Him.’ 
+<sup>22</sup> until the Ancient of Days arrived and pronounced judgment in favor of the saints of the Most High, and the time came for them to possess the kingdom.
 
-<sup>28</sup> Thus ends the matter. As for me, Daniel, my thoughts troubled me greatly, and my face turned pale. But I kept the matter to myself.” 
+<sup>23</sup> This is what he said: ‘The fourth beast is a fourth kingdom that will appear on the earth, different from all the other kingdoms, and it will devour the whole earth, trample it down, and crush it.
 
+<sup>24</sup> And the ten horns are ten kings who will rise from this kingdom. After them another king, different from the earlier ones, will rise and subdue three kings.
 
+<sup>25</sup> He will speak out against the Most High and oppress the saints of the Most High, intending to change the appointed times and laws; and the saints will be given into his hand for a time, and times, and half a time.
+
+<sup>26</sup> But the court will convene, and his dominion will be taken away and completely destroyed forever.
+
+<sup>27</sup> Then the sovereignty, dominion, and greatness of the kingdoms under all of heaven will be given to the people, the saints of the Most High. His kingdom will be an everlasting kingdom, and all rulers will serve and obey Him.’
+
+<sup>28</sup> Thus ends the matter. As for me, Daniel, my thoughts troubled me greatly, and my face turned pale. But I kept the matter to myself.”
+
+[^3234]: 7:2 Perhaps the Great Sea, that is, the Mediterranean Sea
+[^3235]: 7:13 Or one like a son of man
+[^3236]: 7:13 See Matthew 24:30, Matthew 26:64, Mark 13:26, Mark 14:62, Luke 21:27, Revelation 1:13, and Revelation 14:14.

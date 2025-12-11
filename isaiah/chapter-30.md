@@ -1,73 +1,74 @@
----
-weight: 30
----
-
 # Chapter 30
 
-<sup>1</sup> “Woe to the rebellious children,” declares the LORD, “to those who carry out a plan that is not Mine, who form an alliance, but against My will, heaping up sin upon sin. 
+## The Worthless Treaty with Egypt
 
-<sup>2</sup> They set out to go down to Egypt without asking My advice, to seek shelter under Pharaoh’s protection and take refuge in Egypt’s shade. 
+<sup>1</sup> “Woe to the rebellious children,” declares the LORD, “to those who carry out a plan that is not Mine, who form an alliance, but against My will, heaping up sin upon sin.
 
-<sup>3</sup> But Pharaoh’s protection will become your shame, and the refuge of Egypt’s shade your disgrace. 
+<sup>2</sup> They set out to go down to Egypt without asking My advice, to seek shelter under Pharaoh’s protection and take refuge in Egypt’s shade.
 
-<sup>4</sup> For though their princes are at Zoan and their envoys have arrived in Hanes, 
+<sup>3</sup> But Pharaoh’s protection will become your shame, and the refuge of Egypt’s shade your disgrace.
 
-<sup>5</sup> everyone will be put to shame because of a people useless to them. They cannot be of help; they are good for nothing but shame and reproach.” 
+<sup>4</sup> For though their princes are at Zoan and their envoys have arrived in Hanes,
 
-<sup>6</sup> This is the burden against the beasts of the Negev: Through a land of hardship and distress, of lioness and lion, of viper and flying serpent, they carry their wealth on the backs of donkeys and their treasures on the humps of camels, to a people of no profit to them. 
+<sup>5</sup> everyone will be put to shame because of a people useless to them. They bring neither help nor benefit, but only shame and disgrace.”
 
-<sup>7</sup> Egypt’s help is futile and empty; therefore I have called her Rahab Who Sits Still. 
+<sup>6</sup> This is the burden against the beasts of the Negev: Through a land of hardship and distress, of lioness and lion, of viper and flying serpent, they carry their wealth on the backs of donkeys and their treasures on the humps of camels, to a people of no profit to them.
 
-<sup>8</sup> Go now, write it on a tablet in their presence and inscribe it on a scroll; it will be for the days to come, a witness forever and ever. 
+<sup>7</sup> Egypt’s help is futile and empty; therefore I have called her Rahab Who Sits Still.[^2662]
 
-<sup>9</sup> These are rebellious people, deceitful children, children unwilling to obey the LORD’s instruction. 
+<sup>8</sup> Go now, write it on a tablet in their presence and inscribe it on a scroll; it will be for the days to come, a witness forever and ever.
 
-<sup>10</sup> They say to the seers, “Stop seeing visions!” and to the prophets, “Do not prophesy to us the truth! Speak to us pleasant words; prophesy illusions. 
+<sup>9</sup> These are rebellious people, deceitful children, children unwilling to obey the LORD’s instruction.
 
-<sup>11</sup> Get out of the way; turn off the road. Rid us of the Holy One of Israel!” 
+<sup>10</sup> They say to the seers, “Stop seeing visions!” and to the prophets, “Do not prophesy to us the truth! Speak to us pleasant words; prophesy illusions.
 
-<sup>12</sup> Therefore this is what the Holy One of Israel says: “Because you have rejected this message, trusting in oppression and relying on deceit, 
+<sup>11</sup> Get out of the way; turn off the road. Rid us of the Holy One of Israel!”
 
-<sup>13</sup> this iniquity of yours is like a breach about to fail, a bulge in a high wall, whose collapse will come suddenly— in an instant! 
+<sup>12</sup> Therefore this is what the Holy One of Israel says: “Because you have rejected this message, trusting in oppression and relying on deceit,
 
-<sup>14</sup> It will break in pieces like a potter’s jar, shattered so that no fragment can be found. Not a shard will be found in the dust large enough to scoop the coals from a hearth or to skim the water from a cistern.” 
+<sup>13</sup> this iniquity of yours is like a breach about to fail, a bulge in a high wall, whose collapse will come suddenly— in an instant!
 
-<sup>15</sup> For the Lord GOD, the Holy One of Israel, has said: “By repentance and rest you would be saved; your strength would lie in quiet confidence— but you were not willing.” 
+<sup>14</sup> It will break in pieces like a potter’s jar, shattered so that no fragment can be found. Not a shard will be found in the dust large enough to scoop the coals from a hearth or to skim the water from a cistern.”
 
-<sup>16</sup> “No,” you say, “we will flee on horses.” Therefore you will flee! “We will ride swift horses,” but your pursuers will be faster. 
+<sup>15</sup> For the Lord GOD, the Holy One of Israel, has said: “By repentance and rest you would be saved; your strength would lie in quiet confidence— but you were not willing.”
 
-<sup>17</sup> A thousand will flee at the threat of one; at the threat of five you will all flee, until you are left alone like a pole on a mountaintop, like a banner on a hill. 
+<sup>16</sup> “No,” you say, “we will flee on horses.” Therefore you will flee! “We will ride swift horses,” but your pursuers will be faster.
 
-<sup>18</sup> Therefore the LORD longs to be gracious to you; therefore He rises to show you compassion, for the LORD is a just God. Blessed are all who wait for Him. 
+<sup>17</sup> A thousand will flee at the threat of one; at the threat of five you will all flee, until you are left alone like a pole on a mountaintop, like a banner on a hill.
 
-<sup>19</sup> O people in Zion who dwell in Jerusalem, you will weep no more. He will surely be gracious when you cry for help; when He hears, He will answer you. 
+## God Will Be Gracious
 
-<sup>20</sup> The Lord will give you the bread of adversity and the water of affliction, but your Teacher will no longer hide Himself—with your own eyes you will see Him. 
+<sup>18</sup> Therefore the LORD longs to be gracious to you; therefore He rises to show you compassion, for the LORD is a just God. Blessed are all who wait for Him.
 
-<sup>21</sup> And whether you turn to the right or to the left, your ears will hear this command behind you: “This is the way. Walk in it.” 
+<sup>19</sup> O people in Zion who dwell in Jerusalem, you will weep no more. He will surely be gracious when you cry for help; when He hears, He will answer you.
 
-<sup>22</sup> So you will desecrate your silver-plated idols and your gold-plated images. You will throw them away like menstrual cloths, saying to them, “Be gone!” 
+<sup>20</sup> The Lord will give you the bread of adversity and the water of affliction, but your Teacher will no longer hide Himself—with your own eyes you will see Him.
 
-<sup>23</sup> Then He will send rain for the seed that you have sown in the ground, and the food that comes from your land will be rich and plentiful. On that day your cattle will graze in open pastures. 
+<sup>21</sup> And whether you turn to the right or to the left, your ears will hear this command behind you: “This is the way. Walk in it.”
 
-<sup>24</sup> The oxen and donkeys that work the ground will eat salted fodder, winnowed with shovel and pitchfork. 
+<sup>22</sup> So you will desecrate your silver-plated idols and your gold-plated images. You will throw them away like menstrual cloths, saying to them, “Be gone!”
 
-<sup>25</sup> And from every high mountain and every raised hill, streams of water will flow in the day of great slaughter, when the towers fall. 
+<sup>23</sup> Then He will send rain for the seed that you have sown in the ground, and the food that comes from your land will be rich and plentiful. On that day your cattle will graze in open pastures.
 
-<sup>26</sup> The light of the moon will be as bright as the sun, and the light of the sun will be seven times brighter—like the light of seven days—on the day that the LORD binds up the brokenness of His people and heals the wounds He has inflicted. 
+<sup>24</sup> The oxen and donkeys that work the ground will eat salted fodder, winnowed with shovel and pitchfork.
 
-<sup>27</sup> Behold, the Name of the LORD comes from afar, with burning anger and dense smoke. His lips are full of fury, and His tongue is like a consuming fire. 
+<sup>25</sup> And from every high mountain and every raised hill, streams of water will flow in the day of great slaughter, when the towers fall.
 
-<sup>28</sup> His breath is like a rushing torrent that rises to the neck. He comes to sift the nations in a sieve of destruction; He bridles the jaws of the peoples to lead them astray. 
+<sup>26</sup> The light of the moon will be as bright as the sun, and the light of the sun will be seven times brighter—like the light of seven days—on the day that the LORD binds up the brokenness of His people and heals the wounds He has inflicted.
 
-<sup>29</sup> You will sing as on the night of a holy festival, and your heart will rejoice like one who walks to the music of a flute, going up to the mountain of the LORD, to the Rock of Israel. 
+<sup>27</sup> Behold, the Name of the LORD comes from afar, with burning anger and dense smoke. His lips are full of fury, and His tongue is like a consuming fire.
 
-<sup>30</sup> And the LORD will cause His majestic voice to be heard and His mighty arm to be revealed, striking in angry wrath with a flame of consuming fire, and with cloudburst, storm, and hailstones. 
+<sup>28</sup> His breath is like a rushing torrent that rises to the neck. He comes to sift the nations in a sieve of destruction; He bridles the jaws of the peoples to lead them astray.
 
-<sup>31</sup> For Assyria will be shattered at the voice of the LORD; He will strike them with His scepter. 
+<sup>29</sup> You will sing as on the night of a holy festival, and your heart will rejoice like one who walks to the music of a flute, going up to the mountain of the LORD, to the Rock of Israel.
 
-<sup>32</sup> And with every stroke of the rod of punishment that the LORD brings down on them, the tambourines and lyres will sound as He battles with weapons brandished. 
+<sup>30</sup> And the LORD will cause His majestic voice to be heard and His mighty arm to be revealed, striking in angry wrath with a flame of consuming fire, and with cloudburst, storm, and hailstones.
 
-<sup>33</sup> For Topheth has long been prepared; it has been made ready for the king. Its funeral pyre is deep and wide, with plenty of fire and wood. The breath of the LORD, like a torrent of burning sulfur, sets it ablaze. 
+<sup>31</sup> For Assyria will be shattered at the voice of the LORD; He will strike them with His scepter.
 
+<sup>32</sup> And with every stroke of the rod of punishment [^2663] that the LORD brings down on them, the tambourines and lyres will sound as He battles with weapons brandished.
 
+<sup>33</sup> For Topheth has long been prepared; it has been made ready for the king. Its funeral pyre is deep and wide, with plenty of fire and wood. The breath of the LORD, like a torrent of burning sulfur, sets it ablaze.
+
+[^2662]: 30:7 Hebrew Rahab-hem-shebeth
+[^2663]: 30:32 Some Hebrew manuscripts, Syriac; MT the rod of foundation; DSS the rod of His foundation

@@ -1,41 +1,46 @@
----
-weight: 12
----
-
 # Chapter 12
 
-<sup>1</sup> Righteous are You, O LORD, when I plead before You. Yet about Your judgments I wish to contend with You: Why does the way of the wicked prosper? Why do all the faithless live at ease? 
+## The Prosperity of the Wicked
 
-<sup>2</sup> You planted them, and they have taken root. They have grown and produced fruit. You are ever on their lips, but far from their hearts. 
+<sup>1</sup> Righteous are You, O LORD, when I plead before You. Yet about Your judgments I wish to contend with You: Why does the way of the wicked prosper? Why do all the faithless live at ease?
 
-<sup>3</sup> But You know me, O LORD; You see me and test my heart toward You. Drag away the wicked like sheep to the slaughter and set them apart for the day of carnage. 
+<sup>2</sup> You planted them, and they have taken root. They have grown and produced fruit. You are ever on their lips, but far from their hearts.[^2827]
 
-<sup>4</sup> How long will the land mourn and the grass of every field be withered? Because of the evil of its residents, the animals and birds have been swept away, for the people have said, “He cannot see what our end will be.” 
+<sup>3</sup> But You know me, O LORD; You see me and test my heart toward You. Drag away the wicked like sheep to the slaughter and set them apart for the day of carnage.
 
-<sup>5</sup> “If you have raced with men on foot and they have worn you out, how can you compete with horses? If you stumble in a peaceful land, how will you do in the thickets of the Jordan? 
+<sup>4</sup> How long will the land mourn and the grass of every field be withered? Because of the evil of its residents, the animals and birds have been swept away, for the people have said, “He cannot see what our end will be.”
 
-<sup>6</sup> Even your brothers— your own father’s household— even they have betrayed you; even they have cried aloud against you. Do not trust them, though they speak well of you. 
+## God’s Answer to Jeremiah
 
-<sup>7</sup> I have forsaken My house; I have abandoned My inheritance. I have given the love of My life into the hands of her enemies. 
+<sup>5</sup> “If you have raced with men on foot and they have worn you out, how can you compete with horses? If you stumble in a peaceful land, how will you do in the thickets of the Jordan?
 
-<sup>8</sup> My inheritance has become to Me like a lion in the forest. She has roared against Me; therefore I hate her. 
+<sup>6</sup> Even your brothers— your own father’s household— even they have betrayed you; even they have cried aloud against you. Do not trust them, though they speak well of you.
 
-<sup>9</sup> Is not My inheritance to Me like a speckled bird of prey with other birds of prey circling against her? Go, gather all the beasts of the field; bring them to devour her. 
+<sup>7</sup> I have forsaken My house; I have abandoned My inheritance. I have given the beloved of My soul into the hands of her enemies.
 
-<sup>10</sup> Many shepherds have destroyed My vineyard; they have trampled My plot of ground. They have turned My pleasant field into a desolate wasteland. 
+<sup>8</sup> My inheritance has become to Me like a lion in the forest. She has roared against Me; therefore I hate her.
 
-<sup>11</sup> They have made it a desolation; desolate before Me, it mourns. All the land is laid waste, but no man takes it to heart. 
+<sup>9</sup> Is not My inheritance to Me like a speckled bird of prey with other birds of prey [^2828] circling against her? Go, gather all the beasts of the field; bring them to devour her.
 
-<sup>12</sup> Over all the barren heights in the wilderness the destroyers have come, for the sword of the LORD devours from one end of the earth to the other. No flesh has peace. 
+<sup>10</sup> Many shepherds have destroyed My vineyard; they have trampled My plot of ground. They have turned My pleasant field into a desolate wasteland.
 
-<sup>13</sup> They have sown wheat but harvested thorns. They have exhausted themselves to no avail. Bear the shame of your harvest because of the fierce anger of the LORD.” 
+<sup>11</sup> They have made it a desolation; desolate before Me, it mourns. All the land is laid waste, but no man takes it to heart.
 
-<sup>14</sup> This is what the LORD says: “As for all My evil neighbors who attack the inheritance that I bequeathed to My people Israel, I am about to uproot them from their land, and I will uproot the house of Judah from among them. 
+<sup>12</sup> Over all the barren heights in the wilderness the destroyers have come, for the sword of the LORD devours from one end of the earth to the other. No flesh has peace.
 
-<sup>15</sup> But after I have uprooted them, I will once again have compassion on them and return each one to his inheritance and to his land. 
+<sup>13</sup> They have sown wheat but harvested thorns. They have exhausted themselves to no avail. Bear the shame of your harvest because of the fierce anger of the LORD.”
 
-<sup>16</sup> And if they will diligently learn the ways of My people and swear by My name, saying, ‘As surely as the LORD lives’—just as they once taught My people to swear by Baal—then they will be established among My people. 
+## A Message for Israel’s Neighbors
 
-<sup>17</sup> But if they will not obey, then I will uproot that nation; I will uproot it and destroy it, declares the LORD.” 
+**(Amos 1:1–15)**
 
+<sup>14</sup> This is what the LORD says: “As for all My evil neighbors who attack the inheritance that I bequeathed to My people Israel, I am about to uproot them from their land, and I will uproot the house of Judah from among them.
 
+<sup>15</sup> But after I have uprooted them, I will once again have compassion on them and return each one to his inheritance and to his land.
+
+<sup>16</sup> And if they will diligently learn the ways of My people and swear by My name, saying, ‘As surely as the LORD lives’—just as they once taught My people to swear by Baal—then they will be established among My people.
+
+<sup>17</sup> But if they will not obey, then I will uproot that nation; I will uproot it and destroy it, declares the LORD.”
+
+[^2827]: 12:2 Hebrew their kidneys
+[^2828]: 12:9 Or like a speckled hyena with birds of prey

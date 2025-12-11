@@ -1,65 +1,68 @@
----
-weight: 41
----
-
 # Chapter 41
 
-<sup>1</sup> “Be silent before Me, O islands, and let the peoples renew their strength. Let them come forward and testify; let us together draw near for judgment. 
+## God’s Help to Israel
 
-<sup>2</sup> Who has aroused one from the east and called him to his feet in righteousness ? He hands nations over to him and subdues kings before him. He turns them to dust with his sword, to windblown chaff with his bow. 
+<sup>1</sup> “Be silent before Me, O islands,[^2700] and let the peoples renew their strength. Let them come forward and testify; let us together draw near for judgment.
 
-<sup>3</sup> He pursues them, going on safely, hardly touching the path with his feet. 
+<sup>2</sup> Who has aroused one from the east and called him to his feet in righteousness [^2701]? He hands nations over to him and subdues kings before him. He turns them to dust with his sword, to windblown chaff with his bow.
 
-<sup>4</sup> Who has performed this and carried it out, calling forth the generations from the beginning? I, the LORD—the first and the last— I am He.” 
+<sup>3</sup> He pursues them, going on safely, hardly touching the path with his feet.
 
-<sup>5</sup> The islands see and fear; the ends of the earth tremble. They approach and come forward. 
+<sup>4</sup> Who has performed this and carried it out, calling forth the generations from the beginning? I, the LORD—the first and the last— I am He.”
 
-<sup>6</sup> Each one helps the other and says to his brother, “Be strong!” 
+<sup>5</sup> The islands see and fear; the ends of the earth tremble. They approach and come forward.
 
-<sup>7</sup> The craftsman encourages the goldsmith, and he who wields the hammer cheers him who strikes the anvil, saying of the welding, “It is good.” He nails it down so it will not be toppled. 
+<sup>6</sup> Each one helps the other and says to his brother, “Be strong!”
 
-<sup>8</sup> “But you, O Israel, My servant, Jacob, whom I have chosen, descendant of Abraham My friend— 
+<sup>7</sup> The craftsman encourages the goldsmith, and he who wields the hammer cheers him who strikes the anvil, saying of the welding, “It is good.” He nails it down so it will not be toppled.
 
-<sup>9</sup> I brought you from the ends of the earth and called you from its farthest corners. I said, ‘You are My servant.’ I have chosen and not rejected you. 
+<sup>8</sup> “But you, O Israel, My servant, Jacob, whom I have chosen, descendant of Abraham My friend—
 
-<sup>10</sup> Do not fear, for I am with you; do not be afraid, for I am your God. I will strengthen you; I will surely help you; I will uphold you with My right hand of righteousness. 
+<sup>9</sup> I brought you from the ends of the earth and called you from its farthest corners. I said, ‘You are My servant.’ I have chosen and not rejected you.
 
-<sup>11</sup> Behold, all who rage against you will be ashamed and disgraced; those who contend with you will be reduced to nothing and will perish. 
+<sup>10</sup> Do not fear, for I am with you; do not be afraid, for I am your God. I will strengthen you; I will surely help you; I will uphold you with My righteous right hand.
 
-<sup>12</sup> You will seek them but will not find them. Those who wage war against you will come to nothing. 
+<sup>11</sup> Behold, all who rage against you will be ashamed and disgraced; those who contend with you will be reduced to nothing and will perish.
 
-<sup>13</sup> For I am the LORD your God, who takes hold of your right hand and tells you: Do not fear, I will help you. 
+<sup>12</sup> You will seek them but will not find them. Those who wage war against you will come to nothing.
 
-<sup>14</sup> Do not fear, O worm of Jacob, O few men of Israel. I will help you,” declares the LORD. “Your Redeemer is the Holy One of Israel. 
+<sup>13</sup> For I am the LORD your God, who takes hold of your right hand and tells you: Do not fear, I will help you.
 
-<sup>15</sup> Behold, I will make you into a threshing sledge, new and sharp, with many teeth. You will thresh the mountains and crush them, and reduce the hills to chaff. 
+<sup>14</sup> Do not fear, O Jacob, you worm, O few men of Israel. I will help you,” declares the LORD. “Your Redeemer is the Holy One of Israel.
 
-<sup>16</sup> You will winnow them, and a wind will carry them away; a gale will scatter them. But you will rejoice in the LORD; you will glory in the Holy One of Israel. 
+<sup>15</sup> Behold, I will make you into a threshing sledge, new and sharp, with many teeth. You will thresh the mountains and crush them, and reduce the hills to chaff.
 
-<sup>17</sup> The poor and needy seek water, but there is none; their tongues are parched with thirst. I, the LORD, will answer them; I, the God of Israel, will not forsake them. 
+<sup>16</sup> You will winnow them, and a wind will carry them away; a gale will scatter them. But you will rejoice in the LORD; you will glory in the Holy One of Israel.
 
-<sup>18</sup> I will open rivers on the barren heights, and fountains in the middle of the valleys. I will turn the desert into a pool of water, and the dry land into flowing springs. 
+<sup>17</sup> The poor and needy seek water, but there is none; their tongues are parched with thirst. I, the LORD, will answer them; I, the God of Israel, will not forsake them.
 
-<sup>19</sup> I will plant cedars in the wilderness, acacias, myrtles, and olive trees. I will set cypresses in the desert, elms and boxwood together, 
+<sup>18</sup> I will open rivers on the barren heights, and fountains in the middle of the valleys. I will turn the desert into a pool of water, and the dry land into flowing springs.
 
-<sup>20</sup> so that all may see and know, may consider and understand, that the hand of the LORD has done this and the Holy One of Israel has created it.” 
+<sup>19</sup> I will plant cedars in the wilderness, acacias, myrtles, and olive trees. I will set cypresses [^2702] in the desert, elms and boxwood together,
 
-<sup>21</sup> “Present your case,” says the LORD. “Submit your arguments,” says the King of Jacob. 
+<sup>20</sup> so that all may see and know, may consider and understand, that the hand of the LORD has done this and the Holy One of Israel has created it.”
 
-<sup>22</sup> “Let them come and tell us what will happen. Tell the former things, so that we may reflect on them and know the outcome. Or announce to us what is coming. 
+## Meaningless Idols
 
-<sup>23</sup> Tell us the things that are to come, so that we may know that you are gods. Yes, do something good or evil, that we may look on together in dismay. 
+<sup>21</sup> “Present your case,” says the LORD. “Submit your arguments,” says the King of Jacob.
 
-<sup>24</sup> Behold, you are nothing and your work is of no value. Anyone who chooses you is detestable. 
+<sup>22</sup> “Let them come and tell us what will happen. Tell the former things, so that we may reflect on them and know the outcome. Or announce to us what is coming.
 
-<sup>25</sup> I have raised up one from the north, and he has come— one from the east who calls on My name. He will march over rulers as if they were mortar, like a potter who treads the clay. 
+<sup>23</sup> Tell us the things that are to come, so that we may know that you are gods. Yes, do something good or evil, that we may look on together in dismay.
 
-<sup>26</sup> Who has declared this from the beginning, so that we may know, and from times past, so that we may say: ‘He was right’? No one announced it, no one foretold it, no one heard your words. 
+<sup>24</sup> Behold, you are nothing and your work is of no value. Anyone who chooses you is detestable.
 
-<sup>27</sup> I was the first to tell Zion: ‘Look, here they are!’ And I gave to Jerusalem a herald of good news. 
+<sup>25</sup> I have raised up one from the north, and he has come— one from the east who calls on My name. He will march over rulers as if they were mortar, like a potter who treads the clay.
 
-<sup>28</sup> When I look, there is no one; there is no counselor among them; when I ask them, they have nothing to say. 
+<sup>26</sup> Who has declared this from the beginning, so that we may know, and from times past, so that we may say: ‘He was right’? No one announced it, no one foretold it, no one heard your words.
 
-<sup>29</sup> See, they are all a delusion; their works amount to nothing; their images are as empty as the wind. 
+<sup>27</sup> I was the first to tell Zion:[^2703] ‘Look, here they are!’ And I gave to Jerusalem a herald of good news.
 
+<sup>28</sup> When I look, there is no one; there is no counselor among them; when I ask them, they have nothing to say.
 
+<sup>29</sup> See, they are all a delusion; their works amount to nothing; their images are as empty as the wind.
+
+[^2700]: 41:1 Or coastlands; also in verse 5
+[^2701]: 41:2 Or from the east, whom victory meets at every step
+[^2702]: 41:19 Or pines or junipers or firs
+[^2703]: 41:27 Or Formerly I said to Zion:

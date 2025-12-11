@@ -1,47 +1,52 @@
----
-weight: 2
----
-
 # Chapter 2
 
-<sup>1</sup> I will stand at my guard post and station myself on the ramparts. I will watch to see what He will say to me, and how I should answer when corrected. 
+## The LORD Answers Again
 
-<sup>2</sup> Then the LORD answered me: “Write down this vision and clearly inscribe it on tablets, so that a herald may run with it. 
+<sup>1</sup> I will stand at my guard post and station myself on the ramparts. I will watch to see what He will say to me, and how I should answer when corrected.
 
-<sup>3</sup> For the vision awaits an appointed time; it testifies of the end and does not lie. Though it lingers, wait for it, since it will surely come and will not delay. 
+<sup>2</sup> Then the LORD answered me: “Write down this vision and clearly inscribe it on tablets, so that a herald may run with it.
 
-<sup>4</sup> Look at the proud one; his soul is not upright — but the righteous will live by faith — 
+<sup>3</sup> For the vision awaits an appointed time; it testifies of the end and does not lie. Though it lingers, wait for it, since it will surely come and will not delay.[^3443]
 
-<sup>5</sup> and wealth indeed betrays him. He is an arrogant man never at rest. He enlarges his appetite like Sheol, and like Death, he is never satisfied. He gathers all the nations to himself and collects all the peoples as his own. 
+<sup>4</sup> Look at the proud one; his soul is not upright [^3444]— but the righteous will live by faith [^3445]—
 
-<sup>6</sup> Will not all of these take up a taunt against him, speaking with mockery and derision: ‘Woe to him who amasses what is not his and makes himself rich with many loans! How long will this go on?’ 
+<sup>5</sup> and wealth [^3446] indeed betrays him. He is an arrogant man never at rest. He enlarges his appetite like Sheol, and like Death, he is never satisfied. He gathers all the nations to himself and collects all the peoples as his own.
 
-<sup>7</sup> Will not your creditors suddenly arise and those who disturb you awaken? Then you will become their prey. 
+## Woe to the Chaldeans
 
-<sup>8</sup> Because you have plundered many nations, the remnant of the people will plunder you— because of your bloodshed against man and your violence against the land, the city, and all their dwellers. 
+<sup>6</sup> Will not all of these take up a taunt against him, speaking with mockery and derision: ‘Woe to him who amasses what is not his and makes himself rich with many loans! How long will this go on?’
 
-<sup>9</sup> Woe to him who builds his house by unjust gain, to place his nest on high and escape the hand of disaster! 
+<sup>7</sup> Will not your creditors suddenly arise and those who disturb you awaken? Then you will become their prey.
 
-<sup>10</sup> You have plotted shame for your house by cutting off many peoples and forfeiting your life. 
+<sup>8</sup> Because you have plundered many nations, the remnant of the people will plunder you— because of your bloodshed against man and your violence against the land, the city, and all their dwellers.
 
-<sup>11</sup> For the stones will cry out from the wall, and the rafters will echo it from the woodwork. 
+<sup>9</sup> Woe to him who builds his house by unjust gain, to place his nest on high and escape the hand of disaster!
 
-<sup>12</sup> Woe to him who builds a city with bloodshed and establishes a town by iniquity! 
+<sup>10</sup> You have plotted shame for your house by cutting off many peoples and forfeiting your life.[^3447]
 
-<sup>13</sup> Is it not indeed from the LORD of Hosts that the labor of the people only feeds the fire, and the nations weary themselves in vain? 
+<sup>11</sup> For the stones will cry out from the wall, and the rafters will echo it from the woodwork.
 
-<sup>14</sup> For the earth will be filled with the knowledge of the glory of the LORD as the waters cover the sea. 
+<sup>12</sup> Woe to him who builds a city with bloodshed and establishes a town by iniquity!
 
-<sup>15</sup> Woe to him who gives drink to his neighbors, pouring it from the wineskin until they are drunk, in order to gaze at their nakedness! 
+<sup>13</sup> Is it not indeed from the LORD of Hosts that the labor of the people only feeds the fire, and the nations weary themselves in vain?
 
-<sup>16</sup> You will be filled with shame instead of glory. You too must drink and expose your uncircumcision! The cup in the LORD’s right hand will come around to you, and utter disgrace will cover your glory. 
+<sup>14</sup> For the earth will be filled with the knowledge of the glory of the LORD as the waters cover the sea.
 
-<sup>17</sup> For your violence against Lebanon will overwhelm you, and the destruction of animals will terrify you, because of your bloodshed against men and your violence against the land, the city, and all their dwellers. 
+<sup>15</sup> Woe to him who gives drink to his neighbors, pouring it from the wineskin until they are drunk, in order to gaze at their nakedness!
 
-<sup>18</sup> What use is an idol, that a craftsman should carve it— or an image, a teacher of lies? For its maker trusts in his own creation; he makes idols that cannot speak. 
+<sup>16</sup> You will be filled with shame instead of glory. You too must drink and expose your uncircumcision![^3448] The cup in the LORD’s right hand will come around to you, and utter disgrace will cover your glory.
 
-<sup>19</sup> Woe to him who says to wood, ‘Awake!’ or to silent stone, ‘Arise!’ Can it give guidance? Behold, it is overlaid with gold and silver, yet there is no breath in it at all.” 
+<sup>17</sup> For your violence against Lebanon will overwhelm you, and the destruction of animals will terrify you, because of your bloodshed against men and your violence against the land, the city, and all their dwellers.
 
-<sup>20</sup> But the LORD is in His holy temple; let all the earth be silent before Him. 
+<sup>18</sup> What use is an idol, that a craftsman should carve it— or an image, a teacher of lies? For its maker trusts in his own creation; he makes idols that cannot speak.
 
+<sup>19</sup> Woe to him who says to wood, ‘Awake!’ or to silent stone, ‘Arise!’ Can it give guidance? Behold, it is overlaid with gold and silver, yet there is no breath in it at all.”
 
+<sup>20</sup> But the LORD is in His holy temple; let all the earth be silent before Him.
+
+[^3443]: 2:3 Or Though He lingers, wait for Him, since He will surely come and will not delay; see also LXX; cited in Hebrews 10:37.
+[^3444]: 2:4 LXX If he should draw back, My soul has no pleasure in him
+[^3445]: 2:4 Or faithfulness; cited in Romans 1:17, Galatians 3:11, and Hebrews 10:38
+[^3446]: 2:5 DSS; MT wine
+[^3447]: 2:10 Literally sinning against your soul
+[^3448]: 2:16 DSS, LXX, and Syriac and stagger

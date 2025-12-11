@@ -1,31 +1,27 @@
----
-weight: 3
----
-
 # Chapter 3
 
-<sup>1</sup> Then I said: “Hear now, O leaders of Jacob, you rulers of the house of Israel. Should you not know justice? 
+## Rulers and Prophets Condemned
 
-<sup>2</sup> You hate good and love evil. You tear the skin from my people and strip the flesh from their bones. 
+<sup>1</sup> Then I said: “Hear now, O leaders of Jacob, you rulers of the house of Israel. Should you not know justice?
 
-<sup>3</sup> You eat the flesh of my people after stripping off their skin and breaking their bones. You chop them up like flesh for the cooking pot, like meat in a cauldron.” 
+<sup>2</sup> You hate good and love evil. You tear the skin from my people and strip the flesh from their bones.
 
-<sup>4</sup> Then they will cry out to the LORD, but He will not answer them. At that time He will hide His face from them because of the evil they have done. 
+<sup>3</sup> You eat the flesh of my people after stripping off their skin and breaking their bones. You chop them up like flesh for the cooking pot, like meat in a cauldron.”
 
-<sup>5</sup> This is what the LORD says: “As for the prophets who lead My people astray, who proclaim peace while they chew with their teeth, but declare war against one who puts nothing in their mouths: 
+<sup>4</sup> Then they will cry out to the LORD, but He will not answer them. At that time He will hide His face from them because of the evil they have done.
 
-<sup>6</sup> Therefore night will come over you without visions, and darkness without divination. The sun will set on these prophets, and the daylight will turn black over them. 
+<sup>5</sup> This is what the LORD says: “As for the prophets who lead My people astray, who proclaim peace while they chew with their teeth, but declare war against one who puts nothing in their mouths:
 
-<sup>7</sup> Then the seers will be ashamed and the diviners will be disgraced. They will all cover their mouths because there is no answer from God.” 
+<sup>6</sup> Therefore night will come over you without visions, and darkness without divination. The sun will set on these prophets, and the daylight will turn black over them.
 
-<sup>8</sup> As for me, however, I am filled with power by the Spirit of the LORD, with justice and courage, to declare to Jacob his transgression and to Israel his sin. 
+<sup>7</sup> Then the seers will be ashamed and the diviners will be disgraced. They will all cover their mouths because there is no answer from God.”
 
-<sup>9</sup> Now hear this, O leaders of the house of Jacob and rulers of the house of Israel, who despise justice and pervert all that is right, 
+<sup>8</sup> As for me, however, I am filled with power by the Spirit of the LORD, with justice and courage, to declare to Jacob his transgression and to Israel his sin.
 
-<sup>10</sup> who build Zion with bloodshed and Jerusalem with iniquity. 
+<sup>9</sup> Now hear this, O leaders of the house of Jacob and rulers of the house of Israel, who despise justice and pervert all that is right,
 
-<sup>11</sup> Her leaders judge for a bribe, her priests teach for a price, and her prophets practice divination for money. Yet they lean upon the LORD, saying, “Is not the LORD among us? No disaster can come upon us.” 
+<sup>10</sup> who build Zion with bloodshed and Jerusalem with iniquity.
 
-<sup>12</sup> Therefore, because of you, Zion will be plowed like a field, Jerusalem will become a heap of rubble, and the temple mount a wooded ridge. 
+<sup>11</sup> Her leaders judge for a bribe, her priests teach for a price, and her prophets practice divination for money. Yet they lean upon the LORD, saying, “Is not the LORD among us? No disaster can come upon us.”
 
-
+<sup>12</sup> Therefore, because of you, Zion will be plowed like a field, Jerusalem will become a heap of rubble, and the temple mount a wooded ridge.

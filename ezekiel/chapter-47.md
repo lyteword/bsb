@@ -1,53 +1,60 @@
----
-weight: 47
----
-
 # Chapter 47
 
-<sup>1</sup> Then the man brought me back to the entrance of the temple, and I saw water flowing from under the threshold of the temple toward the east (for the temple faced east). The water was coming down from under the south side of the temple, south of the altar. 
+## Waters from under the Temple
 
-<sup>2</sup> Next he brought me out through the north gate and led me around the outside to the outer gate facing east, and there I saw the water trickling out from the south side. 
+<sup>1</sup> Then the man brought me back to the entrance of the temple, and I saw water flowing from under the threshold of the temple toward the east (for the temple faced east). The water was coming down from under the south side of the temple, south of the altar.
 
-<sup>3</sup> As the man went eastward with a measuring line in his hand, he measured off a thousand cubits and led me through ankle-deep water. 
+<sup>2</sup> Next he brought me out through the north gate and led me around the outside to the outer gate facing east, and there I saw the water trickling out from the south side.
 
-<sup>4</sup> Then he measured off a thousand cubits and led me through knee-deep water. Again he measured a thousand cubits and led me through waist-deep water. 
+<sup>3</sup> As the man went eastward with a measuring line in his hand, he measured off a thousand cubits [^3189] and led me through ankle-deep water.
 
-<sup>5</sup> Once again he measured off a thousand cubits, but now it was a river that I could not cross, because the water had risen and was deep enough for swimming—a river that could not be crossed on foot. 
+<sup>4</sup> Then he measured off a thousand cubits and led me through knee-deep water. Again he measured a thousand cubits and led me through waist-deep water.
 
-<sup>6</sup> “Son of man, do you see this?” he asked. Then he led me back to the bank of the river. 
+<sup>5</sup> Once again he measured off a thousand cubits, but now it was a river that I could not cross, because the water had risen and was deep enough for swimming—a river that could not be crossed on foot.
 
-<sup>7</sup> When I arrived, I saw a great number of trees along both banks of the river. 
+<sup>6</sup> “Son of man, do you see this?” he asked. Then he led me back to the bank of the river.
 
-<sup>8</sup> And he said to me, “This water flows out to the eastern region and goes down into the Arabah. When it empties into the Sea, the water there becomes fresh. 
+<sup>7</sup> When I arrived, I saw a great number of trees along both banks of the river.
 
-<sup>9</sup> Wherever the river flows, there will be swarms of living creatures and a great number of fish, because it flows there and makes the waters fresh; so wherever the river flows, everything will flourish. 
+<sup>8</sup> And he said to me, “This water flows out to the eastern region and goes down into the Arabah. When it empties into the Dead Sea,[^3190] the water there becomes fresh.[^3191]
 
-<sup>10</sup> Fishermen will stand by the shore; from En-gedi to En-eglaim they will spread their nets to catch fish of many kinds, like the fish of the Great Sea. 
+<sup>9</sup> Wherever the river flows, there will be swarms of living creatures and a great number of fish, because it flows there and makes the waters fresh; so wherever the river flows, everything will flourish.
 
-<sup>11</sup> But the swamps and marshes will not become fresh; they will be left for salt. 
+<sup>10</sup> Fishermen will stand by the shore; from En-gedi to En-eglaim they will spread their nets to catch fish of many kinds, like the fish of the Great Sea.[^3192]
 
-<sup>12</sup> Along both banks of the river, fruit trees of all kinds will grow. Their leaves will not wither, and their fruit will not fail. Each month they will bear fruit, because the water from the sanctuary flows to them. Their fruit will be used for food and their leaves for healing.” 
+<sup>11</sup> But the swamps and marshes will not become fresh; they will be left for salt.
 
-<sup>13</sup> This is what the Lord GOD says: “These are the boundaries by which you are to divide the land as an inheritance among the twelve tribes of Israel; Joseph shall receive two portions. 
+<sup>12</sup> Along both banks of the river, fruit trees of all kinds will grow. Their leaves will not wither, and their fruit will not fail. Each month they will bear fruit, because the water from the sanctuary flows to them. Their fruit will be used for food and their leaves for healing.”
 
-<sup>14</sup> You are to divide it equally among them. Because I swore with an uplifted hand to give it to your forefathers, this land will fall to you as an inheritance. 
+## The Borders of the Land
 
-<sup>15</sup> This shall be the boundary of the land: On the north side it will extend from the Great Sea by way of Hethlon through Lebo-hamath to Zedad, 
+<sup>13</sup> This is what the Lord GOD says: “These are the boundaries by which you are to divide the land as an inheritance among the twelve tribes of Israel; Joseph shall receive two portions.[^3193]
 
-<sup>16</sup> Berothah, and Sibraim (which is on the border between Damascus and Hamath), as far as Hazer-hatticon, which is on the border of Hauran. 
+<sup>14</sup> You are to divide it equally among them. Because I swore with an uplifted hand to give it to your forefathers, this land will fall to you as an inheritance.
 
-<sup>17</sup> So the border will run from the Sea to Hazar-enan, along the northern border of Damascus, with the territory of Hamath to the north. This will be the northern boundary. 
+<sup>15</sup> This shall be the boundary of the land: On the north side it will extend from the Great Sea by way of Hethlon through Lebo-hamath to Zedad,
 
-<sup>18</sup> On the east side the border will run between Hauran and Damascus, along the Jordan between Gilead and the land of Israel, to the Eastern Sea and as far as Tamar. This will be the eastern boundary. 
+<sup>16</sup> Berothah, and Sibraim [^3194] (which is on the border between Damascus and Hamath), as far as Hazer-hatticon, which is on the border of Hauran.
 
-<sup>19</sup> On the south side it will run from Tamar to the waters of Meribath-kadesh, and along the Brook of Egypt to the Great Sea. This will be the southern boundary. 
+<sup>17</sup> So the border will run from the Sea to Hazar-enan, along the northern border of Damascus, with the territory of Hamath to the north. This will be the northern boundary.
 
-<sup>20</sup> And on the west side, the Great Sea will be the boundary up to a point opposite Lebo-hamath. This will be the western boundary. 
+<sup>18</sup> On the east side the border will run between Hauran and Damascus, along the Jordan between Gilead and the land of Israel, to the Eastern Sea and as far as Tamar.[^3195] This will be the eastern boundary.
 
-<sup>21</sup> You are to divide this land among yourselves according to the tribes of Israel. 
+<sup>19</sup> On the south side it will run from Tamar to the waters of Meribath-kadesh, and along the Brook of Egypt [^3196] to the Great Sea. This will be the southern boundary.
 
-<sup>22</sup> You shall allot it as an inheritance for yourselves and for the foreigners who dwell among you and who have children. You are to treat them as native-born Israelites; along with you, they shall be allotted an inheritance among the tribes of Israel. 
+<sup>20</sup> And on the west side, the Great Sea will be the boundary up to a point opposite Lebo-hamath. This will be the western boundary.
 
-<sup>23</sup> In whatever tribe a foreigner dwells, you are to assign his inheritance there,” declares the Lord GOD. 
+<sup>21</sup> You are to divide this land among yourselves according to the tribes of Israel.
 
+<sup>22</sup> You shall allot it as an inheritance for yourselves and for the foreigners who dwell among you and who have children. You are to treat them as native-born Israelites; along with you, they shall be allotted an inheritance among the tribes of Israel.
 
+<sup>23</sup> In whatever tribe a foreigner dwells, you are to assign his inheritance there,” declares the Lord GOD.
+
+[^3189]: 47:3 1,000 (long) cubits is approximately 1,750 feet or 533.4 meters.
+[^3190]: 47:8 That is, the Dead Sea
+[^3191]: 47:8 Hebrew is healed; similarly in verses 9 and 11
+[^3192]: 47:10 That is, the Mediterranean Sea; also in verses 15, 19, and 20
+[^3193]: 47:13 Since Levi had no portion, Joseph’s sons Ephraim and Manasseh received land as two tribes.
+[^3194]: 47:16 LXX; MT 15...through Lebo to Zedad, 16 Hamath, Berothah, and Sibraim
+[^3195]: 47:18 See Syriac; that is, of Israel, to the Dead Sea and as far as Tamar; Hebrew of Israel. And along the Eastern Sea you are to measure.
+[^3196]: 47:19 Hebrew does not include of Egypt.

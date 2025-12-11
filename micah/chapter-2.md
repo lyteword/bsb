@@ -1,33 +1,39 @@
----
-weight: 2
----
-
 # Chapter 2
 
-<sup>1</sup> Woe to those who devise iniquity and plot evil on their beds! At morning’s light they accomplish it because the power is in their hands. 
+## Woe to Oppressors
 
-<sup>2</sup> They covet fields and seize them; they take away houses. They deprive a man of his home, a fellow man of his inheritance. 
+<sup>1</sup> Woe to those who devise iniquity and plot evil on their beds! At morning’s light they accomplish it because the power is in their hands.
 
-<sup>3</sup> Therefore this is what the LORD says: “I am planning against this nation a disaster from which you cannot free your necks. Then you will not walk so proudly, for it will be a time of calamity. 
+<sup>2</sup> They covet fields and seize them; they take away houses. They deprive a man of his home, a fellow man of his inheritance.
 
-<sup>4</sup> In that day they will take up a proverb against you and taunt you with this bitter lamentation: ‘We are utterly ruined! He has changed the portion of my people. How He has removed it from me! He has allotted our fields to traitors.’” 
+<sup>3</sup> Therefore this is what the LORD says: “I am planning against this nation a disaster from which you cannot free your necks. Then you will not walk so proudly, for it will be a time of calamity.
 
-<sup>5</sup> Therefore, you will have no one in the assembly of the LORD to divide the land by lot. 
+<sup>4</sup> In that day they will take up a proverb against you and taunt you with this bitter lamentation: ‘We are utterly ruined! He has changed the portion of my people. How He has removed it from me! He has allotted our fields to traitors.’”
 
-<sup>6</sup> “Do not preach,” they preach. “Do not preach these things; disgrace will not overtake us.” 
+<sup>5</sup> Therefore, you will have no one in the assembly of the LORD to divide the land by lot.
 
-<sup>7</sup> Should it be said, O house of Jacob, “Is the Spirit of the LORD impatient? Are these the things He does?” Do not My words bring good to him who walks uprightly? 
+## Reproof of False Prophets
 
-<sup>8</sup> But of late My people have risen up like an enemy: You strip off the splendid robe from unsuspecting passersby like men returning from battle. 
+**(Ezekiel 13:1–16)**
 
-<sup>9</sup> You drive the women of My people from their pleasant homes. You take away My blessing from their children forever. 
+<sup>6</sup> “Do not preach,” they preach. “Do not preach these things; disgrace will not overtake us.”
 
-<sup>10</sup> Arise and depart, for this is not your place of rest, because its defilement brings destruction— a grievous destruction! 
+<sup>7</sup> Should it be said, O house of Jacob, “Is the Spirit of the LORD impatient? Are these the things He does?” Do not My words bring good to him who walks uprightly?
 
-<sup>11</sup> If a man of wind were to come and say falsely, “I will preach to you of wine and strong drink,” he would be just the preacher for this people! 
+<sup>8</sup> But of late My people have risen up like an enemy: You strip off the splendid robe from unsuspecting passersby like men returning from battle.
 
-<sup>12</sup> I will surely gather all of you, O Jacob; I will collect the remnant of Israel. I will bring them together like sheep in a pen, like a flock in the midst of its pasture— a noisy throng. 
+<sup>9</sup> You drive the women of My people from their pleasant homes. You take away My blessing from their children forever.
 
-<sup>13</sup> One who breaks open the way will go up before them; they will break through the gate, and go out by it. Their King will pass through before them, the LORD as their leader. 
+<sup>10</sup> Arise and depart, for this is not your place of rest, because its defilement brings destruction— a grievous destruction!
 
+<sup>11</sup> If a man of wind were to come and say falsely, “I will preach to you of wine and strong drink,”[^3418] he would be just the preacher for this people!
 
+## The Remnant of Israel
+
+**(Micah 5:7–15)**
+
+<sup>12</sup> I will surely gather all of you, O Jacob; I will collect the remnant of Israel. I will bring them together like sheep in a pen, like a flock in the midst of its pasture— a noisy throng.
+
+<sup>13</sup> One who breaks open the way will go up before them; they will break through the gate, and go out by it. Their King will pass through before them, the LORD as their leader.
+
+[^3418]: 2:11 Or “I will prophesy to you for wine and strong drink”
