@@ -1,53 +1,56 @@
----
-weight: 11
----
-
 # Chapter 11
 
-<sup>1</sup> Now when Jabin king of Hazor heard about these things, he sent word to Jobab king of Madon; to the kings of Shimron and Achshaph; 
+## Conquest of the Northern Cities
 
-<sup>2</sup> to the kings of the north in the mountains, in the Arabah south of Chinnereth, in the foothills, and in Naphoth-dor to the west; 
+<sup>1</sup> Now when Jabin king of Hazor heard about these things, he sent word to Jobab king of Madon; to the kings of Shimron and Achshaph;
 
-<sup>3</sup> to the Canaanites in the east and west; to the Amorites, Hittites, Perizzites, and Jebusites in the hill country; and to the Hivites at the foot of Hermon in the land of Mizpah. 
+<sup>2</sup> to the kings of the north in the mountains, in the Arabah south of Chinnereth, in the foothills,[^826] and in Naphoth-dor [^827] to the west;
 
-<sup>4</sup> So these kings came out with all their armies, a multitude as numerous as the sand on the seashore, along with a great number of horses and chariots. 
+<sup>3</sup> to the Canaanites in the east and west; to the Amorites, Hittites, Perizzites, and Jebusites in the hill country; and to the Hivites at the foot of Hermon in the land of Mizpah.
 
-<sup>5</sup> All these kings joined forces and encamped at the waters of Merom to fight against Israel. 
+<sup>4</sup> So these kings came out with all their armies, a multitude as numerous as the sand on the seashore, along with a great number of horses and chariots.
 
-<sup>6</sup> Then the LORD said to Joshua, “Do not be afraid of them, for by this time tomorrow I will deliver all of them slain before Israel. You are to hamstring their horses and burn up their chariots.” 
+<sup>5</sup> All these kings joined forces and encamped at the waters of Merom to fight against Israel.
 
-<sup>7</sup> So by the waters of Merom, Joshua and his whole army came upon them suddenly and attacked them, 
+<sup>6</sup> Then the LORD said to Joshua, “Do not be afraid of them, for by this time tomorrow I will deliver all of them slain before Israel. You are to hamstring their horses and burn up their chariots.”
 
-<sup>8</sup> and the LORD delivered them into the hand of Israel, who struck them down and pursued them all the way to Greater Sidon and Misrephoth-maim, and eastward as far as the Valley of Mizpeh. They struck them down, leaving no survivors. 
+<sup>7</sup> So by the waters of Merom, Joshua and his whole army came upon them suddenly and attacked them,
 
-<sup>9</sup> Joshua treated them as the LORD had told him; he hamstrung their horses and burned up their chariots. 
+<sup>8</sup> and the LORD delivered them into the hand of Israel, who struck them down and pursued them all the way to Greater Sidon and Misrephoth-maim, and eastward as far as the Valley of Mizpeh. They struck them down, leaving no survivors.
 
-<sup>10</sup> At that time Joshua turned back and captured Hazor and put its king to the sword, because Hazor was formerly the head of all these kingdoms. 
+<sup>9</sup> Joshua treated them as the LORD had told him; he hamstrung their horses and burned up their chariots.
 
-<sup>11</sup> The Israelites put everyone in Hazor to the sword, devoting them to destruction. Nothing that breathed remained, and Joshua burned down Hazor itself. 
+<sup>10</sup> At that time Joshua turned back and captured Hazor and put its king to the sword, because Hazor was formerly the head of all these kingdoms.
 
-<sup>12</sup> Joshua captured all these kings and their cities and put them to the sword. He devoted them to destruction, as Moses the LORD’s servant had commanded. 
+<sup>11</sup> The Israelites put everyone in Hazor to the sword, devoting them to destruction.[^828] Nothing that breathed remained, and Joshua burned down Hazor itself.
 
-<sup>13</sup> Yet Israel did not burn any of the cities built on their mounds, except Hazor, which Joshua burned. 
+<sup>12</sup> Joshua captured all these kings and their cities and put them to the sword. He devoted them to destruction, as Moses the LORD’s servant had commanded.
 
-<sup>14</sup> The Israelites took for themselves all the plunder and livestock of these cities, but they put all the people to the sword until they had completely destroyed them, not sparing anyone who breathed. 
+<sup>13</sup> Yet Israel did not burn any of the cities built on their mounds, except Hazor, which Joshua burned.
 
-<sup>15</sup> As the LORD had commanded His servant Moses, so Moses commanded Joshua. That is what Joshua did, leaving nothing undone of all that the LORD had commanded Moses. 
+<sup>14</sup> The Israelites took for themselves all the plunder and livestock of these cities, but they put all the people to the sword until they had completely destroyed them, not sparing anyone who breathed.
 
-<sup>16</sup> So Joshua took this entire region: the hill country, all the Negev, all the land of Goshen, the western foothills, the Arabah, and the mountains of Israel and their foothills, 
+<sup>15</sup> As the LORD had commanded His servant Moses, so Moses commanded Joshua. That is what Joshua did, leaving nothing undone of all that the LORD had commanded Moses.
 
-<sup>17</sup> from Mount Halak, which rises toward Seir, as far as Baal-gad in the Valley of Lebanon at the foot of Mount Hermon. He captured all their kings and struck them down, putting them to death. 
+## Joshua Takes the Whole Land
 
-<sup>18</sup> Joshua waged war against all these kings for a long period of time. 
+<sup>16</sup> So Joshua took this entire region: the hill country, all the Negev, all the land of Goshen, the western foothills, the Arabah, and the mountains of Israel and their foothills,
 
-<sup>19</sup> No city made peace with the Israelites except the Hivites living in Gibeon; all others were taken in battle. 
+<sup>17</sup> from Mount Halak, which rises toward Seir, as far as Baal-gad in the Valley of Lebanon at the foot of Mount Hermon. He captured all their kings and struck them down, putting them to death.
 
-<sup>20</sup> For it was of the LORD to harden their hearts to engage Israel in battle, so that they would be set apart for destruction and would receive no mercy, being annihilated as the LORD had commanded Moses. 
+<sup>18</sup> Joshua waged war against all these kings for a long period of time.
 
-<sup>21</sup> At that time Joshua proceeded to eliminate the Anakim from the hill country of Hebron, Debir, and Anab, and from all the hill country of Judah and of Israel. Joshua devoted them to destruction, along with their cities. 
+<sup>19</sup> No city made peace with the Israelites except the Hivites living in Gibeon; all others were taken in battle.
 
-<sup>22</sup> No Anakim were left in the land of the Israelites; only in Gaza, Gath, and Ashdod did any survive. 
+<sup>20</sup> For it was of the LORD to harden [^829] their hearts to engage Israel in battle, so that they would be set apart for destruction and would receive no mercy, being annihilated as the LORD had commanded Moses.
 
-<sup>23</sup> So Joshua took the entire land, in keeping with all that the LORD had spoken to Moses. And Joshua gave it as an inheritance to Israel according to the allotments to their tribes. Then the land had rest from war. 
+<sup>21</sup> At that time Joshua proceeded to eliminate the Anakim from the hill country of Hebron, Debir, and Anab, and from all the hill country of Judah and of Israel. Joshua devoted them to destruction, along with their cities.
 
+<sup>22</sup> No Anakim were left in the land of the Israelites; only in Gaza, Gath, and Ashdod did any survive.
 
+<sup>23</sup> So Joshua took the entire land, in keeping with all that the LORD had spoken to Moses. And Joshua gave it as an inheritance to Israel according to the allotments to their tribes. Then the land had rest from war.
+
+[^826]: 11:2 Hebrew Shephelah or lowlands; that is, the western foothills of Judea; also in verse 16
+[^827]: 11:2 Or in the heights of Dor; Naphoth-dor is a variant of Naphath-dor; see Joshua 12:23.
+[^828]: 11:11 Forms of the Hebrew cherem refer to the giving over of things or persons to the LORD, either by destroying them or by giving them as an offering; also in verses 12, 20, and 21.
+[^829]: 11:20 Or stiffen or strengthen
