@@ -1,41 +1,45 @@
----
-weight: 45
----
-
 # Psalm 45
 
-<sup>1</sup> For the choirmaster. To the tune of “The Lilies.” A Maskil of the sons of Korah. A love song. My heart is stirred by a noble theme as I recite my verses to the king; my tongue is the pen of a skillful writer. 
+## My Heart Is Stirred by a Noble Theme
 
-<sup>2</sup> You are the most handsome of men; grace has anointed your lips, since God has blessed you forever. 
+**(1 Kings 3:1–15; 2 Chronicles 1:1–13; Psalms 72:1–20)**
 
-<sup>3</sup> Strap your sword at your side, O mighty warrior; appear in your majesty and splendor. 
+For the choirmaster. To the tune of “The Lilies.” A Maskil [^2240] of the sons of Korah. A love song.
 
-<sup>4</sup> In your splendor ride forth in victory on behalf of truth and humility and justice; may your right hand show your awesome deeds. 
+<sup>1</sup> My heart is stirred by a noble theme as I recite my verses to the king;[^2241] my tongue is the pen of a skillful writer.
 
-<sup>5</sup> Your arrows pierce the hearts of the king’s foes; the nations fall beneath your feet. 
+<sup>2</sup> You are the most handsome of men; grace has anointed your lips; therefore God has blessed you forever.
 
-<sup>6</sup> Your throne, O God, endures forever and ever, and justice is the scepter of Your kingdom. 
+<sup>3</sup> Strap your sword at your side, O mighty warrior; appear in your majesty and splendor.
 
-<sup>7</sup> You have loved righteousness and hated wickedness; therefore God, your God, has anointed you above your companions with the oil of joy. 
+<sup>4</sup> In your splendor ride forth in victory on behalf of truth and humility and justice; may your right hand show your awesome deeds.
 
-<sup>8</sup> All your garments are fragrant with myrrh and aloes and cassia; from palaces of ivory the harps make you glad. 
+<sup>5</sup> Your arrows pierce the hearts of the king’s foes; the nations fall beneath your feet.
 
-<sup>9</sup> The daughters of kings are among your honored women; the queen stands at your right hand, adorned with the gold of Ophir. 
+<sup>6</sup> Your throne, O God, endures forever and ever, and justice is the scepter of Your kingdom.
 
-<sup>10</sup> Listen, O daughter! Consider and incline your ear: Forget your people and your father’s house, 
+<sup>7</sup> You have loved righteousness and hated wickedness; therefore God, your God, has anointed you above your companions with the oil of joy.[^2242]
 
-<sup>11</sup> and the king will desire your beauty; bow to him, for he is your lord. 
+<sup>8</sup> All your garments are fragrant with myrrh and aloes and cassia; from palaces of ivory the harps make you glad.
 
-<sup>12</sup> The Daughter of Tyre will come with a gift; men of wealth will seek your favor. 
+<sup>9</sup> The daughters of kings are among your honored women; the queen stands at your right hand, adorned with the gold of Ophir.
 
-<sup>13</sup> All glorious is the princess in her chamber; her gown is embroidered with gold. 
+<sup>10</sup> Listen, O daughter! Consider and incline your ear: Forget your people and your father’s house,
 
-<sup>14</sup> In colorful garments she is led to the king; her virgin companions are brought before you. 
+<sup>11</sup> and the king will desire your beauty; bow to him, for he is your lord.
 
-<sup>15</sup> They are led in with joy and gladness; they enter the palace of the king. 
+<sup>12</sup> The Daughter of Tyre will come with a gift; men of wealth will seek your favor.
 
-<sup>16</sup> Your sons will succeed your fathers; you will make them princes throughout the land. 
+<sup>13</sup> All glorious is the princess in her chamber; her gown is embroidered with gold.
 
-<sup>17</sup> I will commemorate your name through all generations; therefore the nations will praise you forever and ever. 
+<sup>14</sup> In colorful garments she is led to the king; her virgin companions are brought before you.
 
+<sup>15</sup> They are led in with joy and gladness; they enter the palace of the king.
 
+<sup>16</sup> Your sons will succeed your fathers; you will make them princes throughout the land.
+
+<sup>17</sup> I will commemorate your name through all generations; therefore the nations will praise you forever and ever.
+
+[^2240]: 45:0 Maskil is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.
+[^2241]: 45:1 Or King; here and throughout Psalm 45
+[^2242]: 45:7 Cited in Hebrews 1:8–9

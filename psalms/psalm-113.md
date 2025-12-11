@@ -1,25 +1,25 @@
----
-weight: 113
----
-
 # Psalm 113
 
-<sup>1</sup> Hallelujah! Give praise, O servants of the LORD; praise the name of the LORD. 
+## The LORD Exalts the Humble
 
-<sup>2</sup> Blessed be the name of the LORD both now and forevermore. 
+**(1 Samuel 1:1–8)**
 
-<sup>3</sup> From where the sun rises to where it sets, the name of the LORD is praised. 
+<sup>1</sup> Hallelujah![^2382] Give praise, O servants of the LORD; praise the name of the LORD.
 
-<sup>4</sup> The LORD is exalted over all the nations, His glory above the heavens. 
+<sup>2</sup> Blessed be the name of the LORD both now and forevermore.
 
-<sup>5</sup> Who is like the LORD our God, the One enthroned on high? 
+<sup>3</sup> From where the sun rises to where it sets, the name of the LORD is praised.
 
-<sup>6</sup> He humbles Himself to behold the heavens and the earth. 
+<sup>4</sup> The LORD is exalted over all the nations, His glory above the heavens.
 
-<sup>7</sup> He raises the poor from the dust and lifts the needy from the dump 
+<sup>5</sup> Who is like the LORD our God, the One enthroned on high?
 
-<sup>8</sup> to seat them with nobles, with the princes of His people. 
+<sup>6</sup> He humbles Himself to behold the heavens and the earth.
 
-<sup>9</sup> He settles the barren woman in her home as a joyful mother to her children. Hallelujah! 
+<sup>7</sup> He raises the poor from the dust and lifts the needy from the dump
 
+<sup>8</sup> to seat them with nobles, with the princes of His people.
 
+<sup>9</sup> He settles the barren woman in her home as a joyful mother to her children. Hallelujah!
+
+[^2382]: 113:1 Or Hallelu YAH, meaning Praise the LORD; also in verse 9

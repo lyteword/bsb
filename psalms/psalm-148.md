@@ -1,35 +1,36 @@
----
-weight: 148
----
-
 # Psalm 148
 
-<sup>1</sup> Hallelujah! Praise the LORD from the heavens; praise Him in the highest places. 
+## Praise the LORD from the Heavens
 
-<sup>2</sup> Praise Him, all His angels; praise Him, all His heavenly hosts. 
+**(Psalms 33:1–22)**
 
-<sup>3</sup> Praise Him, O sun and moon; praise Him, all you shining stars. 
+<sup>1</sup> Hallelujah![^2433] Praise the LORD from the heavens; praise Him in the highest places.[^2434]
 
-<sup>4</sup> Praise Him, O highest heavens, and you waters above the skies. 
+<sup>2</sup> Praise Him, all His angels; praise Him, all His heavenly hosts.
 
-<sup>5</sup> Let them praise the name of the LORD, for He gave the command and they were created. 
+<sup>3</sup> Praise Him, O sun and moon; praise Him, all you shining stars.
 
-<sup>6</sup> He established them forever and ever; He issued a decree that will never pass away. 
+<sup>4</sup> Praise Him, O highest heavens, and you waters above the skies.
 
-<sup>7</sup> Praise the LORD from the earth, all great sea creatures and ocean depths, 
+<sup>5</sup> Let them praise the name of the LORD, for He gave the command and they were created.
 
-<sup>8</sup> lightning and hail, snow and clouds, powerful wind fulfilling His word, 
+<sup>6</sup> He established them forever and ever; He issued a decree that will never pass away.
 
-<sup>9</sup> mountains and all hills, fruit trees and all cedars, 
+<sup>7</sup> Praise the LORD from the earth, all great sea creatures and ocean depths,
 
-<sup>10</sup> wild animals and all cattle, crawling creatures and flying birds, 
+<sup>8</sup> lightning and hail, snow and clouds, powerful wind fulfilling His word,
 
-<sup>11</sup> kings of the earth and all peoples, princes and all rulers of the earth, 
+<sup>9</sup> mountains and all hills, fruit trees and all cedars,
 
-<sup>12</sup> young men and maidens, old and young together. 
+<sup>10</sup> wild animals and all cattle, crawling creatures and flying birds,
 
-<sup>13</sup> Let them praise the name of the LORD, for His name alone is exalted; His splendor is above the earth and the heavens. 
+<sup>11</sup> kings of the earth and all peoples, princes and all rulers of the earth,
 
-<sup>14</sup> He has raised up a horn for His people, the praise of all His saints, of Israel, a people near to Him. Hallelujah! 
+<sup>12</sup> young men and maidens, old and young together.
 
+<sup>13</sup> Let them praise the name of the LORD, for His name alone is exalted; His splendor is above the earth and the heavens.
 
+<sup>14</sup> He has raised up a horn for His people, the praise of all His saints, of Israel, a people near to Him. Hallelujah!
+
+[^2433]: 148:1 Or Hallelu YAH, meaning Praise the LORD; also in verse 14
+[^2434]: 148:1 See Matthew 21:9, Mark 11:10, and Luke 19:38.
