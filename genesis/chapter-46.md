@@ -1,75 +1,96 @@
----
-weight: 46
----
-
 # Chapter 46
 
-<sup>1</sup> So Israel set out with all that he had, and when he came to Beersheba, he offered sacrifices to the God of his father Isaac. 
+## Jacob’s Journey to Egypt
 
-<sup>2</sup> And that night God spoke to Israel in a vision: “Jacob, Jacob!” He said. “Here I am,” replied Jacob. 
+<sup>1</sup> So Israel set out with all that he had, and when he came to Beersheba, he offered sacrifices to the God of his father Isaac.
 
-<sup>3</sup> “I am God,” He said, “the God of your father. Do not be afraid to go down to Egypt, for I will make you into a great nation there. 
+<sup>2</sup> And that night God spoke to Israel in a vision: “Jacob, Jacob!” He said. “Here I am,” replied Jacob.
 
-<sup>4</sup> I will go down with you to Egypt, and I will surely bring you back. And Joseph’s own hands will close your eyes.” 
+<sup>3</sup> “I am God,” He said, “the God of your father. Do not be afraid to go down to Egypt, for I will make you into a great nation there.
 
-<sup>5</sup> Then Jacob departed from Beersheba, and the sons of Israel took their father Jacob in the wagons Pharaoh had sent to carry him, along with their children and wives. 
+<sup>4</sup> I will go down with you to Egypt, and I will surely bring you back. And Joseph’s own hands will close your eyes.”
 
-<sup>6</sup> They also took the livestock and possessions they had acquired in the land of Canaan, and Jacob and all his offspring went to Egypt. 
+<sup>5</sup> Then Jacob departed from Beersheba, and the sons of Israel took their father Jacob in the wagons Pharaoh had sent to carry him, along with their children and wives.
 
-<sup>7</sup> Jacob took with him to Egypt his sons and grandsons, and his daughters and granddaughters—all his offspring. 
+<sup>6</sup> They also took the livestock and possessions they had acquired in the land of Canaan, and Jacob and all his offspring went to Egypt.
 
-<sup>8</sup> Now these are the names of the sons of Israel (Jacob and his descendants) who went to Egypt: Reuben, Jacob’s firstborn. 
+## Those Who Went to Egypt
 
-<sup>9</sup> The sons of Reuben: Hanoch, Pallu, Hezron, and Carmi. 
+**(Exodus 1:1–7)**
 
-<sup>10</sup> The sons of Simeon: Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul the son of a Canaanite woman. 
+<sup>7</sup> Jacob took with him to Egypt his sons and grandsons, and his daughters and granddaughters—all his offspring.
 
-<sup>11</sup> The sons of Levi: Gershon, Kohath, and Merari. 
+## The Children of Leah
 
-<sup>12</sup> The sons of Judah: Er, Onan, Shelah, Perez, and Zerah; but Er and Onan died in the land of Canaan. The sons of Perez: Hezron and Hamul. 
+<sup>8</sup> Now these are the names of the sons of Israel (Jacob and his descendants) who went to Egypt: Reuben, Jacob’s firstborn.
 
-<sup>13</sup> The sons of Issachar: Tola, Puvah, Job, and Shimron. 
+<sup>9</sup> The sons of Reuben: Hanoch, Pallu, Hezron, and Carmi.
 
-<sup>14</sup> The sons of Zebulun: Sered, Elon, and Jahleel. 
+<sup>10</sup> The sons of Simeon: Jemuel,[^200] Jamin, Ohad, Jachin, Zohar,[^201] and Shaul the son of a Canaanite woman.
 
-<sup>15</sup> These are the sons of Leah born to Jacob in Paddan-aram, in addition to his daughter Dinah. The total number of sons and daughters was thirty-three. 
+<sup>11</sup> The sons of Levi: Gershon, Kohath, and Merari.
 
-<sup>16</sup> The sons of Gad: Ziphion, Haggi, Shuni, Ezbon, Eri, Arodi, and Areli. 
+<sup>12</sup> The sons of Judah: Er, Onan, Shelah, Perez, and Zerah; but Er and Onan died in the land of Canaan. The sons of Perez: Hezron and Hamul.
 
-<sup>17</sup> The children of Asher: Imnah, Ishvah, Ishvi, Beriah, and their sister Serah. The sons of Beriah: Heber and Malchiel. 
+<sup>13</sup> The sons of Issachar: Tola, Puvah,[^202] Job,[^203] and Shimron.
 
-<sup>18</sup> These are the sons of Jacob born to Zilpah—whom Laban gave to his daughter Leah—sixteen in all. 
+<sup>14</sup> The sons of Zebulun: Sered, Elon, and Jahleel.
 
-<sup>19</sup> The sons of Jacob’s wife Rachel: Joseph and Benjamin. 
+<sup>15</sup> These are the sons of Leah born to Jacob in Paddan-aram,[^204] in addition to his daughter Dinah. The total number of sons and daughters was thirty-three.
 
-<sup>20</sup> Manasseh and Ephraim were born to Joseph in the land of Egypt by Asenath daughter of Potiphera, priest of On. 
+## The Children of Zilpah
 
-<sup>21</sup> The sons of Benjamin: Bela, Becher, Ashbel, Gera, Naaman, Ehi, Rosh, Muppim, Huppim, and Ard. 
+<sup>16</sup> The sons of Gad: Ziphion,[^205] Haggi, Shuni, Ezbon, Eri, Arodi,[^206] and Areli.
 
-<sup>22</sup> These are the sons of Rachel born to Jacob—fourteen in all. 
+<sup>17</sup> The children of Asher: Imnah, Ishvah, Ishvi, Beriah, and their sister Serah. The sons of Beriah: Heber and Malchiel.
 
-<sup>23</sup> The son of Dan: Hushim. 
+<sup>18</sup> These are the sons of Jacob born to Zilpah—whom Laban gave to his daughter Leah—sixteen in all.
 
-<sup>24</sup> The sons of Naphtali: Jahzeel, Guni, Jezer, and Shillem. 
+## The Children of Rachel
 
-<sup>25</sup> These are the sons of Jacob born to Bilhah, whom Laban gave to his daughter Rachel—seven in all. 
+<sup>19</sup> The sons of Jacob’s wife Rachel: Joseph and Benjamin.
 
-<sup>26</sup> All those belonging to Jacob who came to Egypt—his direct descendants, besides the wives of Jacob’s sons—numbered sixty-six persons. 
+<sup>20</sup> Manasseh and Ephraim were born to Joseph in the land of Egypt by Asenath daughter of Potiphera, priest of On.[^207]
 
-<sup>27</sup> And with the two sons who had been born to Joseph in Egypt, the members of Jacob’s family who went to Egypt were seventy in all. 
+<sup>21</sup> The sons of Benjamin: Bela, Becher, Ashbel, Gera, Naaman, Ehi, Rosh, Muppim, Huppim, and Ard.
 
-<sup>28</sup> Now Jacob had sent Judah ahead of him to Joseph to get directions to Goshen. When Jacob’s family arrived in the land of Goshen, 
+<sup>22</sup> These are the sons of Rachel born to Jacob—fourteen in all.
 
-<sup>29</sup> Joseph prepared his chariot and went there to meet his father Israel. Joseph presented himself to him, embraced him, and wept profusely. 
+## The Children of Bilhah
 
-<sup>30</sup> Then Israel said to Joseph, “Finally I can die, now that I have seen your face and know that you are still alive!” 
+<sup>23</sup> The son of Dan: Hushim.
 
-<sup>31</sup> Joseph said to his brothers and to his father’s household, “I will go up and inform Pharaoh: ‘My brothers and my father’s household from the land of Canaan have come to me. 
+<sup>24</sup> The sons of Naphtali: Jahzeel, Guni, Jezer, and Shillem.
 
-<sup>32</sup> The men are shepherds; they raise livestock, and they have brought their flocks and herds and all that they own.’ 
+<sup>25</sup> These are the sons of Jacob born to Bilhah, whom Laban gave to his daughter Rachel—seven in all.
 
-<sup>33</sup> When Pharaoh summons you and asks, ‘What is your occupation?’ 
+<sup>26</sup> All those belonging to Jacob who came to Egypt—his direct descendants, besides the wives of Jacob’s sons—numbered sixty-six persons.
 
-<sup>34</sup> you are to say, ‘Your servants have raised livestock ever since our youth—both we and our fathers.’ Then you will be allowed to settle in the land of Goshen, since all shepherds are detestable to the Egyptians.” 
+<sup>27</sup> And with the two sons [^208] who had been born to Joseph in Egypt, the members of Jacob’s family who went to Egypt were seventy [^209] in all.
 
+## Jacob Arrives in Egypt
 
+<sup>28</sup> Now Jacob had sent Judah ahead of him to Joseph to get directions to Goshen. When Jacob’s family arrived in the land of Goshen,
+
+<sup>29</sup> Joseph prepared his chariot and went there to meet his father Israel. Joseph presented himself to him, embraced him, and wept profusely.
+
+<sup>30</sup> Then Israel said to Joseph, “Finally I can die, now that I have seen your face and know that you are still alive!”
+
+<sup>31</sup> Joseph said to his brothers and to his father’s household, “I will go up and inform Pharaoh: ‘My brothers and my father’s household from the land of Canaan have come to me.
+
+<sup>32</sup> The men are shepherds; they raise livestock, and they have brought their flocks and herds and all that they own.’
+
+<sup>33</sup> When Pharaoh summons you and asks, ‘What is your occupation?’
+
+<sup>34</sup> you are to say, ‘Your servants have raised livestock ever since our youth—both we and our fathers.’ Then you will be allowed to settle in the land of Goshen, since all shepherds are detestable to the Egyptians.”
+
+[^200]: 46:10 Jemuel is another name for Nemuel; see Numbers 26:12.
+[^201]: 46:10 Zohar is a variant of Zerah; see Numbers 26:13 and 1 Chronicles 4:24.
+[^202]: 46:13 Hebrew; SP and Syriac Puah; see 1 Chronicles 7:1.
+[^203]: 46:13 Hebrew; SP and some LXX manuscripts Jashub; see Numbers 26:24 and 1 Chronicles 7:1.
+[^204]: 46:15 That is, northwest Mesopotamia
+[^205]: 46:16 SP and LXX Zephon; see also Numbers 26:15.
+[^206]: 46:16 Arodi is a variant of Arod; see Numbers 26:17.
+[^207]: 46:20 That is, Heliopolis, as in LXX
+[^208]: 46:27 Hebrew; LXX the nine sons, probably including Joseph’s grandsons through Ephraim and Manasseh; see 1 Chronicles 7:14–29.
+[^209]: 46:27 Hebrew (see also Exodus 1:5); LXX (see also Acts 7:14) seventy-five

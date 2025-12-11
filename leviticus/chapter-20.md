@@ -1,61 +1,70 @@
----
-weight: 20
----
-
 # Chapter 20
 
-<sup>1</sup> Then the LORD said to Moses, 
+## Punishments for Disobedience
 
-<sup>2</sup> “Tell the Israelites, ‘Any Israelite or foreigner living in Israel who gives any of his children to Molech must be put to death. The people of the land are to stone him. 
+**(Leviticus 26:14–39; Deuteronomy 28:15–68)**
 
-<sup>3</sup> And I will set My face against that man and cut him off from his people, because by giving his offspring to Molech, he has defiled My sanctuary and profaned My holy name. 
+<sup>1</sup> Then the LORD said to Moses,
 
-<sup>4</sup> And if the people of the land ever hide their eyes and fail to put to death the man who gives one of his children to Molech, 
+<sup>2</sup> “Tell the Israelites, ‘Any Israelite or foreigner living in Israel who gives any of his children to Molech must be put to death. The people of the land are to stone him.
 
-<sup>5</sup> then I will set My face against that man and his family and cut off from among their people both him and all who follow him in prostituting themselves with Molech. 
+<sup>3</sup> And I will set My face against that man and cut him off from his people, because by giving his offspring to Molech, he has defiled My sanctuary and profaned My holy name.
 
-<sup>6</sup> Whoever turns to mediums or spiritists to prostitute himself with them, I will also set My face against that person and cut him off from his people. 
+<sup>4</sup> And if the people of the land ever hide their eyes and fail to put to death the man who gives one of his children to Molech,
 
-<sup>7</sup> Consecrate yourselves, therefore, and be holy, because I am the LORD your God. 
+<sup>5</sup> then I will set My face against that man and his family and cut off from among their people both him and all who follow him in prostituting themselves with Molech.
 
-<sup>8</sup> And you shall keep My statutes and practice them. I am the LORD who sanctifies you. 
+<sup>6</sup> Whoever turns to mediums or spiritists to prostitute himself with them, I will also set My face against that person and cut him off from his people.
 
-<sup>9</sup> If anyone curses his father or mother, he must be put to death. He has cursed his father or mother; his blood shall be upon him. 
+<sup>7</sup> Consecrate yourselves, therefore, and be holy, because I am the LORD your God.
 
-<sup>10</sup> If a man commits adultery with another man’s wife—with the wife of his neighbor—both the adulterer and the adulteress must surely be put to death. 
+<sup>8</sup> And you shall keep My statutes and practice them. I am the LORD who sanctifies you.
 
-<sup>11</sup> If a man lies with his father’s wife, he has uncovered his father’s nakedness. Both must surely be put to death; their blood is upon them. 
+<sup>9</sup> If anyone curses [^497] his father or mother, he must be put to death.[^498] He has cursed his father or mother; his blood shall be upon him.
 
-<sup>12</sup> If a man lies with his daughter-in-law, both must surely be put to death. They have acted perversely; their blood is upon them. 
+## Punishments for Sexual Immorality
 
-<sup>13</sup> If a man lies with a man as with a woman, they have both committed an abomination. They must surely be put to death; their blood is upon them. 
+**(Proverbs 5:1–23; 1 Corinthians 5:1–8)**
 
-<sup>14</sup> If a man marries both a woman and her mother, it is depraved. Both he and they must be burned in the fire, so that there will be no depravity among you. 
+<sup>10</sup> If a man commits adultery with another man’s wife—with the wife of his neighbor—both the adulterer and the adulteress must surely be put to death.
 
-<sup>15</sup> If a man lies carnally with an animal, he must be put to death. And you are also to kill the animal. 
+<sup>11</sup> If a man lies with his father’s wife, he has uncovered his father’s nakedness. Both must surely be put to death; their blood is upon them.
 
-<sup>16</sup> If a woman approaches any animal to mate with it, you must kill both the woman and the animal. They must surely be put to death; their blood is upon them. 
+<sup>12</sup> If a man lies with his daughter-in-law, both must surely be put to death. They have acted perversely; their blood is upon them.
 
-<sup>17</sup> If a man marries his sister, whether the daughter of his father or of his mother, and they have sexual relations, it is a disgrace. They must be cut off in the sight of their people. He has uncovered the nakedness of his sister; he shall bear his iniquity. 
+<sup>13</sup> If a man lies with a man as with a woman, they have both committed an abomination. They must surely be put to death; their blood is upon them.
 
-<sup>18</sup> If a man lies with a menstruating woman and has sexual relations with her, he has exposed the source of her flow, and she has uncovered the source of her blood. Both of them must be cut off from among their people. 
+<sup>14</sup> If a man marries both a woman and her mother, it is depraved. Both he and they must be burned in the fire, so that there will be no depravity among you.
 
-<sup>19</sup> You must not have sexual relations with the sister of your mother or your father, for it is exposing one’s own kin; both shall bear their iniquity. 
+<sup>15</sup> If a man lies carnally with an animal, he must be put to death. And you are also to kill the animal.
 
-<sup>20</sup> If a man lies with his uncle’s wife, he has uncovered the nakedness of his uncle. They will bear their sin; they shall die childless. 
+<sup>16</sup> If a woman approaches any animal to mate with it, you must kill both the woman and the animal. They must surely be put to death; their blood is upon them.
 
-<sup>21</sup> If a man marries his brother’s wife, it is an act of impurity. He has uncovered the nakedness of his brother; they shall be childless. 
+<sup>17</sup> If a man marries his sister, whether the daughter of his father or of his mother, and they have sexual relations,[^499] it is a disgrace. They must be cut off in the sight of their people. He has uncovered the nakedness of his sister; he shall bear his iniquity.
 
-<sup>22</sup> You are therefore to keep all My statutes and ordinances, so that the land where I am bringing you to live will not vomit you out. 
+<sup>18</sup> If a man lies with a menstruating woman and has sexual relations with her,[^500] he has exposed the source of her flow, and she has uncovered the source of her blood. Both of them must be cut off from among their people.
 
-<sup>23</sup> You must not follow the statutes of the nations I am driving out before you. Because they did all these things, I abhorred them. 
+<sup>19</sup> You must not have sexual relations with the sister of your mother or your father, for it is exposing one’s own kin; both shall bear their iniquity.
 
-<sup>24</sup> But I have told you that you will inherit their land, since I will give it to you as an inheritance—a land flowing with milk and honey. I am the LORD your God, who has set you apart from the peoples. 
+<sup>20</sup> If a man lies with his uncle’s wife, he has uncovered the nakedness of his uncle. They will bear their sin; they shall die childless.
 
-<sup>25</sup> You are therefore to distinguish between clean and unclean animals and birds. Do not become contaminated by any animal or bird, or by anything that crawls on the ground; I have set these apart as unclean for you. 
+<sup>21</sup> If a man marries his brother’s wife, it is an act of impurity. He has uncovered the nakedness of his brother; they shall be childless.
 
-<sup>26</sup> You are to be holy to Me because I, the LORD, am holy, and I have set you apart from the nations to be My own. 
+## Distinguish between Clean and Unclean
 
-<sup>27</sup> A man or a woman who is a medium or spiritist must surely be put to death. They shall be stoned; their blood is upon them.’” 
+<sup>22</sup> You are therefore to keep all My statutes and ordinances, so that the land where I am bringing you to live will not vomit you out.
 
+<sup>23</sup> You must not follow the statutes of the nations I am driving out before you. Because they did all these things, I abhorred them.
 
+<sup>24</sup> But I have told you that you will inherit their land, since I will give it to you as an inheritance—a land flowing with milk and honey. I am the LORD your God, who has set you apart from the peoples.
+
+<sup>25</sup> You are therefore to distinguish between clean and unclean animals and birds. Do not become contaminated by any animal or bird, or by anything that crawls on the ground; I have set these apart as unclean for you.
+
+<sup>26</sup> You are to be holy to Me because I, the LORD, am holy, and I have set you apart from the nations to be My own.
+
+<sup>27</sup> A man or a woman who is a medium or spiritist must surely be put to death. They shall be stoned; their blood is upon them.’”
+
+[^497]: 20:9 Or dishonors or reviles; similarly again in this verse
+[^498]: 20:9 Cited in Matthew 15:4 and Mark 7:10
+[^499]: 20:17 Literally and he sees her nakedness and she sees his nakedness
+[^500]: 20:18 Literally uncovers her nakedness; similarly in verse 19

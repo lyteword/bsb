@@ -1,23 +1,21 @@
----
-weight: 12
----
-
 # Chapter 12
 
-<sup>1</sup> Then the LORD said to Moses, 
+## Purification after Childbirth
 
-<sup>2</sup> “Say to the Israelites, ‘A woman who becomes pregnant and gives birth to a son will be unclean for seven days, as she is during the days of her menstruation. 
+<sup>1</sup> Then the LORD said to Moses,
 
-<sup>3</sup> And on the eighth day the flesh of the boy’s foreskin is to be circumcised. 
+<sup>2</sup> “Say to the Israelites, ‘A woman who becomes pregnant and gives birth to a son will be unclean for seven days, as she is during the days of her menstruation.
 
-<sup>4</sup> The woman shall continue in purification from her bleeding for thirty-three days. She must not touch anything sacred or go into the sanctuary until the days of her purification are complete. 
+<sup>3</sup> And on the eighth day the flesh of the boy’s foreskin is to be circumcised.
 
-<sup>5</sup> If, however, she gives birth to a daughter, the woman will be unclean for two weeks as she is during her menstruation. Then she must continue in purification from her bleeding for sixty-six days. 
+<sup>4</sup> The woman shall continue in purification from her bleeding for thirty-three days. She must not touch anything sacred or go into the sanctuary until the days of her purification are complete.
 
-<sup>6</sup> When the days of her purification are complete, whether for a son or for a daughter, she is to bring to the priest at the entrance to the Tent of Meeting a year-old lamb for a burnt offering and a young pigeon or a turtledove for a sin offering. 
+<sup>5</sup> If, however, she gives birth to a daughter, the woman will be unclean for two weeks as she is during her menstruation. Then she must continue in purification from her bleeding for sixty-six days.
 
-<sup>7</sup> And the priest will present them before the LORD and make atonement for her; and she shall be ceremonially cleansed from her flow of blood. This is the law for a woman giving birth, whether to a male or to a female. 
+<sup>6</sup> When the days of her purification are complete, whether for a son or for a daughter, she is to bring to the priest at the entrance to the Tent of Meeting a year-old lamb for a burnt offering and a young pigeon or a turtledove for a sin offering.
 
-<sup>8</sup> But if she cannot afford a lamb, she shall bring two turtledoves or two young pigeons, one for a burnt offering and the other for a sin offering. Then the priest will make atonement for her, and she will be clean.’” 
+<sup>7</sup> And the priest will present them before the LORD and make atonement for her; and she shall be ceremonially cleansed from her flow of blood. This is the law for a woman giving birth, whether to a male or to a female.
 
+<sup>8</sup> But if she cannot afford a lamb, she shall bring two turtledoves or two young pigeons,[^466] one for a burnt offering and the other for a sin offering. Then the priest will make atonement for her, and she will be clean.’”
 
+[^466]: 12:8 Cited in Luke 2:24

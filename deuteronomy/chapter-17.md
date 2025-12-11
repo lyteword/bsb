@@ -1,47 +1,53 @@
----
-weight: 17
----
-
 # Chapter 17
 
-<sup>1</sup> You shall not sacrifice to the LORD your God an ox or a sheep with any defect or serious flaw, for that is detestable to the LORD your God. 
+## Detestable Sacrifices
 
-<sup>2</sup> If a man or woman among you in one of the towns that the LORD your God gives you is found doing evil in the sight of the LORD your God by transgressing His covenant 
+<sup>1</sup> You shall not sacrifice to the LORD your God an ox or a sheep with any defect or serious flaw, for that is detestable to the LORD your God.
 
-<sup>3</sup> and going to worship other gods, bowing down to them or to the sun or moon or any of the host of heaven—which I have forbidden— 
+## Purge the Idolater
 
-<sup>4</sup> and if it is reported and you hear about it, you must investigate it thoroughly. If the report is true and such an abomination has happened in Israel, 
+<sup>2</sup> If a man or woman among you in one of the towns that the LORD your God gives you is found doing evil in the sight of the LORD your God by transgressing His covenant
 
-<sup>5</sup> you must bring out to your gates the man or woman who has done this evil thing, and you must stone that person to death. 
+<sup>3</sup> and going to worship other gods, bowing down to them or to the sun or moon or any of the host of heaven—which I have forbidden—
 
-<sup>6</sup> On the testimony of two or three witnesses a man shall be put to death, but he shall not be executed on the testimony of a lone witness. 
+<sup>4</sup> and if it is reported and you hear about it, you must investigate it thoroughly. If the report is true and such an abomination has happened in Israel,
 
-<sup>7</sup> The hands of the witnesses shall be the first in putting him to death, and after that, the hands of all the people. So you must purge the evil from among you. 
+<sup>5</sup> you must bring out to your gates the man or woman who has done this evil thing, and you must stone that person to death.
 
-<sup>8</sup> If a case is too difficult for you to judge, whether the controversy within your gates is regarding bloodshed, lawsuits, or assaults, you must go up to the place the LORD your God will choose. 
+<sup>6</sup> On the testimony of two or three witnesses a man shall be put to death, but he shall not be executed on the testimony of a lone witness.
 
-<sup>9</sup> You are to go to the Levitical priests and to the judge who presides at that time. Inquire of them, and they will give you a verdict in the case. 
+<sup>7</sup> The hands of the witnesses shall be the first in putting him to death, and after that, the hands of all the people. So you must purge the evil from among you.[^705]
 
-<sup>10</sup> You must abide by the verdict they give you at the place the LORD will choose. Be careful to do everything they instruct you, 
+## Courts of Law
 
-<sup>11</sup> according to the terms of law they give and the verdict they proclaim. Do not turn aside to the right or to the left from the decision they declare to you. 
+<sup>8</sup> If a case is too difficult for you to judge, whether the controversy within your gates is regarding bloodshed, lawsuits, or assaults, you must go up to the place the LORD your God will choose.
 
-<sup>12</sup> But the man who acts presumptuously, refusing to listen either to the priest who stands there to serve the LORD your God, or to the judge, must be put to death. You must purge the evil from Israel. 
+<sup>9</sup> You are to go to the Levitical priests and to the judge who presides at that time. Inquire of them, and they will give you a verdict in the case.
 
-<sup>13</sup> Then all the people will hear and be afraid, and will no longer behave arrogantly. 
+<sup>10</sup> You must abide by the verdict they give you at the place the LORD will choose. Be careful to do everything they instruct you,
 
-<sup>14</sup> When you enter the land that the LORD your God is giving you and have taken possession of it and settled in it, and you say, “Let us set a king over us like all the nations around us,” 
+<sup>11</sup> according to the terms of law they give and the verdict they proclaim. Do not turn aside to the right or to the left from the decision they declare to you.
 
-<sup>15</sup> you are to appoint over yourselves the king whom the LORD your God shall choose. Appoint a king from among your brothers; you are not to set over yourselves a foreigner who is not one of your brothers. 
+<sup>12</sup> But the man who acts presumptuously, refusing to listen either to the priest who stands there to serve the LORD your God, or to the judge, must be put to death. You must purge the evil from Israel.
 
-<sup>16</sup> But the king must not acquire many horses for himself or send the people back to Egypt to acquire more horses, for the LORD has said, ‘You are never to go back that way again.’ 
+<sup>13</sup> Then all the people will hear and be afraid, and will no longer behave arrogantly.
 
-<sup>17</sup> He must not take many wives for himself, lest his heart go astray. He must not accumulate for himself large amounts of silver and gold. 
+## Guidelines for a King
 
-<sup>18</sup> When he is seated on his royal throne, he must write for himself a copy of this instruction on a scroll in the presence of the Levitical priests. 
+**(1 Samuel 8:1–9)**
 
-<sup>19</sup> It is to remain with him, and he is to read from it all the days of his life, so that he may learn to fear the LORD his God by carefully observing all the words of this instruction and these statutes. 
+<sup>14</sup> When you enter the land that the LORD your God is giving you and have taken possession of it and settled in it, and you say, “Let us set a king over us like all the nations around us,”
 
-<sup>20</sup> Then his heart will not be exalted above his countrymen, and he will not turn aside from the commandment, to the right or to the left, in order that he and his sons may reign many years over his kingdom in Israel. 
+<sup>15</sup> you are to appoint over yourselves the king whom the LORD your God shall choose. Appoint a king from among your brothers; you are not to set over yourselves a foreigner who is not one of your brothers.
 
+<sup>16</sup> But the king must not acquire many horses for himself or send the people back to Egypt to acquire more horses, for the LORD has said, ‘You are never to go back that way again.’
 
+<sup>17</sup> He must not take many wives for himself, lest his heart go astray. He must not accumulate for himself large amounts of silver and gold.
+
+<sup>18</sup> When he is seated on his royal throne, he must write for himself a copy of this instruction on a scroll in the presence of the Levitical priests.
+
+<sup>19</sup> It is to remain with him, and he is to read from it all the days of his life, so that he may learn to fear the LORD his God by carefully observing all the words of this instruction and these statutes.
+
+<sup>20</sup> Then his heart will not be exalted above his countrymen, and he will not turn aside from the commandment, to the right or to the left, in order that he and his sons may reign many years over his kingdom in Israel.
+
+[^705]: 17:7 Cited in 1 Corinthians 5:13

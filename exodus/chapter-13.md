@@ -1,51 +1,57 @@
----
-weight: 13
----
-
 # Chapter 13
 
-<sup>1</sup> Then the LORD said to Moses, 
+## The Dedication of the Firstborn
 
-<sup>2</sup> “Consecrate to Me every firstborn male. The firstborn from every womb among the Israelites belongs to Me, both of man and beast.” 
+**(Deuteronomy 15:19–23)**
 
-<sup>3</sup> So Moses told the people, “Remember this day, the day you came out of Egypt, out of the house of slavery; for the LORD brought you out of it by the strength of His hand. And nothing leavened shall be eaten. 
+<sup>1</sup> Then the LORD said to Moses,
 
-<sup>4</sup> Today, in the month of Abib, you are leaving. 
+<sup>2</sup> “Consecrate to Me every firstborn male.[^287] The firstborn from every womb among the Israelites belongs to Me, both of man and beast.”
 
-<sup>5</sup> And when the LORD brings you into the land of the Canaanites, Hittites, Amorites, Hivites, and Jebusites—the land He swore to your fathers that He would give you, a land flowing with milk and honey—you shall keep this service in this month. 
+<sup>3</sup> So Moses told the people, “Remember this day, the day you came out of Egypt, out of the house of slavery; for the LORD brought you out of it by the strength of His hand. And nothing leavened shall be eaten.
 
-<sup>6</sup> For seven days you are to eat unleavened bread, and on the seventh day there shall be a feast to the LORD. 
+<sup>4</sup> Today, in the month of Abib,[^288] you are leaving.
 
-<sup>7</sup> Unleavened bread shall be eaten during those seven days. Nothing leavened may be found among you, nor shall leaven be found anywhere within your borders. 
+<sup>5</sup> And when the LORD brings you into the land of the Canaanites, Hittites, Amorites, Hivites, and Jebusites—the land He swore to your fathers that He would give you, a land flowing with milk and honey—you shall keep this service in this month.
 
-<sup>8</sup> And on that day you are to explain to your son, ‘This is because of what the LORD did for me when I came out of Egypt.’ 
+<sup>6</sup> For seven days you are to eat unleavened bread, and on the seventh day there shall be a feast to the LORD.
 
-<sup>9</sup> It shall be a sign for you on your hand and a reminder on your forehead that the Law of the LORD is to be on your lips. For with a mighty hand the LORD brought you out of Egypt. 
+<sup>7</sup> Unleavened bread shall be eaten during those seven days. Nothing leavened may be found among you, nor shall leaven be found anywhere within your borders.
 
-<sup>10</sup> Therefore you shall keep this statute at the appointed time year after year. 
+<sup>8</sup> And on that day you are to explain to your son, ‘This is because of what the LORD did for me when I came out of Egypt.’
 
-<sup>11</sup> And after the LORD brings you into the land of the Canaanites and gives it to you, as He swore to you and your fathers, 
+<sup>9</sup> It shall be a sign for you on your hand and a reminder on your forehead that the Law of the LORD is to be on your lips. For with a mighty hand the LORD brought you out of Egypt.
 
-<sup>12</sup> you are to present to the LORD the firstborn male of every womb. All the firstborn males of your livestock belong to the LORD. 
+<sup>10</sup> Therefore you shall keep this statute at the appointed time year after year.
 
-<sup>13</sup> You must redeem every firstborn donkey with a lamb, and if you do not redeem it, you are to break its neck. And every firstborn of your sons you must redeem. 
+<sup>11</sup> And after the LORD brings you into the land of the Canaanites and gives it to you, as He swore to you and your fathers,
 
-<sup>14</sup> In the future, when your son asks you, ‘What does this mean?’ you are to tell him, ‘With a mighty hand the LORD brought us out of Egypt, out of the house of slavery. 
+<sup>12</sup> you are to present to the LORD the firstborn male of every womb. All the firstborn males of your livestock belong to the LORD.
 
-<sup>15</sup> And when Pharaoh stubbornly refused to let us go, the LORD killed every firstborn in the land of Egypt, both of man and beast. This is why I sacrifice to the LORD the firstborn male of every womb, but I redeem all the firstborn of my sons.’ 
+<sup>13</sup> You must redeem every firstborn donkey with a lamb, and if you do not redeem it, you are to break its neck. And every firstborn of your sons you must redeem.
 
-<sup>16</sup> So it shall serve as a sign on your hand and a symbol on your forehead, for with a mighty hand the LORD brought us out of Egypt.” 
+<sup>14</sup> In the future, when your son asks you, ‘What does this mean?’ you are to tell him, ‘With a mighty hand the LORD brought us out of Egypt, out of the house of slavery.
 
-<sup>17</sup> When Pharaoh let the people go, God did not lead them along the road through the land of the Philistines, though it was shorter. For God said, “If the people face war, they might change their minds and return to Egypt.” 
+<sup>15</sup> And when Pharaoh stubbornly refused to let us go, the LORD killed every firstborn in the land of Egypt, both of man and beast. This is why I sacrifice to the LORD the firstborn male of every womb, but I redeem all the firstborn of my sons.’
 
-<sup>18</sup> So God led the people around by the way of the wilderness toward the Red Sea. And the Israelites left the land of Egypt arrayed for battle. 
+<sup>16</sup> So it shall serve as a sign on your hand and a symbol on your forehead, for with a mighty hand the LORD brought us out of Egypt.”
 
-<sup>19</sup> Moses took the bones of Joseph with him because Joseph had made the sons of Israel swear a solemn oath when he said, “God will surely attend to you, and then you must carry my bones with you from this place.” 
+## The Pillars of Cloud and Fire
 
-<sup>20</sup> They set out from Succoth and camped at Etham on the edge of the wilderness. 
+<sup>17</sup> When Pharaoh let the people go, God did not lead them along the road through the land of the Philistines, though it was shorter. For God said, “If the people face war, they might change their minds and return to Egypt.”
 
-<sup>21</sup> And the LORD went before them in a pillar of cloud to guide their way by day, and in a pillar of fire to give them light by night, so that they could travel by day or night. 
+<sup>18</sup> So God led the people around by the way of the wilderness toward the Red Sea.[^289] And the Israelites left the land of Egypt arrayed for battle.[^290]
 
-<sup>22</sup> Neither the pillar of cloud by day nor the pillar of fire by night left its place before the people. 
+<sup>19</sup> Moses took the bones of Joseph with him because Joseph had made the sons of Israel swear a solemn oath when he said, “God will surely attend to you, and then you must carry my bones with you from this place.”[^291]
 
+<sup>20</sup> They set out from Succoth and camped at Etham on the edge of the wilderness.
 
+<sup>21</sup> And the LORD went before them in a pillar of cloud to guide their way by day, and in a pillar of fire to give them light by night, so that they could travel by day or night.
+
+<sup>22</sup> Neither the pillar of cloud by day nor the pillar of fire by night left its place before the people.
+
+[^287]: 13:2 Cited in Luke 2:23
+[^288]: 13:4 Abib was the first month of the ancient Hebrew lunar calendar, usually occurring within the months of March and April.
+[^289]: 13:18 Or the Sea of Reeds
+[^290]: 13:18 LXX left the land of Egypt in the fifth generation
+[^291]: 13:19 Genesis 50:25

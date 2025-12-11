@@ -1,43 +1,45 @@
----
-weight: 13
----
-
 # Chapter 13
 
-<sup>1</sup> If a prophet or dreamer of dreams arises among you and proclaims a sign or wonder to you, 
+## Idolaters to Be Put to Death
 
-<sup>2</sup> and if the sign or wonder he has spoken to you comes about, but he says, “Let us follow other gods (which you have not known) and let us worship them,” 
+<sup>1</sup> If a prophet or dreamer of dreams arises among you and proclaims a sign or wonder to you,
 
-<sup>3</sup> you must not listen to the words of that prophet or dreamer. For the LORD your God is testing you to find out whether you love Him with all your heart and with all your soul. 
+<sup>2</sup> and if the sign or wonder he has spoken to you comes about, but he says, “Let us follow other gods (which you have not known) and let us worship them,”
 
-<sup>4</sup> You are to follow the LORD your God and fear Him. Keep His commandments and listen to His voice; serve Him and hold fast to Him. 
+<sup>3</sup> you must not listen to the words of that prophet or dreamer. For the LORD your God is testing you to find out whether you love Him with all your heart and with all your soul.
 
-<sup>5</sup> Such a prophet or dreamer must be put to death, because he has advocated rebellion against the LORD your God, who brought you out of the land of Egypt and redeemed you from the house of slavery; he has tried to turn you from the way in which the LORD your God has commanded you to walk. So you must purge the evil from among you. 
+<sup>4</sup> You are to follow the LORD your God and fear Him. Keep His commandments and listen to His voice; serve Him and hold fast to Him.
 
-<sup>6</sup> If your very own brother, or your son or daughter, or the wife you embrace, or your closest friend secretly entices you, saying, “Let us go and worship other gods” (which neither you nor your fathers have known, 
+<sup>5</sup> Such a prophet or dreamer must be put to death, because he has advocated rebellion against the LORD your God, who brought you out of the land of Egypt and redeemed you from the house of slavery; he has tried to turn you from the way in which the LORD your God has commanded you to walk. So you must purge the evil from among you.[^691]
 
-<sup>7</sup> the gods of the peoples around you, whether near or far, whether from one end of the earth or the other), 
+<sup>6</sup> If your very own brother, or your son or daughter, or the wife you embrace,[^692] or your closest friend secretly entices you, saying, “Let us go and worship other gods” (which neither you nor your fathers have known,
 
-<sup>8</sup> you must not yield to him or listen to him. Show him no pity, and do not spare him or shield him. 
+<sup>7</sup> the gods of the peoples around you, whether near or far, whether from one end of the earth or the other),
 
-<sup>9</sup> Instead, you must surely kill him. Your hand must be the first against him to put him to death, and then the hands of all the people. 
+<sup>8</sup> you must not yield to him or listen to him. Show him no pity, and do not spare him or shield him.
 
-<sup>10</sup> Stone him to death for trying to turn you away from the LORD your God, who brought you out of the land of Egypt, out of the house of slavery. 
+<sup>9</sup> Instead, you must surely kill him. Your hand must be the first against him to put him to death, and then the hands of all the people.
 
-<sup>11</sup> Then all Israel will hear and be afraid, and will never again do such a wicked thing among you. 
+<sup>10</sup> Stone him to death for trying to turn you away from the LORD your God, who brought you out of the land of Egypt, out of the house of slavery.
 
-<sup>12</sup> If, regarding one of the cities the LORD your God is giving you to inhabit, you hear it said 
+<sup>11</sup> Then all Israel will hear and be afraid, and will never again do such a wicked thing among you.
 
-<sup>13</sup> that wicked men have arisen from among you and have led the people of their city astray, saying, “Let us go and serve other gods” (which you have not known), 
+## Idolatrous Cities to Be Destroyed
 
-<sup>14</sup> then you must inquire, investigate, and interrogate thoroughly. And if it is established with certainty that this abomination has been committed among you, 
+<sup>12</sup> If, regarding one of the cities the LORD your God is giving you to inhabit, you hear it said
 
-<sup>15</sup> you must surely put the inhabitants of that city to the sword. Devote to destruction all its people and livestock. 
+<sup>13</sup> that wicked men have arisen from among you and have led the people of their city astray, saying, “Let us go and serve other gods” (which you have not known),
 
-<sup>16</sup> And you are to gather all its plunder in the middle of the public square, and completely burn the city and all its plunder as a whole burnt offering to the LORD your God. The city must remain a mound of ruins forever, never to be rebuilt. 
+<sup>14</sup> then you must inquire, investigate, and interrogate thoroughly. And if it is established with certainty that this abomination has been committed among you,
 
-<sup>17</sup> Nothing devoted to destruction shall cling to your hands, so that the LORD will turn from His fierce anger, grant you mercy, show you compassion, and multiply you as He swore to your fathers, 
+<sup>15</sup> you must surely put the inhabitants of that city to the sword. Devote to destruction [^693] all its people and livestock.
 
-<sup>18</sup> because you obey the LORD your God, keeping all His commandments I am giving you today and doing what is right in the eyes of the LORD your God. 
+<sup>16</sup> And you are to gather all its plunder in the middle of the public square, and completely burn the city and all its plunder as a whole burnt offering to the LORD your God. The city must remain a mound of ruins forever, never to be rebuilt.
 
+<sup>17</sup> Nothing devoted to destruction shall cling to your hands, so that the LORD will turn from His fierce anger, grant you mercy, show you compassion, and multiply you as He swore to your fathers,
 
+<sup>18</sup> because you obey the LORD your God, keeping all His commandments I am giving you today and doing what is right in the eyes of the LORD your God.
+
+[^691]: 13:5 Cited in 1 Corinthians 5:13
+[^692]: 13:6 Hebrew the wife of your bosom
+[^693]: 13:15 Forms of the Hebrew cherem refer to the giving over of things or persons to the LORD, either by destroying them or by giving them as an offering; similarly in verse 17.

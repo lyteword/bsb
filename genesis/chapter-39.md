@@ -1,53 +1,51 @@
----
-weight: 39
----
-
 # Chapter 39
 
-<sup>1</sup> Meanwhile, Joseph had been taken down to Egypt, where an Egyptian named Potiphar, an officer of Pharaoh and captain of the guard, bought him from the Ishmaelites who had taken him there. 
+## Joseph and Potiphar’s Wife
 
-<sup>2</sup> And the LORD was with Joseph, and he became a successful man, serving in the household of his Egyptian master. 
+<sup>1</sup> Meanwhile, Joseph had been taken down to Egypt, where an Egyptian named Potiphar, an officer of Pharaoh and captain of the guard, bought him from the Ishmaelites who had taken him there.
 
-<sup>3</sup> When his master saw that the LORD was with him and made him prosper in all he did, 
+<sup>2</sup> And the LORD was with Joseph, and he became a successful man, serving in the household of his Egyptian master.
 
-<sup>4</sup> Joseph found favor in his sight and became his personal attendant. Potiphar put him in charge of his household and entrusted him with everything he owned. 
+<sup>3</sup> When his master saw that the LORD was with him and made him prosper in all he did,
 
-<sup>5</sup> From the time that he put Joseph in charge of his household and all he owned, the LORD blessed the Egyptian’s household on account of him. The LORD’s blessing was on everything he owned, both in his house and in his field. 
+<sup>4</sup> Joseph found favor in his sight and became his personal attendant. Potiphar put him in charge of his household and entrusted him with everything he owned.
 
-<sup>6</sup> So Potiphar left all that he owned in Joseph’s care; he did not concern himself with anything except the food he ate. Now Joseph was well-built and handsome, 
+<sup>5</sup> From the time that he put Joseph in charge of his household and all he owned, the LORD blessed the Egyptian’s household on account of him. The LORD’s blessing was on everything he owned, both in his house and in his field.
 
-<sup>7</sup> and after some time his master’s wife cast her eyes upon Joseph and said, “Sleep with me.” 
+<sup>6</sup> So Potiphar left all that he owned in Joseph’s care; he did not concern himself with anything except the food he ate. Now Joseph was well-built and handsome,
 
-<sup>8</sup> But he refused. “Look,” he said to his master’s wife, “with me here, my master does not concern himself with anything in his house, and he has entrusted everything he owns to my care. 
+<sup>7</sup> and after some time his master’s wife cast her eyes upon Joseph and said, “Sleep with me.”
 
-<sup>9</sup> No one in this house is greater than I am. He has withheld nothing from me except you, because you are his wife. So how could I do such a great evil and sin against God?” 
+<sup>8</sup> But he refused. “Look,” he said to his master’s wife, “with me here, my master does not concern himself with anything in his house, and he has entrusted everything he owns to my care.
 
-<sup>10</sup> Although Potiphar’s wife spoke to Joseph day after day, he refused to go to bed with her or even be near her. 
+<sup>9</sup> No one in this house is greater than I am. He has withheld nothing from me except you, because you are his wife. So how could I do such a great evil and sin against God?”
 
-<sup>11</sup> One day, however, Joseph went into the house to attend to his work, and not a single household servant was inside. 
+<sup>10</sup> Although Potiphar’s wife spoke to Joseph day after day, he refused to go to bed with her or even be near her.
 
-<sup>12</sup> She grabbed Joseph by his cloak and said, “Sleep with me!” But leaving his cloak in her hand, he escaped and ran outside. 
+<sup>11</sup> One day, however, Joseph went into the house to attend to his work, and not a single household servant was inside.
 
-<sup>13</sup> When she saw that he had left his cloak in her hand and had run out of the house, 
+<sup>12</sup> She grabbed Joseph by his cloak and said, “Sleep with me!” But leaving his cloak in her hand, he escaped and ran outside.
 
-<sup>14</sup> she called her household servants. “Look,” she said, “this Hebrew has been brought to us to make sport of us. He came to me so he could sleep with me, but I screamed as loud as I could. 
+## Joseph Falsely Imprisoned
 
-<sup>15</sup> When he heard me scream for help, he left his cloak beside me and ran out of the house.” 
+<sup>13</sup> When she saw that he had left his cloak in her hand and had run out of the house,
 
-<sup>16</sup> So Potiphar’s wife kept Joseph’s cloak beside her until his master came home. 
+<sup>14</sup> she called her household servants. “Look,” she said, “this Hebrew has been brought to us to make sport of us. He came to me so he could sleep with me, but I screamed as loud as I could.
 
-<sup>17</sup> Then she told him the same story: “The Hebrew slave you brought us came to me to make sport of me, 
+<sup>15</sup> When he heard me scream for help, he left his cloak beside me and ran out of the house.”
 
-<sup>18</sup> but when I screamed for help, he left his cloak beside me and ran out of the house.” 
+<sup>16</sup> So Potiphar’s wife kept Joseph’s cloak beside her until his master came home.
 
-<sup>19</sup> When his master heard the story his wife told him, saying, “This is what your slave did to me,” he burned with anger. 
+<sup>17</sup> Then she told him the same story: “The Hebrew slave you brought us came to me to make sport of me,
 
-<sup>20</sup> So Joseph’s master took him and had him thrown into the prison where the king’s prisoners were confined. While Joseph was there in the prison, 
+<sup>18</sup> but when I screamed for help, he left his cloak beside me and ran out of the house.”
 
-<sup>21</sup> the LORD was with him and extended kindness to him, granting him favor in the eyes of the prison warden. 
+<sup>19</sup> When his master heard the story his wife told him, saying, “This is what your slave did to me,” he burned with anger.
 
-<sup>22</sup> And the warden put all the prisoners under Joseph’s care, so that he was responsible for all that was done in the prison. 
+<sup>20</sup> So Joseph’s master took him and had him thrown into the prison where the king’s prisoners were confined. While Joseph was there in the prison,
 
-<sup>23</sup> The warden did not concern himself with anything under Joseph’s care, because the LORD was with Joseph and gave him success in whatever he did. 
+<sup>21</sup> the LORD was with him and extended kindness to him, granting him favor in the eyes of the prison warden.
 
+<sup>22</sup> And the warden put all the prisoners under Joseph’s care, so that he was responsible for all that was done in the prison.
 
+<sup>23</sup> The warden did not concern himself with anything under Joseph’s care, because the LORD was with Joseph and gave him success in whatever he did.
