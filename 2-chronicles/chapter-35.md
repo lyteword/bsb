@@ -1,61 +1,68 @@
----
-weight: 35
----
-
 # Chapter 35
 
-<sup>1</sup> Then Josiah celebrated the Passover to the LORD in Jerusalem, and the Passover lamb was slaughtered on the fourteenth day of the first month. 
+## Josiah Restores the Passover
 
-<sup>2</sup> He appointed the priests to their duties and encouraged them in the service of the house of the LORD. 
+**(2 Kings 23:21–27)**
 
-<sup>3</sup> To the Levites who taught all Israel and were holy to the LORD, Josiah said: “Put the holy ark in the temple built by Solomon son of David king of Israel. It is not to be carried around on your shoulders. Now serve the LORD your God and His people Israel. 
+<sup>1</sup> Then Josiah kept the Passover to the LORD in Jerusalem, and the Passover lamb was slaughtered on the fourteenth day of the first month.
 
-<sup>4</sup> Prepare yourselves by families in your divisions, according to the instructions written by David king of Israel and Solomon his son. 
+<sup>2</sup> He appointed the priests to their duties and encouraged them in the service of the house of the LORD.
 
-<sup>5</sup> Moreover, stand in the Holy Place by the divisions of the families of your kinsmen the lay people, and by the divisions of the families of the Levites. 
+<sup>3</sup> To the Levites who taught all Israel and were holy to the LORD, Josiah said: “Put the holy ark in the temple built by Solomon son of David king of Israel. It is not to be carried around on your shoulders. Now serve the LORD your God and His people Israel.
 
-<sup>6</sup> Slaughter the Passover lambs, consecrate yourselves, and make preparations for your fellow countrymen to carry out the word of the LORD given by Moses.” 
+<sup>4</sup> Prepare yourselves by families in your divisions, according to the instructions written by David king of Israel and Solomon his son.
 
-<sup>7</sup> From his own flocks and herds Josiah contributed 30,000 lambs and goats plus 3,000 bulls for the Passover offerings for all the people who were present. 
+<sup>5</sup> Moreover, stand in the Holy Place by the divisions of the families of your kinsmen the lay people, and by the divisions of the families of the Levites.
 
-<sup>8</sup> His officials also contributed willingly to the people and priests and Levites. Hilkiah, Zechariah, and Jehiel, the administrators of the house of God, gave the priests 2,600 Passover offerings and 300 bulls. 
+<sup>6</sup> Slaughter the Passover lambs, consecrate yourselves, and make preparations for your fellow countrymen to carry out the word of the LORD given by [^1859] Moses.”
 
-<sup>9</sup> Additionally, Conaniah and his brothers Shemaiah and Nethanel, as well as Hashabiah, Jeiel, and Jozabad, officers of the Levites, donated to the Levites 5,000 Passover offerings and 500 bulls. 
+<sup>7</sup> From his own flocks and herds Josiah contributed 30,000 lambs and goats plus 3,000 bulls for the Passover offerings for all the people who were present.
 
-<sup>10</sup> So the service was prepared; the priests stood in their places and the Levites in their divisions according to the king’s command. 
+<sup>8</sup> His officials also contributed willingly to the people and priests and Levites. Hilkiah, Zechariah, and Jehiel, the chief officials of the house of God, gave the priests 2,600 Passover offerings and 300 bulls.
 
-<sup>11</sup> And they slaughtered the Passover lambs, while the priests sprinkled the blood handed to them and the Levites skinned the animals. 
+<sup>9</sup> Additionally, Conaniah and his brothers Shemaiah and Nethanel, as well as Hashabiah, Jeiel, and Jozabad, officers of the Levites, contributed to the Levites 5,000 Passover offerings and 500 bulls.
 
-<sup>12</sup> They set aside the burnt offerings to be given to the divisions of the families of the people to offer to the LORD, as is written in the Book of Moses; and they did the same with the bulls. 
+<sup>10</sup> So the service was prepared; the priests stood in their places and the Levites in their divisions according to the king’s command.
 
-<sup>13</sup> They roasted the Passover animals on the fire according to the regulation, and they boiled the other holy offerings in pots, kettles, and bowls and quickly brought them to all the people. 
+<sup>11</sup> And they slaughtered the Passover lambs, while the priests splattered the blood handed to them and the Levites skinned the animals.
 
-<sup>14</sup> Afterward, they made preparations for themselves and for the priests, since the priests, the descendants of Aaron, were offering up burnt offerings and fat until nightfall. So the Levites made preparations for themselves and for the priests, the descendants of Aaron. 
+<sup>12</sup> They set aside the burnt offerings to be given to the divisions of the families of the people to offer to the LORD, as it is written in the Book of Moses. And they did the same with the bulls.
 
-<sup>15</sup> The singers, the descendants of Asaph, were at their stations according to the command of David, Asaph, Heman, and Jeduthun the king’s seer. And the gatekeepers at each gate did not need to leave their position, because their fellow Levites made preparations for them. 
+<sup>13</sup> They roasted the Passover animals on the fire according to the regulation, and they boiled the other holy offerings in pots, kettles, and bowls and quickly brought them to all the people.
 
-<sup>16</sup> So on that day the entire service of the LORD was carried out for celebrating the Passover and offering burnt offerings on the altar of the LORD, according to the command of King Josiah. 
+<sup>14</sup> Afterward, they made preparations for themselves and for the priests, since the priests, the descendants of Aaron, were offering up burnt offerings and fat until nightfall. So the Levites made preparations for themselves and for the priests, the descendants of Aaron.
 
-<sup>17</sup> The Israelites who were present also observed the Passover at that time, as well as the Feast of Unleavened Bread for seven days. 
+<sup>15</sup> The singers, the descendants of Asaph, were at their stations according to the command of David, Asaph, Heman, and Jeduthun the king’s seer. And the gatekeepers at each gate did not need to leave their posts, because their fellow Levites made preparations for them.
 
-<sup>18</sup> No such Passover had been observed in Israel since the days of Samuel the prophet. None of the kings of Israel ever observed a Passover like the one that Josiah observed with the priests, the Levites, all Judah, the Israelites who were present, and the people of Jerusalem. 
+<sup>16</sup> So on that day the entire service of the LORD was carried out for celebrating the Passover and offering burnt offerings on the altar of the LORD, according to the command of King Josiah.
 
-<sup>19</sup> In the eighteenth year of Josiah’s reign, this Passover was observed. 
+<sup>17</sup> The Israelites who were present also observed the Passover at that time, as well as the Feast of Unleavened Bread [^1860] for seven days.
 
-<sup>20</sup> After all this, when Josiah had set the temple in order, Neco king of Egypt marched up to fight at Carchemish by the Euphrates, and Josiah went out to confront him. 
+<sup>18</sup> No such Passover had been observed in Israel since the days of Samuel the prophet. None of the kings of Israel ever observed a Passover like the one that Josiah observed with the priests, the Levites, all Judah, the Israelites who were present, and the people of Jerusalem.
 
-<sup>21</sup> But Neco sent messengers to him, saying, “What is the issue between you and me, O king of Judah? I have not come against you today, but I am fighting another dynasty. God told me to hurry; so stop opposing God, who is with me, or He will destroy you!” 
+<sup>19</sup> In the eighteenth year of Josiah’s reign, this Passover was observed.
 
-<sup>22</sup> Josiah, however, did not turn away from him; instead, in order to engage him in battle, he disguised himself. He did not listen to Neco’s words from the mouth of God, but went to fight him on the Plain of Megiddo. 
+## The Death of Josiah
 
-<sup>23</sup> There the archers shot King Josiah, who said to his servants, “Take me away, for I am badly wounded!” 
+**(2 Kings 23:28–30)**
 
-<sup>24</sup> So his servants took him out of his chariot, put him in his second chariot, and brought him to Jerusalem, where he died. And Josiah was buried in the tomb of his fathers, and all Judah and Jerusalem mourned for him. 
+<sup>20</sup> After all this, when Josiah had set the temple in order, Neco king of Egypt marched up to fight at Carchemish by the Euphrates, and Josiah went out to confront him.
 
-<sup>25</sup> Then Jeremiah lamented over Josiah, and to this day all the choirs of men and women sing laments over Josiah. They established them as a statute for Israel, and indeed they are written in the Book of Laments. 
+<sup>21</sup> But Neco sent messengers to him, saying, “What is the issue between you and me, O king of Judah? I have not come against you today, but I am fighting another dynasty, and God has told me to hurry. So stop opposing God, who is with me, or He will destroy you!”
 
-<sup>26</sup> As for the rest of the acts of Josiah, along with his deeds of loving devotion according to what is written in the Law of the LORD— 
+<sup>22</sup> Josiah, however, did not turn away from him; instead, in order to engage him in battle, he disguised himself. He did not listen to Neco’s words from the mouth of God, but went to fight him on the Plain of Megiddo.
 
-<sup>27</sup> his acts from beginning to end—they are indeed written in the Book of the Kings of Israel and Judah. 
+<sup>23</sup> There the archers shot King Josiah, who said to his servants, “Take me away, for I am badly wounded!”
 
+<sup>24</sup> So his servants took him out of his chariot, put him in his second chariot, and brought him to Jerusalem, where he died. And Josiah was buried in the tomb of his fathers, and all Judah and Jerusalem mourned for him.
 
+## Laments over Josiah
+
+<sup>25</sup> Then Jeremiah lamented over Josiah, and to this day all the male and female singers recite laments over Josiah. They established them as a statute for Israel, and indeed they are written in the Book of Laments.
+
+<sup>26</sup> As for the rest of the acts of Josiah and his deeds of loving devotion according to what is written in the Law of the LORD—
+
+<sup>27</sup> his acts from beginning to end—they are indeed written in the Book of the Kings of Israel and Judah.
+
+[^1859]: 35:6 Hebrew the word of the LORD by the hand of
+[^1860]: 35:17 That is, the seven-day period after the Passover during which no leaven may be eaten; see Exodus 12:14–20.

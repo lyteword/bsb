@@ -1,169 +1,193 @@
----
-weight: 6
----
-
 # Chapter 6
 
-<sup>1</sup> The sons of Levi: Gershon, Kohath, and Merari. 
+## The Descendants of Levi
 
-<sup>2</sup> The sons of Kohath: Amram, Izhar, Hebron, and Uzziel. 
+<sup>1</sup> The sons of Levi: Gershon, Kohath, and Merari.
 
-<sup>3</sup> The children of Amram: Aaron, Moses, and Miriam. The sons of Aaron: Nadab, Abihu, Eleazar, and Ithamar. 
+<sup>2</sup> The sons of Kohath: Amram, Izhar, Hebron, and Uzziel.
 
-<sup>4</sup> Eleazar was the father of Phinehas, Phinehas was the father of Abishua, 
+<sup>3</sup> The children of Amram: Aaron, Moses, and Miriam. The sons of Aaron: Nadab, Abihu, Eleazar, and Ithamar.
 
-<sup>5</sup> Abishua was the father of Bukki, Bukki was the father of Uzzi, 
+<sup>4</sup> Eleazar was the father of Phinehas, Phinehas was the father of Abishua,
 
-<sup>6</sup> Uzzi was the father of Zerahiah, Zerahiah was the father of Meraioth, 
+<sup>5</sup> Abishua was the father of Bukki, Bukki was the father of Uzzi,
 
-<sup>7</sup> Meraioth was the father of Amariah, Amariah was the father of Ahitub, 
+<sup>6</sup> Uzzi was the father of Zerahiah, Zerahiah was the father of Meraioth,
 
-<sup>8</sup> Ahitub was the father of Zadok, Zadok was the father of Ahimaaz, 
+<sup>7</sup> Meraioth was the father of Amariah, Amariah was the father of Ahitub,
 
-<sup>9</sup> Ahimaaz was the father of Azariah, Azariah was the father of Johanan, 
+<sup>8</sup> Ahitub was the father of Zadok, Zadok was the father of Ahimaaz,
 
-<sup>10</sup> Johanan was the father of Azariah, who served as priest in the temple that Solomon built in Jerusalem, 
+<sup>9</sup> Ahimaaz was the father of Azariah, Azariah was the father of Johanan,
 
-<sup>11</sup> Azariah was the father of Amariah, Amariah was the father of Ahitub, 
+<sup>10</sup> Johanan was the father of Azariah, who served as priest in the temple that Solomon built in Jerusalem,
 
-<sup>12</sup> Ahitub was the father of Zadok, Zadok was the father of Shallum, 
+<sup>11</sup> Azariah was the father of Amariah, Amariah was the father of Ahitub,
 
-<sup>13</sup> Shallum was the father of Hilkiah, Hilkiah was the father of Azariah, 
+<sup>12</sup> Ahitub was the father of Zadok, Zadok was the father of Shallum,
 
-<sup>14</sup> Azariah was the father of Seraiah, and Seraiah was the father of Jehozadak. 
+<sup>13</sup> Shallum was the father of Hilkiah, Hilkiah was the father of Azariah,
 
-<sup>15</sup> Jehozadak went into captivity when the LORD sent Judah and Jerusalem into exile by the hand of Nebuchadnezzar. 
+<sup>14</sup> Azariah was the father of Seraiah, and Seraiah was the father of Jehozadak.[^1528]
 
-<sup>16</sup> The sons of Levi: Gershom, Kohath, and Merari. 
+<sup>15</sup> Jehozadak went into captivity when the LORD sent Judah and Jerusalem into exile by the hand of Nebuchadnezzar.
 
-<sup>17</sup> These are the names of the sons of Gershom: Libni and Shimei. 
+<sup>16</sup> The sons of Levi: Gershom,[^1529] Kohath, and Merari.
 
-<sup>18</sup> The sons of Kohath: Amram, Izhar, Hebron, and Uzziel. 
+<sup>17</sup> These are the names of the sons of Gershom: Libni and Shimei.
 
-<sup>19</sup> The sons of Merari: Mahli and Mushi. These are the clans of the Levites listed according to their fathers: 
+<sup>18</sup> The sons of Kohath: Amram, Izhar, Hebron, and Uzziel.
 
-<sup>20</sup> Of Gershom: Libni his son, Jahath his son, Zimmah his son, 
+<sup>19</sup> The sons of Merari: Mahli and Mushi. These are the clans of the Levites listed according to their fathers:
 
-<sup>21</sup> Joah his son, Iddo his son, Zerah his son, and Jeatherai his son. 
+<sup>20</sup> Of Gershom: Libni his son, Jahath his son, Zimmah his son,
 
-<sup>22</sup> The descendants of Kohath: Amminadab his son, Korah his son, Assir his son, 
+<sup>21</sup> Joah his son, Iddo his son, Zerah his son, and Jeatherai his son.
 
-<sup>23</sup> Elkanah his son, Ebiasaph his son, Assir his son, 
+<sup>22</sup> The descendants of Kohath: Amminadab his son, Korah his son, Assir his son,
 
-<sup>24</sup> Tahath his son, Uriel his son, Uzziah his son, and Shaul his son. 
+<sup>23</sup> Elkanah his son, Ebiasaph [^1530] his son, Assir his son,
 
-<sup>25</sup> The descendants of Elkanah: Amasai, Ahimoth, 
+<sup>24</sup> Tahath his son, Uriel his son, Uzziah his son, and Shaul his son.
 
-<sup>26</sup> Elkanah his son, Zophai his son, Nahath his son, 
+<sup>25</sup> The descendants of Elkanah: Amasai, Ahimoth,
 
-<sup>27</sup> Eliab his son, Jeroham his son, and Elkanah his son. 
+<sup>26</sup> Elkanah his son,[^1531] Zophai his son, Nahath his son,
 
-<sup>28</sup> The sons of Samuel: Joel his firstborn and Abijah his second son. 
+<sup>27</sup> Eliab [^1532] his son, Jeroham his son, and Elkanah his son.[^1533]
 
-<sup>29</sup> The descendants of Merari: Mahli, Libni his son, Shimei his son, Uzzah his son, 
+<sup>28</sup> The sons of Samuel: Joel his firstborn and Abijah his second son.[^1534]
 
-<sup>30</sup> Shimea his son, Haggiah his son, and Asaiah his son. 
+<sup>29</sup> The descendants of Merari: Mahli, Libni his son, Shimei his son, Uzzah his son,
 
-<sup>31</sup> These are the men David put in charge of the music in the house of the LORD after the ark rested there. 
+<sup>30</sup> Shimea his son, Haggiah his son, and Asaiah his son.
 
-<sup>32</sup> They ministered with song before the tabernacle, the Tent of Meeting, until Solomon built the house of the LORD in Jerusalem. And they performed their duties according to the regulations given them. 
+## The Temple Musicians
 
-<sup>33</sup> These are the men who served, together with their sons. From the Kohathites: Heman the singer, the son of Joel, the son of Samuel, 
+<sup>31</sup> These are the men David put in charge of the music in the house of the LORD after the ark rested there.
 
-<sup>34</sup> the son of Elkanah, the son of Jeroham, the son of Eliel, the son of Toah, 
+<sup>32</sup> They ministered with song before the tabernacle, the Tent of Meeting, until Solomon built the house of the LORD in Jerusalem. And they performed their duties according to the regulations given them.
 
-<sup>35</sup> the son of Zuph, the son of Elkanah, the son of Mahath, the son of Amasai, 
+<sup>33</sup> These are the men who served, together with their sons. From the Kohathites: Heman the singer, the son of Joel, the son of Samuel,
 
-<sup>36</sup> the son of Elkanah, the son of Joel, the son of Azariah, the son of Zephaniah, 
+<sup>34</sup> the son of Elkanah, the son of Jeroham, the son of Eliel,[^1535] the son of Toah,
 
-<sup>37</sup> the son of Tahath, the son of Assir, the son of Ebiasaph, the son of Korah, 
+<sup>35</sup> the son of Zuph, the son of Elkanah, the son of Mahath, the son of Amasai,
 
-<sup>38</sup> the son of Izhar, the son of Kohath, the son of Levi, the son of Israel. 
+<sup>36</sup> the son of Elkanah, the son of Joel, the son of Azariah, the son of Zephaniah,
 
-<sup>39</sup> Heman’s kinsman was Asaph, who served at his right hand: Asaph the son of Berechiah, the son of Shimea, 
+<sup>37</sup> the son of Tahath, the son of Assir, the son of Ebiasaph, the son of Korah,
 
-<sup>40</sup> the son of Michael, the son of Baaseiah, the son of Malchijah, 
+<sup>38</sup> the son of Izhar, the son of Kohath, the son of Levi, the son of Israel.
 
-<sup>41</sup> the son of Ethni, the son of Zerah, the son of Adaiah, 
+<sup>39</sup> Heman’s kinsman was Asaph, who served at his right hand: Asaph the son of Berechiah, the son of Shimea,
 
-<sup>42</sup> the son of Ethan, the son of Zimmah, the son of Shimei, 
+<sup>40</sup> the son of Michael, the son of Baaseiah,[^1536] the son of Malchijah,
 
-<sup>43</sup> the son of Jahath, the son of Gershom, the son of Levi. 
+<sup>41</sup> the son of Ethni, the son of Zerah, the son of Adaiah,
 
-<sup>44</sup> On the left were their kinsmen, the sons of Merari: Ethan the son of Kishi, the son of Abdi, the son of Malluch, 
+<sup>42</sup> the son of Ethan, the son of Zimmah, the son of Shimei,
 
-<sup>45</sup> the son of Hashabiah, the son of Amaziah, the son of Hilkiah, 
+<sup>43</sup> the son of Jahath, the son of Gershom, the son of Levi.
 
-<sup>46</sup> the son of Amzi, the son of Bani, the son of Shemer, 
+<sup>44</sup> On the left were their kinsmen, the sons of Merari: Ethan the son of Kishi, the son of Abdi, the son of Malluch,
 
-<sup>47</sup> the son of Mahli, the son of Mushi, the son of Merari, the son of Levi. 
+<sup>45</sup> the son of Hashabiah, the son of Amaziah, the son of Hilkiah,
 
-<sup>48</sup> Their fellow Levites were assigned to every kind of service of the tabernacle, the house of God. 
+<sup>46</sup> the son of Amzi, the son of Bani, the son of Shemer,
 
-<sup>49</sup> But Aaron and his sons did all the work of the Most Holy Place. They presented the offerings on the altar of burnt offering and on the altar of incense to make atonement for Israel, according to all that Moses the servant of God had commanded. 
+<sup>47</sup> the son of Mahli, the son of Mushi, the son of Merari, the son of Levi.
 
-<sup>50</sup> These were the descendants of Aaron: Eleazar his son, Phinehas his son, Abishua his son, 
+## The Descendants of Aaron
 
-<sup>51</sup> Bukki his son, Uzzi his son, Zerahiah his son, 
+<sup>48</sup> Their fellow Levites were assigned to every kind of service of the tabernacle, the house of God.
 
-<sup>52</sup> Meraioth his son, Amariah his son, Ahitub his son, 
+<sup>49</sup> But Aaron and his sons did all the work of the Most Holy Place.[^1537] They presented the offerings on the altar of burnt offering and on the altar of incense to make atonement for Israel, according to all that Moses the servant of God had commanded.
 
-<sup>53</sup> Zadok his son, and Ahimaaz his son. 
+<sup>50</sup> These were the descendants of Aaron: Eleazar his son, Phinehas his son, Abishua his son,
 
-<sup>54</sup> Now these were the territories assigned to the descendants of Aaron from the Kohathite clan for their settlements, because the first lot fell to them: 
+<sup>51</sup> Bukki his son, Uzzi his son, Zerahiah his son,
 
-<sup>55</sup> They were given Hebron in the land of Judah and its surrounding pasturelands. 
+<sup>52</sup> Meraioth his son, Amariah his son, Ahitub his son,
 
-<sup>56</sup> But the fields and villages around the city were given to Caleb son of Jephunneh. 
+<sup>53</sup> Zadok his son, and Ahimaaz his son.
 
-<sup>57</sup> So the descendants of Aaron were given Hebron (a city of refuge), Libnah, Jattir, Eshtemoa, 
+## Territories for the Levites
 
-<sup>58</sup> Hilen, Debir, 
+**(Numbers 35:1–8; Joshua 21:1–45)**
 
-<sup>59</sup> Ashan, Juttah, and Beth-shemesh, together with their pasturelands. 
+<sup>54</sup> Now these were the territories assigned to the descendants of Aaron from the Kohathite clan for their settlements, because the first lot fell to them:
 
-<sup>60</sup> And from the tribe of Benjamin they were given Gibeon, Geba, Alemeth, and Anathoth, together with their pasturelands. So they had thirteen cities in all among their families. 
+<sup>55</sup> They were given Hebron in the land of Judah and its surrounding pasturelands.
 
-<sup>61</sup> To the rest of the Kohathites, ten cities were allotted from the half-tribe of Manasseh. 
+<sup>56</sup> But the fields and villages around the city were given to Caleb son of Jephunneh.
 
-<sup>62</sup> The Gershomites , according to their clans, were allotted thirteen cities from the tribes of Issachar, Asher, Naphtali, and Manasseh in Bashan. 
+<sup>57</sup> So the descendants of Aaron were given Hebron (a city of refuge), Libnah,[^1538] Jattir, Eshtemoa,
 
-<sup>63</sup> The Merarites, according to their families, were allotted twelve cities from the tribes of Reuben, Gad, and Zebulun. 
+<sup>58</sup> Hilen,[^1539] Debir,
 
-<sup>64</sup> So the Israelites gave to the Levites these cities and their pasturelands. 
+<sup>59</sup> Ashan,[^1540] Juttah, [^1541] and Beth-shemesh, together with their pasturelands.
 
-<sup>65</sup> They assigned by lot the cities named above from the tribes of Judah, Simeon, and Benjamin. 
+<sup>60</sup> And from the tribe of Benjamin they were given Gibeon, [^1542] Geba, Alemeth, and Anathoth, together with their pasturelands. So they had thirteen cities in all among their families.
 
-<sup>66</sup> And some of the clans of the Kohathites were given cities from the tribe of Ephraim for their territory: 
+<sup>61</sup> To the rest of the Kohathites, ten cities were allotted from the half-tribe of Manasseh.
 
-<sup>67</sup> They were given Shechem (a city of refuge) with its pasturelands in the hill country of Ephraim, and Gezer, 
+<sup>62</sup> The Gershomites, [^1543] according to their clans, were allotted thirteen cities from the tribes of Issachar, Asher, Naphtali, and Manasseh in Bashan.
 
-<sup>68</sup> Jokmeam, Beth-horon, 
+<sup>63</sup> The Merarites, according to their clans, were allotted twelve cities from the tribes of Reuben, Gad, and Zebulun.
 
-<sup>69</sup> Aijalon, and Gath-rimmon, together with their pasturelands. 
+<sup>64</sup> So the Israelites gave to the Levites these cities and their pasturelands.
 
-<sup>70</sup> And from the half-tribe of Manasseh the remaining clans of the Kohathites were given Aner and Bileam, together with their pasturelands. 
+<sup>65</sup> They assigned by lot the cities named above from the tribes of Judah, Simeon, and Benjamin.
 
-<sup>71</sup> The Gershomites received the following: From the clan of the half-tribe of Manasseh they were given Golan in Bashan and also Ashtaroth, together with their pasturelands. 
+<sup>66</sup> And some of the clans of the Kohathites were given cities from the tribe of Ephraim for their territory:
 
-<sup>72</sup> From the tribe of Issachar they were given Kedesh, Daberath, 
+<sup>67</sup> They were given Shechem (a city of refuge)[^1544] with its pasturelands in the hill country of Ephraim, and Gezer,
 
-<sup>73</sup> Ramoth, and Anem, together with their pasturelands. 
+<sup>68</sup> Jokmeam, Beth-horon,
 
-<sup>74</sup> From the tribe of Asher they were given Mashal, Abdon, 
+<sup>69</sup> Aijalon, and Gath-rimmon, together with their pasturelands.
 
-<sup>75</sup> Hukok, and Rehob, together with their pasturelands. 
+<sup>70</sup> And from the half-tribe of Manasseh the rest of the clans of the Kohathites were given Aner and Bileam, together with their pasturelands.
 
-<sup>76</sup> And from the tribe of Naphtali they were given Kedesh in Galilee, Hammon, and Kiriathaim, together with their pasturelands. 
+<sup>71</sup> The Gershomites received the following: From the clan of the half-tribe of Manasseh they were given Golan in Bashan and also Ashtaroth, together with their pasturelands.
 
-<sup>77</sup> The Merarites (the rest of the Levites) received the following: From the tribe of Zebulun they were given Rimmono and Tabor, together with their pasturelands. 
+<sup>72</sup> From the tribe of Issachar they were given Kedesh, Daberath,
 
-<sup>78</sup> From the tribe of Reuben east of the Jordan opposite Jericho they were given Bezer in the wilderness, Jahzah, 
+<sup>73</sup> Ramoth, and Anem, together with their pasturelands.
 
-<sup>79</sup> Kedemoth, and Mephaath, together with their pasturelands. 
+<sup>74</sup> From the tribe of Asher they were given Mashal, Abdon,
 
-<sup>80</sup> And from the tribe of Gad they were given Ramoth in Gilead, Mahanaim, 
+<sup>75</sup> Hukok, and Rehob, together with their pasturelands.
 
-<sup>81</sup> Heshbon, and Jazer, together with their pasturelands. 
+<sup>76</sup> And from the tribe of Naphtali they were given Kedesh in Galilee, Hammon, and Kiriathaim, together with their pasturelands.
 
+<sup>77</sup> The Merarites (the rest of the Levites) received the following: From the tribe of Zebulun they were given Rimmono and Tabor,[^1545] together with their pasturelands.
 
+<sup>78</sup> From the tribe of Reuben east of the Jordan opposite Jericho they were given Bezer in the wilderness, Jahzah,[^1546]
+
+<sup>79</sup> Kedemoth, and Mephaath, together with their pasturelands.
+
+<sup>80</sup> And from the tribe of Gad they were given Ramoth in Gilead, Mahanaim,
+
+<sup>81</sup> Heshbon, and Jazer, together with their pasturelands.
+
+[^1528]: 6:14 Jehozadak is a variant of Jozadak; also in verse 15; see Ezra 3:2.
+[^1529]: 6:16 Gershom is a variant of Gershon; similarly in verses 17, 20, 43, 62, and 71; see verse 1.
+[^1530]: 6:23 Ebiasaph is a variant of Abiasaph; also in verse 37; see Exodus 6:24.
+[^1531]: 6:26 Some Hebrew manuscripts, LXX, and Syriac; most Hebrew manuscripts Elkanah. The sons of Elkanah:
+[^1532]: 6:27 Eliab is also called Eliel; see verse 34. Both of these are other names for Elihu; see 1 Samuel 1:1.
+[^1533]: 6:27 Hebrew; some LXX manuscripts include and Samuel his son; see verses 33–34 and 1 Samuel 1:19–20.
+[^1534]: 6:28 See Syriac and some LXX manuscripts (also verse 33 and 1 Samuel 8:2); Hebrew The sons of Samuel: the firstborn Vashni, then Abiah.
+[^1535]: 6:34 Eliel is also called Eliab; see verse 27. Both of these are other names for Elihu; see 1 Samuel 1:1.
+[^1536]: 6:40 Most Hebrew manuscripts; some Hebrew manuscripts, one LXX manuscript, and Syriac Maaseiah
+[^1537]: 6:49 Or the Holy of Holies
+[^1538]: 6:57 As in the parallel text at Joshua 21:13; Hebrew were given the cities of refuge: Hebron, Libnah
+[^1539]: 6:58 Some Hebrew manuscripts; MT Hilez; parallel text at Joshua 21:15 Holon
+[^1540]: 6:59 Ashan is a variant of Ain; see Joshua 21:16.
+[^1541]: 6:59 Syriac and the parallel text at Joshua 21:16; MT does not include Juttah,
+[^1542]: 6:60 LXX, Syriac, and parallel text at Joshua 21:17; MT does not include Gibeon,
+[^1543]: 6:62 Gershomites is a variant of Gershonites; also in verse 71; see 1 Chronicles 23:7.
+[^1544]: 6:67 As in the parallel text at Joshua 21:21; Hebrew They were given the cities of refuge: Shechem
+[^1545]: 6:77 LXX (they were given) Jokneam, Kartah, Rimmono, and Tabor; see Joshua 21:34.
+[^1546]: 6:78 Jahzah is a variant of Jahaz; see Numbers 21:23.

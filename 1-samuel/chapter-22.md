@@ -1,53 +1,57 @@
----
-weight: 22
----
-
 # Chapter 22
 
-<sup>1</sup> So David left Gath and took refuge in the cave of Adullam. When his brothers and the rest of his father’s household heard about it, they went down to him there. 
+## David Flees to Adullam and Mizpeh
 
-<sup>2</sup> And all who were distressed or indebted or discontented rallied around him, and he became their leader. About four hundred men were with him. 
+**(Psalms 57:1–11; Psalms 142:1–7)**
 
-<sup>3</sup> From there David went to Mizpeh of Moab, where he said to the king of Moab, “Please let my father and mother stay with you until I learn what God will do for me.” 
+<sup>1</sup> So David left Gath and took refuge in the cave of Adullam. When his brothers and the rest of his father’s household heard about it, they went down to him there.
 
-<sup>4</sup> So he left them in the care of the king of Moab, and they stayed with him the whole time David was in the stronghold. 
+<sup>2</sup> And all who were distressed or indebted or discontented rallied around him, and he became their leader. About four hundred men were with him.
 
-<sup>5</sup> Then the prophet Gad said to David, “Do not stay in the stronghold. Depart and go into the land of Judah.” So David left and went to the forest of Hereth. 
+<sup>3</sup> From there David went to Mizpeh of Moab, where he said to the king of Moab, “Please let my father and mother stay [^1049] with you until I learn what God will do for me.”
 
-<sup>6</sup> Soon Saul learned that David and his men had been discovered. At that time Saul was in Gibeah, sitting under the tamarisk tree on the hill at Gibeah, with his spear in hand and all his servants standing around him. 
+<sup>4</sup> So he left them in the care of the king of Moab, and they stayed with him the whole time David was in the stronghold.
 
-<sup>7</sup> Then Saul said to his servants, “Listen, men of Benjamin! Is the son of Jesse giving all of you fields and vineyards and making you commanders of thousands or hundreds? 
+<sup>5</sup> Then the prophet Gad said to David, “Do not stay in the stronghold. Depart and go into the land of Judah.” So David left and went to the forest of Hereth.
 
-<sup>8</sup> Is that why all of you have conspired against me? Not one of you told me that my own son had made a covenant with the son of Jesse. Not one of you has shown concern for me or revealed to me that my son has stirred up my own servant to lie in wait against me, as is the case today.” 
+## Saul Slays the Priests of Nob
 
-<sup>9</sup> But Doeg the Edomite, who had stationed himself with Saul’s servants, answered: “I saw the son of Jesse come to Ahimelech son of Ahitub at Nob. 
+**(Psalms 52:1–9)**
 
-<sup>10</sup> Ahimelech inquired of the LORD for him and gave him provisions. He also gave him the sword of Goliath the Philistine.” 
+<sup>6</sup> Soon Saul learned that David and his men had been discovered. At that time Saul was sitting under the tamarisk tree on the hill at Gibeah, with his spear in hand and all his servants standing around him.
 
-<sup>11</sup> Then the king sent messengers to summon Ahimelech the priest, the son of Ahitub, and his father’s whole family, who were priests at Nob. And all of them came to the king. 
+<sup>7</sup> Then Saul said to his servants, “Listen, men of Benjamin! Is the son of Jesse giving all of you fields and vineyards and making you commanders of thousands or hundreds?
 
-<sup>12</sup> “Listen now, son of Ahitub,” said Saul. “Here I am, my lord,” he replied. 
+<sup>8</sup> Is that why all of you have conspired against me? Not one of you told me that my own son had made a covenant with the son of Jesse. Not one of you has shown concern for me or revealed to me that my son has stirred up my own servant to lie in wait against me, as is the case today.”
 
-<sup>13</sup> And Saul asked him, “Why have you and the son of Jesse conspired against me? You gave him bread and a sword and inquired of God for him so that he could rise up against me to lie in wait, as he is doing today.” 
+<sup>9</sup> But Doeg the Edomite, who had stationed himself with Saul’s servants, answered: “I saw the son of Jesse come to Ahimelech son of Ahitub at Nob.
 
-<sup>14</sup> Ahimelech answered the king, “Who among all your servants is as faithful as David, the king’s son-in-law, the captain of your bodyguard who is honored in your house? 
+<sup>10</sup> Ahimelech inquired of the LORD for him and gave him provisions. He also gave him the sword of Goliath the Philistine.”
 
-<sup>15</sup> Was that day the first time I inquired of God for him? Far be it from me! Let not the king accuse your servant or any of my father’s household, for your servant knew nothing of this whole affair—not in part or in whole.” 
+<sup>11</sup> Then the king sent messengers to summon Ahimelech the priest, the son of Ahitub, and his father’s whole family, who were priests at Nob. And all of them came to the king.
 
-<sup>16</sup> But the king replied, “You will surely die, Ahimelech, you and all your father’s house!” 
+<sup>12</sup> “Listen now, son of Ahitub,” said Saul. “Here I am, my lord,” he replied.
 
-<sup>17</sup> Then the king ordered the guards at his side, “Turn and kill the priests of the LORD, because they too sided with David. For they knew he was fleeing, but they did not tell me.” But the king’s servants would not lift a hand to strike the priests of the LORD. 
+<sup>13</sup> And Saul asked him, “Why have you and the son of Jesse conspired against me? You gave him bread and a sword and inquired of God for him so that he could rise up against me to lie in wait, as he is doing today.”
 
-<sup>18</sup> So the king ordered Doeg, “You turn and strike down the priests!” And Doeg the Edomite turned and struck down the priests himself. On that day he killed eighty-five men who wore the linen ephod. 
+<sup>14</sup> Ahimelech answered the king, “Who among all your servants is as faithful as David, the king’s son-in-law, the captain of your bodyguard and honored in your house?
 
-<sup>19</sup> He also put to the sword Nob, the city of the priests, with its men and women, children and infants, oxen, donkeys, and sheep. 
+<sup>15</sup> Was that day the first time I inquired of God for him? Far be it from me! Let not the king accuse your servant or any of my father’s household, for your servant knew nothing of this whole affair—not in part or in whole.”
 
-<sup>20</sup> But one of the sons of Ahimelech son of Ahitub escaped. His name was Abiathar, and he fled to David. 
+<sup>16</sup> But the king replied, “You will surely die, Ahimelech, you and all your father’s house!”
 
-<sup>21</sup> And Abiathar told David that Saul had killed the priests of the LORD. 
+<sup>17</sup> Then the king ordered the guards at his side, “Turn and kill the priests of the LORD, because they too sided with David. For they knew he was fleeing, but they did not tell me.” But the king’s servants would not lift a hand to strike the priests of the LORD.
 
-<sup>22</sup> Then David said to Abiathar, “I knew that Doeg the Edomite was there that day, and that he was sure to tell Saul. I myself am responsible for the lives of everyone in your father’s house. 
+<sup>18</sup> So the king ordered Doeg, “You turn and strike down the priests!” And Doeg the Edomite turned and struck down the priests himself. On that day he killed eighty-five men who wore the linen ephod.
 
-<sup>23</sup> Stay with me; do not be afraid, for he who seeks your life is seeking mine as well. You will be safe with me.” 
+<sup>19</sup> He also put to the sword Nob, the city of the priests, with its men and women, children and infants, oxen, donkeys, and sheep.
 
+<sup>20</sup> But one of the sons of Ahimelech son of Ahitub escaped. His name was Abiathar, and he fled to David.
 
+<sup>21</sup> And Abiathar told David that Saul had killed the priests of the LORD.
+
+<sup>22</sup> Then David said to Abiathar, “I knew that Doeg the Edomite was there that day, and that he was sure to tell Saul. I myself am responsible for the lives of everyone in your father’s house.
+
+<sup>23</sup> Stay with me; do not be afraid, for he who seeks your life is seeking mine as well. You will be safe with me.”
+
+[^1049]: 22:3 Syriac and Vulgate; Hebrew go forth

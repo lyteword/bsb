@@ -1,52 +1,83 @@
----
-weight: 36
----
-
 # Chapter 36
 
-<sup>1</sup> Then the people of the land took Jehoahaz son of Josiah and made him king in Jerusalem in place of his father. 
+## Jehoahaz Succeeds Josiah
 
-<sup>2</sup> Jehoahaz was twenty-three years old when he became king, and he reigned in Jerusalem three months. 
+**(2 Kings 23:31–35)**
 
-<sup>3</sup> And the king of Egypt dethroned him in Jerusalem and imposed on Judah a levy of a hundred talents of silver and a talent of gold. 
+<sup>1</sup> Then the people of the land took Jehoahaz son of Josiah and made him king in Jerusalem in place of his father.
 
-<sup>4</sup> Then Neco king of Egypt made Eliakim brother of Jehoahaz king over Judah and Jerusalem, and he changed Eliakim’s name to Jehoiakim. But Neco took Eliakim’s brother Jehoahaz and carried him off to Egypt. 
+<sup>2</sup> Jehoahaz [^1861] was twenty-three years old when he became king, and he reigned in Jerusalem three months.
 
-<sup>5</sup> Jehoiakim was twenty-five years old when he became king, and he reigned in Jerusalem eleven years. And he did evil in the sight of the LORD his God. 
+<sup>3</sup> And the king of Egypt dethroned him in Jerusalem and imposed on Judah a levy of a hundred talents of silver [^1862] and a talent of gold.[^1863]
 
-<sup>6</sup> Then Nebuchadnezzar king of Babylon came up against Jehoiakim and bound him with bronze shackles to take him to Babylon. 
+<sup>4</sup> Then Neco king of Egypt made Eliakim brother of Jehoahaz king over Judah and Jerusalem, and he changed Eliakim’s name to Jehoiakim. But Neco took Eliakim’s brother Jehoahaz and carried him off to Egypt.
 
-<sup>7</sup> Nebuchadnezzar also took to Babylon some of the articles from the house of the LORD, and he put them in his temple in Babylon. 
+## Jehoiakim Reigns in Judah
 
-<sup>8</sup> As for the rest of the acts of Jehoiakim, the abominations he committed, and all that was found against him, they are indeed written in the Book of the Kings of Israel and Judah. And his son Jehoiachin reigned in his place. 
+**(2 Kings 23:36–37)**
 
-<sup>9</sup> Jehoiachin was eighteen years old when he became king, and he reigned in Jerusalem three months and ten days. And he did evil in the sight of the LORD. 
+<sup>5</sup> Jehoiakim was twenty-five years old when he became king, and he reigned in Jerusalem eleven years. And he did evil in the sight of the LORD his God.
 
-<sup>10</sup> In the spring, King Nebuchadnezzar summoned Jehoiachin and brought him to Babylon, along with the articles of value from the house of the LORD. And he made Jehoiachin’s relative Zedekiah king over Judah and Jerusalem. 
+<sup>6</sup> Then Nebuchadnezzar king of Babylon came up against Jehoiakim and bound him with bronze shackles to take him to Babylon.
 
-<sup>11</sup> Zedekiah was twenty-one years old when he became king, and he reigned in Jerusalem eleven years. 
+<sup>7</sup> Nebuchadnezzar also took to Babylon some of the articles from the house of the LORD, and he put them in his temple [^1864] in Babylon.
 
-<sup>12</sup> And he did evil in the sight of the LORD his God and did not humble himself before Jeremiah the prophet, who spoke for the LORD. 
+<sup>8</sup> As for the rest of the acts of Jehoiakim, the abominations he committed, and all that was found against him, they are indeed written in the Book of the Kings of Israel and Judah. And his son Jehoiachin reigned in his place.
 
-<sup>13</sup> He also rebelled against King Nebuchadnezzar, who had made him swear by God. But Zedekiah stiffened his neck and hardened his heart against turning to the LORD, the God of Israel. 
+## Jehoiachin Reigns in Judah
 
-<sup>14</sup> Furthermore, all the leaders of the priests and the people multiplied their unfaithful deeds, following all the abominations of the nations, and they defiled the house of the LORD, which He had consecrated in Jerusalem. 
+**(2 Kings 24:6–9)**
 
-<sup>15</sup> Again and again the LORD, the God of their fathers, sent word to His people through His messengers because He had compassion on them and on His dwelling place. 
+<sup>9</sup> Jehoiachin was eighteen [^1865] years old when he became king, and he reigned in Jerusalem three months and ten days. And he did evil in the sight of the LORD.
 
-<sup>16</sup> But they mocked the messengers of God, despising His words and scoffing at His prophets, until the wrath of the LORD against His people was stirred up beyond remedy. 
+<sup>10</sup> In the spring,[^1866] King Nebuchadnezzar summoned Jehoiachin and brought him to Babylon, along with the articles of value from the house of the LORD. And he made Jehoiachin’s relative [^1867] Zedekiah king over Judah and Jerusalem.
 
-<sup>17</sup> So He brought up against them the king of the Chaldeans, who put their young men to the sword in the sanctuary, sparing neither young men nor young women, neither elderly nor infirm. God gave them all into the hand of Nebuchadnezzar, 
+## Zedekiah Reigns in Judah
 
-<sup>18</sup> who carried off everything to Babylon—all the articles of the house of God, both large and small, and the treasures of the house of the LORD and of the king and his officials. 
+**(2 Kings 24:18–20; Jeremiah 52:1–3)**
 
-<sup>19</sup> Then the Chaldeans set fire to the house of God and broke down the wall of Jerusalem. They burned down all the palaces and destroyed every article of value. 
+<sup>11</sup> Zedekiah was twenty-one years old when he became king, and he reigned in Jerusalem eleven years.
 
-<sup>20</sup> Those who escaped the sword were carried by Nebuchadnezzar into exile in Babylon, and they became servants to him and his sons until the kingdom of Persia came to power. 
+<sup>12</sup> And he did evil in the sight of the LORD his God and did not humble himself before Jeremiah the prophet, who spoke for the LORD.
 
-<sup>21</sup> So the land enjoyed its Sabbath rest all the days of the desolation, until seventy years were completed, in fulfillment of the word of the LORD through Jeremiah. 
+<sup>13</sup> He also rebelled against King Nebuchadnezzar, who had made him swear by God. But Zedekiah stiffened his neck and hardened [^1868] his heart against turning to the LORD, the God of Israel.
 
-<sup>22</sup> In the first year of Cyrus king of Persia, to fulfill the word of the LORD spoken through Jeremiah, the LORD stirred the spirit of Cyrus king of Persia to send a proclamation throughout his kingdom and to put it in writing as follows: 
+<sup>14</sup> Furthermore, all the leaders of the priests and the people multiplied their unfaithful deeds, following all the abominations of the nations, and they defiled the house of the LORD, which He had consecrated in Jerusalem.
+
+## The Fall of Jerusalem
+
+**(2 Kings 25:1–7)**
+
+<sup>15</sup> Again and again [^1869] the LORD, the God of their fathers, sent word to His people through His messengers because He had compassion on them and on His dwelling place.
+
+<sup>16</sup> But they mocked the messengers of God, despising His words and scoffing at His prophets, until the wrath of the LORD against His people was stirred up beyond remedy.
+
+<sup>17</sup> So He brought up against them the king of the Chaldeans,[^1870] who put their young men to the sword in the sanctuary, sparing neither young men nor young women, neither elderly nor infirm. God gave them all into the hand of Nebuchadnezzar,
+
+<sup>18</sup> who carried off everything to Babylon—all the articles of the house of God, both large and small, and the treasures of the house of the LORD and of the king and his officials.
+
+<sup>19</sup> Then the Chaldeans set fire to the house of God and broke down the wall of Jerusalem. They burned down all the palaces and destroyed every article of value.
+
+<sup>20</sup> Those who escaped the sword were carried by Nebuchadnezzar into exile in Babylon, and they became servants to him and his sons until the kingdom of Persia came to power.
+
+<sup>21</sup> So the land enjoyed its Sabbath rest all the days of the desolation, until seventy years were completed, in fulfillment of the word of the LORD spoken through Jeremiah.[^1871]
+
+## The Proclamation of Cyrus
+
+**(Ezra 1:1–4; Isaiah 45:1–25)**
+
+<sup>22</sup> In the first year of Cyrus king of Persia, to fulfill the word of the LORD spoken through Jeremiah, the LORD stirred the spirit of Cyrus king of Persia to send a proclamation throughout his kingdom and to put it in writing as follows:
 
 <sup>23</sup> “This is what Cyrus king of Persia says: ‘The LORD, the God of heaven, who has given me all the kingdoms of the earth, has appointed me to build a house for Him at Jerusalem in Judah. Whoever among you belongs to His people, may the LORD his God be with him, and may he go up.’”
 
+[^1861]: 36:2 Hebrew Joahaz, a variant of Jehoahaz; also in verse 4
+[^1862]: 36:3 100 talents is approximately 3.77 tons or 3.42 metric tons of silver.
+[^1863]: 36:3 A talent is approximately 75.4 pounds or 34.2 kilograms of gold.
+[^1864]: 36:7 Or palace
+[^1865]: 36:9 One Hebrew manuscript, some LXX manuscripts, and Syriac (see also 2 Kings 24:8); most Hebrew manuscripts eight
+[^1866]: 36:10 Literally At the turn of the year
+[^1867]: 36:10 Or brother or uncle
+[^1868]: 36:13 Or made strong or made courageous
+[^1869]: 36:15 Literally Rising up early and sending (it),
+[^1870]: 36:17 That is, the Babylonians; also clarified in verse 19
+[^1871]: 36:21 See Jeremiah 25:12 and Jeremiah 29:10.
