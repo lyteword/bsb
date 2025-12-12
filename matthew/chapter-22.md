@@ -1,99 +1,121 @@
----
-weight: 22
----
-
 # Chapter 22
 
-<sup>1</sup> Once again, Jesus spoke to them in parables: 
+## The Parable of the Banquet
 
-<sup>2</sup> “The kingdom of heaven is like a king who prepared a wedding banquet for his son. 
+**(Luke 14:15–24)**
 
-<sup>3</sup> He sent his servants to call those he had invited to the banquet, but they refused to come. 
+<sup>1</sup> Once again, Jesus spoke to them in parables:
 
-<sup>4</sup> Again, he sent other servants and said, ‘Tell those who have been invited that I have prepared my dinner. My oxen and fattened cattle have been killed, and everything is ready. Come to the wedding banquet.’ 
+<sup>2</sup> “The kingdom of heaven is like a king who prepared a wedding banquet for his son.
 
-<sup>5</sup> But they paid no attention and went away, one to his field, another to his business. 
+<sup>3</sup> He sent his servants to call those he had invited to the banquet, but they refused to come.
 
-<sup>6</sup> The rest seized his servants, mistreated them, and killed them. 
+<sup>4</sup> Again, he sent other servants and said, ‘Tell those who have been invited that I have prepared my dinner. My oxen and fattened cattle have been killed, and everything is ready. Come to the wedding banquet.’
 
-<sup>7</sup> The king was enraged, and he sent his troops to destroy those murderers and burn their city. 
+<sup>5</sup> But they paid no attention and went away, one to his field, another to his business.
 
-<sup>8</sup> Then he said to his servants, ‘The wedding banquet is ready, but those I invited were not worthy. 
+<sup>6</sup> The rest seized his servants, mistreated them, and killed them.
 
-<sup>9</sup> Go therefore to the crossroads and invite to the banquet as many as you can find.’ 
+<sup>7</sup> The king was enraged, and he sent his troops to destroy those murderers and burn their city.
 
-<sup>10</sup> So the servants went out into the streets and gathered everyone they could find, both evil and good, and the wedding hall was filled with guests. 
+<sup>8</sup> Then he said to his servants, ‘The wedding banquet is ready, but those I invited were not worthy.
 
-<sup>11</sup> But when the king came in to see the guests, he spotted a man who was not dressed in wedding clothes. 
+<sup>9</sup> Go therefore to the crossroads and invite to the banquet as many as you can find.’
 
-<sup>12</sup> ‘Friend,’ he asked, ‘how did you get in here without wedding clothes?’ But the man was speechless. 
+<sup>10</sup> So the servants went out into the streets and gathered everyone they could find, both evil and good, and the wedding hall was filled with guests.
 
-<sup>13</sup> Then the king told the servants, ‘Tie him hand and foot, and throw him into the outer darkness, where there will be weeping and gnashing of teeth.’ 
+<sup>11</sup> But when the king came in to see the guests, he spotted a man who was not dressed in wedding clothes.
 
-<sup>14</sup> For many are called, but few are chosen.” 
+<sup>12</sup> ‘Friend,’ he asked, ‘how did you get in here without wedding clothes?’ But the man was speechless.
 
-<sup>15</sup> Then the Pharisees went out and conspired to trap Jesus in His words. 
+<sup>13</sup> Then the king told the servants, ‘Tie him hand and foot, and throw him into the outer darkness, where there will be weeping and gnashing of teeth.’
 
-<sup>16</sup> They sent their disciples to Him along with the Herodians. “Teacher,” they said, “we know that You are honest and that You teach the way of God in accordance with the truth. You seek favor from no one, because You pay no attention to external appearance. 
+<sup>14</sup> For many are called, but few are chosen.”
 
-<sup>17</sup> So tell us what You think: Is it lawful to pay taxes to Caesar or not?” 
+## Paying Taxes to Caesar
 
-<sup>18</sup> But Jesus knew their evil intent and said, “You hypocrites, why are you testing Me? 
+**(Mark 12:13–17; Luke 20:19–26)**
 
-<sup>19</sup> Show Me the coin used for the tax.” And they brought Him a denarius. 
+<sup>15</sup> Then the Pharisees went out and conspired to trap Jesus in His words.
 
-<sup>20</sup> “Whose image is this,” He asked, “and whose inscription?” 
+<sup>16</sup> They sent their disciples to Him along with the Herodians. “Teacher,” they said, “we know that You are honest and that You teach the way of God in accordance with the truth. You seek favor from no one, because You pay no attention to external appearance.
 
-<sup>21</sup> “Caesar’s,” they answered. So Jesus told them, “Give to Caesar what is Caesar’s, and to God what is God’s.” 
+<sup>17</sup> So tell us what You think: Is it lawful to pay taxes to Caesar or not?”
 
-<sup>22</sup> And when they heard this, they were amazed. So they left Him and went away. 
+<sup>18</sup> But Jesus knew their evil intent and said, “You hypocrites, why are you testing Me?
 
-<sup>23</sup> That same day the Sadducees, who say there is no resurrection, came to Jesus and questioned Him. 
+<sup>19</sup> Show Me the coin used for the tax.” And they brought Him a denarius.[^3683]
 
-<sup>24</sup> “Teacher,” they said, “Moses declared that if a man dies without having children, his brother is to marry the widow and raise up offspring for him. 
+<sup>20</sup> “Whose image is this,” He asked, “and whose inscription?”
 
-<sup>25</sup> Now there were seven brothers among us. The first one married and died without having children. So he left his wife to his brother. 
+<sup>21</sup> “Caesar’s,” they answered. So Jesus told them, “Give to Caesar what is Caesar’s, and to God what is God’s.”
 
-<sup>26</sup> The same thing happened to the second and third brothers, down to the seventh. 
+<sup>22</sup> And when they heard this, they were amazed. So they left Him and went away.
 
-<sup>27</sup> And last of all, the woman died. 
+## The Sadducees and the Resurrection
 
-<sup>28</sup> In the resurrection, then, whose wife will she be of the seven? For all of them were married to her.” 
+**(Mark 12:18–27; Luke 20:27–40)**
 
-<sup>29</sup> Jesus answered, “You are mistaken because you do not know the Scriptures or the power of God. 
+<sup>23</sup> That same day the Sadducees, who say there is no resurrection, came to Jesus and questioned Him.
 
-<sup>30</sup> In the resurrection, people will neither marry nor be given in marriage. Instead, they will be like the angels in heaven. 
+<sup>24</sup> “Teacher,” they said, “Moses declared that if a man dies without having children, his brother is to marry the widow and raise up offspring for him.[^3684]
 
-<sup>31</sup> But concerning the resurrection of the dead, have you not read what God said to you: 
+<sup>25</sup> Now there were seven brothers among us. The first one married and died without having children. So he left his wife to his brother.
 
-<sup>32</sup> ‘I am the God of Abraham, the God of Isaac, and the God of Jacob’? He is not the God of the dead, but of the living.” 
+<sup>26</sup> The same thing happened to the second and third brothers, down to the seventh.
 
-<sup>33</sup> When the crowds heard this, they were astonished at His teaching. 
+<sup>27</sup> And last of all, the woman died.
 
-<sup>34</sup> And when the Pharisees heard that Jesus had silenced the Sadducees, they themselves gathered together. 
+<sup>28</sup> In the resurrection, then, whose wife will she be of the seven? For all of them were married to her.”
 
-<sup>35</sup> One of them, an expert in the law, tested Him with a question: 
+<sup>29</sup> Jesus answered, “You are mistaken because you do not know the Scriptures or the power of God.
 
-<sup>36</sup> “Teacher, which commandment is the greatest in the Law?” 
+<sup>30</sup> In the resurrection, people will neither marry nor be given in marriage. Instead, they will be like the angels [^3685] in heaven.
 
-<sup>37</sup> Jesus declared, “‘Love the Lord your God with all your heart and with all your soul and with all your mind.’ 
+<sup>31</sup> But concerning the resurrection of the dead, have you not read what God said to you:
 
-<sup>38</sup> This is the first and greatest commandment. 
+<sup>32</sup> ‘I am the God of Abraham, the God of Isaac, and the God of Jacob’[^3686]? He is not the God of the dead, but of the living.”
 
-<sup>39</sup> And the second is like it: ‘Love your neighbor as yourself.’ 
+<sup>33</sup> When the crowds heard this, they were astonished at His teaching.
 
-<sup>40</sup> All the Law and the Prophets hang on these two commandments.” 
+## The Greatest Commandment
 
-<sup>41</sup> While the Pharisees were assembled, Jesus questioned them: 
+**(Deuteronomy 6:1–19; Mark 12:28–34)**
 
-<sup>42</sup> “What do you think about the Christ? Whose son is He?” “David’s,” they answered. 
+<sup>34</sup> And when the Pharisees heard that Jesus had silenced the Sadducees, they themselves gathered together.
 
-<sup>43</sup> Jesus said to them, “How then does David in the Spirit call Him ‘Lord’? For he says: 
+<sup>35</sup> One of them, an expert in the law, tested Him with a question:
 
-<sup>44</sup> ‘The Lord said to my Lord, “Sit at My right hand until I put Your enemies under Your feet.”’ 
+<sup>36</sup> “Teacher, which commandment is the greatest in the Law?”
 
-<sup>45</sup> So if David calls Him ‘Lord,’ how can He be David’s son?” 
+<sup>37</sup> Jesus declared, “‘Love the Lord your God with all your heart and with all your soul and with all your mind.’[^3687]
 
-<sup>46</sup> No one was able to answer a word, and from that day on no one dared to question Him any further. 
+<sup>38</sup> This is the first and greatest commandment.
 
+<sup>39</sup> And the second is like it: ‘Love your neighbor as yourself.’[^3688]
 
+<sup>40</sup> All the Law and the Prophets hang on these two commandments.”
+
+## Whose Son Is the Christ?
+
+**(Mark 12:35–37; Luke 20:41–44)**
+
+<sup>41</sup> While the Pharisees were assembled, Jesus questioned them:
+
+<sup>42</sup> “What do you think about the Christ? Whose son is He?” “David’s,” they answered.
+
+<sup>43</sup> Jesus said to them, “How then does David in the Spirit call Him ‘Lord’? For he says:
+
+<sup>44</sup> ‘The Lord said to my Lord, “Sit at My right hand until I put Your enemies under Your feet.”’[^3689]
+
+<sup>45</sup> So if David calls Him ‘Lord,’ how can He be David’s son?”
+
+<sup>46</sup> No one was able to answer a word, and from that day on no one dared to question Him any further.
+
+[^3683]: 22:19 A denarius was customarily a day’s wage for a laborer; see Matthew 20:2.
+[^3684]: 22:24 Deuteronomy 25:5
+[^3685]: 22:30 SBL, BYZ, and TR the angels of God
+[^3686]: 22:32 Exodus 3:6
+[^3687]: 22:37 Deuteronomy 6:5
+[^3688]: 22:39 Leviticus 19:18
+[^3689]: 22:44 Psalms 110:1

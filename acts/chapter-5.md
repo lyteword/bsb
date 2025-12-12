@@ -1,91 +1,100 @@
----
-weight: 5
----
-
 # Chapter 5
 
-<sup>1</sup> Now a man named Ananias, together with his wife Sapphira, also sold a piece of property. 
+## Ananias and Sapphira
 
-<sup>2</sup> With his wife’s full knowledge, he kept back some of the proceeds for himself, but brought a portion and laid it at the apostles’ feet. 
+<sup>1</sup> Now a man named Ananias, together with his wife Sapphira, also sold a piece of property.
 
-<sup>3</sup> Then Peter said, “Ananias, how is it that Satan has filled your heart to lie to the Holy Spirit and withhold some of the proceeds from the land? 
+<sup>2</sup> With his wife’s full knowledge, he kept back some of the proceeds for himself, but brought a portion and laid it at the apostles’ feet.
 
-<sup>4</sup> Did it not belong to you before it was sold? And after it was sold, was it not at your disposal? How could you conceive such a deed in your heart? You have not lied to men, but to God!” 
+<sup>3</sup> Then Peter said, “Ananias, how is it that Satan has filled your heart to lie to the Holy Spirit and withhold some of the proceeds from the land?
 
-<sup>5</sup> On hearing these words, Ananias fell down and died. And great fear came over all who heard what had happened. 
+<sup>4</sup> Did it not belong to you before it was sold? And after it was sold, was it not at your disposal? How could you conceive such a deed in your heart? You have not lied to men, but to God!”
 
-<sup>6</sup> Then the young men stepped forward, wrapped up his body, and carried him out and buried him. 
+<sup>5</sup> On hearing these words, Ananias fell down and died. And great fear came over all who heard what had happened.
 
-<sup>7</sup> About three hours later his wife also came in, unaware of what had happened. 
+<sup>6</sup> Then the young men stepped forward, wrapped up his body, and carried him out and buried him.
 
-<sup>8</sup> “Tell me,” said Peter, “is this the price you and your husband got for the land?” “Yes,” she answered, “that is the price.” 
+<sup>7</sup> About three hours later his wife also came in, unaware of what had happened.
 
-<sup>9</sup> “How could you agree to test the Spirit of the Lord?” Peter replied. “Look, the feet of the men who buried your husband are at the door, and they will carry you out also.” 
+<sup>8</sup> “Tell me,” said Peter, “is this the price you and your husband got for the land?” “Yes,” she answered, “that is the price.”
 
-<sup>10</sup> At that instant she fell down at his feet and died. Then the young men came in and, finding her dead, carried her out and buried her beside her husband. 
+<sup>9</sup> “How could you agree to test the Spirit of the Lord?” Peter replied. “Look, the feet of the men who buried your husband are at the door, and they will carry you out also.”
 
-<sup>11</sup> And great fear came over the whole church and all who heard about these events. 
+<sup>10</sup> At that instant she fell down at his feet and died. Then the young men came in and, finding her dead, carried her out and buried her beside her husband.
 
-<sup>12</sup> The apostles performed many signs and wonders among the people, and with one accord the believers gathered together in Solomon’s Colonnade. 
+<sup>11</sup> And great fear came over the whole church and all who heard about these events.
 
-<sup>13</sup> Although the people regarded them highly, no one else dared to join them. 
+## The Apostles Heal Many
 
-<sup>14</sup> Yet more and more believers were brought to the Lord—large numbers of both men and women. 
+<sup>12</sup> The apostles performed many signs and wonders among the people, and with one accord the believers gathered together in Solomon’s Colonnade.
 
-<sup>15</sup> As a result, people brought the sick into the streets and laid them on cots and mats, so that at least Peter’s shadow might fall on some of them as he passed by. 
+<sup>13</sup> Although the people regarded them highly, no one else dared to join them.
 
-<sup>16</sup> Crowds also gathered from the towns around Jerusalem, bringing the sick and those tormented by unclean spirits, and all of them were healed. 
+<sup>14</sup> Yet more and more believers were brought to the Lord—large numbers of both men and women.
 
-<sup>17</sup> Then the high priest and all his associates, who belonged to the party of the Sadducees, were filled with jealousy. They went out 
+<sup>15</sup> As a result, people brought the sick into the streets and laid them on cots and mats, so that at least Peter’s shadow might fall on some of them as he passed by.
 
-<sup>18</sup> and arrested the apostles and put them in the public jail. 
+<sup>16</sup> Crowds also gathered from the towns around Jerusalem, bringing the sick and those tormented by unclean spirits, and all of them were healed.
 
-<sup>19</sup> But during the night an angel of the Lord opened the doors of the jail and brought them out, saying, 
+## The Apostles Arrested and Freed
 
-<sup>20</sup> “Go, stand in the temple courts and tell the people the full message of this new life.” 
+<sup>17</sup> Then the high priest and all his associates, who belonged to the party of the Sadducees, were filled with jealousy. They went out
 
-<sup>21</sup> At daybreak the apostles entered the temple courts as they had been told and began to teach the people. When the high priest and his associates arrived, they convened the Sanhedrin—the full assembly of the elders of Israel—and sent to the jail for the apostles. 
+<sup>18</sup> and arrested the apostles and put them in the public jail.
 
-<sup>22</sup> But on arriving at the jail, the officers did not find them there. So they returned with the report: 
+<sup>19</sup> But during the night an angel of the Lord opened the doors of the jail and brought them out, saying,
 
-<sup>23</sup> “We found the jail securely locked, with the guards posted at the doors; but when we opened them, we found no one inside.” 
+<sup>20</sup> “Go, stand in the temple courts [^4156] and tell the people the full message of this new life.”
 
-<sup>24</sup> When the captain of the temple guard and the chief priests heard this account, they were perplexed as to what was happening. 
+<sup>21</sup> At daybreak the apostles entered the temple courts as they had been told and began to teach the people. When the high priest and his associates arrived, they convened the Sanhedrin[^4157]—the full assembly of the elders of Israel—and sent to the jail for the apostles.
 
-<sup>25</sup> Then someone came in and announced, “Look, the men you put in jail are standing in the temple courts teaching the people!” 
+<sup>22</sup> But on arriving at the jail, the officers did not find them there. So they returned with the report:
 
-<sup>26</sup> At that point, the captain went with the officers and brought the apostles—but not by force, for fear the people would stone them. 
+<sup>23</sup> “We found the jail securely locked, with the guards posted at the doors; but when we opened them, we found no one inside.”
 
-<sup>27</sup> They brought them in and made them stand before the Sanhedrin, where the high priest interrogated them. 
+## The Apostles before the Sanhedrin
 
-<sup>28</sup> “We gave you strict orders not to teach in this name,” he said. “Yet you have filled Jerusalem with your teaching and are determined to make us responsible for this man’s blood.” 
+<sup>24</sup> When the captain of the temple guard and the chief priests heard this account, they were perplexed as to what was happening.[^4158]
 
-<sup>29</sup> But Peter and the other apostles replied, “We must obey God rather than men. 
+<sup>25</sup> Then someone came in and announced, “Look, the men you put in jail are standing in the temple courts teaching the people!”
 
-<sup>30</sup> The God of our fathers raised up Jesus, whom you had killed by hanging Him on a tree. 
+<sup>26</sup> At that point, the captain went with the officers and brought the apostles—but not by force, for fear the people would stone them.
 
-<sup>31</sup> God exalted Him to His right hand as Prince and Savior, in order to grant repentance and forgiveness of sins to Israel. 
+<sup>27</sup> They brought them in and made them stand before the Sanhedrin, where the high priest interrogated them.
 
-<sup>32</sup> We are witnesses of these things, and so is the Holy Spirit, whom God has given to those who obey Him.” 
+<sup>28</sup> “We gave you strict orders not to teach in this name,” he said. “Yet you have filled Jerusalem with your teaching and are determined to make us responsible for this man’s blood.”
 
-<sup>33</sup> When the Council members heard this, they were enraged, and they resolved to put the apostles to death. 
+<sup>29</sup> But Peter and the other apostles replied, “We must obey God rather than men.
 
-<sup>34</sup> But a Pharisee named Gamaliel, a teacher of the law who was honored by all the people, stood up in the Sanhedrin and ordered that the men be put outside for a short time. 
+<sup>30</sup> The God of our fathers raised up Jesus, whom you had killed by hanging Him on a tree.
 
-<sup>35</sup> “Men of Israel,” he said, “consider carefully what you are about to do to these men. 
+<sup>31</sup> God exalted Him to His right hand as Prince and Savior, in order to grant repentance and forgiveness of sins to Israel.
 
-<sup>36</sup> Some time ago Theudas rose up, claiming to be somebody, and about four hundred men joined him. He was killed, all his followers were dispersed, and it all came to nothing. 
+<sup>32</sup> We are witnesses of these things, and so is the Holy Spirit, whom God has given to those who obey Him.”
 
-<sup>37</sup> After him, Judas the Galilean appeared in the days of the census and drew away people after him. He too perished, and all his followers were scattered. 
+## Gamaliel’s Advice
 
-<sup>38</sup> So in the present case I advise you: Leave these men alone. Let them go! For if their purpose or endeavor is of human origin, it will fail. 
+<sup>33</sup> When the Council members heard this, they were enraged, and they resolved [^4159] to put the apostles to death.
 
-<sup>39</sup> But if it is from God, you will not be able to stop them. You may even find yourselves fighting against God.” 
+<sup>34</sup> But a Pharisee named Gamaliel, a teacher of the law who was honored by all the people, stood up in the Sanhedrin and ordered that the men be put outside for a short time.
 
-<sup>40</sup> At this, they yielded to Gamaliel. They called the apostles in and had them flogged. Then they ordered them not to speak in the name of Jesus, and released them. 
+<sup>35</sup> “Men of Israel,” he said, “consider carefully what you are about to do to these men.
 
-<sup>41</sup> The apostles left the Sanhedrin, rejoicing that they had been counted worthy of suffering disgrace for the Name. 
+<sup>36</sup> Some time ago Theudas rose up, claiming to be somebody, and about four hundred men joined him. He was killed, all his followers were dispersed, and it all came to nothing.
 
-<sup>42</sup> Every day, in the temple courts and from house to house, they did not stop teaching and proclaiming the good news that Jesus is the Christ. 
+<sup>37</sup> After him, Judas the Galilean appeared in the days of the census and drew away people after him. He too perished, and all his followers were scattered.
 
+<sup>38</sup> So in the present case I advise you: Leave these men alone. Let them go! For if their purpose or endeavor is of human origin, it will fail.
 
+<sup>39</sup> But if it is from God, you will not be able to stop them. You may even find yourselves fighting against God.”
+
+<sup>40</sup> At this, they yielded to Gamaliel. They called the apostles in and had them flogged. Then they ordered them not to speak in the name of Jesus, and released them.
+
+<sup>41</sup> The apostles left the Sanhedrin, rejoicing that they had been counted worthy of suffering disgrace for the Name.
+
+<sup>42</sup> Every day, in the temple courts and from house to house, they did not stop teaching and proclaiming the good news that Jesus is the Christ.
+
+[^4156]: 5:20 Literally the temple; also in verses 21, 25, and 42
+[^4157]: 5:21 Or the Council; also in verses 27, 34, and 41
+[^4158]: 5:24 Literally as to what this might be
+[^4159]: 5:33 ECM, BYZ, TR, and Tischendorf; or they took counsel; NA, SBL, NE, and WH they wanted
