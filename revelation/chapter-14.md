@@ -1,47 +1,52 @@
----
-weight: 14
----
-
 # Chapter 14
 
-<sup>1</sup> Then I looked and saw the Lamb standing on Mount Zion, and with Him 144,000 who had His name and His Father’s name written on their foreheads. 
+## The Lamb and the 144,000
 
-<sup>2</sup> And I heard a sound from heaven like the roar of many waters and the loud rumbling of thunder. And the sound I heard was like harpists strumming their harps. 
+<sup>1</sup> Then I looked and saw the Lamb standing on Mount Zion, and with Him 144,000 who had His name and His Father’s name written on their foreheads.
 
-<sup>3</sup> And they sang a new song before the throne and before the four living creatures and the elders. And no one could learn the song except the 144,000 who had been redeemed from the earth. 
+<sup>2</sup> And I heard a sound from heaven like the roar of many waters and the loud rumbling of thunder. And the sound I heard was like harpists strumming their harps.
 
-<sup>4</sup> These are the ones who have not been defiled with women, for they are virgins. They follow the Lamb wherever He goes. They have been redeemed from among men as firstfruits to God and to the Lamb. 
+<sup>3</sup> And they sang a new song before the throne and before the four living creatures and the elders. And no one could learn the song except the 144,000 who had been redeemed from the earth.
 
-<sup>5</sup> And no lie was found in their mouths; they are blameless. 
+<sup>4</sup> These are the ones who have not been defiled with women, for they are virgins. They follow the Lamb wherever He goes. They have been redeemed from among men as firstfruits to God and to the Lamb.
 
-<sup>6</sup> Then I saw another angel flying overhead, with the eternal gospel to proclaim to those who dwell on the earth—to every nation and tribe and tongue and people. 
+<sup>5</sup> And no lie was found in their mouths; they are blameless.[^4825]
 
-<sup>7</sup> And he said in a loud voice, “Fear God and give Him glory, because the hour of His judgment has come. Worship the One who made the heavens and the earth and the sea and the springs of waters.” 
+## The Three Angels and Babylon’s Fall
 
-<sup>8</sup> Then a second angel followed, saying, “Fallen, fallen is Babylon the great, who has made all the nations drink the wine of the passion of her immorality.” 
+<sup>6</sup> Then I saw another angel flying overhead, with the eternal gospel to proclaim to those who dwell on the earth—to every nation and tribe and tongue and people.
 
-<sup>9</sup> And a third angel followed them, calling out in a loud voice, “If anyone worships the beast and its image, and receives its mark on his forehead or on his hand, 
+<sup>7</sup> And he said in a loud voice, “Fear God and give Him glory, because the hour of His judgment has come. Worship the One who made the heavens and the earth and the sea and the springs of waters.”
 
-<sup>10</sup> he too will drink the wine of God’s anger, poured undiluted into the cup of His wrath. And he will be tormented in fire and sulfur in the presence of the holy angels and of the Lamb. 
+<sup>8</sup> Then a second angel followed, saying, “Fallen, fallen is Babylon the great,[^4826] who has made all the nations drink the wine of the passion of her immorality.”
 
-<sup>11</sup> And the smoke of their torment rises forever and ever. Day and night there is no rest for those who worship the beast and its image, or for anyone who receives the mark of its name.” 
+<sup>9</sup> And a third angel followed them, calling out in a loud voice, “If anyone worships the beast and its image and receives its mark on his forehead or on his hand,
 
-<sup>12</sup> Here is a call for the perseverance of the saints who keep the commandments of God and the faith of Jesus. 
+<sup>10</sup> he too will drink the wine of God’s anger, poured undiluted into the cup of His wrath. And he will be tormented in fire and sulfur in the presence of the holy angels and of the Lamb.
 
-<sup>13</sup> And I heard a voice from heaven telling me to write, “Blessed are the dead—those who die in the Lord from this moment on.” “Yes,” says the Spirit, “they will rest from their labors, for their deeds will follow them.” 
+<sup>11</sup> And the smoke of their torment rises forever and ever. Day and night there is no rest for those who worship the beast and its image, or for anyone who receives the mark of its name.”
 
-<sup>14</sup> And I looked and saw a white cloud, and seated on the cloud was One like the Son of Man, with a golden crown on His head and a sharp sickle in His hand. 
+<sup>12</sup> Here is a call for the perseverance of the saints, who keep the commandments of God and the faith of Jesus.
 
-<sup>15</sup> Then another angel came out of the temple, crying out in a loud voice to the One seated on the cloud, “Swing Your sickle and reap, because the time has come to harvest; for the crop of the earth is ripe.” 
+<sup>13</sup> And I heard a voice from heaven telling me to write, “Blessed are the dead—those who die in the Lord from this moment on.” “Yes,” says the Spirit, “they will rest from their labors, for their deeds will follow them.”
 
-<sup>16</sup> So the One seated on the cloud swung His sickle over the earth, and the earth was harvested. 
+## The Harvest of the Earth
 
-<sup>17</sup> Then another angel came out of the temple in heaven, and he too had a sharp sickle. 
+<sup>14</sup> And I looked and saw a white cloud, and seated on the cloud was One like the Son of Man,[^4827] with a golden crown on His head and a sharp sickle in His hand.
 
-<sup>18</sup> Still another angel, with authority over the fire, came from the altar and called out in a loud voice to the angel with the sharp sickle, “Swing your sharp sickle and gather the clusters of grapes from the vine of the earth, because its grapes are ripe.” 
+<sup>15</sup> Then another angel came out of the temple, crying out in a loud voice to the One seated on the cloud, “Swing Your sickle and reap, because the time has come to harvest, for the crop of the earth is ripe.”
 
-<sup>19</sup> So the angel swung his sickle over the earth and gathered the grapes of the earth, and he threw them into the great winepress of God’s wrath. 
+<sup>16</sup> So the One seated on the cloud swung His sickle over the earth, and the earth was harvested.
 
-<sup>20</sup> And the winepress was trodden outside the city, and the blood that flowed from it rose as high as the bridles of the horses for a distance of 1,600 stadia. 
+<sup>17</sup> Then another angel came out of the temple in heaven, and he too had a sharp sickle.
 
+<sup>18</sup> Still another angel, with authority over the fire, came from the altar and called out in a loud voice to the angel with the sharp sickle, “Swing your sharp sickle and gather the clusters of grapes from the vine of the earth, because its grapes are ripe.”
 
+<sup>19</sup> So the angel swung his sickle over the earth and gathered the grapes of the earth, and he threw them into the great winepress of God’s wrath.
+
+<sup>20</sup> And the winepress was trodden outside the city, and the blood that flowed from it rose as high as the bridles of the horses for a distance of 1,600 stadia.[^4828]
+
+[^4825]: 14:5 TR includes before the throne of God.
+[^4826]: 14:8 See Isaiah 21:9 and Revelation 18:2.
+[^4827]: 14:14 Or one like a son of man; see Daniel 7:13.
+[^4828]: 14:20 1,600 stadia is approximately 184 miles or 296 kilometers.

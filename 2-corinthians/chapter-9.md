@@ -1,37 +1,38 @@
----
-weight: 9
----
-
 # Chapter 9
 
-<sup>1</sup> Now about the service to the saints, there is no need for me to write to you. 
+## God Loves a Cheerful Giver
 
-<sup>2</sup> For I know your eagerness to help, and I have been boasting to the Macedonians that since last year you in Achaia were prepared to give. And your zeal has stirred most of them to do likewise. 
+**(1 Corinthians 16:1–4)**
 
-<sup>3</sup> But I am sending the brothers in order that our boasting about you in this matter should not prove empty, but that you will be prepared, just as I said. 
+<sup>1</sup> Now about the service to the saints, there is no need for me to write to you.
 
-<sup>4</sup> Otherwise, if any Macedonians come with me and find you unprepared, we—to say nothing of you—would be ashamed of having been so confident. 
+<sup>2</sup> For I know your eagerness to help, and I have been boasting to the Macedonians that since last year you in Achaia were prepared to give. And your zeal has stirred most of them to do likewise.
 
-<sup>5</sup> So I thought it necessary to urge the brothers to visit you beforehand and make arrangements for the bountiful gift you had promised. This way, your gift will be prepared generously and not begrudgingly. 
+<sup>3</sup> But I am sending the brothers in order that our boasting about you in this matter should not prove empty, but that you will be prepared, just as I said.
 
-<sup>6</sup> Remember this: Whoever sows sparingly will also reap sparingly, and whoever sows generously will also reap generously. 
+<sup>4</sup> Otherwise, if any Macedonians come with me and find you unprepared, we—to say nothing of you—would be ashamed of having been so confident.
 
-<sup>7</sup> Each one should give what he has decided in his heart to give, not out of regret or compulsion. For God loves a cheerful giver. 
+<sup>5</sup> So I thought it necessary to urge the brothers to visit you beforehand and make arrangements for the generous gift you had promised. This way, your gift will be prepared generously and not begrudgingly.
 
-<sup>8</sup> And God is able to make all grace abound to you, so that in all things, at all times, having all that you need, you will abound in every good work. 
+<sup>6</sup> Remember this: Whoever sows sparingly will also reap sparingly, and whoever sows generously will also reap generously.
 
-<sup>9</sup> As it is written: “He has scattered abroad His gifts to the poor; His righteousness endures forever.” 
+<sup>7</sup> Each one should give what he has decided in his heart to give, not out of regret or compulsion. For God loves a cheerful giver.[^4469]
 
-<sup>10</sup> Now He who supplies seed to the sower and bread for food will supply and multiply your store of seed and will increase the harvest of your righteousness. 
+<sup>8</sup> And God is able to make all grace abound to you, so that in all things, at all times, having all that you need, you will abound in every good work.
 
-<sup>11</sup> You will be enriched in every way to be generous on every occasion, so that through us your giving will produce thanksgiving to God. 
+<sup>9</sup> As it is written: “He has scattered abroad His gifts to the poor; His righteousness endures forever.”[^4470]
 
-<sup>12</sup> For this ministry of service is not only supplying the needs of the saints, but is also overflowing in many expressions of thanksgiving to God. 
+<sup>10</sup> Now He who supplies seed to the sower and bread for food will supply and multiply your store of seed and will increase the harvest of your righteousness.
 
-<sup>13</sup> Because of the proof this ministry provides, the saints will glorify God for your obedient confession of the gospel of Christ, and for the generosity of your contribution to them and to all the others. 
+<sup>11</sup> You will be enriched in every way to be generous on every occasion, and through us your generosity will produce thanksgiving to God.
 
-<sup>14</sup> And their prayers for you will express their affection for you, because of the surpassing grace God has given you. 
+<sup>12</sup> For this ministry of service is not only supplying the needs of the saints but is also overflowing in many expressions of thanksgiving to God.
 
-<sup>15</sup> Thanks be to God for His indescribable gift! 
+<sup>13</sup> Because of the proof this ministry provides, the saints will glorify God for your obedient confession of the gospel of Christ, and for the generosity of your contribution to them and to all the others.
 
+<sup>14</sup> And their prayers for you will express their affection for you, because of the surpassing grace God has given you.
 
+<sup>15</sup> Thanks be to God for His indescribable gift!
+
+[^4469]: 9:7 See Proverbs 22:8, LXX addition.
+[^4470]: 9:9 Psalms 112:9

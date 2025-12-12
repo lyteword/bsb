@@ -1,27 +1,32 @@
----
-weight: 1
----
-
 # Chapter 1
 
-<sup>1</sup> That which was from the beginning, which we have heard, which we have seen with our own eyes, which we have gazed upon and touched with our own hands—this is the Word of life. 
+## The Word of Life
 
-<sup>2</sup> And this is the life that was revealed; we have seen it and testified to it, and we proclaim to you the eternal life that was with the Father and was revealed to us. 
+**(Luke 24:36–49; John 20:19–23)**
 
-<sup>3</sup> We proclaim to you what we have seen and heard, so that you also may have fellowship with us. And this fellowship of ours is with the Father and with His Son, Jesus Christ. 
+<sup>1</sup> That which was from the beginning, which we have heard, which we have seen with our own eyes, which we have gazed upon and touched with our own hands—this is the Word of life.
 
-<sup>4</sup> We write these things so that our joy may be complete. 
+<sup>2</sup> And this is the life that was revealed; we have seen it and testified to it, and we proclaim to you the eternal life that was with the Father and was revealed to us.
 
-<sup>5</sup> And this is the message we have heard from Him and announce to you: God is light, and in Him there is no darkness at all. 
+<sup>3</sup> We proclaim to you what we have seen and heard, so that you also may have fellowship with us. And this fellowship of ours is with the Father and with His Son, Jesus Christ.
 
-<sup>6</sup> If we say we have fellowship with Him yet walk in the darkness, we lie and do not practice the truth. 
+<sup>4</sup> We write these things so that our [^4756] joy may be complete.
 
-<sup>7</sup> But if we walk in the light as He is in the light, we have fellowship with one another, and the blood of Jesus His Son cleanses us from all sin. 
+## Walking in the Light
 
-<sup>8</sup> If we say we have no sin, we deceive ourselves, and the truth is not in us. 
+**(John 8:12–29)**
 
-<sup>9</sup> If we confess our sins, He is faithful and just to forgive us our sins and to cleanse us from all unrighteousness. 
+<sup>5</sup> And this is the message we have heard from Him and announce to you: God is light, and in Him there is no darkness at all.
 
-<sup>10</sup> If we say we have not sinned, we make Him out to be a liar, and His word is not in us. 
+<sup>6</sup> If we say we have fellowship with Him yet walk in the darkness, we lie and do not practice the truth.
 
+<sup>7</sup> But [^4757] if we walk in the light as He is in the light, we have fellowship with one another, and the blood of Jesus His Son cleanses us from all sin.
 
+<sup>8</sup> If we say we have no sin, we deceive ourselves, and the truth is not in us.
+
+<sup>9</sup> If we confess our sins, He is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.
+
+<sup>10</sup> If we say we have not sinned, we make Him out to be a liar, and His word is not in us.
+
+[^4756]: 1:4 BYZ and TR your
+[^4757]: 1:7 NA does not include But.

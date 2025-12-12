@@ -1,43 +1,54 @@
----
-weight: 1
----
-
 # Chapter 1
 
-<sup>1</sup> Paul, an apostle of Christ Jesus by the will of God, according to the promise of life in Christ Jesus, 
+## Paul’s Greeting to Timothy
 
-<sup>2</sup> To Timothy, my beloved child: Grace, mercy, and peace from God the Father and Christ Jesus our Lord. 
+**(1 Timothy 1:1–2)**
 
-<sup>3</sup> I thank God, whom I serve with a clear conscience as did my forefathers, as I constantly remember you night and day in my prayers. 
+<sup>1</sup> Paul, an apostle of Christ Jesus by the will of God, according to the promise of life in Christ Jesus,
 
-<sup>4</sup> Recalling your tears, I long to see you so that I may be filled with joy. 
+<sup>2</sup> To Timothy, my beloved child: Grace, mercy, and peace from God the Father and Christ Jesus our Lord.
 
-<sup>5</sup> I am reminded of your sincere faith, which first dwelt in your grandmother Lois and your mother Eunice, and I am convinced is in you as well. 
+## Faithfulness under Persecution
 
-<sup>6</sup> For this reason I remind you to fan into flame the gift of God, which is in you through the laying on of my hands. 
+**(Matthew 10:16–25)**
 
-<sup>7</sup> For God has not given us a spirit of fear, but of power, love, and self-control. 
+<sup>3</sup> I thank God, whom I serve with a clear conscience as did my forefathers, as I constantly remember you night and day in my prayers.
 
-<sup>8</sup> So do not be ashamed of the testimony of our Lord, or of me, His prisoner. Instead, join me in suffering for the gospel by the power of God. 
+<sup>4</sup> Recalling your tears, I long to see you so that I may be filled with joy.
 
-<sup>9</sup> He has saved us and called us to a holy calling, not because of our works, but by His own purpose and by the grace He granted us in Christ Jesus before time began. 
+<sup>5</sup> I am reminded of your sincere faith, which first dwelt in your grandmother Lois and your mother Eunice, and I am convinced is in you as well.
 
-<sup>10</sup> And now He has revealed this grace through the appearing of our Savior, Christ Jesus, who has abolished death and illuminated the way to life and immortality through the gospel, 
+<sup>6</sup> For this reason I remind you to fan into flame the gift of God, which is in you through the laying on of my hands.
 
-<sup>11</sup> to which I was appointed as a preacher, an apostle, and a teacher. 
+<sup>7</sup> For God has not given us a spirit of fear,[^4573] but of power, love, and self-control.
 
-<sup>12</sup> For this reason, even though I suffer as I do, I am not ashamed; for I know whom I have believed, and I am convinced that He is able to guard what I have entrusted to Him for that day. 
+<sup>8</sup> So do not be ashamed of the testimony of our Lord, or of me, His prisoner. Instead, join me in suffering for the gospel by the power of God.
 
-<sup>13</sup> Hold on to the pattern of sound teaching you have heard from me, with the faith and love that are in Christ Jesus. 
+<sup>9</sup> He has saved us and called us to a holy calling, not because of our works, but by His own purpose and by the grace He granted us in Christ Jesus before time began.[^4574]
 
-<sup>14</sup> Guard the treasure entrusted to you, with the help of the Holy Spirit who dwells in us. 
+<sup>10</sup> And now He has revealed this grace through the appearing of our Savior, Christ Jesus, who has abolished death and illuminated the way to life and immortality through the gospel,
 
-<sup>15</sup> You know that everyone in the Province of Asia has deserted me, including Phygelus and Hermogenes. 
+<sup>11</sup> to which I was appointed as a preacher, an apostle, and a teacher.
 
-<sup>16</sup> May the Lord grant mercy to the household of Onesiphorus, because he has often refreshed me and was unashamed of my chains. 
+<sup>12</sup> For this reason, even though I suffer as I do, I am not ashamed; for I know whom I have believed, and I am convinced that He is able to guard what I have entrusted to Him [^4575] for that day.
 
-<sup>17</sup> Indeed, when he arrived in Rome, he searched diligently until he found me. 
+## Holding to Sound Teaching
 
-<sup>18</sup> May the Lord grant Onesiphorus His mercy on that day. You know very well how much he ministered to me in Ephesus. 
+<sup>13</sup> Hold on to the pattern of sound teaching [^4576] you have heard from me, with the faith and love that are in Christ Jesus.
 
+<sup>14</sup> Guard the treasure entrusted to you,[^4577] with the help of the Holy Spirit who dwells in us.
 
+<sup>15</sup> You know that everyone in the Province of Asia [^4578] has deserted me, including Phygelus and Hermogenes.
+
+<sup>16</sup> May the Lord grant mercy to the household of Onesiphorus, because he has often refreshed me and was unashamed of my chains.
+
+<sup>17</sup> Indeed, when he arrived in Rome, he searched diligently until he found me.
+
+<sup>18</sup> May the Lord grant Onesiphorus His mercy on that day. You know very well how much he ministered to me in Ephesus.
+
+[^4573]: 1:7 Or timidity or cowardice
+[^4574]: 1:9 Literally before times eternal
+[^4575]: 1:12 Or what He has entrusted to me
+[^4576]: 1:13 Literally sound words
+[^4577]: 1:14 Or the good deposit entrusted to you
+[^4578]: 1:15 Literally in Asia; Asia was a Roman province in what is now western Turkey.
