@@ -1,3 +1,7 @@
+---
+weight: 45
+---
+
 # Chapter 45
 
 ## God Calls Cyrus

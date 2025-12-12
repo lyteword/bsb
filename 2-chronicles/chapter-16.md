@@ -1,3 +1,7 @@
+---
+weight: 16
+---
+
 # Chapter 16
 
 ## War between Asa and Baasha

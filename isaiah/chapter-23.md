@@ -1,3 +1,7 @@
+---
+weight: 23
+---
+
 # Chapter 23
 
 ## The Burden against Tyre

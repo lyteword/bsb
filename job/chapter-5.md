@@ -1,3 +1,7 @@
+---
+weight: 5
+---
+
 # Chapter 5
 
 ## Eliphaz Continues: God Blesses those Who Seek Him

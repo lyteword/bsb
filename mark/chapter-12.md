@@ -1,3 +1,7 @@
+---
+weight: 12
+---
+
 # Chapter 12
 
 ## The Parable of the Wicked Tenants

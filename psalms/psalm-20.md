@@ -1,3 +1,7 @@
+---
+weight: 20
+---
+
 # Psalm 20
 
 ## The Day of Trouble

@@ -1,3 +1,7 @@
+---
+weight: 1
+---
+
 # Chapter 1
 
 ## Hosea’s Wife and Children

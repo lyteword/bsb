@@ -1,3 +1,7 @@
+---
+weight: 131
+---
+
 # Psalm 131
 
 ## I Have Stilled My Soul

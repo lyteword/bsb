@@ -1,3 +1,7 @@
+---
+weight: 6
+---
+
 # Chapter 6
 
 ## The Lord of the Sabbath

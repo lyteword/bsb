@@ -1,3 +1,7 @@
+---
+weight: 130
+---
+
 # Psalm 130
 
 ## Out of the Depths

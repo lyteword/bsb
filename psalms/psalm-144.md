@@ -1,3 +1,7 @@
+---
+weight: 144
+---
+
 # Psalm 144
 
 ## Blessed Be the LORD, My Rock

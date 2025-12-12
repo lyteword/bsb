@@ -1,3 +1,7 @@
+---
+weight: 9
+---
+
 # Psalm 9
 
 ## I Will Give Thanks to the LORD

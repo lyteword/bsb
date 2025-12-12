@@ -1,3 +1,7 @@
+---
+weight: 46
+---
+
 # Chapter 46
 
 ## Jacob’s Journey to Egypt

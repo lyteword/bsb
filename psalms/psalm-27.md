@@ -1,3 +1,7 @@
+---
+weight: 27
+---
+
 # Psalm 27
 
 ## The LORD Is My Salvation

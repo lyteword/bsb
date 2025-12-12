@@ -1,3 +1,7 @@
+---
+weight: 7
+---
+
 # Chapter 7
 
 ## A Call to Justice and Mercy

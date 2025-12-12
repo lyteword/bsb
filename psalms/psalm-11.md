@@ -1,3 +1,7 @@
+---
+weight: 11
+---
+
 # Psalm 11
 
 ## In the LORD I Take Refuge

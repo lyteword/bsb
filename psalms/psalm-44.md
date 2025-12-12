@@ -1,3 +1,7 @@
+---
+weight: 44
+---
+
 # Psalm 44
 
 ## Redeem Us, O God

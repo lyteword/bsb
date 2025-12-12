@@ -1,3 +1,7 @@
+---
+weight: 16
+---
+
 # Chapter 16
 
 ## The Day of Atonement

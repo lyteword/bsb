@@ -1,3 +1,7 @@
+---
+weight: 99
+---
+
 # Psalm 99
 
 ## The LORD Reigns!

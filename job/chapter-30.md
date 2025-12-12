@@ -1,3 +1,7 @@
+---
+weight: 30
+---
+
 # Chapter 30
 
 ## Job’s Honor Turned to Contempt

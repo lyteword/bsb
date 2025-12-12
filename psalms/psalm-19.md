@@ -1,3 +1,7 @@
+---
+weight: 19
+---
+
 # Psalm 19
 
 ## The Heavens Declare the Glory of God

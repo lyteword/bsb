@@ -1,3 +1,7 @@
+---
+weight: 4
+---
+
 # Psalm 4
 
 ## Answer Me When I Call!

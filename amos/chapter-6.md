@@ -1,3 +1,7 @@
+---
+weight: 6
+---
+
 # Chapter 6
 
 ## Woe to Those at Ease in Zion

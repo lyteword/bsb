@@ -1,3 +1,7 @@
+---
+weight: 97
+---
+
 # Psalm 97
 
 ## Let the Earth Rejoice

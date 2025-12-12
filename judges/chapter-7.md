@@ -1,3 +1,7 @@
+---
+weight: 7
+---
+
 # Chapter 7
 
 ## Gideon’s Army of Three Hundred

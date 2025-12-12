@@ -1,3 +1,7 @@
+---
+weight: 8
+---
+
 # Chapter 8
 
 ## Women Minister to Jesus

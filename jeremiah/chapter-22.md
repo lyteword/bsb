@@ -1,3 +1,7 @@
+---
+weight: 22
+---
+
 # Chapter 22
 
 ## A Warning to Judah’s Kings

@@ -1,3 +1,7 @@
+---
+weight: 4
+---
+
 # Chapter 4
 
 ## A Remnant in Zion

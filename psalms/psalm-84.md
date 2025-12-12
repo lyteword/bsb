@@ -1,3 +1,7 @@
+---
+weight: 84
+---
+
 # Psalm 84
 
 ## Better Is One Day in Your Courts

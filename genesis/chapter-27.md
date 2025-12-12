@@ -1,3 +1,7 @@
+---
+weight: 27
+---
+
 # Chapter 27
 
 ## Isaac Blesses Jacob

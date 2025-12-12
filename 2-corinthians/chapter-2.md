@@ -1,3 +1,7 @@
+---
+weight: 2
+---
+
 # Chapter 2
 
 ## Reaffirm Your Love

@@ -1,3 +1,7 @@
+---
+weight: 42
+---
+
 # Psalm 42
 
 ## As the Deer Pants for the Water

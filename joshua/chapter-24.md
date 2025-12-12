@@ -1,3 +1,7 @@
+---
+weight: 24
+---
+
 # Chapter 24
 
 ## Joshua Reviews Israel’s History

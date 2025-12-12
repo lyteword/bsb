@@ -1,3 +1,7 @@
+---
+weight: 17
+---
+
 # Psalm 17
 
 ## Hear My Righteous Plea

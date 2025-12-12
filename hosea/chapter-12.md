@@ -1,3 +1,7 @@
+---
+weight: 12
+---
+
 # Chapter 12
 
 ## A Reproof of Ephraim, Judah, and Jacob

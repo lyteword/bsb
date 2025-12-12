@@ -1,3 +1,7 @@
+---
+weight: 101
+---
+
 # Psalm 101
 
 ## I Will Set No Worthless Thing before My Eyes

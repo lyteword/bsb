@@ -1,3 +1,7 @@
+---
+weight: 63
+---
+
 # Psalm 63
 
 ## Thirsting for God

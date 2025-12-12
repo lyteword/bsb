@@ -1,3 +1,7 @@
+---
+weight: 17
+---
+
 # Chapter 17
 
 ## God’s Covenant with David

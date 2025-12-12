@@ -1,3 +1,7 @@
+---
+weight: 32
+---
+
 # Psalm 32
 
 ## The Joy of Forgiveness

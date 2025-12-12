@@ -1,3 +1,7 @@
+---
+weight: 4
+---
+
 # Chapter 4
 
 ## Jonah’s Anger at the LORD’s Compassion

@@ -1,3 +1,7 @@
+---
+weight: 50
+---
+
 # Chapter 50
 
 ## Mourning and Burial for Jacob

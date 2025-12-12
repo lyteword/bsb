@@ -1,3 +1,7 @@
+---
+weight: 39
+---
+
 # Chapter 39
 
 ## The Fall of Jerusalem

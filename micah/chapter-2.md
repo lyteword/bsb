@@ -1,3 +1,7 @@
+---
+weight: 2
+---
+
 # Chapter 2
 
 ## Woe to Oppressors

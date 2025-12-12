@@ -1,3 +1,7 @@
+---
+weight: 48
+---
+
 # Chapter 48
 
 ## The Portions for the Tribes

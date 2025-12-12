@@ -1,3 +1,7 @@
+---
+weight: 31
+---
+
 # Chapter 31
 
 ## Woe to Those Who Rely on Egypt

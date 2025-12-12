@@ -1,3 +1,7 @@
+---
+weight: 19
+---
+
 # Chapter 19
 
 ## Joab Reproves David

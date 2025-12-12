@@ -1,3 +1,7 @@
+---
+weight: 89
+---
+
 # Psalm 89
 
 ## I Will Sing of His Love Forever

@@ -1,3 +1,7 @@
+---
+weight: 57
+---
+
 # Psalm 57
 
 ## In You My Soul Takes Refuge

@@ -1,3 +1,7 @@
+---
+weight: 25
+---
+
 # Psalm 25
 
 ## To You I Lift Up My Soul

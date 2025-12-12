@@ -1,3 +1,7 @@
+---
+weight: 21
+---
+
 # Chapter 21
 
 ## The Birth of Isaac

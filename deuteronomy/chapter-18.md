@@ -1,3 +1,7 @@
+---
+weight: 18
+---
+
 # Chapter 18
 
 ## Provision for Priests and Levites

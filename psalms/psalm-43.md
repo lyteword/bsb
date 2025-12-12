@@ -1,3 +1,7 @@
+---
+weight: 43
+---
+
 # Psalm 43
 
 ## Send Out Your Light

@@ -1,3 +1,7 @@
+---
+weight: 19
+---
+
 # Chapter 19
 
 ## A Lament for the Princes of Israel

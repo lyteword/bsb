@@ -1,3 +1,7 @@
+---
+weight: 17
+---
+
 # Chapter 17
 
 ## Micah’s Idolatry

@@ -1,3 +1,7 @@
+---
+weight: 106
+---
+
 # Psalm 106
 
 ## Give Thanks to the LORD, for He Is Good

@@ -1,3 +1,7 @@
+---
+weight: 108
+---
+
 # Psalm 108
 
 ## Israel’s Kingdom Blessing

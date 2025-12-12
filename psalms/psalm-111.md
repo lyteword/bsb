@@ -1,3 +1,7 @@
+---
+weight: 111
+---
+
 # Psalm 111
 
 ## Majestic Is His Work

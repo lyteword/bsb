@@ -1,3 +1,7 @@
+---
+weight: 6
+---
+
 # Chapter 6
 
 ## Job Replies: My Complaint Is Just

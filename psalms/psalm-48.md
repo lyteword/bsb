@@ -1,3 +1,7 @@
+---
+weight: 48
+---
+
 # Psalm 48
 
 ## Broken Bondage

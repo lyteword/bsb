@@ -1,3 +1,7 @@
+---
+weight: 150
+---
+
 # Psalm 150
 
 ## Let Everything That Has Breath Praise the LORD

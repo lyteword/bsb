@@ -1,3 +1,7 @@
+---
+weight: 38
+---
+
 # Psalm 38
 
 ## Do Not Rebuke Me in Your Anger

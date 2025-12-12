@@ -1,3 +1,7 @@
+---
+weight: 7
+---
+
 # Chapter 7
 
 ## God’s Covenant with David

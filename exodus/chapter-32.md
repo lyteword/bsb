@@ -1,3 +1,7 @@
+---
+weight: 32
+---
+
 # Chapter 32
 
 ## The Golden Calf

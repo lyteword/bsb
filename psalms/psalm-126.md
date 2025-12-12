@@ -1,3 +1,7 @@
+---
+weight: 126
+---
+
 # Psalm 126
 
 ## Zion’s Captives Restored

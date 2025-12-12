@@ -1,3 +1,7 @@
+---
+weight: 73
+---
+
 # Psalm 73
 
 ## Surely God Is Good to Israel

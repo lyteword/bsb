@@ -1,3 +1,7 @@
+---
+weight: 9
+---
+
 # Chapter 9
 
 ## Paul’s Concern for the Jews

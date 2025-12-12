@@ -1,3 +1,7 @@
+---
+weight: 29
+---
+
 # Chapter 29
 
 ## Jeremiah’s Letter to the Exiles

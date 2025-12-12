@@ -1,3 +1,7 @@
+---
+weight: 50
+---
+
 # Chapter 50
 
 ## A Prophecy against Babylon

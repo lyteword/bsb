@@ -1,3 +1,7 @@
+---
+weight: 26
+---
+
 # Chapter 26
 
 ## A Warning to the Cities of Judah

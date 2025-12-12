@@ -1,3 +1,7 @@
+---
+weight: 20
+---
+
 # Chapter 20
 
 ## Six Cities of Refuge

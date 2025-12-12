@@ -1,3 +1,7 @@
+---
+weight: 9
+---
+
 # Chapter 9
 
 ## The Jews Destroy Their Enemies

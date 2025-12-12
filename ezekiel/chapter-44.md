@@ -1,3 +1,7 @@
+---
+weight: 44
+---
+
 # Chapter 44
 
 ## The East Gate Assigned to the Prince

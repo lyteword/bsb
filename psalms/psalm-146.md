@@ -1,3 +1,7 @@
+---
+weight: 146
+---
+
 # Psalm 146
 
 ## Praise the LORD, O My Soul

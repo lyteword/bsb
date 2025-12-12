@@ -1,3 +1,7 @@
+---
+weight: 11
+---
+
 # Chapter 11
 
 ## Obedience and Discipline

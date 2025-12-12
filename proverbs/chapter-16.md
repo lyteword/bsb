@@ -1,3 +1,7 @@
+---
+weight: 16
+---
+
 # Chapter 16
 
 ## The Reply of the Tongue Is from the LORD

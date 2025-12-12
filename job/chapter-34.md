@@ -1,3 +1,7 @@
+---
+weight: 34
+---
+
 # Chapter 34
 
 ## Elihu Confirms God’s Justice

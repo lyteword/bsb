@@ -1,3 +1,7 @@
+---
+weight: 21
+---
+
 # Chapter 21
 
 ## Job: God Will Punish the Wicked

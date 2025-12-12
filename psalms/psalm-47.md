@@ -1,3 +1,7 @@
+---
+weight: 47
+---
+
 # Psalm 47
 
 ## Clap Your Hands, All You Peoples

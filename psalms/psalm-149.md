@@ -1,3 +1,7 @@
+---
+weight: 149
+---
+
 # Psalm 149
 
 ## Sing to the LORD a New Song

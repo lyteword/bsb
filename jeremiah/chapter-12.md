@@ -1,3 +1,7 @@
+---
+weight: 12
+---
+
 # Chapter 12
 
 ## The Prosperity of the Wicked

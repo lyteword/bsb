@@ -1,3 +1,7 @@
+---
+weight: 28
+---
+
 # Chapter 28
 
 ## The Philistines Gather against Israel

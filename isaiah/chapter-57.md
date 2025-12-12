@@ -1,3 +1,7 @@
+---
+weight: 57
+---
+
 # Chapter 57
 
 ## The Blessed Death of the Righteous

@@ -1,3 +1,7 @@
+---
+weight: 44
+---
+
 # Chapter 44
 
 ## Judgment on the Jews in Egypt

@@ -1,3 +1,7 @@
+---
+weight: 21
+---
+
 # Chapter 21
 
 ## Holiness Required of Priests

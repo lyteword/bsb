@@ -1,3 +1,7 @@
+---
+weight: 87
+---
+
 # Psalm 87
 
 ## The LORD Loves the Gates of Zion

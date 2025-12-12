@@ -1,3 +1,7 @@
+---
+weight: 43
+---
+
 # Chapter 43
 
 ## The Glory of the LORD Returns to the Temple

@@ -1,3 +1,7 @@
+---
+weight: 140
+---
+
 # Psalm 140
 
 ## Rescue Me from Evil Men

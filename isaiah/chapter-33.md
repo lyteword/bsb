@@ -1,3 +1,7 @@
+---
+weight: 33
+---
+
 # Chapter 33
 
 ## The LORD Is Exalted

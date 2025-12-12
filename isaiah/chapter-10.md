@@ -1,3 +1,7 @@
+---
+weight: 10
+---
+
 # Chapter 10
 
 ## Woe to Tyrants

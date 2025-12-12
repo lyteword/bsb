@@ -1,3 +1,7 @@
+---
+weight: 22
+---
+
 # Chapter 22
 
 ## Paul’s Defense to the Crowd

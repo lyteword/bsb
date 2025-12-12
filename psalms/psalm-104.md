@@ -1,3 +1,7 @@
+---
+weight: 104
+---
+
 # Psalm 104
 
 ## How Many Are Your Works, O LORD!

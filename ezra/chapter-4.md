@@ -1,3 +1,7 @@
+---
+weight: 4
+---
+
 # Chapter 4
 
 ## Adversaries Hinder the Work

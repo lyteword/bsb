@@ -1,3 +1,7 @@
+---
+weight: 14
+---
+
 # Chapter 14
 
 ## Land Division West of the Jordan

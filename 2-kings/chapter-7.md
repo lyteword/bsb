@@ -1,3 +1,7 @@
+---
+weight: 7
+---
+
 # Chapter 7
 
 ## Elisha’s Prophecy of Plenty

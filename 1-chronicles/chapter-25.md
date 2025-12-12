@@ -1,3 +1,7 @@
+---
+weight: 25
+---
+
 # Chapter 25
 
 ## Twenty-Four Divisions of Musicians

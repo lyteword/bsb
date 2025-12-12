@@ -1,3 +1,7 @@
+---
+weight: 1
+---
+
 # Chapter 1
 
 ## Paul’s Greeting to the Ephesians

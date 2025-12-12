@@ -1,3 +1,7 @@
+---
+weight: 20
+---
+
 # Chapter 20
 
 ## Zophar: Destruction Awaits the Wicked

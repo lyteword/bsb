@@ -1,3 +1,7 @@
+---
+weight: 24
+---
+
 # Chapter 24
 
 ## God’s Judgment on the Earth

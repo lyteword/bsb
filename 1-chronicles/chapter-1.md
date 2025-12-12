@@ -1,3 +1,7 @@
+---
+weight: 1
+---
+
 # Chapter 1
 
 ## From Adam to Abraham

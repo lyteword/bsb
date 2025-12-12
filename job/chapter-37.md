@@ -1,3 +1,7 @@
+---
+weight: 37
+---
+
 # Chapter 37
 
 ## Elihu Proclaims God’s Majesty

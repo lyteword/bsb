@@ -1,3 +1,7 @@
+---
+weight: 135
+---
+
 # Psalm 135
 
 ## Give Praise, O Servants of the LORD

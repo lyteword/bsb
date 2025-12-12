@@ -1,3 +1,7 @@
+---
+weight: 30
+---
+
 # Chapter 30
 
 ## Laws about Vows

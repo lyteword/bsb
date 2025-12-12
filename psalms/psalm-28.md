@@ -1,3 +1,7 @@
+---
+weight: 28
+---
+
 # Psalm 28
 
 ## The LORD Is My Strength

@@ -1,3 +1,7 @@
+---
+weight: 47
+---
+
 # Chapter 47
 
 ## The Humiliation of Babylon

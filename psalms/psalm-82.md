@@ -1,3 +1,7 @@
+---
+weight: 82
+---
+
 # Psalm 82
 
 ## God Presides in the Divine Assembly

@@ -1,3 +1,7 @@
+---
+weight: 49
+---
+
 # Psalm 49
 
 ## The Evanescence of Wealth

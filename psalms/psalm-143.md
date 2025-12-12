@@ -1,3 +1,7 @@
+---
+weight: 143
+---
+
 # Psalm 143
 
 ## I Stretch Out My Hands to You

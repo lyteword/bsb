@@ -1,3 +1,7 @@
+---
+weight: 58
+---
+
 # Psalm 58
 
 ## God Judges the Earth

@@ -1,3 +1,7 @@
+---
+weight: 40
+---
+
 # Chapter 40
 
 ## Prepare the Way for the LORD

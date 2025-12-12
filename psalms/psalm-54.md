@@ -1,3 +1,7 @@
+---
+weight: 54
+---
+
 # Psalm 54
 
 ## Save Me by Your Name

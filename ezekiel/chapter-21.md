@@ -1,3 +1,7 @@
+---
+weight: 21
+---
+
 # Chapter 21
 
 ## God’s Sword of Judgment

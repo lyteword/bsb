@@ -1,3 +1,7 @@
+---
+weight: 22
+---
+
 # Psalm 22
 
 ## The Psalm of the Cross

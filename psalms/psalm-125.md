@@ -1,3 +1,7 @@
+---
+weight: 125
+---
+
 # Psalm 125
 
 ## The LORD Surrounds His People

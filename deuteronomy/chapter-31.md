@@ -1,3 +1,7 @@
+---
+weight: 31
+---
+
 # Chapter 31
 
 ## Joshua to Succeed Moses

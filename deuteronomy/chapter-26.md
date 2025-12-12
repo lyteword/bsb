@@ -1,3 +1,7 @@
+---
+weight: 26
+---
+
 # Chapter 26
 
 ## Offering Firstfruits and Tithes

@@ -1,3 +1,7 @@
+---
+weight: 77
+---
+
 # Psalm 77
 
 ## In the Day of Trouble I Sought the Lord

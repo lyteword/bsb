@@ -1,3 +1,7 @@
+---
+weight: 13
+---
+
 # Chapter 13
 
 ## Idolaters to Be Put to Death

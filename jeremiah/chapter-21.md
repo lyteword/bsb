@@ -1,3 +1,7 @@
+---
+weight: 21
+---
+
 # Chapter 21
 
 ## Jerusalem Will Fall to Babylon

@@ -1,3 +1,7 @@
+---
+weight: 35
+---
+
 # Chapter 35
 
 ## A Prophecy against Mount Seir

@@ -1,3 +1,7 @@
+---
+weight: 5
+---
+
 # Chapter 5
 
 ## Overcoming the World

@@ -1,3 +1,7 @@
+---
+weight: 14
+---
+
 # Chapter 14
 
 ## Pharaoh Pursues the Israelites

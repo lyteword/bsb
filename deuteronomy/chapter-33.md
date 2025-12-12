@@ -1,3 +1,7 @@
+---
+weight: 33
+---
+
 # Chapter 33
 
 ## Moses Blesses the Twelve Tribes

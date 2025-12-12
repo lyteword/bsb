@@ -1,3 +1,6 @@
+---
+---
+
 # The Holy Bible (BSB) - Markdown Edition
 
 This repository contains a complete **Berean Standard Bible (BSB)** translation of the Holy Bible formatted in **Markdown**. Each book, chapter, and verse is organized for easy reading, referencing, and integration into other Markdown-supporting projects.

@@ -1,3 +1,7 @@
+---
+weight: 100
+---
+
 # Psalm 100
 
 ## Make a Joyful Noise

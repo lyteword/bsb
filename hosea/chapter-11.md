@@ -1,3 +1,7 @@
+---
+weight: 11
+---
+
 # Chapter 11
 
 ## Out of Egypt I Called My Son

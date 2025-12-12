@@ -1,3 +1,7 @@
+---
+weight: 29
+---
+
 # Chapter 29
 
 ## Offerings for the Temple

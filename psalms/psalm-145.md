@@ -1,3 +1,7 @@
+---
+weight: 145
+---
+
 # Psalm 145
 
 ## I Will Exalt You, My God and King

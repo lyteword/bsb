@@ -1,3 +1,7 @@
+---
+weight: 9
+---
+
 # Chapter 9
 
 ## Daniel’s Prayer for His People

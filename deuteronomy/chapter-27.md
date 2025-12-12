@@ -1,3 +1,7 @@
+---
+weight: 27
+---
+
 # Chapter 27
 
 ## The Altar on Mount Ebal

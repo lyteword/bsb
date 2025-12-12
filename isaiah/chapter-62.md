@@ -1,3 +1,7 @@
+---
+weight: 62
+---
+
 # Chapter 62
 
 ## Zion’s Salvation and New Name

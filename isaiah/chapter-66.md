@@ -1,3 +1,7 @@
+---
+weight: 66
+---
+
 # Chapter 66
 
 ## Heaven Is My Throne

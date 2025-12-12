@@ -1,3 +1,7 @@
+---
+weight: 62
+---
+
 # Psalm 62
 
 ## Waiting on God

@@ -1,3 +1,7 @@
+---
+weight: 19
+---
+
 # Chapter 19
 
 ## The Man of Integrity

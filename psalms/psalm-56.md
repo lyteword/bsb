@@ -1,3 +1,7 @@
+---
+weight: 56
+---
+
 # Psalm 56
 
 ## Be Merciful to Me, O God

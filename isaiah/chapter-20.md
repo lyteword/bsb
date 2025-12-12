@@ -1,3 +1,7 @@
+---
+weight: 20
+---
+
 # Chapter 20
 
 ## A Sign against Egypt and Cush

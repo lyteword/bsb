@@ -1,3 +1,7 @@
+---
+weight: 36
+---
+
 # Chapter 36
 
 ## Jeremiah’s Scroll Read in the Temple

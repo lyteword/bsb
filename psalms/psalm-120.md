@@ -1,3 +1,7 @@
+---
+weight: 120
+---
+
 # Psalm 120
 
 ## In My Distress I Cried to the LORD

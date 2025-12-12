@@ -1,3 +1,7 @@
+---
+weight: 32
+---
+
 # Chapter 32
 
 ## A Lament for Pharaoh King of Egypt

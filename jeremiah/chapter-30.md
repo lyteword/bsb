@@ -1,3 +1,7 @@
+---
+weight: 30
+---
+
 # Chapter 30
 
 ## The Restoration of Israel and Judah

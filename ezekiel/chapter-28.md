@@ -1,3 +1,7 @@
+---
+weight: 28
+---
+
 # Chapter 28
 
 ## A Prophecy against the Ruler of Tyre

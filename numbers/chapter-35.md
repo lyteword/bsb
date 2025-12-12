@@ -1,3 +1,7 @@
+---
+weight: 35
+---
+
 # Chapter 35
 
 ## Forty-Eight Cities for the Levites

@@ -1,3 +1,7 @@
+---
+weight: 43
+---
+
 # Chapter 43
 
 ## Jeremiah Taken to Egypt

@@ -1,3 +1,7 @@
+---
+weight: 9
+---
+
 # Chapter 9
 
 ## Death Comes to Good and Bad

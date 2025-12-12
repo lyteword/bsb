@@ -1,3 +1,7 @@
+---
+weight: 60
+---
+
 # Chapter 60
 
 ## Future Glory for Zion

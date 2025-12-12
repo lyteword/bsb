@@ -1,3 +1,7 @@
+---
+weight: 148
+---
+
 # Psalm 148
 
 ## Praise the LORD from the Heavens

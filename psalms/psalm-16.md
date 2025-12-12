@@ -1,3 +1,7 @@
+---
+weight: 16
+---
+
 # Psalm 16
 
 ## The Presence of the LORD

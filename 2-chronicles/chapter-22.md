@@ -1,3 +1,7 @@
+---
+weight: 22
+---
+
 # Chapter 22
 
 ## Ahaziah Reigns in Judah

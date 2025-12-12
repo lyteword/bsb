@@ -1,3 +1,7 @@
+---
+weight: 22
+---
+
 # Chapter 22
 
 ## Eliphaz: Can a Man Be of Use to God?

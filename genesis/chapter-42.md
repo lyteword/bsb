@@ -1,3 +1,7 @@
+---
+weight: 42
+---
+
 # Chapter 42
 
 ## Joseph’s Brothers Sent to Egypt

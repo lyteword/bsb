@@ -1,3 +1,7 @@
+---
+weight: 27
+---
+
 # Chapter 27
 
 ## Jesus Delivered to Pilate

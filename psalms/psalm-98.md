@@ -1,3 +1,7 @@
+---
+weight: 98
+---
+
 # Psalm 98
 
 ## Sing to the LORD a New Song

@@ -1,3 +1,7 @@
+---
+weight: 15
+---
+
 # Chapter 15
 
 ## A Gentle Answer Turns Away Wrath

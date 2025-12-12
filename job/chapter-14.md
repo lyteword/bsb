@@ -1,3 +1,7 @@
+---
+weight: 14
+---
+
 # Chapter 14
 
 ## Job Laments the Finality of Death

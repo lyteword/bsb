@@ -1,3 +1,7 @@
+---
+weight: 52
+---
+
 # Psalm 52
 
 ## Why Do You Boast of Evil?

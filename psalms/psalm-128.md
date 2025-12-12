@@ -1,3 +1,7 @@
+---
+weight: 128
+---
+
 # Psalm 128
 
 ## The Blessed Fear of the LORD

@@ -1,3 +1,7 @@
+---
+weight: 1
+---
+
 # Chapter 1
 
 ## Zephaniah Prophesies Judgment on Judah

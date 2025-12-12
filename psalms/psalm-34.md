@@ -1,3 +1,7 @@
+---
+weight: 34
+---
+
 # Psalm 34
 
 ## Taste and See That the LORD Is Good

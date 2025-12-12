@@ -1,3 +1,7 @@
+---
+weight: 3
+---
+
 # Chapter 3
 
 ## Trust in the LORD with All Your Heart

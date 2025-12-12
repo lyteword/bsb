@@ -1,3 +1,7 @@
+---
+weight: 45
+---
+
 # Psalm 45
 
 ## My Heart Is Stirred by a Noble Theme

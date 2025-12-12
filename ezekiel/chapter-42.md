@@ -1,3 +1,7 @@
+---
+weight: 42
+---
+
 # Chapter 42
 
 ## Chambers for the Priests

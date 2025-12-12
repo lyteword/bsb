@@ -1,3 +1,7 @@
+---
+weight: 95
+---
+
 # Psalm 95
 
 ## Do Not Harden Your Hearts

@@ -1,3 +1,7 @@
+---
+weight: 74
+---
+
 # Psalm 74
 
 ## Why Have You Rejected Us Forever?

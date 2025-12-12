@@ -1,3 +1,7 @@
+---
+weight: 81
+---
+
 # Psalm 81
 
 ## Sing for Joy to God Our Strength

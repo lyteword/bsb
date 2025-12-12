@@ -1,3 +1,7 @@
+---
+weight: 142
+---
+
 # Psalm 142
 
 ## I Lift My Voice to the LORD

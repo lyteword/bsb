@@ -1,3 +1,7 @@
+---
+weight: 13
+---
+
 # Chapter 13
 
 ## Jeroboam’s Hand Withers

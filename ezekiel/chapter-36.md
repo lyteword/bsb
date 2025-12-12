@@ -1,3 +1,7 @@
+---
+weight: 36
+---
+
 # Chapter 36
 
 ## A Prophecy to the Mountains of Israel

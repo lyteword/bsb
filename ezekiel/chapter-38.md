@@ -1,3 +1,7 @@
+---
+weight: 38
+---
+
 # Chapter 38
 
 ## A Prophecy against Gog

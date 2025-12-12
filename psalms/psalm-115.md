@@ -1,3 +1,7 @@
+---
+weight: 115
+---
+
 # Psalm 115
 
 ## To Your Name Be the Glory

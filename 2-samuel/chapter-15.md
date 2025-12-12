@@ -1,3 +1,7 @@
+---
+weight: 15
+---
+
 # Chapter 15
 
 ## Absalom’s Conspiracy

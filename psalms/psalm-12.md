@@ -1,3 +1,7 @@
+---
+weight: 12
+---
+
 # Psalm 12
 
 ## The Godly Are No More

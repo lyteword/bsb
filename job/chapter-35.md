@@ -1,3 +1,7 @@
+---
+weight: 35
+---
+
 # Chapter 35
 
 ## Elihu Recalls God’s Justice

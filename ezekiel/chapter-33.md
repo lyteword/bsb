@@ -1,3 +1,7 @@
+---
+weight: 33
+---
+
 # Chapter 33
 
 ## Ezekiel the Watchman for Israel

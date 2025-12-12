@@ -1,3 +1,7 @@
+---
+weight: 42
+---
+
 # Chapter 42
 
 ## Job Submits Himself to the LORD

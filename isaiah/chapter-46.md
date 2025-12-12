@@ -1,3 +1,7 @@
+---
+weight: 46
+---
+
 # Chapter 46
 
 ## Babylon’s Idols

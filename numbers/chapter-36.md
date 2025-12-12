@@ -1,3 +1,7 @@
+---
+weight: 36
+---
+
 # Chapter 36
 
 ## Zelophehad’s Daughters Marry

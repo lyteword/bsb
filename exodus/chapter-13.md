@@ -1,3 +1,7 @@
+---
+weight: 13
+---
+
 # Chapter 13
 
 ## The Dedication of the Firstborn

@@ -1,3 +1,7 @@
+---
+weight: 17
+---
+
 # Chapter 17
 
 ## Better a Dry Morsel in Quietness

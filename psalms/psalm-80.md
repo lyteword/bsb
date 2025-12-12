@@ -1,3 +1,7 @@
+---
+weight: 80
+---
+
 # Psalm 80
 
 ## Hear Us, O Shepherd of Israel

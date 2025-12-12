@@ -1,3 +1,7 @@
+---
+weight: 18
+---
+
 # Chapter 18
 
 ## Hezekiah Destroys Idolatry in Judah

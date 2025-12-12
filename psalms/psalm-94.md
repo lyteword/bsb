@@ -1,3 +1,7 @@
+---
+weight: 94
+---
+
 # Psalm 94
 
 ## The LORD Will Not Forget His People

@@ -1,3 +1,7 @@
+---
+weight: 2
+---
+
 # Psalm 2
 
 ## The Triumphant Messiah

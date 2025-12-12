@@ -1,3 +1,7 @@
+---
+weight: 30
+---
+
 # Chapter 30
 
 ## A Lament for Egypt

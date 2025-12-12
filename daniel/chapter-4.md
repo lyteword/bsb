@@ -1,3 +1,7 @@
+---
+weight: 4
+---
+
 # Chapter 4
 
 ## Nebuchadnezzar Confesses God’s Kingdom

@@ -1,3 +1,7 @@
+---
+weight: 35
+---
+
 # Psalm 35
 
 ## Contend with My Opponents, O LORD

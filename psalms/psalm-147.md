@@ -1,3 +1,7 @@
+---
+weight: 147
+---
+
 # Psalm 147
 
 ## It Is Good to Sing Praises

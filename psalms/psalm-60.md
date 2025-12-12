@@ -1,3 +1,7 @@
+---
+weight: 60
+---
+
 # Psalm 60
 
 ## Victory with God

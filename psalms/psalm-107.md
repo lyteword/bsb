@@ -1,3 +1,7 @@
+---
+weight: 107
+---
+
 # Psalm 107
 
 ## Thanksgiving for Deliverance

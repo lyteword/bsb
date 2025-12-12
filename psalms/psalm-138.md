@@ -1,3 +1,7 @@
+---
+weight: 138
+---
+
 # Psalm 138
 
 ## A Thankful Heart

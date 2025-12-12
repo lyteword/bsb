@@ -1,3 +1,7 @@
+---
+weight: 48
+---
+
 # Chapter 48
 
 ## Jacob Blesses Ephraim and Manasseh

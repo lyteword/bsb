@@ -1,3 +1,7 @@
+---
+weight: 61
+---
+
 # Chapter 61
 
 ## The Year of the LORD’s Favor

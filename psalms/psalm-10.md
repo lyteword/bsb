@@ -1,3 +1,7 @@
+---
+weight: 10
+---
+
 # Psalm 10
 
 ## The Perils of the Pilgrim

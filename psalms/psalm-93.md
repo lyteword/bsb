@@ -1,3 +1,7 @@
+---
+weight: 93
+---
+
 # Psalm 93
 
 ## The LORD Reigns!

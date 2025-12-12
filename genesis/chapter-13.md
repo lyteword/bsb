@@ -1,3 +1,7 @@
+---
+weight: 13
+---
+
 # Chapter 13
 
 ## Abram and Lot Part Ways

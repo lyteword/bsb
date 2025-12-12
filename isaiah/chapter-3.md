@@ -1,3 +1,7 @@
+---
+weight: 3
+---
+
 # Chapter 3
 
 ## Judgment on Jerusalem and Judah

@@ -1,3 +1,7 @@
+---
+weight: 85
+---
+
 # Psalm 85
 
 ## You Showed Favor to Your Land

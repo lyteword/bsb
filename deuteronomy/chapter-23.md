@@ -1,3 +1,7 @@
+---
+weight: 23
+---
+
 # Chapter 23
 
 ## Exclusion from the Congregation

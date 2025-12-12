@@ -1,3 +1,7 @@
+---
+weight: 39
+---
+
 # Psalm 39
 
 ## I Will Watch My Ways

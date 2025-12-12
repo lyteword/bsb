@@ -1,3 +1,7 @@
+---
+weight: 26
+---
+
 # Chapter 26
 
 ## David Again Spares Saul

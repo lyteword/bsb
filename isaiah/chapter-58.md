@@ -1,3 +1,7 @@
+---
+weight: 58
+---
+
 # Chapter 58
 
 ## True Fasts and Sabbaths

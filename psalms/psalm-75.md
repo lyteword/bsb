@@ -1,3 +1,7 @@
+---
+weight: 75
+---
+
 # Psalm 75
 
 ## God’s Righteous Judgment

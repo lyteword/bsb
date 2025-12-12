@@ -1,3 +1,7 @@
+---
+weight: 14
+---
+
 # Psalm 14
 
 ## The Fool Says There Is No God

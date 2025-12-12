@@ -1,3 +1,7 @@
+---
+weight: 40
+---
+
 # Chapter 40
 
 ## Setting Up the Tabernacle

@@ -1,3 +1,7 @@
+---
+weight: 29
+---
+
 # Chapter 29
 
 ## A Prophecy against Pharaoh

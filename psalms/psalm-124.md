@@ -1,3 +1,7 @@
+---
+weight: 124
+---
+
 # Psalm 124
 
 ## Our Help Is in the Name of the LORD

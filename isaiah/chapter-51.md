@@ -1,3 +1,7 @@
+---
+weight: 51
+---
+
 # Chapter 51
 
 ## Salvation for Zion

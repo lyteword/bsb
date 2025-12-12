@@ -1,3 +1,7 @@
+---
+weight: 3
+---
+
 # Chapter 3
 
 ## Haman’s Plot against the Jews

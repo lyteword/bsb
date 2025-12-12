@@ -1,3 +1,7 @@
+---
+weight: 36
+---
+
 # Psalm 36
 
 ## The Transgression of the Wicked

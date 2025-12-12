@@ -1,3 +1,7 @@
+---
+weight: 41
+---
+
 # Chapter 41
 
 ## Inside the Temple

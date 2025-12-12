@@ -1,3 +1,7 @@
+---
+weight: 54
+---
+
 # Chapter 54
 
 ## Future Blessings for Zion

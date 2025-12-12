@@ -1,3 +1,7 @@
+---
+weight: 102
+---
+
 # Psalm 102
 
 ## The Prayer of the Afflicted

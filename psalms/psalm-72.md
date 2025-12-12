@@ -1,3 +1,7 @@
+---
+weight: 72
+---
+
 # Psalm 72
 
 ## Endow the King with Your Justice

@@ -1,3 +1,7 @@
+---
+weight: 110
+---
+
 # Psalm 110
 
 ## God’s Faithful Messiah

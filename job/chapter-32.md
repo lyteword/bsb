@@ -1,3 +1,7 @@
+---
+weight: 32
+---
+
 # Chapter 32
 
 ## Elihu Rebukes Job’s Friends

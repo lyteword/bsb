@@ -1,3 +1,7 @@
+---
+weight: 43
+---
+
 # Chapter 43
 
 ## The Return to Egypt with Benjamin

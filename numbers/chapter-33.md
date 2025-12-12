@@ -1,3 +1,7 @@
+---
+weight: 33
+---
+
 # Chapter 33
 
 ## Forty-Two Journeys of the Israelites

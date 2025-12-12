@@ -1,3 +1,7 @@
+---
+weight: 6
+---
+
 # Psalm 6
 
 ## Do Not Rebuke Me in Your Anger

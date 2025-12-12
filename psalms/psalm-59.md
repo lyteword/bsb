@@ -1,3 +1,7 @@
+---
+weight: 59
+---
+
 # Psalm 59
 
 ## Deliver Me from My Enemies

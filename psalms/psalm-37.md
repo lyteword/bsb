@@ -1,3 +1,7 @@
+---
+weight: 37
+---
+
 # Psalm 37
 
 ## Delight Yourself in the LORD

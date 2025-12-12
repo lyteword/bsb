@@ -1,3 +1,7 @@
+---
+weight: 86
+---
+
 # Psalm 86
 
 ## Tried but Trusting

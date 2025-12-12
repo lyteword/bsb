@@ -1,3 +1,7 @@
+---
+weight: 3
+---
+
 # Chapter 3
 
 ## To Everything There Is a Season

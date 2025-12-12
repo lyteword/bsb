@@ -1,3 +1,7 @@
+---
+weight: 134
+---
+
 # Psalm 134
 
 ## Bless the LORD, All You Servants

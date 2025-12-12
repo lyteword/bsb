@@ -1,3 +1,7 @@
+---
+weight: 50
+---
+
 # Chapter 50
 
 ## Israel’s Sin

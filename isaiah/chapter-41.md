@@ -1,3 +1,7 @@
+---
+weight: 41
+---
+
 # Chapter 41
 
 ## God’s Help to Israel

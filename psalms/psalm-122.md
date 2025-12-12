@@ -1,3 +1,7 @@
+---
+weight: 122
+---
+
 # Psalm 122
 
 ## Pray for the Peace of Jerusalem

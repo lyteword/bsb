@@ -1,3 +1,7 @@
+---
+weight: 71
+---
+
 # Psalm 71
 
 ## Be My Rock of Refuge

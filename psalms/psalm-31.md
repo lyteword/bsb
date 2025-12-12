@@ -1,3 +1,7 @@
+---
+weight: 31
+---
+
 # Psalm 31
 
 ## Into Your Hands I Commit My Spirit

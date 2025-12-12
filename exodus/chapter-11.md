@@ -1,3 +1,7 @@
+---
+weight: 11
+---
+
 # Chapter 11
 
 ## The Plague on the Firstborn Foretold

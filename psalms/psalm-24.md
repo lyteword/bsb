@@ -1,3 +1,7 @@
+---
+weight: 24
+---
+
 # Psalm 24
 
 ## The Earth Is the LORD’s

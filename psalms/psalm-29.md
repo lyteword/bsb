@@ -1,3 +1,7 @@
+---
+weight: 29
+---
+
 # Psalm 29
 
 ## Ascribe Glory to the LORD

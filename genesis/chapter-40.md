@@ -1,3 +1,7 @@
+---
+weight: 40
+---
+
 # Chapter 40
 
 ## The Cupbearer and the Baker

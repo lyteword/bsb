@@ -1,3 +1,7 @@
+---
+weight: 49
+---
+
 # Chapter 49
 
 ## Jacob Blesses His Sons

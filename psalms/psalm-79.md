@@ -1,3 +1,7 @@
+---
+weight: 79
+---
+
 # Psalm 79
 
 ## A Prayer for Deliverance

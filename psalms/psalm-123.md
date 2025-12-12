@@ -1,3 +1,7 @@
+---
+weight: 123
+---
+
 # Psalm 123
 
 ## I Lift Up My Eyes to You

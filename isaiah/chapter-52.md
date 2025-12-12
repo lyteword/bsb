@@ -1,3 +1,7 @@
+---
+weight: 52
+---
+
 # Chapter 52
 
 ## Deliverance for Jerusalem

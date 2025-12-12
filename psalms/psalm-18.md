@@ -1,3 +1,7 @@
+---
+weight: 18
+---
+
 # Psalm 18
 
 ## The LORD Is My Rock

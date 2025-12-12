@@ -1,3 +1,7 @@
+---
+weight: 67
+---
+
 # Psalm 67
 
 ## May God Cause His Face to Shine upon Us

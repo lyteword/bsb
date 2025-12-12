@@ -1,3 +1,7 @@
+---
+weight: 92
+---
+
 # Psalm 92
 
 ## How Great Are Your Works!

@@ -1,3 +1,7 @@
+---
+weight: 96
+---
+
 # Psalm 96
 
 ## Sing to the LORD, All the Earth

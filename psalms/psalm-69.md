@@ -1,3 +1,7 @@
+---
+weight: 69
+---
+
 # Psalm 69
 
 ## The Waters Are up to My Neck

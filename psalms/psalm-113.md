@@ -1,3 +1,7 @@
+---
+weight: 113
+---
+
 # Psalm 113
 
 ## The LORD Exalts the Humble

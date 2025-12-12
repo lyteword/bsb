@@ -1,3 +1,7 @@
+---
+weight: 38
+---
+
 # Chapter 38
 
 ## The LORD Challenges Job

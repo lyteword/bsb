@@ -1,3 +1,7 @@
+---
+weight: 8
+---
+
 # Psalm 8
 
 ## How Majestic Is Your Name!

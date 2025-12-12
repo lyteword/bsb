@@ -1,3 +1,7 @@
+---
+weight: 40
+---
+
 # Psalm 40
 
 ## I Waited Patiently for the LORD
