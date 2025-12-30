@@ -6,43 +6,43 @@ weight: 40
 
 ## Jeremiah Remains in Judah
 
-<sup>1</sup> This is the word that came to Jeremiah from the LORD after Nebuzaradan captain of the guard had released him at Ramah, having found him bound in chains among all the captives of Jerusalem and Judah who were being exiled to Babylon.
+**¹** This is the word that came to Jeremiah from the LORD after Nebuzaradan captain of the guard had released him at Ramah, having found him bound in chains among all the captives of Jerusalem and Judah who were being exiled to Babylon.
 
-<sup>2</sup> The captain of the guard found Jeremiah and said to him, “The LORD your God decreed this disaster on this place,
+**²** The captain of the guard found Jeremiah and said to him, “The LORD your God decreed this disaster on this place,
 
-<sup>3</sup> and now the LORD has fulfilled it; He has done just as He said. Because you people have sinned against the LORD and have not obeyed His voice, this thing has happened to you.
+**³** and now the LORD has fulfilled it; He has done just as He said. Because you people have sinned against the LORD and have not obeyed His voice, this thing has happened to you.
 
-<sup>4</sup> But now, behold, I am freeing you today from the chains that were on your wrists. If it pleases you to come with me to Babylon, then come, and I will take care of you. But if it seems wrong to you to come with me to Babylon, go no farther. Look, the whole land is before you. Wherever it seems good and right to you, go there.”
+**⁴** But now, behold, I am freeing you today from the chains that were on your wrists. If it pleases you to come with me to Babylon, then come, and I will take care of you. But if it seems wrong to you to come with me to Babylon, go no farther. Look, the whole land is before you. Wherever it seems good and right to you, go there.”
 
-<sup>5</sup> But before Jeremiah turned to go, Nebuzaradan added, “Return to Gedaliah son of Ahikam, the son of Shaphan, whom the king of Babylon has appointed over the cities of Judah, and stay with him among the people, or go anywhere else that seems right.” Then the captain of the guard gave him a ration and a gift and released him.
+**⁵** But before Jeremiah turned to go, Nebuzaradan added, “Return to Gedaliah son of Ahikam, the son of Shaphan, whom the king of Babylon has appointed over the cities of Judah, and stay with him among the people, or go anywhere else that seems right.” Then the captain of the guard gave him a ration and a gift and released him.
 
-<sup>6</sup> So Jeremiah went to Gedaliah son of Ahikam at Mizpah and stayed with him among the people who were left in the land.
+**⁶** So Jeremiah went to Gedaliah son of Ahikam at Mizpah and stayed with him among the people who were left in the land.
 
 ## Gedaliah Governs in Judah
 
 **(2 Kings 25:22–24)**
 
-<sup>7</sup> When all the commanders and men of the armies in the field heard that the king of Babylon had appointed Gedaliah son of Ahikam over the land and that he had put him in charge of the men, women, and children who were the poorest of the land and had not been exiled to Babylon,
+**⁷** When all the commanders and men of the armies in the field heard that the king of Babylon had appointed Gedaliah son of Ahikam over the land and that he had put him in charge of the men, women, and children who were the poorest of the land and had not been exiled to Babylon,
 
-<sup>8</sup> they came to Gedaliah at Mizpah—Ishmael son of Nethaniah, Johanan and Jonathan the sons of Kareah, Seraiah son of Tanhumeth, the sons of Ephai the Netophathite, and Jezaniah [^2916] son of the Maacathite—they and their men.
+**⁸** they came to Gedaliah at Mizpah—Ishmael son of Nethaniah, Johanan and Jonathan the sons of Kareah, Seraiah son of Tanhumeth, the sons of Ephai the Netophathite, and Jezaniah [^2916] son of the Maacathite—they and their men.
 
-<sup>9</sup> Gedaliah son of Ahikam, the son of Shaphan, swore an oath to them and their men, assuring them, “Do not be afraid to serve the Chaldeans.[^2917] Live in the land and serve the king of Babylon, and it will go well with you.
+**⁹** Gedaliah son of Ahikam, the son of Shaphan, swore an oath to them and their men, assuring them, “Do not be afraid to serve the Chaldeans.[^2917] Live in the land and serve the king of Babylon, and it will go well with you.
 
-<sup>10</sup> As for me, I will stay in Mizpah to represent you before the Chaldeans who come to us. As for you, gather wine grapes, summer fruit, and oil, place them in your storage jars, and live in the cities you have taken.”
+**¹⁰** As for me, I will stay in Mizpah to represent you before the Chaldeans who come to us. As for you, gather wine grapes, summer fruit, and oil, place them in your storage jars, and live in the cities you have taken.”
 
-<sup>11</sup> When all the Jews in Moab, Ammon, Edom, and all the other lands heard that the king of Babylon had left a remnant in Judah and had appointed Gedaliah son of Ahikam, the son of Shaphan, over them,
+**¹¹** When all the Jews in Moab, Ammon, Edom, and all the other lands heard that the king of Babylon had left a remnant in Judah and had appointed Gedaliah son of Ahikam, the son of Shaphan, over them,
 
-<sup>12</sup> they all returned from all the places to which they had been banished and came to the land of Judah, to Gedaliah at Mizpah. And they gathered an abundance of wine grapes and summer fruit.
+**¹²** they all returned from all the places to which they had been banished and came to the land of Judah, to Gedaliah at Mizpah. And they gathered an abundance of wine grapes and summer fruit.
 
 ## The Plot against Gedaliah
 
-<sup>13</sup> Meanwhile, Johanan son of Kareah and all the commanders of the armies in the field came to Gedaliah at Mizpah
+**¹³** Meanwhile, Johanan son of Kareah and all the commanders of the armies in the field came to Gedaliah at Mizpah
 
-<sup>14</sup> and said to him, “Are you aware that Baalis king of the Ammonites has sent Ishmael son of Nethaniah to take your life?” But Gedaliah son of Ahikam did not believe them.
+**¹⁴** and said to him, “Are you aware that Baalis king of the Ammonites has sent Ishmael son of Nethaniah to take your life?” But Gedaliah son of Ahikam did not believe them.
 
-<sup>15</sup> Then Johanan son of Kareah spoke privately to Gedaliah at Mizpah. “Let me go and kill Ishmael son of Nethaniah,” he said. “No one will know it. Why should he take your life and scatter all the people of Judah who have gathered to you, so that the remnant of Judah would perish?”
+**¹⁵** Then Johanan son of Kareah spoke privately to Gedaliah at Mizpah. “Let me go and kill Ishmael son of Nethaniah,” he said. “No one will know it. Why should he take your life and scatter all the people of Judah who have gathered to you, so that the remnant of Judah would perish?”
 
-<sup>16</sup> But Gedaliah son of Ahikam said to Johanan son of Kareah, “Do not do such a thing! What you are saying about Ishmael is a lie.”
+**¹⁶** But Gedaliah son of Ahikam said to Johanan son of Kareah, “Do not do such a thing! What you are saying about Ishmael is a lie.”
 
 [^2916]: 40:8 Jezaniah is a variant of Jaazaniah; see 2 Kings 25:23.
 [^2917]: 40:9 That is, the Babylonians; also in verse 10

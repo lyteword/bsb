@@ -8,81 +8,81 @@ weight: 12
 
 **(2 Chronicles 10:1–15)**
 
-<sup>1</sup> Then Rehoboam went to Shechem, for all Israel had gone there to make him king.
+**¹** Then Rehoboam went to Shechem, for all Israel had gone there to make him king.
 
-<sup>2</sup> When Jeroboam son of Nebat heard about this, he was still [^1302] in Egypt where he had fled from King Solomon and had been living ever since.
+**²** When Jeroboam son of Nebat heard about this, he was still [^1302] in Egypt where he had fled from King Solomon and had been living ever since.
 
-<sup>3</sup> So they sent for Jeroboam, and he and the whole assembly of Israel came to Rehoboam and said,
+**³** So they sent for Jeroboam, and he and the whole assembly of Israel came to Rehoboam and said,
 
-<sup>4</sup> “Your father put a heavy yoke on us. But now you must lighten the burden of your father’s service and the heavy yoke he put on us, and we will serve you.”
+**⁴** “Your father put a heavy yoke on us. But now you must lighten the burden of your father’s service and the heavy yoke he put on us, and we will serve you.”
 
-<sup>5</sup> Rehoboam answered, “Go away for three days and then return to me.” So the people departed.
+**⁵** Rehoboam answered, “Go away for three days and then return to me.” So the people departed.
 
-<sup>6</sup> Then King Rehoboam consulted with the elders who had served his father Solomon during his lifetime. “How do you advise me to respond to these people?” he asked.
+**⁶** Then King Rehoboam consulted with the elders who had served his father Solomon during his lifetime. “How do you advise me to respond to these people?” he asked.
 
-<sup>7</sup> They replied, “If you will be a servant to these people and serve them this day, and if you will respond by speaking kind words to them, they will be your servants forever.”
+**⁷** They replied, “If you will be a servant to these people and serve them this day, and if you will respond by speaking kind words to them, they will be your servants forever.”
 
-<sup>8</sup> But Rehoboam rejected the advice of the elders; instead, he consulted the young men who had grown up with him and served him.
+**⁸** But Rehoboam rejected the advice of the elders; instead, he consulted the young men who had grown up with him and served him.
 
-<sup>9</sup> He asked them, “What message do you advise that we send back to these people who have spoken to me, saying, ‘Lighten the yoke your father put on us’?”
+**⁹** He asked them, “What message do you advise that we send back to these people who have spoken to me, saying, ‘Lighten the yoke your father put on us’?”
 
-<sup>10</sup> The young men who had grown up with him replied, “This is how you should answer these people who said to you, ‘Your father made our yoke heavy, but you must make it lighter.’ This is what you should tell them: ‘My little finger is thicker than my father’s waist!
+**¹⁰** The young men who had grown up with him replied, “This is how you should answer these people who said to you, ‘Your father made our yoke heavy, but you must make it lighter.’ This is what you should tell them: ‘My little finger is thicker than my father’s waist!
 
-<sup>11</sup> Whereas my father burdened you with a heavy yoke, I will add to your yoke. Whereas my father scourged you with whips, I will scourge you with scorpions.’”
+**¹¹** Whereas my father burdened you with a heavy yoke, I will add to your yoke. Whereas my father scourged you with whips, I will scourge you with scorpions.’”
 
-<sup>12</sup> After three days, Jeroboam and all the people returned to Rehoboam, since the king had said, “Come back to me on the third day.”
+**¹²** After three days, Jeroboam and all the people returned to Rehoboam, since the king had said, “Come back to me on the third day.”
 
-<sup>13</sup> And the king answered the people harshly. He rejected the advice of the elders
+**¹³** And the king answered the people harshly. He rejected the advice of the elders
 
-<sup>14</sup> and spoke to them as the young men had advised, saying, “Whereas my father made your yoke heavy, I will add to your yoke. Whereas my father scourged you with whips, I will scourge you with scorpions.”
+**¹⁴** and spoke to them as the young men had advised, saying, “Whereas my father made your yoke heavy, I will add to your yoke. Whereas my father scourged you with whips, I will scourge you with scorpions.”
 
-<sup>15</sup> So the king did not listen to the people, and indeed this turn of events was from the LORD, to fulfill the word He had spoken to Jeroboam son of Nebat through Ahijah the Shilonite.
+**¹⁵** So the king did not listen to the people, and indeed this turn of events was from the LORD, to fulfill the word He had spoken to Jeroboam son of Nebat through Ahijah the Shilonite.
 
 ## The Kingdom Divided
 
 **(2 Chronicles 10:16–19)**
 
-<sup>16</sup> When all Israel saw that the king had refused to listen to them, they answered the king: “What portion do we have in David, and what inheritance in the son of Jesse? To your tents, O Israel! Look now to your own house, O David!” So the Israelites went home,
+**¹⁶** When all Israel saw that the king had refused to listen to them, they answered the king: “What portion do we have in David, and what inheritance in the son of Jesse? To your tents, O Israel! Look now to your own house, O David!” So the Israelites went home,
 
-<sup>17</sup> but Rehoboam still reigned over the Israelites living in the cities of Judah.
+**¹⁷** but Rehoboam still reigned over the Israelites living in the cities of Judah.
 
-<sup>18</sup> Then King Rehoboam sent out Adoram,[^1303] who was in charge of the forced labor, but all Israel stoned him to death. And King Rehoboam mounted his chariot in haste and escaped to Jerusalem.
+**¹⁸** Then King Rehoboam sent out Adoram,[^1303] who was in charge of the forced labor, but all Israel stoned him to death. And King Rehoboam mounted his chariot in haste and escaped to Jerusalem.
 
-<sup>19</sup> So to this day Israel has been in rebellion against the house of David.
+**¹⁹** So to this day Israel has been in rebellion against the house of David.
 
 ## Shemaiah’s Prophecy
 
 **(2 Chronicles 11:1–4)**
 
-<sup>20</sup> When all Israel heard that Jeroboam had returned, they summoned him to the assembly and made him king over all Israel. Only the tribe of Judah followed the house of David.
+**²⁰** When all Israel heard that Jeroboam had returned, they summoned him to the assembly and made him king over all Israel. Only the tribe of Judah followed the house of David.
 
-<sup>21</sup> And when Rehoboam arrived in Jerusalem, he mobilized the whole house of Judah and the tribe of Benjamin—180,000 chosen warriors—to fight against the house of Israel and restore the kingdom to Rehoboam son of Solomon.
+**²¹** And when Rehoboam arrived in Jerusalem, he mobilized the whole house of Judah and the tribe of Benjamin—180,000 chosen warriors—to fight against the house of Israel and restore the kingdom to Rehoboam son of Solomon.
 
-<sup>22</sup> But the word of God came to Shemaiah the man of God:
+**²²** But the word of God came to Shemaiah the man of God:
 
-<sup>23</sup> “Tell Rehoboam son of Solomon king of Judah, all the house of Judah and Benjamin, and the rest of the people
+**²³** “Tell Rehoboam son of Solomon king of Judah, all the house of Judah and Benjamin, and the rest of the people
 
-<sup>24</sup> that this is what the LORD says: ‘You are not to go up and fight against your brothers, the Israelites. Each of you must return home, for this is My doing.’” So they listened to the word of the LORD and turned back according to the word of the LORD.
+**²⁴** that this is what the LORD says: ‘You are not to go up and fight against your brothers, the Israelites. Each of you must return home, for this is My doing.’” So they listened to the word of the LORD and turned back according to the word of the LORD.
 
 ## Jeroboam’s Idolatry
 
-<sup>25</sup> Then Jeroboam built Shechem in the hill country of Ephraim and lived there. And from there he went out and built Penuel.[^1304]
+**²⁵** Then Jeroboam built Shechem in the hill country of Ephraim and lived there. And from there he went out and built Penuel.[^1304]
 
-<sup>26</sup> Jeroboam said in his heart, “Now the kingdom might revert to the house of David.
+**²⁶** Jeroboam said in his heart, “Now the kingdom might revert to the house of David.
 
-<sup>27</sup> If these people go up to offer sacrifices in the house of the LORD at Jerusalem, their hearts will return to their lord, Rehoboam king of Judah; then they will kill me and return to Rehoboam king of Judah.”
+**²⁷** If these people go up to offer sacrifices in the house of the LORD at Jerusalem, their hearts will return to their lord, Rehoboam king of Judah; then they will kill me and return to Rehoboam king of Judah.”
 
-<sup>28</sup> After seeking advice, the king made two golden calves and said to the people,[^1305] “Going up to Jerusalem is too much for you. Here, O Israel, are your gods, who brought you up out of the land of Egypt.”
+**²⁸** After seeking advice, the king made two golden calves and said to the people,[^1305] “Going up to Jerusalem is too much for you. Here, O Israel, are your gods, who brought you up out of the land of Egypt.”
 
-<sup>29</sup> One calf he set up in Bethel, and the other in Dan.
+**²⁹** One calf he set up in Bethel, and the other in Dan.
 
-<sup>30</sup> And this thing became a sin; the people walked as far as Dan to worship before one of the calves.[^1306]
+**³⁰** And this thing became a sin; the people walked as far as Dan to worship before one of the calves.[^1306]
 
-<sup>31</sup> Jeroboam also built shrines on the high places and appointed from every class of people priests who were not Levites.
+**³¹** Jeroboam also built shrines on the high places and appointed from every class of people priests who were not Levites.
 
-<sup>32</sup> And Jeroboam ordained a feast on the fifteenth day of the eighth month,[^1307] like the feast that was in Judah, and he offered sacrifices on the altar; he made this offering in Bethel to sacrifice to the calves he had set up, and he installed priests in Bethel for the high places he had set up.
+**³²** And Jeroboam ordained a feast on the fifteenth day of the eighth month,[^1307] like the feast that was in Judah, and he offered sacrifices on the altar; he made this offering in Bethel to sacrifice to the calves he had set up, and he installed priests in Bethel for the high places he had set up.
 
-<sup>33</sup> On the fifteenth day of the eighth month, a month of his own choosing, Jeroboam offered sacrifices on the altar he had set up in Bethel. So he ordained a feast for the Israelites, offered sacrifices on the altar, and burned incense.
+**³³** On the fifteenth day of the eighth month, a month of his own choosing, Jeroboam offered sacrifices on the altar he had set up in Bethel. So he ordained a feast for the Israelites, offered sacrifices on the altar, and burned incense.
 
 [^1302]: 12:2 Or he remained
 [^1303]: 12:18 Hebrew; some LXX manuscripts and Syriac Adoniram; see 1 Kings 4:6 and 1 Kings 5:14.

@@ -10,8 +10,8 @@ weight: 133
 
 A song of ascents. Of David.
 
-<sup>1</sup> Behold, how good and pleasant it is when brothers live together in harmony!
+**¹** Behold, how good and pleasant it is when brothers live together in harmony!
 
-<sup>2</sup> It is like fine oil on the head, running down on the beard, running down Aaron’s beard over the collar of his robes.
+**²** It is like fine oil on the head, running down on the beard, running down Aaron’s beard over the collar of his robes.
 
-<sup>3</sup> It is like the dew of Hermon falling on the mountains of Zion. For there the LORD has bestowed the blessing of life forevermore.
+**³** It is like the dew of Hermon falling on the mountains of Zion. For there the LORD has bestowed the blessing of life forevermore.

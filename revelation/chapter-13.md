@@ -8,45 +8,45 @@ weight: 13
 
 **(Daniel 7:1–8)**
 
-<sup>1</sup> Then I saw a beast with ten horns and seven heads rising out of the sea. There were ten royal crowns on its horns and blasphemous names on its heads.
+**¹** Then I saw a beast with ten horns and seven heads rising out of the sea. There were ten royal crowns on its horns and blasphemous names on its heads.
 
-<sup>2</sup> The beast I saw was like a leopard, with the feet of a bear and the mouth of a lion. And the dragon gave the beast his power and his throne and great authority.
+**²** The beast I saw was like a leopard, with the feet of a bear and the mouth of a lion. And the dragon gave the beast his power and his throne and great authority.
 
-<sup>3</sup> One of the heads of the beast appeared to have been mortally wounded. But the mortal wound was healed, and the whole world marveled and followed the beast.
+**³** One of the heads of the beast appeared to have been mortally wounded. But the mortal wound was healed, and the whole world marveled and followed the beast.
 
-<sup>4</sup> They worshiped the dragon who had given authority to the beast, and they worshiped the beast, saying, “Who is like the beast, and who can wage war against it?”
+**⁴** They worshiped the dragon who had given authority to the beast, and they worshiped the beast, saying, “Who is like the beast, and who can wage war against it?”
 
-<sup>5</sup> The beast was given a mouth to speak arrogant and blasphemous words, and authority to act for 42 months.
+**⁵** The beast was given a mouth to speak arrogant and blasphemous words, and authority to act for 42 months.
 
-<sup>6</sup> And the beast opened its mouth to speak blasphemies against God and to slander His name and His tabernacle—those who dwell in heaven.
+**⁶** And the beast opened its mouth to speak blasphemies against God and to slander His name and His tabernacle—those who dwell in heaven.
 
-<sup>7</sup> Then the beast was permitted to wage war against the saints and to conquer them, and it was given authority over every tribe and people and tongue and nation.
+**⁷** Then the beast was permitted to wage war against the saints and to conquer them, and it was given authority over every tribe and people and tongue and nation.
 
-<sup>8</sup> And all who dwell on the earth will worship the beast—all whose names have not been written from the foundation of the world in the Book of Life belonging to the Lamb who was slain.[^4821]
+**⁸** And all who dwell on the earth will worship the beast—all whose names have not been written from the foundation of the world in the Book of Life belonging to the Lamb who was slain.[^4821]
 
-<sup>9</sup> He who has an ear, let him hear:
+**⁹** He who has an ear, let him hear:
 
-<sup>10</sup> “If anyone is destined for captivity, into captivity he will go; if anyone is to die [^4822] by the sword, by the sword he must be killed.”[^4823] Here is a call for the perseverance and faith of the saints.
+**¹⁰** “If anyone is destined for captivity, into captivity he will go; if anyone is to die [^4822] by the sword, by the sword he must be killed.”[^4823] Here is a call for the perseverance and faith of the saints.
 
 ## The Beast from the Earth
 
-<sup>11</sup> Then I saw another beast rising out of the earth. This beast had two horns like a lamb, but spoke like a dragon.
+**¹¹** Then I saw another beast rising out of the earth. This beast had two horns like a lamb, but spoke like a dragon.
 
-<sup>12</sup> And this beast exercised all the authority of the first beast and caused the earth and those who dwell in it to worship the first beast, whose mortal wound had been healed.
+**¹²** And this beast exercised all the authority of the first beast and caused the earth and those who dwell in it to worship the first beast, whose mortal wound had been healed.
 
-<sup>13</sup> And the second beast performed great signs, even causing fire from heaven to come down to earth in the presence of the people.
+**¹³** And the second beast performed great signs, even causing fire from heaven to come down to earth in the presence of the people.
 
-<sup>14</sup> Because of the signs it was given to perform on behalf of the first beast, it deceived those who dwell on the earth, telling them to make an image to the beast that had been wounded by the sword and yet had lived.
+**¹⁴** Because of the signs it was given to perform on behalf of the first beast, it deceived those who dwell on the earth, telling them to make an image to the beast that had been wounded by the sword and yet had lived.
 
-<sup>15</sup> The second beast was permitted to give breath to the image of the first beast, so that the image could speak and cause all who refused to worship it to be killed.
+**¹⁵** The second beast was permitted to give breath to the image of the first beast, so that the image could speak and cause all who refused to worship it to be killed.
 
 ## The Mark of the Beast
 
-<sup>16</sup> And the second beast required all people, small and great, rich and poor, free and slave, to receive a mark on their right hand or on their forehead,
+**¹⁶** And the second beast required all people, small and great, rich and poor, free and slave, to receive a mark on their right hand or on their forehead,
 
-<sup>17</sup> so that no one could buy or sell unless he had the mark—the name of the beast or the number of its name.
+**¹⁷** so that no one could buy or sell unless he had the mark—the name of the beast or the number of its name.
 
-<sup>18</sup> Here is a call for wisdom: Let the one who has insight calculate the number of the beast, for it is the number of a man, and that number is 666.[^4824]
+**¹⁸** Here is a call for wisdom: Let the one who has insight calculate the number of the beast, for it is the number of a man, and that number is 666.[^4824]
 
 [^4821]: 13:8 Or written in the Book of Life belonging to the Lamb who was slain from the foundation of the world.
 [^4822]: 13:10 NE, WH, and BYZ if anyone kills

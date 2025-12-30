@@ -8,52 +8,52 @@ weight: 1
 
 **(James 5:7–12)**
 
-<sup>1</sup> There was a man in the land of Uz whose name was Job. And this man was blameless and upright, fearing God and shunning evil.
+**¹** There was a man in the land of Uz whose name was Job. And this man was blameless and upright, fearing God and shunning evil.
 
-<sup>2</sup> He had seven sons and three daughters,
+**²** He had seven sons and three daughters,
 
-<sup>3</sup> and he owned 7,000 sheep, 3,000 camels, 500 yoke of oxen, 500 female donkeys, and a very large number of servants. Job was the greatest man of all the people of the East.
+**³** and he owned 7,000 sheep, 3,000 camels, 500 yoke of oxen, 500 female donkeys, and a very large number of servants. Job was the greatest man of all the people of the East.
 
-<sup>4</sup> Job’s sons would take turns holding feasts in their homes, and they would invite their three sisters to eat and drink with them.
+**⁴** Job’s sons would take turns holding feasts in their homes, and they would invite their three sisters to eat and drink with them.
 
-<sup>5</sup> And when the days of feasting were over, Job would send for his children to purify them, rising early in the morning to offer burnt offerings for all of them. For Job thought, “Perhaps my children have sinned and cursed God in their hearts.” This was Job’s regular practice.
+**⁵** And when the days of feasting were over, Job would send for his children to purify them, rising early in the morning to offer burnt offerings for all of them. For Job thought, “Perhaps my children have sinned and cursed God in their hearts.” This was Job’s regular practice.
 
 ## Satan’s First Attack
 
-<sup>6</sup> One day the sons of God came to present themselves before the LORD, and Satan [^2057] also came with them.
+**⁶** One day the sons of God came to present themselves before the LORD, and Satan [^2057] also came with them.
 
-<sup>7</sup> “Where have you come from?” said the LORD to Satan. “From roaming through the earth,” he replied, “and walking back and forth in it.”
+**⁷** “Where have you come from?” said the LORD to Satan. “From roaming through the earth,” he replied, “and walking back and forth in it.”
 
-<sup>8</sup> Then the LORD said to Satan, “Have you considered My servant Job? For there is no one on earth like him, a man who is blameless and upright, who fears God and shuns evil.”
+**⁸** Then the LORD said to Satan, “Have you considered My servant Job? For there is no one on earth like him, a man who is blameless and upright, who fears God and shuns evil.”
 
-<sup>9</sup> Satan answered the LORD, “Does Job fear God for nothing?
+**⁹** Satan answered the LORD, “Does Job fear God for nothing?
 
-<sup>10</sup> Have You not placed a hedge on every side around him and his household and all that he owns? You have blessed the work of his hands, and his possessions have increased in the land.
+**¹⁰** Have You not placed a hedge on every side around him and his household and all that he owns? You have blessed the work of his hands, and his possessions have increased in the land.
 
-<sup>11</sup> But stretch out Your hand and strike all that he has, and he will surely curse You to Your face.”
+**¹¹** But stretch out Your hand and strike all that he has, and he will surely curse You to Your face.”
 
-<sup>12</sup> “Very well,” said the LORD to Satan. “Everything he has is in your hands, but you must not lay a hand on the man himself.” Then Satan went out from the presence of the LORD.
+**¹²** “Very well,” said the LORD to Satan. “Everything he has is in your hands, but you must not lay a hand on the man himself.” Then Satan went out from the presence of the LORD.
 
 ## Job Loses His Children and Possessions
 
-<sup>13</sup> One day, while Job’s sons and daughters were eating and drinking wine in their oldest brother’s house,
+**¹³** One day, while Job’s sons and daughters were eating and drinking wine in their oldest brother’s house,
 
-<sup>14</sup> a messenger came and reported to Job: “While the oxen were plowing and the donkeys were grazing nearby,
+**¹⁴** a messenger came and reported to Job: “While the oxen were plowing and the donkeys were grazing nearby,
 
-<sup>15</sup> the Sabeans swooped down and took them away. They put the servants to the sword, and I alone have escaped to tell you!”
+**¹⁵** the Sabeans swooped down and took them away. They put the servants to the sword, and I alone have escaped to tell you!”
 
-<sup>16</sup> While he was still speaking, another messenger came and reported: “The fire of God fell from heaven. It burned and consumed the sheep and the servants, and I alone have escaped to tell you!”
+**¹⁶** While he was still speaking, another messenger came and reported: “The fire of God fell from heaven. It burned and consumed the sheep and the servants, and I alone have escaped to tell you!”
 
-<sup>17</sup> While he was still speaking, another messenger came and reported: “The Chaldeans formed three bands, raided the camels, and took them away. They put the servants to the sword, and I alone have escaped to tell you!”
+**¹⁷** While he was still speaking, another messenger came and reported: “The Chaldeans formed three bands, raided the camels, and took them away. They put the servants to the sword, and I alone have escaped to tell you!”
 
-<sup>18</sup> While he was still speaking, another messenger came and reported: “Your sons and daughters were eating and drinking wine in their oldest brother’s house,
+**¹⁸** While he was still speaking, another messenger came and reported: “Your sons and daughters were eating and drinking wine in their oldest brother’s house,
 
-<sup>19</sup> when suddenly a mighty wind swept in from the desert and struck the four corners of the house. It collapsed on the young people and they are dead, and I alone have escaped to tell you!”
+**¹⁹** when suddenly a mighty wind swept in from the desert and struck the four corners of the house. It collapsed on the young people and they are dead, and I alone have escaped to tell you!”
 
-<sup>20</sup> Then Job stood up, tore his robe, and shaved his head. He fell to the ground and worshiped,
+**²⁰** Then Job stood up, tore his robe, and shaved his head. He fell to the ground and worshiped,
 
-<sup>21</sup> saying: “Naked I came from my mother’s womb, and naked I will return. The LORD gave, and the LORD has taken away. Blessed be the name of the LORD.”
+**²¹** saying: “Naked I came from my mother’s womb, and naked I will return. The LORD gave, and the LORD has taken away. Blessed be the name of the LORD.”
 
-<sup>22</sup> In all this, Job did not sin or charge God with wrongdoing.
+**²²** In all this, Job did not sin or charge God with wrongdoing.
 
 [^2057]: 1:6 That is, the Accuser or the Adversary; here and throughout Job 1

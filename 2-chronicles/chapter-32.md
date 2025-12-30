@@ -8,85 +8,85 @@ weight: 32
 
 **(2 Kings 18:13–16; Psalms 46:1–11)**
 
-<sup>1</sup> After all these acts of faithfulness, Sennacherib king of Assyria came and invaded Judah. He laid siege to the fortified cities, intending to conquer them for himself.
+**¹** After all these acts of faithfulness, Sennacherib king of Assyria came and invaded Judah. He laid siege to the fortified cities, intending to conquer them for himself.
 
-<sup>2</sup> When Hezekiah saw that Sennacherib had come to make war against Jerusalem,
+**²** When Hezekiah saw that Sennacherib had come to make war against Jerusalem,
 
-<sup>3</sup> he consulted with his leaders and mighty men about stopping up the waters of the springs outside the city, and they helped him carry it out.
+**³** he consulted with his leaders and mighty men about stopping up the waters of the springs outside the city, and they helped him carry it out.
 
-<sup>4</sup> Many people assembled and stopped up all the springs and the stream that flowed through the land. “Why should the kings [^1842] of Assyria come and find plenty of water?” they said.
+**⁴** Many people assembled and stopped up all the springs and the stream that flowed through the land. “Why should the kings [^1842] of Assyria come and find plenty of water?” they said.
 
-<sup>5</sup> Then Hezekiah worked resolutely to rebuild all the broken sections of the wall and to raise up towers on it. He also built an outer wall and reinforced the supporting terraces [^1843] of the City of David, and he produced an abundance of weapons and shields.
+**⁵** Then Hezekiah worked resolutely to rebuild all the broken sections of the wall and to raise up towers on it. He also built an outer wall and reinforced the supporting terraces [^1843] of the City of David, and he produced an abundance of weapons and shields.
 
-<sup>6</sup> Hezekiah appointed military commanders over the people and gathered the people in the square of the city gate. Then he encouraged them, saying,
+**⁶** Hezekiah appointed military commanders over the people and gathered the people in the square of the city gate. Then he encouraged them, saying,
 
-<sup>7</sup> “Be strong and courageous! Do not be afraid or discouraged before the king of Assyria and the vast army with him, for there is a greater One with us than with him.
+**⁷** “Be strong and courageous! Do not be afraid or discouraged before the king of Assyria and the vast army with him, for there is a greater One with us than with him.
 
-<sup>8</sup> With him is only the arm of flesh,[^1844] but with us is the LORD our God to help us and to fight our battles.” So the people were strengthened by the words of Hezekiah king of Judah.
+**⁸** With him is only the arm of flesh,[^1844] but with us is the LORD our God to help us and to fight our battles.” So the people were strengthened by the words of Hezekiah king of Judah.
 
 ## Sennacherib Threatens Jerusalem
 
 **(2 Kings 18:17–37; Isaiah 36:1–22)**
 
-<sup>9</sup> Later, as Sennacherib king of Assyria and all his forces besieged Lachish, he sent his servants to Jerusalem with a message for King Hezekiah of Judah and all the people of Judah who were in Jerusalem:
+**⁹** Later, as Sennacherib king of Assyria and all his forces besieged Lachish, he sent his servants to Jerusalem with a message for King Hezekiah of Judah and all the people of Judah who were in Jerusalem:
 
-<sup>10</sup> “This is what Sennacherib king of Assyria says: What is the basis of your confidence, that you remain in Jerusalem under siege?
+**¹⁰** “This is what Sennacherib king of Assyria says: What is the basis of your confidence, that you remain in Jerusalem under siege?
 
-<sup>11</sup> Is not Hezekiah misleading you to give you over to death by famine and thirst when he says, ‘The LORD our God will deliver us from the hand of the king of Assyria?’
+**¹¹** Is not Hezekiah misleading you to give you over to death by famine and thirst when he says, ‘The LORD our God will deliver us from the hand of the king of Assyria?’
 
-<sup>12</sup> Did not Hezekiah himself remove His high places and His altars and say to Judah and Jerusalem, ‘You must worship before one altar, and on it you shall burn sacrifices’?
+**¹²** Did not Hezekiah himself remove His high places and His altars and say to Judah and Jerusalem, ‘You must worship before one altar, and on it you shall burn sacrifices’?
 
-<sup>13</sup> Do you not know what I and my fathers have done to all the peoples of the lands? Have the gods of these nations ever been able to deliver their land from my hand?
+**¹³** Do you not know what I and my fathers have done to all the peoples of the lands? Have the gods of these nations ever been able to deliver their land from my hand?
 
-<sup>14</sup> Who among all the gods of these nations that my fathers devoted to destruction [^1845] has been able to deliver his people from my hand? How then can your God deliver you from my hand?
+**¹⁴** Who among all the gods of these nations that my fathers devoted to destruction [^1845] has been able to deliver his people from my hand? How then can your God deliver you from my hand?
 
-<sup>15</sup> So now, do not let Hezekiah deceive you, and do not let him mislead you like this. Do not believe him, for no god of any nation or kingdom has been able to deliver his people from my hand or from the hand of my fathers. How much less will your God deliver you from my hand!”
+**¹⁵** So now, do not let Hezekiah deceive you, and do not let him mislead you like this. Do not believe him, for no god of any nation or kingdom has been able to deliver his people from my hand or from the hand of my fathers. How much less will your God deliver you from my hand!”
 
-<sup>16</sup> And the servants of Sennacherib spoke further against the LORD God and against His servant Hezekiah.
+**¹⁶** And the servants of Sennacherib spoke further against the LORD God and against His servant Hezekiah.
 
-<sup>17</sup> He also wrote letters mocking the LORD, the God of Israel, and saying against Him: “Just as the gods of the nations did not deliver their people from my hand, so the God of Hezekiah will not deliver His people from my hand.”
+**¹⁷** He also wrote letters mocking the LORD, the God of Israel, and saying against Him: “Just as the gods of the nations did not deliver their people from my hand, so the God of Hezekiah will not deliver His people from my hand.”
 
-<sup>18</sup> Then the Assyrians called out loudly in Hebrew [^1846] to the people of Jerusalem who were on the wall, to frighten and terrify them in order to capture the city.
+**¹⁸** Then the Assyrians called out loudly in Hebrew [^1846] to the people of Jerusalem who were on the wall, to frighten and terrify them in order to capture the city.
 
-<sup>19</sup> They spoke against the God of Jerusalem as they had spoken against the gods of the peoples of the earth—the work of human hands.
+**¹⁹** They spoke against the God of Jerusalem as they had spoken against the gods of the peoples of the earth—the work of human hands.
 
 ## Jerusalem Delivered from the Assyrians
 
 **(2 Kings 19:35–37; Isaiah 37:36–38)**
 
-<sup>20</sup> In response, King Hezekiah and the prophet Isaiah son of Amoz cried out to heaven in prayer,
+**²⁰** In response, King Hezekiah and the prophet Isaiah son of Amoz cried out to heaven in prayer,
 
-<sup>21</sup> and the LORD sent an angel who annihilated every mighty man of valor and every leader and commander in the camp of the king of Assyria. So he withdrew to his own land in disgrace. And when he entered the temple of his god, some of his own sons struck him down with the sword.
+**²¹** and the LORD sent an angel who annihilated every mighty man of valor and every leader and commander in the camp of the king of Assyria. So he withdrew to his own land in disgrace. And when he entered the temple of his god, some of his own sons struck him down with the sword.
 
-<sup>22</sup> So the LORD saved Hezekiah and the people of Jerusalem from the hands of King Sennacherib of Assyria and all others, and He gave them rest on every side.
+**²²** So the LORD saved Hezekiah and the people of Jerusalem from the hands of King Sennacherib of Assyria and all others, and He gave them rest on every side.
 
-<sup>23</sup> Many brought offerings to Jerusalem for the LORD and valuable gifts for Hezekiah king of Judah, and from then on he was exalted in the eyes of all nations.
+**²³** Many brought offerings to Jerusalem for the LORD and valuable gifts for Hezekiah king of Judah, and from then on he was exalted in the eyes of all nations.
 
 ## Hezekiah’s Illness and Recovery
 
 **(2 Kings 20:1–11; Isaiah 38:1–8)**
 
-<sup>24</sup> In those days Hezekiah became mortally ill. So he prayed to the LORD, who spoke to him and gave him a sign.
+**²⁴** In those days Hezekiah became mortally ill. So he prayed to the LORD, who spoke to him and gave him a sign.
 
-<sup>25</sup> But because his heart was proud, Hezekiah did not repay the favor shown to him. Therefore wrath came upon him and upon Judah and Jerusalem.
+**²⁵** But because his heart was proud, Hezekiah did not repay the favor shown to him. Therefore wrath came upon him and upon Judah and Jerusalem.
 
-<sup>26</sup> Then Hezekiah humbled the pride of his heart—he and the people of Jerusalem—so that the wrath of the LORD did not come upon them during the days of Hezekiah.
+**²⁶** Then Hezekiah humbled the pride of his heart—he and the people of Jerusalem—so that the wrath of the LORD did not come upon them during the days of Hezekiah.
 
-<sup>27</sup> Hezekiah had very great riches and honor, and he made treasuries for his silver, gold, precious stones, spices, shields, and all kinds of valuable articles.
+**²⁷** Hezekiah had very great riches and honor, and he made treasuries for his silver, gold, precious stones, spices, shields, and all kinds of valuable articles.
 
-<sup>28</sup> He also made storehouses for the harvest of grain and new wine and oil, stalls for all kinds of livestock, and pens for the flocks.
+**²⁸** He also made storehouses for the harvest of grain and new wine and oil, stalls for all kinds of livestock, and pens for the flocks.
 
-<sup>29</sup> He made cities for himself, and he acquired herds of sheep and cattle in abundance, for God gave him very great wealth.
+**²⁹** He made cities for himself, and he acquired herds of sheep and cattle in abundance, for God gave him very great wealth.
 
-<sup>30</sup> It was Hezekiah who blocked the upper outlet of the Spring of Gihon and channeled it down to the west side of the City of David. And Hezekiah prospered in all that he did.
+**³⁰** It was Hezekiah who blocked the upper outlet of the Spring of Gihon and channeled it down to the west side of the City of David. And Hezekiah prospered in all that he did.
 
-<sup>31</sup> And so when ambassadors of the rulers of Babylon were sent to him to inquire about the wonder that had happened in the land, God left him alone to test him, that He might know all that was in Hezekiah’s heart.
+**³¹** And so when ambassadors of the rulers of Babylon were sent to him to inquire about the wonder that had happened in the land, God left him alone to test him, that He might know all that was in Hezekiah’s heart.
 
 ## Hezekiah’s Death
 
-<sup>32</sup> As for the rest of the acts of Hezekiah and his deeds of loving devotion, they are indeed written in the vision of the prophet Isaiah son of Amoz in the Book of the Kings of Judah and Israel.
+**³²** As for the rest of the acts of Hezekiah and his deeds of loving devotion, they are indeed written in the vision of the prophet Isaiah son of Amoz in the Book of the Kings of Judah and Israel.
 
-<sup>33</sup> And Hezekiah rested with his fathers and was buried in the upper tombs of David’s descendants. All Judah and the people of Jerusalem paid him honor at his death. And his son Manasseh reigned in his place.
+**³³** And Hezekiah rested with his fathers and was buried in the upper tombs of David’s descendants. All Judah and the people of Jerusalem paid him honor at his death. And his son Manasseh reigned in his place.
 
 [^1842]: 32:4 Hebrew; LXX and Syriac king
 [^1843]: 32:5 Hebrew the Millo

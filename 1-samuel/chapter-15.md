@@ -6,79 +6,79 @@ weight: 15
 
 ## Saul’s Disobedience
 
-<sup>1</sup> Then Samuel said to Saul, “The LORD sent me to anoint you king over His people Israel. Now therefore, listen to the words of the LORD.
+**¹** Then Samuel said to Saul, “The LORD sent me to anoint you king over His people Israel. Now therefore, listen to the words of the LORD.
 
-<sup>2</sup> This is what the LORD of Hosts says: ‘I witnessed what the Amalekites did to the Israelites when they opposed them on their way up from Egypt.
+**²** This is what the LORD of Hosts says: ‘I witnessed what the Amalekites did to the Israelites when they opposed them on their way up from Egypt.
 
-<sup>3</sup> Now go and attack the Amalekites and devote to destruction [^1026] all that belongs to them. Do not spare them, but put to death men and women, children and infants, oxen and sheep, camels and donkeys.’”
+**³** Now go and attack the Amalekites and devote to destruction [^1026] all that belongs to them. Do not spare them, but put to death men and women, children and infants, oxen and sheep, camels and donkeys.’”
 
-<sup>4</sup> So Saul summoned the troops and numbered them at Telaim—200,000 foot soldiers and 10,000 men of Judah.
+**⁴** So Saul summoned the troops and numbered them at Telaim—200,000 foot soldiers and 10,000 men of Judah.
 
-<sup>5</sup> Saul came to the city of Amalek and lay in wait in the valley.
+**⁵** Saul came to the city of Amalek and lay in wait in the valley.
 
-<sup>6</sup> And he warned the Kenites, “Since you showed kindness to all the Israelites when they came up out of Egypt, go on and get away from the Amalekites. Otherwise I will sweep you away with them.” So the Kenites moved away from the Amalekites.
+**⁶** And he warned the Kenites, “Since you showed kindness to all the Israelites when they came up out of Egypt, go on and get away from the Amalekites. Otherwise I will sweep you away with them.” So the Kenites moved away from the Amalekites.
 
-<sup>7</sup> Then Saul struck down the Amalekites all the way from Havilah to Shur, which is east of Egypt.
+**⁷** Then Saul struck down the Amalekites all the way from Havilah to Shur, which is east of Egypt.
 
-<sup>8</sup> He captured Agag king of Amalek alive, but devoted all the others to destruction with the sword.
+**⁸** He captured Agag king of Amalek alive, but devoted all the others to destruction with the sword.
 
-<sup>9</sup> Saul and his troops spared Agag, along with the best of the sheep and cattle, the fat calves [^1027] and lambs, and the best of everything else. They were unwilling to devote them to destruction, but they devoted to destruction all that was despised and worthless.
+**⁹** Saul and his troops spared Agag, along with the best of the sheep and cattle, the fat calves [^1027] and lambs, and the best of everything else. They were unwilling to devote them to destruction, but they devoted to destruction all that was despised and worthless.
 
 ## Samuel Denounces Saul
 
-<sup>10</sup> Then the word of the LORD came to Samuel, saying,
+**¹⁰** Then the word of the LORD came to Samuel, saying,
 
-<sup>11</sup> “I regret that I have made Saul king, for he has turned away from following Me and has not carried out My instructions.” And Samuel was distressed and cried out to the LORD all that night.
+**¹¹** “I regret that I have made Saul king, for he has turned away from following Me and has not carried out My instructions.” And Samuel was distressed and cried out to the LORD all that night.
 
-<sup>12</sup> Early in the morning Samuel got up to confront Saul, but he was told, “Saul has gone to Carmel, and behold, he has set up a monument for himself and has turned and gone down to Gilgal.”
+**¹²** Early in the morning Samuel got up to confront Saul, but he was told, “Saul has gone to Carmel, and behold, he has set up a monument for himself and has turned and gone down to Gilgal.”
 
-<sup>13</sup> When Samuel reached him, Saul said to him, “May the LORD bless you. I have carried out the LORD’s instructions.”
+**¹³** When Samuel reached him, Saul said to him, “May the LORD bless you. I have carried out the LORD’s instructions.”
 
-<sup>14</sup> But Samuel replied, “Then what is this bleating of sheep and lowing of cattle that I hear?”
+**¹⁴** But Samuel replied, “Then what is this bleating of sheep and lowing of cattle that I hear?”
 
-<sup>15</sup> Saul answered, “The troops brought them from the Amalekites; they spared the best sheep and cattle to sacrifice to the LORD your God, but the rest we devoted to destruction.”
+**¹⁵** Saul answered, “The troops brought them from the Amalekites; they spared the best sheep and cattle to sacrifice to the LORD your God, but the rest we devoted to destruction.”
 
-<sup>16</sup> “Stop!” exclaimed Samuel. “Let me tell you what the LORD said to me last night.” “Tell me,” Saul replied.
+**¹⁶** “Stop!” exclaimed Samuel. “Let me tell you what the LORD said to me last night.” “Tell me,” Saul replied.
 
-<sup>17</sup> And Samuel said, “Although you were once small in your own eyes, have you not become the head of the tribes of Israel? The LORD anointed you king over Israel
+**¹⁷** And Samuel said, “Although you were once small in your own eyes, have you not become the head of the tribes of Israel? The LORD anointed you king over Israel
 
-<sup>18</sup> and sent you on a mission, saying, ‘Go and devote to destruction the sinful Amalekites. Fight against them until you have wiped them out.’
+**¹⁸** and sent you on a mission, saying, ‘Go and devote to destruction the sinful Amalekites. Fight against them until you have wiped them out.’
 
-<sup>19</sup> So why did you not obey the LORD? Why did you rush upon the plunder and do evil in the sight of the LORD?”
+**¹⁹** So why did you not obey the LORD? Why did you rush upon the plunder and do evil in the sight of the LORD?”
 
-<sup>20</sup> “But I did obey the LORD,” Saul replied. “I went on the mission that the LORD gave me. I brought back Agag king of Amalek and devoted the Amalekites to destruction.
+**²⁰** “But I did obey the LORD,” Saul replied. “I went on the mission that the LORD gave me. I brought back Agag king of Amalek and devoted the Amalekites to destruction.
 
-<sup>21</sup> The troops took sheep and cattle from the plunder, the best of the things devoted to destruction, in order to sacrifice them to the LORD your God at Gilgal.”
+**²¹** The troops took sheep and cattle from the plunder, the best of the things devoted to destruction, in order to sacrifice them to the LORD your God at Gilgal.”
 
-<sup>22</sup> But Samuel declared: “Does the LORD delight in burnt offerings and sacrifices as much as in obedience to His voice? Behold, obedience is better than sacrifice, and attentiveness is better than the fat of rams.
+**²²** But Samuel declared: “Does the LORD delight in burnt offerings and sacrifices as much as in obedience to His voice? Behold, obedience is better than sacrifice, and attentiveness is better than the fat of rams.
 
-<sup>23</sup> For rebellion is like the sin of divination, and arrogance is like the wickedness of idolatry. Because you have rejected the word of the LORD, He has rejected you as king.”
+**²³** For rebellion is like the sin of divination, and arrogance is like the wickedness of idolatry. Because you have rejected the word of the LORD, He has rejected you as king.”
 
 ## Saul’s Confession
 
-<sup>24</sup> Then Saul said to Samuel, “I have sinned; I have transgressed the LORD’s commandment and your instructions, because I feared the people and obeyed their voice.
+**²⁴** Then Saul said to Samuel, “I have sinned; I have transgressed the LORD’s commandment and your instructions, because I feared the people and obeyed their voice.
 
-<sup>25</sup> Now therefore, please forgive my sin and return with me so I can worship the LORD.”
+**²⁵** Now therefore, please forgive my sin and return with me so I can worship the LORD.”
 
-<sup>26</sup> “I will not return with you,” Samuel replied. “For you have rejected the word of the LORD, and He has rejected you as king over Israel.”
+**²⁶** “I will not return with you,” Samuel replied. “For you have rejected the word of the LORD, and He has rejected you as king over Israel.”
 
-<sup>27</sup> As Samuel turned to go, Saul grabbed the hem of his robe, and it tore.
+**²⁷** As Samuel turned to go, Saul grabbed the hem of his robe, and it tore.
 
-<sup>28</sup> So Samuel said to him, “The LORD has torn the kingdom of Israel from you today and has given it to your neighbor who is better than you.
+**²⁸** So Samuel said to him, “The LORD has torn the kingdom of Israel from you today and has given it to your neighbor who is better than you.
 
-<sup>29</sup> Moreover, the Glory of Israel does not lie or change His mind, for He is not a man, that He should change His mind.”
+**²⁹** Moreover, the Glory of Israel does not lie or change His mind, for He is not a man, that He should change His mind.”
 
-<sup>30</sup> “I have sinned,” Saul replied. “Please honor me now before the elders of my people and before Israel. Come back with me, so that I may worship the LORD your God.”
+**³⁰** “I have sinned,” Saul replied. “Please honor me now before the elders of my people and before Israel. Come back with me, so that I may worship the LORD your God.”
 
-<sup>31</sup> So Samuel went back with Saul, and Saul worshiped the LORD.
+**³¹** So Samuel went back with Saul, and Saul worshiped the LORD.
 
-<sup>32</sup> Then Samuel said, “Bring me Agag king of the Amalekites.” Agag came to him cheerfully,[^1028] for he thought, “Surely the bitterness of death is past.”[^1029]
+**³²** Then Samuel said, “Bring me Agag king of the Amalekites.” Agag came to him cheerfully,[^1028] for he thought, “Surely the bitterness of death is past.”[^1029]
 
-<sup>33</sup> But Samuel declared: “As your sword has made women childless, so your mother will be childless among women.” And Samuel hacked Agag to pieces before the LORD at Gilgal.
+**³³** But Samuel declared: “As your sword has made women childless, so your mother will be childless among women.” And Samuel hacked Agag to pieces before the LORD at Gilgal.
 
-<sup>34</sup> Then Samuel went to Ramah, but Saul went up to his home in Gibeah of Saul.
+**³⁴** Then Samuel went to Ramah, but Saul went up to his home in Gibeah of Saul.
 
-<sup>35</sup> And to the day of his death, Samuel never again visited Saul. Samuel mourned for Saul, and the LORD regretted that He had made Saul king over Israel.
+**³⁵** And to the day of his death, Samuel never again visited Saul. Samuel mourned for Saul, and the LORD regretted that He had made Saul king over Israel.
 
 [^1026]: 15:3 Forms of the Hebrew cherem refer to the giving over of things or persons to the LORD, either by destroying them or by giving them as an offering; also in verses 8, 9, 15, 18, 20, and 21.
 [^1027]: 15:9 Or the grown bulls

@@ -8,54 +8,54 @@ weight: 23
 
 **(2 Kings 11:4–12)**
 
-<sup>1</sup> Then in the seventh year, Jehoiada strengthened himself and made a covenant with the commanders of hundreds—with Azariah son of Jeroham, Ishmael son of Jehohanan, Azariah son of Obed, Maaseiah son of Adaiah, and Elishaphat son of Zichri.
+**¹** Then in the seventh year, Jehoiada strengthened himself and made a covenant with the commanders of hundreds—with Azariah son of Jeroham, Ishmael son of Jehohanan, Azariah son of Obed, Maaseiah son of Adaiah, and Elishaphat son of Zichri.
 
-<sup>2</sup> So they went throughout Judah and gathered the Levites from all the cities of Judah and the heads of the families of Israel. And when they came to Jerusalem,
+**²** So they went throughout Judah and gathered the Levites from all the cities of Judah and the heads of the families of Israel. And when they came to Jerusalem,
 
-<sup>3</sup> the whole assembly made a covenant with the king in the house of God. “Behold, the king’s son!” said Jehoiada. “He must reign, just as the LORD promised concerning the descendants of David.
+**³** the whole assembly made a covenant with the king in the house of God. “Behold, the king’s son!” said Jehoiada. “He must reign, just as the LORD promised concerning the descendants of David.
 
-<sup>4</sup> This is what you are to do: A third of you priests and Levites who come on duty on the Sabbath shall keep watch at the doors,
+**⁴** This is what you are to do: A third of you priests and Levites who come on duty on the Sabbath shall keep watch at the doors,
 
-<sup>5</sup> a third shall be at the royal palace, and a third at the Foundation Gate, while all the others are to be in the courtyards of the house of the LORD.
+**⁵** a third shall be at the royal palace, and a third at the Foundation Gate, while all the others are to be in the courtyards of the house of the LORD.
 
-<sup>6</sup> No one is to enter the house of the LORD except the priests and those Levites who serve; they may enter because they are consecrated, but all the people are to obey the requirement of the LORD.
+**⁶** No one is to enter the house of the LORD except the priests and those Levites who serve; they may enter because they are consecrated, but all the people are to obey the requirement of the LORD.
 
-<sup>7</sup> The Levites must surround the king with weapons in hand, and anyone who enters the temple must be put to death. You must stay close to the king wherever he goes.”
+**⁷** The Levites must surround the king with weapons in hand, and anyone who enters the temple must be put to death. You must stay close to the king wherever he goes.”
 
-<sup>8</sup> So the Levites and all Judah did everything that Jehoiada the priest had ordered. Each of them took his men—those coming on duty on the Sabbath and those going off duty—for Jehoiada the priest had not released any of the divisions.
+**⁸** So the Levites and all Judah did everything that Jehoiada the priest had ordered. Each of them took his men—those coming on duty on the Sabbath and those going off duty—for Jehoiada the priest had not released any of the divisions.
 
-<sup>9</sup> Then Jehoiada the priest gave to the commanders of hundreds the spears and the large and small shields of King David that were in the house of God.
+**⁹** Then Jehoiada the priest gave to the commanders of hundreds the spears and the large and small shields of King David that were in the house of God.
 
-<sup>10</sup> He stationed all the troops, with their weapons in hand, surrounding the king by the altar and the temple, from the south side to the north side of the temple.
+**¹⁰** He stationed all the troops, with their weapons in hand, surrounding the king by the altar and the temple, from the south side to the north side of the temple.
 
-<sup>11</sup> Then Jehoiada and his sons brought out the king’s son, put the crown on him, presented him with the Testimony, and proclaimed him king. They anointed him and shouted, “Long live the king!”
+**¹¹** Then Jehoiada and his sons brought out the king’s son, put the crown on him, presented him with the Testimony, and proclaimed him king. They anointed him and shouted, “Long live the king!”
 
 ## The Death of Athaliah
 
 **(2 Kings 11:13–16)**
 
-<sup>12</sup> When Athaliah heard the noise of the people running and cheering the king, she went out to them in the house of the LORD.
+**¹²** When Athaliah heard the noise of the people running and cheering the king, she went out to them in the house of the LORD.
 
-<sup>13</sup> And she looked and saw the king standing by his pillar at the entrance. The officers and trumpeters were beside the king, and all the people of the land were rejoicing and blowing trumpets, while the singers with musical instruments were leading the praises. Then Athaliah tore her clothes and screamed, “Treason, treason!”
+**¹³** And she looked and saw the king standing by his pillar at the entrance. The officers and trumpeters were beside the king, and all the people of the land were rejoicing and blowing trumpets, while the singers with musical instruments were leading the praises. Then Athaliah tore her clothes and screamed, “Treason, treason!”
 
-<sup>14</sup> And Jehoiada the priest sent out the commanders of hundreds in charge of the army, saying, “Bring her out between the ranks,[^1803] and put to the sword anyone who follows her.” For the priest had said, “She must not be put to death in the house of the LORD.”
+**¹⁴** And Jehoiada the priest sent out the commanders of hundreds in charge of the army, saying, “Bring her out between the ranks,[^1803] and put to the sword anyone who follows her.” For the priest had said, “She must not be put to death in the house of the LORD.”
 
-<sup>15</sup> So they seized Athaliah as she reached the entrance of the Horse Gate on the palace grounds, and there they put her to death.
+**¹⁵** So they seized Athaliah as she reached the entrance of the Horse Gate on the palace grounds, and there they put her to death.
 
 ## Jehoiada Restores the Worship of the LORD
 
 **(2 Kings 11:17–21)**
 
-<sup>16</sup> Then Jehoiada made a covenant between himself and the king and the people that they would be the LORD’s people.
+**¹⁶** Then Jehoiada made a covenant between himself and the king and the people that they would be the LORD’s people.
 
-<sup>17</sup> So all the people went to the temple of Baal and tore it down. They smashed the altars and idols to pieces and killed Mattan the priest of Baal in front of the altars.
+**¹⁷** So all the people went to the temple of Baal and tore it down. They smashed the altars and idols to pieces and killed Mattan the priest of Baal in front of the altars.
 
-<sup>18</sup> Moreover, Jehoiada put the oversight of the house of the LORD into the hands of the Levitical priests, whom David had appointed over the house of the LORD, to offer burnt offerings to the LORD as written in the Law of Moses, with rejoicing and song, as ordained by David.
+**¹⁸** Moreover, Jehoiada put the oversight of the house of the LORD into the hands of the Levitical priests, whom David had appointed over the house of the LORD, to offer burnt offerings to the LORD as written in the Law of Moses, with rejoicing and song, as ordained by David.
 
-<sup>19</sup> He stationed gatekeepers at the gates of the house of the LORD, so that no one who was in any way unclean could enter.
+**¹⁹** He stationed gatekeepers at the gates of the house of the LORD, so that no one who was in any way unclean could enter.
 
-<sup>20</sup> And he took with him the commanders of hundreds, the nobles, the rulers of the people, and all the people of the land, and they brought the king down from the house of the LORD and entered the royal palace through the Upper Gate. They seated King Joash on the royal throne,
+**²⁰** And he took with him the commanders of hundreds, the nobles, the rulers of the people, and all the people of the land, and they brought the king down from the house of the LORD and entered the royal palace through the Upper Gate. They seated King Joash on the royal throne,
 
-<sup>21</sup> and all the people of the land rejoiced. And the city was quiet, because Athaliah had been put to the sword.
+**²¹** and all the people of the land rejoiced. And the city was quiet, because Athaliah had been put to the sword.
 
 [^1803]: 23:14 Or out from the precincts

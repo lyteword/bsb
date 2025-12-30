@@ -6,55 +6,55 @@ weight: 3
 
 ## To the Church in Sardis
 
-<sup>1</sup> “To the angel of the church in Sardis write: These are the words of the One who holds the seven spirits [^4795] of God and the seven stars. I know your deeds; you have a reputation for being alive, yet you are dead.
+**¹** “To the angel of the church in Sardis write: These are the words of the One who holds the seven spirits [^4795] of God and the seven stars. I know your deeds; you have a reputation for being alive, yet you are dead.
 
-<sup>2</sup> Wake up and strengthen what remains, which is about to die; for I have found your deeds incomplete in the sight of My God.
+**²** Wake up and strengthen what remains, which is about to die; for I have found your deeds incomplete in the sight of My God.
 
-<sup>3</sup> Remember, then, what you have received and heard. Keep it and repent. If you do not wake up, I will come like a thief, and you will not know the hour when I will come upon you.
+**³** Remember, then, what you have received and heard. Keep it and repent. If you do not wake up, I will come like a thief, and you will not know the hour when I will come upon you.
 
-<sup>4</sup> But you do have a few people in Sardis who have not soiled their garments, and because they are worthy, they will walk with Me in white.
+**⁴** But you do have a few people in Sardis who have not soiled their garments, and because they are worthy, they will walk with Me in white.
 
-<sup>5</sup> Like them, he who overcomes will be dressed in white. And I will never blot out [^4796] his name from the Book of Life, but I will confess his name before My Father and His angels.
+**⁵** Like them, he who overcomes will be dressed in white. And I will never blot out [^4796] his name from the Book of Life, but I will confess his name before My Father and His angels.
 
-<sup>6</sup> He who has an ear, let him hear what the Spirit says to the churches.
+**⁶** He who has an ear, let him hear what the Spirit says to the churches.
 
 ## To the Church in Philadelphia
 
-<sup>7</sup> To the angel of the church in Philadelphia write: These are the words of the One who is holy and true, who holds the key of David. What He opens no one can shut, and what He shuts no one can open.[^4797]
+**⁷** To the angel of the church in Philadelphia write: These are the words of the One who is holy and true, who holds the key of David. What He opens no one can shut, and what He shuts no one can open.[^4797]
 
-<sup>8</sup> I know your deeds. Behold, I have placed before you an open door, which no one can shut. I know that you have only a little strength, yet you have kept My word and have not denied My name.
+**⁸** I know your deeds. Behold, I have placed before you an open door, which no one can shut. I know that you have only a little strength, yet you have kept My word and have not denied My name.
 
-<sup>9</sup> As for those who belong to the synagogue of Satan, who claim to be Jews but are liars instead, I will make them come and bow down at your feet, and they will know that I love you.
+**⁹** As for those who belong to the synagogue of Satan, who claim to be Jews but are liars instead, I will make them come and bow down at your feet, and they will know that I love you.
 
-<sup>10</sup> Because you have kept My command to persevere, I will also keep you from the hour of testing that is about to come upon the whole world, to test those who dwell on the earth.
+**¹⁰** Because you have kept My command to persevere, I will also keep you from the hour of testing that is about to come upon the whole world, to test those who dwell on the earth.
 
-<sup>11</sup> I am coming soon.[^4798] Hold fast to what you have, so that no one will take your crown.
+**¹¹** I am coming soon.[^4798] Hold fast to what you have, so that no one will take your crown.
 
-<sup>12</sup> The one who overcomes I will make a pillar in the temple of My God, and he will never again leave it. Upon him I will write the name of My God, and the name of the city of My God (the new Jerusalem that comes down out of heaven from My God), and My new name.
+**¹²** The one who overcomes I will make a pillar in the temple of My God, and he will never again leave it. Upon him I will write the name of My God, and the name of the city of My God (the new Jerusalem that comes down out of heaven from My God), and My new name.
 
-<sup>13</sup> He who has an ear, let him hear what the Spirit says to the churches.
+**¹³** He who has an ear, let him hear what the Spirit says to the churches.
 
 ## To the Church in Laodicea
 
 **(Colossians 2:1–5)**
 
-<sup>14</sup> To the angel of the church in Laodicea write: These are the words of the Amen, the faithful and true Witness, the Originator [^4799] of God’s creation.
+**¹⁴** To the angel of the church in Laodicea write: These are the words of the Amen, the faithful and true Witness, the Originator [^4799] of God’s creation.
 
-<sup>15</sup> I know your deeds; you are neither cold nor hot. How I wish you were one or the other!
+**¹⁵** I know your deeds; you are neither cold nor hot. How I wish you were one or the other!
 
-<sup>16</sup> So because you are lukewarm—neither hot nor cold—I am about to vomit you out of My mouth!
+**¹⁶** So because you are lukewarm—neither hot nor cold—I am about to vomit you out of My mouth!
 
-<sup>17</sup> You say, ‘I am rich; I have grown wealthy and need nothing.’ But you do not realize that you are wretched, pitiful, poor, blind, and naked.
+**¹⁷** You say, ‘I am rich; I have grown wealthy and need nothing.’ But you do not realize that you are wretched, pitiful, poor, blind, and naked.
 
-<sup>18</sup> I counsel you to buy from Me gold refined by fire so that you may become rich, white garments so that you may be clothed and your shameful nakedness not exposed, and salve to anoint your eyes so that you may see.
+**¹⁸** I counsel you to buy from Me gold refined by fire so that you may become rich, white garments so that you may be clothed and your shameful nakedness not exposed, and salve to anoint your eyes so that you may see.
 
-<sup>19</sup> Those I love I rebuke and discipline. Therefore be earnest and repent.
+**¹⁹** Those I love I rebuke and discipline. Therefore be earnest and repent.
 
-<sup>20</sup> Behold, I stand at the door and knock. If anyone hears My voice and opens the door, I will come in and dine with him, and he with Me.
+**²⁰** Behold, I stand at the door and knock. If anyone hears My voice and opens the door, I will come in and dine with him, and he with Me.
 
-<sup>21</sup> To the one who overcomes, I will grant the right to sit with Me on My throne, just as I overcame and sat down with My Father on His throne.
+**²¹** To the one who overcomes, I will grant the right to sit with Me on My throne, just as I overcame and sat down with My Father on His throne.
 
-<sup>22</sup> He who has an ear, let him hear what the Spirit says to the churches.”
+**²²** He who has an ear, let him hear what the Spirit says to the churches.”
 
 [^4795]: 3:1 Or the sevenfold Spirit
 [^4796]: 3:5 Or scrape off

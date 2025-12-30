@@ -6,82 +6,82 @@ weight: 36
 
 ## A Prophecy to the Mountains of Israel
 
-<sup>1</sup> “And you, son of man, prophesy to the mountains of Israel and say: O mountains of Israel, hear the word of the LORD.
+**¹** “And you, son of man, prophesy to the mountains of Israel and say: O mountains of Israel, hear the word of the LORD.
 
-<sup>2</sup> This is what the Lord GOD says: Because the enemy has said of you, ‘Aha! The ancient heights have become our possession,’
+**²** This is what the Lord GOD says: Because the enemy has said of you, ‘Aha! The ancient heights have become our possession,’
 
-<sup>3</sup> therefore prophesy and declare that this is what the Lord GOD says: Because they have made you desolate and have trampled you on every side, so that you became a possession of the rest of the nations and were taken up in slander by the lips of their talkers,
+**³** therefore prophesy and declare that this is what the Lord GOD says: Because they have made you desolate and have trampled you on every side, so that you became a possession of the rest of the nations and were taken up in slander by the lips of their talkers,
 
-<sup>4</sup> therefore, O mountains of Israel, hear the word of the Lord GOD. This is what the Lord GOD says to the mountains and hills, to the ravines and valleys, to the desolate ruins and abandoned cities, which have become a spoil and a mockery to the rest of the nations around you.
+**⁴** therefore, O mountains of Israel, hear the word of the Lord GOD. This is what the Lord GOD says to the mountains and hills, to the ravines and valleys, to the desolate ruins and abandoned cities, which have become a spoil and a mockery to the rest of the nations around you.
 
-<sup>5</sup> Therefore this is what the Lord GOD says: Surely in My burning zeal I have spoken against the rest of the nations, and against all Edom, who took My land as their own possession with wholehearted joy and utter contempt, so that its pastureland became plunder.
+**⁵** Therefore this is what the Lord GOD says: Surely in My burning zeal I have spoken against the rest of the nations, and against all Edom, who took My land as their own possession with wholehearted joy and utter contempt, so that its pastureland became plunder.
 
-<sup>6</sup> Therefore, prophesy concerning the land of Israel and tell the mountains and hills, the ravines and valleys, that this is what the Lord GOD says: Behold, I have spoken in My burning zeal because you have endured the reproach of the nations.
+**⁶** Therefore, prophesy concerning the land of Israel and tell the mountains and hills, the ravines and valleys, that this is what the Lord GOD says: Behold, I have spoken in My burning zeal because you have endured the reproach of the nations.
 
-<sup>7</sup> Therefore this is what the Lord GOD says: I have sworn with an uplifted hand that surely the nations around you will endure reproach of their own.
+**⁷** Therefore this is what the Lord GOD says: I have sworn with an uplifted hand that surely the nations around you will endure reproach of their own.
 
-<sup>8</sup> But you, O mountains of Israel, will produce branches and bear fruit for My people Israel, for they will soon come home.
+**⁸** But you, O mountains of Israel, will produce branches and bear fruit for My people Israel, for they will soon come home.
 
-<sup>9</sup> For behold, I am on your side; I will turn toward you, and you will be tilled and sown.
+**⁹** For behold, I am on your side; I will turn toward you, and you will be tilled and sown.
 
-<sup>10</sup> I will multiply the people upon you—the house of Israel in its entirety. The cities will be inhabited and the ruins rebuilt.
+**¹⁰** I will multiply the people upon you—the house of Israel in its entirety. The cities will be inhabited and the ruins rebuilt.
 
-<sup>11</sup> I will fill you with people and animals, and they will multiply and be fruitful. I will make you as inhabited as you once were, and I will make you prosper more than before. Then you will know that I am the LORD.
+**¹¹** I will fill you with people and animals, and they will multiply and be fruitful. I will make you as inhabited as you once were, and I will make you prosper more than before. Then you will know that I am the LORD.
 
-<sup>12</sup> Yes, I will cause My people Israel to walk upon you; they will possess you, and you will be their inheritance, and you will no longer deprive them of their children.
+**¹²** Yes, I will cause My people Israel to walk upon you; they will possess you, and you will be their inheritance, and you will no longer deprive them of their children.
 
-<sup>13</sup> For this is what the Lord GOD says: Because people say to you, ‘You devour men and deprive your nation of its children,’
+**¹³** For this is what the Lord GOD says: Because people say to you, ‘You devour men and deprive your nation of its children,’
 
-<sup>14</sup> therefore you will no longer devour men or deprive your nation of its children, declares the Lord GOD.
+**¹⁴** therefore you will no longer devour men or deprive your nation of its children, declares the Lord GOD.
 
-<sup>15</sup> I will no longer allow the taunts of the nations to be heard against you, and you will no longer endure the reproach of the peoples or cause your nation to stumble, declares the Lord GOD.”
+**¹⁵** I will no longer allow the taunts of the nations to be heard against you, and you will no longer endure the reproach of the peoples or cause your nation to stumble, declares the Lord GOD.”
 
 ## A New Heart and a New Spirit
 
 **(Romans 8:9–11; Galatians 5:16–26)**
 
-<sup>16</sup> Again the word of the LORD came to me, saying,
+**¹⁶** Again the word of the LORD came to me, saying,
 
-<sup>17</sup> “Son of man, when the people of Israel lived in their land, they defiled it by their own ways and deeds. Their behavior before Me was like the uncleanness of a woman’s impurity.
+**¹⁷** “Son of man, when the people of Israel lived in their land, they defiled it by their own ways and deeds. Their behavior before Me was like the uncleanness of a woman’s impurity.
 
-<sup>18</sup> So I poured out My wrath upon them because of the blood they had shed on the land, and because they had defiled it with their idols.
+**¹⁸** So I poured out My wrath upon them because of the blood they had shed on the land, and because they had defiled it with their idols.
 
-<sup>19</sup> I dispersed them among the nations, and they were scattered throughout the lands. I judged them according to their ways and deeds.
+**¹⁹** I dispersed them among the nations, and they were scattered throughout the lands. I judged them according to their ways and deeds.
 
-<sup>20</sup> And wherever they went among the nations, they profaned My holy name, because it was said of them, ‘These are the people of the LORD, yet they had to leave His land.’
+**²⁰** And wherever they went among the nations, they profaned My holy name, because it was said of them, ‘These are the people of the LORD, yet they had to leave His land.’
 
-<sup>21</sup> But I had concern for My holy name, which the house of Israel had profaned among the nations to which they had gone.
+**²¹** But I had concern for My holy name, which the house of Israel had profaned among the nations to which they had gone.
 
-<sup>22</sup> Therefore tell the house of Israel that this is what the Lord GOD says: It is not for your sake that I will act, O house of Israel, but for My holy name, which you profaned among the nations to which you went.
+**²²** Therefore tell the house of Israel that this is what the Lord GOD says: It is not for your sake that I will act, O house of Israel, but for My holy name, which you profaned among the nations to which you went.
 
-<sup>23</sup> I will show the holiness of My great name, which has been profaned among the nations—the name you have profaned among them. Then the nations will know that I am the LORD, declares the Lord GOD, when I show My holiness in you before their eyes.
+**²³** I will show the holiness of My great name, which has been profaned among the nations—the name you have profaned among them. Then the nations will know that I am the LORD, declares the Lord GOD, when I show My holiness in you before their eyes.
 
-<sup>24</sup> For I will take you from among the nations and gather you out of all the countries, and I will bring you back into your own land.
+**²⁴** For I will take you from among the nations and gather you out of all the countries, and I will bring you back into your own land.
 
-<sup>25</sup> I will also sprinkle clean water on you, and you will be clean. I will cleanse you from all your impurities and all your idols.
+**²⁵** I will also sprinkle clean water on you, and you will be clean. I will cleanse you from all your impurities and all your idols.
 
-<sup>26</sup> I will give you a new heart and put a new spirit within you; I will remove your heart of stone and give you a heart of flesh.
+**²⁶** I will give you a new heart and put a new spirit within you; I will remove your heart of stone and give you a heart of flesh.
 
-<sup>27</sup> And I will put My Spirit within you and cause you to walk in My statutes and to carefully observe My ordinances.
+**²⁷** And I will put My Spirit within you and cause you to walk in My statutes and to carefully observe My ordinances.
 
-<sup>28</sup> Then you will live in the land that I gave your forefathers; you will be My people, and I will be your God.
+**²⁸** Then you will live in the land that I gave your forefathers; you will be My people, and I will be your God.
 
-<sup>29</sup> I will save you from all your uncleanness. I will summon the grain and make it plentiful, and I will not bring famine upon you.
+**²⁹** I will save you from all your uncleanness. I will summon the grain and make it plentiful, and I will not bring famine upon you.
 
-<sup>30</sup> I will also make the fruit of the trees and the crops of the field plentiful, so that you will no longer bear reproach among the nations on account of famine.
+**³⁰** I will also make the fruit of the trees and the crops of the field plentiful, so that you will no longer bear reproach among the nations on account of famine.
 
-<sup>31</sup> Then you will remember your evil ways and wicked deeds, and you will loathe yourselves for your iniquities and abominations.
+**³¹** Then you will remember your evil ways and wicked deeds, and you will loathe yourselves for your iniquities and abominations.
 
-<sup>32</sup> It is not for your sake that I will act, declares the Lord GOD—let it be known to you. Be ashamed and disgraced for your ways, O house of Israel!
+**³²** It is not for your sake that I will act, declares the Lord GOD—let it be known to you. Be ashamed and disgraced for your ways, O house of Israel!
 
-<sup>33</sup> This is what the Lord GOD says: On the day I cleanse you from all your iniquities, I will cause the cities to be resettled and the ruins to be rebuilt.
+**³³** This is what the Lord GOD says: On the day I cleanse you from all your iniquities, I will cause the cities to be resettled and the ruins to be rebuilt.
 
-<sup>34</sup> The desolate land will be cultivated instead of lying desolate in the sight of all who pass through.
+**³⁴** The desolate land will be cultivated instead of lying desolate in the sight of all who pass through.
 
-<sup>35</sup> Then they will say, ‘This land that was desolate has become like the garden of Eden. The cities that were once ruined, desolate, and destroyed are now fortified and inhabited.’
+**³⁵** Then they will say, ‘This land that was desolate has become like the garden of Eden. The cities that were once ruined, desolate, and destroyed are now fortified and inhabited.’
 
-<sup>36</sup> Then the nations around you that remain will know that I, the LORD, have rebuilt what was destroyed, and I have replanted what was desolate. I, the LORD, have spoken, and I will do it.
+**³⁶** Then the nations around you that remain will know that I, the LORD, have rebuilt what was destroyed, and I have replanted what was desolate. I, the LORD, have spoken, and I will do it.
 
-<sup>37</sup> This is what the Lord GOD says: Once again I will hear the plea of the house of Israel and do for them this: I will multiply their people like a flock.
+**³⁷** This is what the Lord GOD says: Once again I will hear the plea of the house of Israel and do for them this: I will multiply their people like a flock.
 
-<sup>38</sup> Like the numerous flocks for sacrifices at Jerusalem during her appointed feasts, so the ruined cities will be filled with flocks of people. Then they will know that I am the LORD.”
+**³⁸** Like the numerous flocks for sacrifices at Jerusalem during her appointed feasts, so the ruined cities will be filled with flocks of people. Then they will know that I am the LORD.”

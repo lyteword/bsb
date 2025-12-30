@@ -6,43 +6,43 @@ weight: 6
 
 ## Paul’s Hardships and God’s Grace
 
-<sup>1</sup> As God’s fellow workers,[^4459] then, we urge you not to receive God’s grace in vain.
+**¹** As God’s fellow workers,[^4459] then, we urge you not to receive God’s grace in vain.
 
-<sup>2</sup> For He says: “In the time of favor I heard you, and in the day of salvation I helped you.”[^4460] Behold, now is the time of favor; now is the day of salvation!
+**²** For He says: “In the time of favor I heard you, and in the day of salvation I helped you.”[^4460] Behold, now is the time of favor; now is the day of salvation!
 
-<sup>3</sup> We put no obstacle in anyone’s way, so that no one can discredit our ministry.
+**³** We put no obstacle in anyone’s way, so that no one can discredit our ministry.
 
-<sup>4</sup> Rather, as servants of God we commend ourselves in every way: in great endurance; in troubles, hardships, and calamities;
+**⁴** Rather, as servants of God we commend ourselves in every way: in great endurance; in troubles, hardships, and calamities;
 
-<sup>5</sup> in beatings, imprisonments, and riots; in labor, sleepless nights, and hunger;
+**⁵** in beatings, imprisonments, and riots; in labor, sleepless nights, and hunger;
 
-<sup>6</sup> in purity, knowledge, patience, and kindness; in the Holy Spirit and in sincere love;
+**⁶** in purity, knowledge, patience, and kindness; in the Holy Spirit and in sincere love;
 
-<sup>7</sup> in truthful speech and in the power of God; with the weapons of righteousness in the right hand and in the left;
+**⁷** in truthful speech and in the power of God; with the weapons of righteousness in the right hand and in the left;
 
-<sup>8</sup> through glory and dishonor, slander and praise; viewed as imposters, yet genuine;
+**⁸** through glory and dishonor, slander and praise; viewed as imposters, yet genuine;
 
-<sup>9</sup> unknown, yet well-known; dying, and yet we live on; punished, yet not killed;
+**⁹** unknown, yet well-known; dying, and yet we live on; punished, yet not killed;
 
-<sup>10</sup> sorrowful, yet always rejoicing; poor, yet making many rich; having nothing, and yet possessing everything.
+**¹⁰** sorrowful, yet always rejoicing; poor, yet making many rich; having nothing, and yet possessing everything.
 
-<sup>11</sup> We have spoken freely to you, Corinthians. Our hearts are open wide.
+**¹¹** We have spoken freely to you, Corinthians. Our hearts are open wide.
 
-<sup>12</sup> It is not our affection, but yours, that is restrained.
+**¹²** It is not our affection, but yours, that is restrained.
 
-<sup>13</sup> As a fair exchange—I speak as to my children—open wide your hearts also.
+**¹³** As a fair exchange—I speak as to my children—open wide your hearts also.
 
 ## Do Not Be Unequally Yoked
 
-<sup>14</sup> Do not be unequally yoked with unbelievers. For what partnership can righteousness have with wickedness? Or what fellowship does light have with darkness?
+**¹⁴** Do not be unequally yoked with unbelievers. For what partnership can righteousness have with wickedness? Or what fellowship does light have with darkness?
 
-<sup>15</sup> What harmony is there between Christ and Belial?[^4461] Or what does a believer have in common with an unbeliever?
+**¹⁵** What harmony is there between Christ and Belial?[^4461] Or what does a believer have in common with an unbeliever?
 
-<sup>16</sup> What agreement can exist between the temple of God and idols? For we are the temple of the living God. As God has said: “I will dwell with them and walk among them, and I will be their God, and they will be My people.”[^4462]
+**¹⁶** What agreement can exist between the temple of God and idols? For we are the temple of the living God. As God has said: “I will dwell with them and walk among them, and I will be their God, and they will be My people.”[^4462]
 
-<sup>17</sup> “Therefore come out from among them and be separate, says the Lord. Touch no unclean thing, and I will receive you.”[^4463]
+**¹⁷** “Therefore come out from among them and be separate, says the Lord. Touch no unclean thing, and I will receive you.”[^4463]
 
-<sup>18</sup> And: “I will be a Father to you, and you will be My sons and daughters, says the Lord Almighty.”[^4464]
+**¹⁸** And: “I will be a Father to you, and you will be My sons and daughters, says the Lord Almighty.”[^4464]
 
 [^4459]: 6:1 Literally Now working together
 [^4460]: 6:2 Isaiah 49:8 (see also LXX)

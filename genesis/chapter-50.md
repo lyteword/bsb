@@ -6,61 +6,61 @@ weight: 50
 
 ## Mourning and Burial for Jacob
 
-<sup>1</sup> Then Joseph fell upon his father’s face, wept over him, and kissed him.
+**¹** Then Joseph fell upon his father’s face, wept over him, and kissed him.
 
-<sup>2</sup> And Joseph directed the physicians in his service to embalm his father Israel. So they embalmed him,
+**²** And Joseph directed the physicians in his service to embalm his father Israel. So they embalmed him,
 
-<sup>3</sup> taking the forty days required to complete the embalming. And the Egyptians mourned for him seventy days.
+**³** taking the forty days required to complete the embalming. And the Egyptians mourned for him seventy days.
 
-<sup>4</sup> When the days of mourning had passed, Joseph said to Pharaoh’s court, “If I have found favor in your eyes, please tell Pharaoh that
+**⁴** When the days of mourning had passed, Joseph said to Pharaoh’s court, “If I have found favor in your eyes, please tell Pharaoh that
 
-<sup>5</sup> my father made me swear an oath when he said, ‘I am about to die. You must bury me in the tomb that I dug for myself in the land of Canaan.’ Now let me go and bury my father, and then return.”
+**⁵** my father made me swear an oath when he said, ‘I am about to die. You must bury me in the tomb that I dug for myself in the land of Canaan.’ Now let me go and bury my father, and then return.”
 
-<sup>6</sup> Pharaoh replied, “Go up and bury your father, as he made you swear to do.”
+**⁶** Pharaoh replied, “Go up and bury your father, as he made you swear to do.”
 
-<sup>7</sup> Then Joseph went to bury his father, and all the servants of Pharaoh accompanied him—the elders of Pharaoh’s household and all the elders of the land of Egypt—
+**⁷** Then Joseph went to bury his father, and all the servants of Pharaoh accompanied him—the elders of Pharaoh’s household and all the elders of the land of Egypt—
 
-<sup>8</sup> along with all of Joseph’s household, and his brothers, and his father’s household. Only their children and flocks and herds were left in Goshen.
+**⁸** along with all of Joseph’s household, and his brothers, and his father’s household. Only their children and flocks and herds were left in Goshen.
 
-<sup>9</sup> Chariots and horsemen alike went up with him, and it was an exceedingly large procession.
+**⁹** Chariots and horsemen alike went up with him, and it was an exceedingly large procession.
 
-<sup>10</sup> When they reached the threshing floor of Atad, which is across the Jordan, they lamented and wailed loudly, and Joseph mourned for his father seven days.
+**¹⁰** When they reached the threshing floor of Atad, which is across the Jordan, they lamented and wailed loudly, and Joseph mourned for his father seven days.
 
-<sup>11</sup> When the Canaanites of the land saw the mourning at the threshing floor of Atad, they said, “This is a solemn ceremony of mourning by the Egyptians.” Thus the place across the Jordan is called Abel-mizraim.[^228]
+**¹¹** When the Canaanites of the land saw the mourning at the threshing floor of Atad, they said, “This is a solemn ceremony of mourning by the Egyptians.” Thus the place across the Jordan is called Abel-mizraim.[^228]
 
-<sup>12</sup> So Jacob’s sons did as he had charged them.
+**¹²** So Jacob’s sons did as he had charged them.
 
-<sup>13</sup> They carried him to the land of Canaan and buried him in the cave at Machpelah in the field near Mamre, which Abraham had purchased from Ephron the Hittite as a burial site.
+**¹³** They carried him to the land of Canaan and buried him in the cave at Machpelah in the field near Mamre, which Abraham had purchased from Ephron the Hittite as a burial site.
 
-<sup>14</sup> After Joseph had buried his father, he returned to Egypt with his brothers and all who had gone with him to bury his father.
+**¹⁴** After Joseph had buried his father, he returned to Egypt with his brothers and all who had gone with him to bury his father.
 
 ## Joseph Comforts His Brothers
 
-<sup>15</sup> When Joseph’s brothers saw that their father was dead, they said, “What if Joseph bears a grudge? Then he will surely repay us for all the evil that we did to him.”
+**¹⁵** When Joseph’s brothers saw that their father was dead, they said, “What if Joseph bears a grudge? Then he will surely repay us for all the evil that we did to him.”
 
-<sup>16</sup> So they sent word to Joseph, saying, “Before he died, your father commanded,
+**¹⁶** So they sent word to Joseph, saying, “Before he died, your father commanded,
 
-<sup>17</sup> ‘This is what you are to say to Joseph: I beg you, please forgive the transgression and sin of your brothers, for they did you wrong.’ So now, Joseph, please forgive the transgression of the servants of the God of your father.” When their message came to him, Joseph wept.
+**¹⁷** ‘This is what you are to say to Joseph: I beg you, please forgive the transgression and sin of your brothers, for they did you wrong.’ So now, Joseph, please forgive the transgression of the servants of the God of your father.” When their message came to him, Joseph wept.
 
-<sup>18</sup> His brothers also came to him, bowed down before him, and said, “We are your slaves!”
+**¹⁸** His brothers also came to him, bowed down before him, and said, “We are your slaves!”
 
-<sup>19</sup> But Joseph replied, “Do not be afraid. Am I in the place of God?
+**¹⁹** But Joseph replied, “Do not be afraid. Am I in the place of God?
 
-<sup>20</sup> As for you, what you intended against me for evil, God intended for good, in order to accomplish a day like this—to preserve the lives of many people.
+**²⁰** As for you, what you intended against me for evil, God intended for good, in order to accomplish a day like this—to preserve the lives of many people.
 
-<sup>21</sup> Therefore do not be afraid. I will provide for you and your little ones.” So Joseph reassured his brothers and spoke kindly to them.
+**²¹** Therefore do not be afraid. I will provide for you and your little ones.” So Joseph reassured his brothers and spoke kindly to them.
 
 ## The Death of Joseph
 
-<sup>22</sup> Now Joseph and his father’s household remained in Egypt, and Joseph lived to the age of 110.
+**²²** Now Joseph and his father’s household remained in Egypt, and Joseph lived to the age of 110.
 
-<sup>23</sup> He saw Ephraim’s sons to the third generation, and indeed the sons of Machir son of Manasseh were brought up [^229] on Joseph’s knees.
+**²³** He saw Ephraim’s sons to the third generation, and indeed the sons of Machir son of Manasseh were brought up [^229] on Joseph’s knees.
 
-<sup>24</sup> Then Joseph said to his brothers, “I am about to die, but God will surely visit you and bring you up from this land to the land He promised on oath to Abraham, Isaac, and Jacob.”
+**²⁴** Then Joseph said to his brothers, “I am about to die, but God will surely visit you and bring you up from this land to the land He promised on oath to Abraham, Isaac, and Jacob.”
 
-<sup>25</sup> And Joseph made the sons of Israel take an oath and said, “God will surely attend to you, and then you must carry my bones up from this place.”
+**²⁵** And Joseph made the sons of Israel take an oath and said, “God will surely attend to you, and then you must carry my bones up from this place.”
 
-<sup>26</sup> So Joseph died at the age of 110. And they embalmed his body and placed it in a coffin in Egypt.
+**²⁶** So Joseph died at the age of 110. And they embalmed his body and placed it in a coffin in Egypt.
 
 [^228]: 50:11 Abel-mizraim means mourning of the Egyptians.
 [^229]: 50:23 Or born or placed at birth

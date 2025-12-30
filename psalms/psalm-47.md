@@ -8,22 +8,22 @@ weight: 47
 
 For the choirmaster. A Psalm of the sons of Korah.
 
-<sup>1</sup> Clap your hands, all you peoples; shout unto God with a voice of triumph.
+**¹** Clap your hands, all you peoples; shout unto God with a voice of triumph.
 
-<sup>2</sup> How awesome is the LORD Most High, the great King over all the earth!
+**²** How awesome is the LORD Most High, the great King over all the earth!
 
-<sup>3</sup> He subdues nations beneath us, and peoples under our feet.
+**³** He subdues nations beneath us, and peoples under our feet.
 
-<sup>4</sup> He chooses our inheritance for us, the pride of Jacob, whom He loves. Selah
+**⁴** He chooses our inheritance for us, the pride of Jacob, whom He loves. Selah
 
-<sup>5</sup> God has ascended amid shouts of joy, the LORD with the sound of the horn.
+**⁵** God has ascended amid shouts of joy, the LORD with the sound of the horn.
 
-<sup>6</sup> Sing praises to God, sing praises; sing praises to our King, sing praises!
+**⁶** Sing praises to God, sing praises; sing praises to our King, sing praises!
 
-<sup>7</sup> For God is King of all the earth; sing to Him a psalm of praise.[^2245]
+**⁷** For God is King of all the earth; sing to Him a psalm of praise.[^2245]
 
-<sup>8</sup> God reigns over the nations; God is seated on His holy throne.
+**⁸** God reigns over the nations; God is seated on His holy throne.
 
-<sup>9</sup> The nobles of the nations have assembled as the people of the God of Abraham; for the shields of the earth belong to God; He is highly exalted.
+**⁹** The nobles of the nations have assembled as the people of the God of Abraham; for the shields of the earth belong to God; He is highly exalted.
 
 [^2245]: 47:7 Or sing a Maskil of praise or sing praises with understanding

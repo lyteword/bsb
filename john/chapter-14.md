@@ -6,75 +6,75 @@ weight: 14
 
 ## In My Father’s House Are Many Rooms
 
-<sup>1</sup> “Do not let your hearts be troubled. You believe in God;[^4090] believe in Me as well.
+**¹** “Do not let your hearts be troubled. You believe in God;[^4090] believe in Me as well.
 
-<sup>2</sup> In My Father’s house are many rooms. If it were not so, would I have told you that I am going there to prepare a place for you?[^4091]
+**²** In My Father’s house are many rooms. If it were not so, would I have told you that I am going there to prepare a place for you?[^4091]
 
-<sup>3</sup> And if I go and prepare a place for you, I will come back and welcome you into My presence, so that you also may be where I am.
+**³** And if I go and prepare a place for you, I will come back and welcome you into My presence, so that you also may be where I am.
 
-<sup>4</sup> You know the way to the place where I am going.[^4092]”
+**⁴** You know the way to the place where I am going.[^4092]”
 
 ## The Way, the Truth, and the Life
 
-<sup>5</sup> “Lord,” said Thomas, “we do not know where You are going, so how can we know the way?”
+**⁵** “Lord,” said Thomas, “we do not know where You are going, so how can we know the way?”
 
-<sup>6</sup> Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through Me.
+**⁶** Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through Me.
 
-<sup>7</sup> If you had known Me, you would know My Father as well. From now on you do know Him and have seen Him.”
+**⁷** If you had known Me, you would know My Father as well. From now on you do know Him and have seen Him.”
 
-<sup>8</sup> Philip said to Him, “Lord, show us the Father, and that will be enough for us.”
+**⁸** Philip said to Him, “Lord, show us the Father, and that will be enough for us.”
 
-<sup>9</sup> Jesus replied, “Philip, I have been with you all this time, and still you do not know Me? Anyone who has seen Me has seen the Father. How can you say, ‘Show us the Father’?
+**⁹** Jesus replied, “Philip, I have been with you all this time, and still you do not know Me? Anyone who has seen Me has seen the Father. How can you say, ‘Show us the Father’?
 
-<sup>10</sup> Do you not believe that I am in the Father and the Father is in Me? The words I say to you, I do not speak on My own. Instead, it is the Father dwelling in Me, performing His works.
+**¹⁰** Do you not believe that I am in the Father and the Father is in Me? The words I say to you, I do not speak on My own. Instead, it is the Father dwelling in Me, performing His works.
 
-<sup>11</sup> Believe Me that I am in the Father and the Father is in Me—or at least believe on account of the works themselves.
+**¹¹** Believe Me that I am in the Father and the Father is in Me—or at least believe on account of the works themselves.
 
-<sup>12</sup> Truly, truly, I tell you, whoever believes in Me will also do the works that I am doing. He will do even greater things than these, because I am going to the Father.
+**¹²** Truly, truly, I tell you, whoever believes in Me will also do the works that I am doing. He will do even greater things than these, because I am going to the Father.
 
-<sup>13</sup> And I will do whatever you ask in My name, so that the Father may be glorified in the Son.
+**¹³** And I will do whatever you ask in My name, so that the Father may be glorified in the Son.
 
-<sup>14</sup> If you ask Me [^4093] for anything in My name, I will do it.
+**¹⁴** If you ask Me [^4093] for anything in My name, I will do it.
 
 ## Jesus Promises the Holy Spirit
 
 **(John 16:5–16)**
 
-<sup>15</sup> If you love Me, you will keep [^4094] My commandments.
+**¹⁵** If you love Me, you will keep [^4094] My commandments.
 
-<sup>16</sup> And I will ask the Father, and He will give you another Advocate [^4095] to be with you forever—
+**¹⁶** And I will ask the Father, and He will give you another Advocate [^4095] to be with you forever—
 
-<sup>17</sup> the Spirit of truth. The world cannot receive Him, because it neither sees Him nor knows Him. But you do know Him, for He abides with you and will be in you.[^4096]
+**¹⁷** the Spirit of truth. The world cannot receive Him, because it neither sees Him nor knows Him. But you do know Him, for He abides with you and will be in you.[^4096]
 
-<sup>18</sup> I will not leave you as orphans; I will come to you.
+**¹⁸** I will not leave you as orphans; I will come to you.
 
-<sup>19</sup> In a little while the world will see Me no more, but you will see Me. Because I live, you also will live.
+**¹⁹** In a little while the world will see Me no more, but you will see Me. Because I live, you also will live.
 
-<sup>20</sup> On that day you will know that I am in My Father, and you are in Me, and I am in you.
+**²⁰** On that day you will know that I am in My Father, and you are in Me, and I am in you.
 
-<sup>21</sup> Whoever has My commandments and keeps them is the one who loves Me. The one who loves Me will be loved by My Father, and I will love him and reveal Myself to him.”
+**²¹** Whoever has My commandments and keeps them is the one who loves Me. The one who loves Me will be loved by My Father, and I will love him and reveal Myself to him.”
 
-<sup>22</sup> Judas (not Iscariot) asked Him, “Lord, why are You going to reveal Yourself to us and not to the world?”
+**²²** Judas (not Iscariot) asked Him, “Lord, why are You going to reveal Yourself to us and not to the world?”
 
-<sup>23</sup> Jesus replied, “If anyone loves Me, he will keep My word. My Father will love him, and We will come to him and make Our home with him.
+**²³** Jesus replied, “If anyone loves Me, he will keep My word. My Father will love him, and We will come to him and make Our home with him.
 
-<sup>24</sup> Whoever does not love Me does not keep My words. The word that you hear is not My own, but it is from the Father who sent Me.
+**²⁴** Whoever does not love Me does not keep My words. The word that you hear is not My own, but it is from the Father who sent Me.
 
-<sup>25</sup> All this I have spoken to you while I am still with you.
+**²⁵** All this I have spoken to you while I am still with you.
 
-<sup>26</sup> But the Advocate, the Holy Spirit, whom the Father will send in My name, will teach you all things and will remind you of everything I have told you.
+**²⁶** But the Advocate, the Holy Spirit, whom the Father will send in My name, will teach you all things and will remind you of everything I have told you.
 
 ## Peace I Leave with You
 
-<sup>27</sup> Peace I leave with you; My peace I give to you. I do not give to you as the world gives. Do not let your hearts be troubled; do not be afraid.
+**²⁷** Peace I leave with you; My peace I give to you. I do not give to you as the world gives. Do not let your hearts be troubled; do not be afraid.
 
-<sup>28</sup> You heard Me say, ‘I am going away, and I am coming back to you.’ If you loved Me, you would rejoice that I am going to the Father, because the Father is greater than I.
+**²⁸** You heard Me say, ‘I am going away, and I am coming back to you.’ If you loved Me, you would rejoice that I am going to the Father, because the Father is greater than I.
 
-<sup>29</sup> And now I have told you before it happens, so that when it does happen, you will believe.
+**²⁹** And now I have told you before it happens, so that when it does happen, you will believe.
 
-<sup>30</sup> I will not speak with you much longer, for the prince of this world is coming, and he has no claim on Me.
+**³⁰** I will not speak with you much longer, for the prince of this world is coming, and he has no claim on Me.
 
-<sup>31</sup> But I do exactly what the Father has commanded Me, so that the world may know that I love the Father. Get up! Let us go on from here.
+**³¹** But I do exactly what the Father has commanded Me, so that the world may know that I love the Father. Get up! Let us go on from here.
 
 [^4090]: 14:1 Or Believe in God
 [^4091]: 14:2 Or If it were not so, I would have told you. I am going there to prepare a place for you.

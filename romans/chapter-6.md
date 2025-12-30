@@ -8,50 +8,50 @@ weight: 6
 
 **(2 Corinthians 4:7–18)**
 
-<sup>1</sup> What then shall we say? Shall we continue in sin so that grace may increase?
+**¹** What then shall we say? Shall we continue in sin so that grace may increase?
 
-<sup>2</sup> Certainly not! How can we who died to sin live in it any longer?
+**²** Certainly not! How can we who died to sin live in it any longer?
 
-<sup>3</sup> Or aren’t you aware that all of us who were baptized into Christ Jesus were baptized into His death?
+**³** Or aren’t you aware that all of us who were baptized into Christ Jesus were baptized into His death?
 
-<sup>4</sup> We were therefore buried with Him through baptism into death, in order that, just as Christ was raised from the dead through the glory of the Father, we too may walk in newness of life.
+**⁴** We were therefore buried with Him through baptism into death, in order that, just as Christ was raised from the dead through the glory of the Father, we too may walk in newness of life.
 
-<sup>5</sup> For if we have been united with Him like this in His death, we will certainly also be united with Him in His resurrection.
+**⁵** For if we have been united with Him like this in His death, we will certainly also be united with Him in His resurrection.
 
-<sup>6</sup> We know that our old self was crucified with Him so that the body of sin might be rendered powerless, that we should no longer be slaves to sin.
+**⁶** We know that our old self was crucified with Him so that the body of sin might be rendered powerless, that we should no longer be slaves to sin.
 
-<sup>7</sup> For anyone who has died has been freed from sin.
+**⁷** For anyone who has died has been freed from sin.
 
-<sup>8</sup> Now if we died with Christ, we believe that we will also live with Him.
+**⁸** Now if we died with Christ, we believe that we will also live with Him.
 
-<sup>9</sup> For we know that since Christ was raised from the dead, He cannot die again; death no longer has dominion over Him.
+**⁹** For we know that since Christ was raised from the dead, He cannot die again; death no longer has dominion over Him.
 
-<sup>10</sup> The death He died, He died to sin once for all; but the life He lives, He lives to God.
+**¹⁰** The death He died, He died to sin once for all; but the life He lives, He lives to God.
 
-<sup>11</sup> So you too must count yourselves dead to sin, but alive to God in Christ Jesus.
+**¹¹** So you too must count yourselves dead to sin, but alive to God in Christ Jesus.
 
-<sup>12</sup> Therefore do not let sin reign in your mortal body so that you obey its desires.
+**¹²** Therefore do not let sin reign in your mortal body so that you obey its desires.
 
-<sup>13</sup> Do not present the parts of your body to sin as instruments of wickedness, but present yourselves to God as those who have been brought from death to life; and present the parts of your body to Him as instruments of righteousness.
+**¹³** Do not present the parts of your body to sin as instruments of wickedness, but present yourselves to God as those who have been brought from death to life; and present the parts of your body to Him as instruments of righteousness.
 
-<sup>14</sup> For sin shall not be your master, because you are not under law, but under grace.
+**¹⁴** For sin shall not be your master, because you are not under law, but under grace.
 
 ## The Wages of Sin
 
-<sup>15</sup> What then? Shall we sin because we are not under law, but under grace? Certainly not!
+**¹⁵** What then? Shall we sin because we are not under law, but under grace? Certainly not!
 
-<sup>16</sup> Do you not know that when you offer yourselves as obedient slaves, you are slaves to the one you obey, whether you are slaves to sin leading to death, or to obedience leading to righteousness?
+**¹⁶** Do you not know that when you offer yourselves as obedient slaves, you are slaves to the one you obey, whether you are slaves to sin leading to death, or to obedience leading to righteousness?
 
-<sup>17</sup> But thanks be to God that, though you once were slaves to sin, you wholeheartedly obeyed the form of teaching to which you were committed.
+**¹⁷** But thanks be to God that, though you once were slaves to sin, you wholeheartedly obeyed the form of teaching to which you were committed.
 
-<sup>18</sup> You have been set free from sin and have become slaves to righteousness.
+**¹⁸** You have been set free from sin and have become slaves to righteousness.
 
-<sup>19</sup> I am speaking in human terms because of the weakness of your flesh. Just as you used to offer the parts of your body in slavery to impurity and to escalating wickedness, so now offer them in slavery to righteousness leading to holiness.
+**¹⁹** I am speaking in human terms because of the weakness of your flesh. Just as you used to offer the parts of your body in slavery to impurity and to escalating wickedness, so now offer them in slavery to righteousness leading to holiness.
 
-<sup>20</sup> For when you were slaves to sin, you were free of obligation to righteousness.
+**²⁰** For when you were slaves to sin, you were free of obligation to righteousness.
 
-<sup>21</sup> What fruit did you reap at that time from the things of which you are now ashamed? The outcome of those things is death.
+**²¹** What fruit did you reap at that time from the things of which you are now ashamed? The outcome of those things is death.
 
-<sup>22</sup> But now that you have been set free from sin and have become slaves to God, the fruit you reap leads to holiness, and the outcome is eternal life.
+**²²** But now that you have been set free from sin and have become slaves to God, the fruit you reap leads to holiness, and the outcome is eternal life.
 
-<sup>23</sup> For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.
+**²³** For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.

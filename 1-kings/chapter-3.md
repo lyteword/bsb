@@ -8,62 +8,62 @@ weight: 3
 
 **(2 Chronicles 1:1–13; Psalms 45:1–17; Psalms 72:1–20)**
 
-<sup>1</sup> Later, Solomon formed an alliance with Pharaoh king of Egypt by marrying his daughter. Solomon brought her to the City of David until he had finished building his palace and the house of the LORD, as well as the wall around Jerusalem.
+**¹** Later, Solomon formed an alliance with Pharaoh king of Egypt by marrying his daughter. Solomon brought her to the City of David until he had finished building his palace and the house of the LORD, as well as the wall around Jerusalem.
 
-<sup>2</sup> The people, however, were still sacrificing on the high places because a house for the Name of the LORD had not yet been built.
+**²** The people, however, were still sacrificing on the high places because a house for the Name of the LORD had not yet been built.
 
-<sup>3</sup> And Solomon loved the LORD and walked in the statutes of his father David, except that he sacrificed and burned incense on the high places.
+**³** And Solomon loved the LORD and walked in the statutes of his father David, except that he sacrificed and burned incense on the high places.
 
-<sup>4</sup> Now the king went to Gibeon to sacrifice there, for it was the great high place. Solomon offered a thousand burnt offerings on the altar there.
+**⁴** Now the king went to Gibeon to sacrifice there, for it was the great high place. Solomon offered a thousand burnt offerings on the altar there.
 
-<sup>5</sup> One night at Gibeon the LORD appeared to Solomon in a dream, and God said, “Ask, and I will give it to you!”
+**⁵** One night at Gibeon the LORD appeared to Solomon in a dream, and God said, “Ask, and I will give it to you!”
 
-<sup>6</sup> Solomon replied, “You have shown much loving devotion to Your servant, my father David, because he walked before You in faithfulness, righteousness, and uprightness of heart. And You have maintained this loving devotion by giving him a son to sit on his throne this very day.
+**⁶** Solomon replied, “You have shown much loving devotion to Your servant, my father David, because he walked before You in faithfulness, righteousness, and uprightness of heart. And You have maintained this loving devotion by giving him a son to sit on his throne this very day.
 
-<sup>7</sup> And now, O LORD my God, You have made Your servant king in my father David’s place. But I am only a little child, not knowing how to go out or come in.
+**⁷** And now, O LORD my God, You have made Your servant king in my father David’s place. But I am only a little child, not knowing how to go out or come in.
 
-<sup>8</sup> Your servant is here among the people You have chosen, a people too numerous to count or number.
+**⁸** Your servant is here among the people You have chosen, a people too numerous to count or number.
 
-<sup>9</sup> Therefore give Your servant an understanding heart to judge Your people and to discern between good and evil. For who is able to govern this great people of Yours?”
+**⁹** Therefore give Your servant an understanding heart to judge Your people and to discern between good and evil. For who is able to govern this great people of Yours?”
 
-<sup>10</sup> Now it pleased the Lord [^1210] that Solomon had made this request.
+**¹⁰** Now it pleased the Lord [^1210] that Solomon had made this request.
 
-<sup>11</sup> So God said to him, “Since you have asked for this instead of requesting long life or wealth for yourself or death for your enemies—but you have asked for discernment to administer justice—
+**¹¹** So God said to him, “Since you have asked for this instead of requesting long life or wealth for yourself or death for your enemies—but you have asked for discernment to administer justice—
 
-<sup>12</sup> behold, I will do what you have asked. I will give you a wise and discerning heart, so that there will never have been another like you, nor will there ever be.
+**¹²** behold, I will do what you have asked. I will give you a wise and discerning heart, so that there will never have been another like you, nor will there ever be.
 
-<sup>13</sup> Moreover, I will give you what you did not request—both riches and honor—so that during all your days no man in any kingdom will be your equal.
+**¹³** Moreover, I will give you what you did not request—both riches and honor—so that during all your days no man in any kingdom will be your equal.
 
-<sup>14</sup> So if you walk in My ways and keep My statutes and commandments, just as your father David did, I will prolong your days.”
+**¹⁴** So if you walk in My ways and keep My statutes and commandments, just as your father David did, I will prolong your days.”
 
-<sup>15</sup> Then Solomon awoke, and indeed it had been a dream. So he returned to Jerusalem, stood before the ark of the covenant of the Lord, and offered burnt offerings and peace offerings. Then he held a feast for all his servants.
+**¹⁵** Then Solomon awoke, and indeed it had been a dream. So he returned to Jerusalem, stood before the ark of the covenant of the Lord, and offered burnt offerings and peace offerings. Then he held a feast for all his servants.
 
 ## Solomon Judges Wisely
 
-<sup>16</sup> At that time two prostitutes came to the king and stood before him.
+**¹⁶** At that time two prostitutes came to the king and stood before him.
 
-<sup>17</sup> One woman said, “Please, my lord, this woman and I live in the same house, and I gave birth while she was in the house.
+**¹⁷** One woman said, “Please, my lord, this woman and I live in the same house, and I gave birth while she was in the house.
 
-<sup>18</sup> On the third day after I gave birth, this woman also had a baby. We were alone, with no one in the house but the two of us.
+**¹⁸** On the third day after I gave birth, this woman also had a baby. We were alone, with no one in the house but the two of us.
 
-<sup>19</sup> During the night this woman’s son died because she rolled over on him.
+**¹⁹** During the night this woman’s son died because she rolled over on him.
 
-<sup>20</sup> So she got up in the middle of the night and took my son from my side while I was asleep. She laid him in her bosom and put her dead son at my bosom.
+**²⁰** So she got up in the middle of the night and took my son from my side while I was asleep. She laid him in her bosom and put her dead son at my bosom.
 
-<sup>21</sup> The next morning, when I got up to nurse my son, I discovered he was dead. But when I examined him, I realized that he was not the son I had borne.”
+**²¹** The next morning, when I got up to nurse my son, I discovered he was dead. But when I examined him, I realized that he was not the son I had borne.”
 
-<sup>22</sup> “No,” said the other woman, “the living one is my son and the dead one is your son.” But the first woman insisted, “No, the dead one is yours and the living one is mine.” So they argued before the king.
+**²²** “No,” said the other woman, “the living one is my son and the dead one is your son.” But the first woman insisted, “No, the dead one is yours and the living one is mine.” So they argued before the king.
 
-<sup>23</sup> Then the king replied, “This woman says, ‘My son is alive and yours is dead,’ but that woman says, ‘No, your son is dead and mine is alive.’”
+**²³** Then the king replied, “This woman says, ‘My son is alive and yours is dead,’ but that woman says, ‘No, your son is dead and mine is alive.’”
 
-<sup>24</sup> The king continued, “Bring me a sword.” So they brought him a sword,
+**²⁴** The king continued, “Bring me a sword.” So they brought him a sword,
 
-<sup>25</sup> and the king declared, “Cut the living child in two and give half to one and half to the other.”
+**²⁵** and the king declared, “Cut the living child in two and give half to one and half to the other.”
 
-<sup>26</sup> Then the woman whose son was alive spoke to the king because she yearned with compassion for her son. “Please, my lord,” she said, “give her the living baby. Do not kill him!” But the other woman said, “He will be neither mine nor yours. Cut him in two!”
+**²⁶** Then the woman whose son was alive spoke to the king because she yearned with compassion for her son. “Please, my lord,” she said, “give her the living baby. Do not kill him!” But the other woman said, “He will be neither mine nor yours. Cut him in two!”
 
-<sup>27</sup> Then the king gave his ruling: “Give the living baby to the first woman. By no means should you kill him; she is his mother.”
+**²⁷** Then the king gave his ruling: “Give the living baby to the first woman. By no means should you kill him; she is his mother.”
 
-<sup>28</sup> When all Israel heard of the judgment the king had given, they stood in awe of him, for they saw that the wisdom of God was in him to administer justice.
+**²⁸** When all Israel heard of the judgment the king had given, they stood in awe of him, for they saw that the wisdom of God was in him to administer justice.
 
 [^1210]: 3:10 Hebrew Adonai; also in verse 15

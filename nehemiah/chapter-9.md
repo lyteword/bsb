@@ -6,81 +6,81 @@ weight: 9
 
 ## The People Confess Their Sins
 
-<sup>1</sup> On the twenty-fourth day of the same month, the Israelites gathered together, fasting and wearing sackcloth, with dust on their heads.
+**¹** On the twenty-fourth day of the same month, the Israelites gathered together, fasting and wearing sackcloth, with dust on their heads.
 
-<sup>2</sup> Those of Israelite descent separated themselves from all the foreigners, and they stood and confessed their sins and the iniquities of their fathers.
+**²** Those of Israelite descent separated themselves from all the foreigners, and they stood and confessed their sins and the iniquities of their fathers.
 
-<sup>3</sup> While they stood in their places, they read from the Book of the Law of the LORD their God for a quarter of the day, and they spent another quarter of the day in confession and worship of the LORD their God.
+**³** While they stood in their places, they read from the Book of the Law of the LORD their God for a quarter of the day, and they spent another quarter of the day in confession and worship of the LORD their God.
 
-<sup>4</sup> And the Levites—Jeshua, Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani—stood on the raised platform and cried out in a loud voice to the LORD their God.
+**⁴** And the Levites—Jeshua, Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani—stood on the raised platform and cried out in a loud voice to the LORD their God.
 
-<sup>5</sup> Then the Levites—Jeshua, Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah—said, “Stand up and bless the LORD your God from everlasting to everlasting: Blessed be Your glorious name, and may it be exalted above all blessing and praise.
+**⁵** Then the Levites—Jeshua, Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah—said, “Stand up and bless the LORD your God from everlasting to everlasting: Blessed be Your glorious name, and may it be exalted above all blessing and praise.
 
-<sup>6</sup> You alone are the LORD. You created the heavens, the highest heavens with all their host, the earth and all that is on it, the seas and all that is in them. You give life to all things, and the host of heaven worships You.
+**⁶** You alone are the LORD. You created the heavens, the highest heavens with all their host, the earth and all that is on it, the seas and all that is in them. You give life to all things, and the host of heaven worships You.
 
-<sup>7</sup> You are the LORD, the God who chose Abram, who brought him out of Ur of the Chaldeans and gave him the name Abraham.
+**⁷** You are the LORD, the God who chose Abram, who brought him out of Ur of the Chaldeans and gave him the name Abraham.
 
-<sup>8</sup> You found his heart faithful before You, and made a covenant with him to give the land of the Canaanites and Hittites, of the Amorites and Perizzites, of the Jebusites and Girgashites— to give it to his descendants. You have kept Your promise, because You are righteous.
+**⁸** You found his heart faithful before You, and made a covenant with him to give the land of the Canaanites and Hittites, of the Amorites and Perizzites, of the Jebusites and Girgashites— to give it to his descendants. You have kept Your promise, because You are righteous.
 
-<sup>9</sup> You saw the affliction of our fathers in Egypt; You heard their cry at the Red Sea.[^1995]
+**⁹** You saw the affliction of our fathers in Egypt; You heard their cry at the Red Sea.[^1995]
 
-<sup>10</sup> You performed signs and wonders against Pharaoh, all his officials, and all the people of his land, for You knew they had acted with arrogance against our fathers. You made a name for Yourself that endures to this day.
+**¹⁰** You performed signs and wonders against Pharaoh, all his officials, and all the people of his land, for You knew they had acted with arrogance against our fathers. You made a name for Yourself that endures to this day.
 
-<sup>11</sup> You divided the sea before them, and they crossed through it on dry ground. You hurled their pursuers into the depths like a stone into raging waters.
+**¹¹** You divided the sea before them, and they crossed through it on dry ground. You hurled their pursuers into the depths like a stone into raging waters.
 
-<sup>12</sup> You led them with a pillar of cloud by day and a pillar of fire by night, to light for them the way in which they should travel.
+**¹²** You led them with a pillar of cloud by day and a pillar of fire by night, to light for them the way in which they should travel.
 
-<sup>13</sup> You came down on Mount Sinai and spoke with them from heaven. You gave them just ordinances, true laws, and good statutes and commandments.
+**¹³** You came down on Mount Sinai and spoke with them from heaven. You gave them just ordinances, true laws, and good statutes and commandments.
 
-<sup>14</sup> You revealed to them Your holy Sabbath and gave them commandments and statutes and laws through Your servant Moses.
+**¹⁴** You revealed to them Your holy Sabbath and gave them commandments and statutes and laws through Your servant Moses.
 
-<sup>15</sup> In their hunger You gave them bread from heaven; in their thirst You brought them water from the rock. You told them to go in and possess the land that You had sworn to give them.
+**¹⁵** In their hunger You gave them bread from heaven; in their thirst You brought them water from the rock. You told them to go in and possess the land that You had sworn to give them.
 
-<sup>16</sup> But they and our fathers became arrogant and stiff-necked and did not obey Your commandments.
+**¹⁶** But they and our fathers became arrogant and stiff-necked and did not obey Your commandments.
 
-<sup>17</sup> They refused to listen and failed to remember the wonders You performed among them. They stiffened their necks and appointed a leader to return them to their bondage in Egypt.[^1996] But You are a forgiving God, gracious and compassionate, slow to anger and rich in loving devotion, and You did not forsake them.
+**¹⁷** They refused to listen and failed to remember the wonders You performed among them. They stiffened their necks and appointed a leader to return them to their bondage in Egypt.[^1996] But You are a forgiving God, gracious and compassionate, slow to anger and rich in loving devotion, and You did not forsake them.
 
-<sup>18</sup> Even when they cast for themselves an image of a calf and said, ‘This is your God who brought you up out of Egypt,’ and when they committed terrible blasphemies,
+**¹⁸** Even when they cast for themselves an image of a calf and said, ‘This is your God who brought you up out of Egypt,’ and when they committed terrible blasphemies,
 
-<sup>19</sup> You in Your great compassion did not forsake them in the wilderness. By day the pillar of cloud never turned away from guiding them on their path; and by the night the pillar of fire illuminated the way they should go.
+**¹⁹** You in Your great compassion did not forsake them in the wilderness. By day the pillar of cloud never turned away from guiding them on their path; and by the night the pillar of fire illuminated the way they should go.
 
-<sup>20</sup> You gave Your good Spirit to instruct them. You did not withhold Your manna from their mouths, and You gave them water for their thirst.
+**²⁰** You gave Your good Spirit to instruct them. You did not withhold Your manna from their mouths, and You gave them water for their thirst.
 
-<sup>21</sup> For forty years You sustained them in the wilderness, so that they lacked nothing. Their clothes did not wear out and their feet did not swell.
+**²¹** For forty years You sustained them in the wilderness, so that they lacked nothing. Their clothes did not wear out and their feet did not swell.
 
-<sup>22</sup> You gave them kingdoms and peoples and allotted to them every corner of the land. So they took the land of Sihon [^1997] king of Heshbon and of Og king of Bashan.
+**²²** You gave them kingdoms and peoples and allotted to them every corner of the land. So they took the land of Sihon [^1997] king of Heshbon and of Og king of Bashan.
 
-<sup>23</sup> You multiplied their descendants like the stars of heaven and brought them to the land You had told their fathers to enter and possess.
+**²³** You multiplied their descendants like the stars of heaven and brought them to the land You had told their fathers to enter and possess.
 
-<sup>24</sup> So their descendants went in and possessed the land; You subdued before them the Canaanites dwelling in the land. You delivered into their hands the kings and peoples of the land, to do with them as they wished.
+**²⁴** So their descendants went in and possessed the land; You subdued before them the Canaanites dwelling in the land. You delivered into their hands the kings and peoples of the land, to do with them as they wished.
 
-<sup>25</sup> They captured fortified cities and fertile land and took houses full of all goods, wells already dug, vineyards, olive groves, and fruit trees in abundance. So they ate and were filled; they grew fat and delighted in Your great goodness.
+**²⁵** They captured fortified cities and fertile land and took houses full of all goods, wells already dug, vineyards, olive groves, and fruit trees in abundance. So they ate and were filled; they grew fat and delighted in Your great goodness.
 
-<sup>26</sup> But they were disobedient and rebelled against You; they flung Your law behind their backs. They killed Your prophets, who had admonished them to return to You. They committed terrible blasphemies.
+**²⁶** But they were disobedient and rebelled against You; they flung Your law behind their backs. They killed Your prophets, who had admonished them to return to You. They committed terrible blasphemies.
 
-<sup>27</sup> So You delivered them into the hands of enemies who oppressed them, and in their time of distress they cried out to You. From heaven You heard them, and in Your great compassion You gave them deliverers who saved them from the hands of their enemies.
+**²⁷** So You delivered them into the hands of enemies who oppressed them, and in their time of distress they cried out to You. From heaven You heard them, and in Your great compassion You gave them deliverers who saved them from the hands of their enemies.
 
-<sup>28</sup> But as soon as they had rest, they again did evil in Your sight. So You abandoned them to the hands of their enemies, who had dominion over them. When they cried out to You again, You heard from heaven, and You delivered them many times in Your compassion.
+**²⁸** But as soon as they had rest, they again did evil in Your sight. So You abandoned them to the hands of their enemies, who had dominion over them. When they cried out to You again, You heard from heaven, and You delivered them many times in Your compassion.
 
-<sup>29</sup> You admonished them to turn back to Your law, but they were arrogant and disobeyed Your commandments. They sinned against Your ordinances, by which a man will live if he practices them. They turned a stubborn shoulder; they stiffened their necks and would not obey.
+**²⁹** You admonished them to turn back to Your law, but they were arrogant and disobeyed Your commandments. They sinned against Your ordinances, by which a man will live if he practices them. They turned a stubborn shoulder; they stiffened their necks and would not obey.
 
-<sup>30</sup> You were patient with them for many years, and Your Spirit admonished them through Your prophets. Yet they would not listen, so You gave them into the hands of the neighboring peoples.[^1998]
+**³⁰** You were patient with them for many years, and Your Spirit admonished them through Your prophets. Yet they would not listen, so You gave them into the hands of the neighboring peoples.[^1998]
 
-<sup>31</sup> But in Your great compassion, You did not put an end to them; nor did You forsake them, for You are a gracious and compassionate God.
+**³¹** But in Your great compassion, You did not put an end to them; nor did You forsake them, for You are a gracious and compassionate God.
 
-<sup>32</sup> So now, our God, the great and mighty and awesome God who keeps His gracious covenant, do not view lightly all the hardship that has come upon us, and upon our kings and leaders, our priests and prophets, our ancestors and all Your people, from the days of the kings of Assyria until today.
+**³²** So now, our God, the great and mighty and awesome God who keeps His gracious covenant, do not view lightly all the hardship that has come upon us, and upon our kings and leaders, our priests and prophets, our ancestors and all Your people, from the days of the kings of Assyria until today.
 
-<sup>33</sup> You are just in all that has befallen us, because You have acted faithfully, while we have acted wickedly.
+**³³** You are just in all that has befallen us, because You have acted faithfully, while we have acted wickedly.
 
-<sup>34</sup> Our kings and leaders and priests and fathers did not obey Your law or listen to Your commandments and warnings that You gave them.
+**³⁴** Our kings and leaders and priests and fathers did not obey Your law or listen to Your commandments and warnings that You gave them.
 
-<sup>35</sup> For even while they were in their kingdom, with the abundant goodness that You had given them, and in the spacious and fertile land that You had set before them, they would not serve You or turn from their wicked ways.
+**³⁵** For even while they were in their kingdom, with the abundant goodness that You had given them, and in the spacious and fertile land that You had set before them, they would not serve You or turn from their wicked ways.
 
-<sup>36</sup> So here we are today as slaves in the land You gave our fathers to enjoy its fruit and goodness— here we are as slaves!
+**³⁶** So here we are today as slaves in the land You gave our fathers to enjoy its fruit and goodness— here we are as slaves!
 
-<sup>37</sup> Its abundant harvest goes to the kings You have set over us because of our sins. And they rule over our bodies and our livestock as they please. We are in great distress.
+**³⁷** Its abundant harvest goes to the kings You have set over us because of our sins. And they rule over our bodies and our livestock as they please. We are in great distress.
 
-<sup>38</sup> In view of all this, we make a binding agreement, putting it in writing and sealing it with the names of [^1999] our leaders, Levites, and priests.”
+**³⁸** In view of all this, we make a binding agreement, putting it in writing and sealing it with the names of [^1999] our leaders, Levites, and priests.”
 
 [^1995]: 9:9 Or the Sea of Reeds
 [^1996]: 9:17 LXX and a few Hebrew manuscripts; MT to return them to their bondage in their rebellion

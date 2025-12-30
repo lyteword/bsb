@@ -8,95 +8,95 @@ weight: 15
 
 **(Mark 7:1–13)**
 
-<sup>1</sup> Then some Pharisees and scribes came to Jesus from Jerusalem and asked,
+**¹** Then some Pharisees and scribes came to Jesus from Jerusalem and asked,
 
-<sup>2</sup> “Why do Your disciples break the tradition of the elders? They do not wash their hands before they eat.”
+**²** “Why do Your disciples break the tradition of the elders? They do not wash their hands before they eat.”
 
-<sup>3</sup> Jesus replied, “And why do you break the command of God for the sake of your tradition?
+**³** Jesus replied, “And why do you break the command of God for the sake of your tradition?
 
-<sup>4</sup> For God said, ‘Honor your father and mother’[^3634] and ‘Anyone who curses his father or mother must be put to death.’[^3635]
+**⁴** For God said, ‘Honor your father and mother’[^3634] and ‘Anyone who curses his father or mother must be put to death.’[^3635]
 
-<sup>5</sup> But you say that if anyone says to his father or mother, ‘Whatever you would have received from me is a gift devoted to God,’
+**⁵** But you say that if anyone says to his father or mother, ‘Whatever you would have received from me is a gift devoted to God,’
 
-<sup>6</sup> he need not honor his father or mother with it.[^3636] Thus you nullify the word of God for the sake of your tradition.
+**⁶** he need not honor his father or mother with it.[^3636] Thus you nullify the word of God for the sake of your tradition.
 
-<sup>7</sup> You hypocrites! Isaiah prophesied correctly about you:
+**⁷** You hypocrites! Isaiah prophesied correctly about you:
 
-<sup>8</sup> ‘These people honor Me with their lips, but their hearts are far from Me.
+**⁸** ‘These people honor Me with their lips, but their hearts are far from Me.
 
-<sup>9</sup> They worship Me in vain; they teach as doctrine the precepts of men.’[^3637]”
+**⁹** They worship Me in vain; they teach as doctrine the precepts of men.’[^3637]”
 
 ## What Defiles a Man
 
 **(Mark 7:14–23)**
 
-<sup>10</sup> Jesus called the crowd to Him and said, “Listen and understand.
+**¹⁰** Jesus called the crowd to Him and said, “Listen and understand.
 
-<sup>11</sup> A man is not defiled by what enters his mouth, but by what comes out of it.”
+**¹¹** A man is not defiled by what enters his mouth, but by what comes out of it.”
 
-<sup>12</sup> Then the disciples came to Him and said, “Are You aware that the Pharisees were offended when they heard this?”
+**¹²** Then the disciples came to Him and said, “Are You aware that the Pharisees were offended when they heard this?”
 
-<sup>13</sup> But Jesus replied, “Every plant that My heavenly Father has not planted will be pulled up by its roots.
+**¹³** But Jesus replied, “Every plant that My heavenly Father has not planted will be pulled up by its roots.
 
-<sup>14</sup> Disregard them! They are blind guides.[^3638] If a blind man leads a blind man, both will fall into a pit.”
+**¹⁴** Disregard them! They are blind guides.[^3638] If a blind man leads a blind man, both will fall into a pit.”
 
-<sup>15</sup> Peter said to Him, “Explain this parable to us.”
+**¹⁵** Peter said to Him, “Explain this parable to us.”
 
-<sup>16</sup> “Do you still not understand?” Jesus asked.
+**¹⁶** “Do you still not understand?” Jesus asked.
 
-<sup>17</sup> “Do you not yet realize that whatever enters the mouth goes into the stomach and then is eliminated?
+**¹⁷** “Do you not yet realize that whatever enters the mouth goes into the stomach and then is eliminated?
 
-<sup>18</sup> But the things that come out of the mouth come from the heart, and these things defile a man.
+**¹⁸** But the things that come out of the mouth come from the heart, and these things defile a man.
 
-<sup>19</sup> For out of the heart come evil thoughts, murder, adultery, sexual immorality, theft, false testimony, and slander.
+**¹⁹** For out of the heart come evil thoughts, murder, adultery, sexual immorality, theft, false testimony, and slander.
 
-<sup>20</sup> These are what defile a man, but eating with unwashed hands does not defile him.”
+**²⁰** These are what defile a man, but eating with unwashed hands does not defile him.”
 
 ## The Faith of the Canaanite Woman
 
 **(Mark 7:24–30)**
 
-<sup>21</sup> Leaving that place, Jesus withdrew to the district of Tyre and Sidon.
+**²¹** Leaving that place, Jesus withdrew to the district of Tyre and Sidon.
 
-<sup>22</sup> And a Canaanite woman from that region came to Him, crying out, “Lord, Son of David, have mercy on me! My daughter is miserably possessed by a demon.”
+**²²** And a Canaanite woman from that region came to Him, crying out, “Lord, Son of David, have mercy on me! My daughter is miserably possessed by a demon.”
 
-<sup>23</sup> But Jesus did not answer a word. So His disciples came and urged Him, “Send her away, for she keeps crying out after us.”
+**²³** But Jesus did not answer a word. So His disciples came and urged Him, “Send her away, for she keeps crying out after us.”
 
-<sup>24</sup> He answered, “I was sent only to the lost sheep of the house of Israel.”
+**²⁴** He answered, “I was sent only to the lost sheep of the house of Israel.”
 
-<sup>25</sup> The woman came and knelt before Him. “Lord, help me!” she said.
+**²⁵** The woman came and knelt before Him. “Lord, help me!” she said.
 
-<sup>26</sup> But Jesus replied, “It is not right to take the children’s bread and toss it to the dogs.”
+**²⁶** But Jesus replied, “It is not right to take the children’s bread and toss it to the dogs.”
 
-<sup>27</sup> “Yes, Lord,” she said, “even the dogs [^3639] eat the crumbs that fall from their master’s table.”
+**²⁷** “Yes, Lord,” she said, “even the dogs [^3639] eat the crumbs that fall from their master’s table.”
 
-<sup>28</sup> “O woman,” Jesus answered, “your faith is great! Let it be done for you as you desire.” And her daughter was healed from that very hour.
+**²⁸** “O woman,” Jesus answered, “your faith is great! Let it be done for you as you desire.” And her daughter was healed from that very hour.
 
 ## The Feeding of the Four Thousand
 
 **(2 Kings 4:42–44; Mark 8:1–10)**
 
-<sup>29</sup> Moving on from there, Jesus went along the Sea of Galilee. Then He went up on a mountain and sat down.
+**²⁹** Moving on from there, Jesus went along the Sea of Galilee. Then He went up on a mountain and sat down.
 
-<sup>30</sup> Large crowds came to Him, bringing the lame, the blind, the crippled, the mute, and many others, and laid them at His feet, and He healed them.
+**³⁰** Large crowds came to Him, bringing the lame, the blind, the crippled, the mute, and many others, and laid them at His feet, and He healed them.
 
-<sup>31</sup> The crowd was amazed when they saw the mute speaking, the crippled restored, the lame walking, and the blind seeing. And they glorified the God of Israel.
+**³¹** The crowd was amazed when they saw the mute speaking, the crippled restored, the lame walking, and the blind seeing. And they glorified the God of Israel.
 
-<sup>32</sup> Then Jesus called His disciples to Him and said, “I have compassion for this crowd, because they have already been with Me three days and have nothing to eat. I do not want to send them away hungry, or they may faint along the way.”
+**³²** Then Jesus called His disciples to Him and said, “I have compassion for this crowd, because they have already been with Me three days and have nothing to eat. I do not want to send them away hungry, or they may faint along the way.”
 
-<sup>33</sup> The disciples replied, “Where in this desolate place could we find enough bread to feed such a large crowd?”
+**³³** The disciples replied, “Where in this desolate place could we find enough bread to feed such a large crowd?”
 
-<sup>34</sup> “How many loaves do you have?” Jesus asked. “Seven,” they replied, “and a few small fish.”
+**³⁴** “How many loaves do you have?” Jesus asked. “Seven,” they replied, “and a few small fish.”
 
-<sup>35</sup> And He instructed the crowd to sit down on the ground.
+**³⁵** And He instructed the crowd to sit down on the ground.
 
-<sup>36</sup> Taking the seven loaves and the fish, He gave thanks and broke them. Then He gave them to the disciples, and the disciples gave them to the people.
+**³⁶** Taking the seven loaves and the fish, He gave thanks and broke them. Then He gave them to the disciples, and the disciples gave them to the people.
 
-<sup>37</sup> They all ate and were satisfied, and the disciples picked up seven basketfuls of broken pieces that were left over.
+**³⁷** They all ate and were satisfied, and the disciples picked up seven basketfuls of broken pieces that were left over.
 
-<sup>38</sup> A total of four thousand men were fed, besides women and children.
+**³⁸** A total of four thousand men were fed, besides women and children.
 
-<sup>39</sup> After Jesus had dismissed the crowds, He got into the boat and went to the region of Magadan.
+**³⁹** After Jesus had dismissed the crowds, He got into the boat and went to the region of Magadan.
 
 [^3634]: 15:4 Exodus 20:12; Deuteronomy 5:16
 [^3635]: 15:4 Exodus 21:17; Leviticus 20:9

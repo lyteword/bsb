@@ -8,53 +8,53 @@ weight: 1
 
 **(1 Timothy 5:3–16)**
 
-<sup>1</sup> In the days when the judges ruled, there was a famine in the land. And a certain man from Bethlehem in Judah, with his wife and two sons, went to reside in the land of Moab.
+**¹** In the days when the judges ruled, there was a famine in the land. And a certain man from Bethlehem in Judah, with his wife and two sons, went to reside in the land of Moab.
 
-<sup>2</sup> The man’s name was Elimelech, his wife’s name was Naomi, and the names of his two sons were Mahlon and Chilion. They were Ephrathites from Bethlehem in Judah, and they entered the land of Moab and settled there.
+**²** The man’s name was Elimelech, his wife’s name was Naomi, and the names of his two sons were Mahlon and Chilion. They were Ephrathites from Bethlehem in Judah, and they entered the land of Moab and settled there.
 
-<sup>3</sup> Then Naomi’s husband Elimelech died, and she was left with her two sons,
+**³** Then Naomi’s husband Elimelech died, and she was left with her two sons,
 
-<sup>4</sup> who took Moabite women as their wives, one named Orpah and the other named Ruth. And after they had lived in Moab about ten years,
+**⁴** who took Moabite women as their wives, one named Orpah and the other named Ruth. And after they had lived in Moab about ten years,
 
-<sup>5</sup> both Mahlon and Chilion also died, and Naomi was left without her two sons and without her husband.
+**⁵** both Mahlon and Chilion also died, and Naomi was left without her two sons and without her husband.
 
 ## Ruth’s Loyalty to Naomi
 
-<sup>6</sup> When Naomi heard in Moab that the LORD had attended to His people by providing them with food, she and her daughters-in-law prepared to leave the land of Moab.
+**⁶** When Naomi heard in Moab that the LORD had attended to His people by providing them with food, she and her daughters-in-law prepared to leave the land of Moab.
 
-<sup>7</sup> Accompanied by her two daughters-in-law, she left the place where she had been living and set out on the road leading back to the land of Judah.
+**⁷** Accompanied by her two daughters-in-law, she left the place where she had been living and set out on the road leading back to the land of Judah.
 
-<sup>8</sup> Then Naomi said to her two daughters-in-law, “Go back, each of you to your mother’s home. May the LORD show you loving devotion,[^943] as you have shown to your dead and to me.
+**⁸** Then Naomi said to her two daughters-in-law, “Go back, each of you to your mother’s home. May the LORD show you loving devotion,[^943] as you have shown to your dead and to me.
 
-<sup>9</sup> May the LORD enable each of you to find rest in the home of your new husband.” And she kissed them as they wept aloud
+**⁹** May the LORD enable each of you to find rest in the home of your new husband.” And she kissed them as they wept aloud
 
-<sup>10</sup> and said, “Surely we will return with you to your people.”
+**¹⁰** and said, “Surely we will return with you to your people.”
 
-<sup>11</sup> But Naomi replied, “Return home, my daughters. Why would you go with me? Are there still sons in my womb to become your husbands?
+**¹¹** But Naomi replied, “Return home, my daughters. Why would you go with me? Are there still sons in my womb to become your husbands?
 
-<sup>12</sup> Return home, my daughters. Go on, for I am too old to have another husband. Even if I thought there was hope for me to have a husband tonight and to bear sons,
+**¹²** Return home, my daughters. Go on, for I am too old to have another husband. Even if I thought there was hope for me to have a husband tonight and to bear sons,
 
-<sup>13</sup> would you wait for them to grow up? Would you refrain from having husbands? No, my daughters, it is much more bitter for me than for you, because the hand of the LORD has gone out against me.”
+**¹³** would you wait for them to grow up? Would you refrain from having husbands? No, my daughters, it is much more bitter for me than for you, because the hand of the LORD has gone out against me.”
 
-<sup>14</sup> Again they wept aloud, and Orpah kissed her mother-in-law goodbye, but Ruth clung to her.
+**¹⁴** Again they wept aloud, and Orpah kissed her mother-in-law goodbye, but Ruth clung to her.
 
-<sup>15</sup> “Look,” said Naomi, “your sister-in-law has gone back to her people and her gods; follow her back home.”
+**¹⁵** “Look,” said Naomi, “your sister-in-law has gone back to her people and her gods; follow her back home.”
 
-<sup>16</sup> But Ruth replied: “Do not urge me to leave you or to turn from following you. For wherever you go, I will go, and wherever you live, I will live; your people will be my people, and your God will be my God.
+**¹⁶** But Ruth replied: “Do not urge me to leave you or to turn from following you. For wherever you go, I will go, and wherever you live, I will live; your people will be my people, and your God will be my God.
 
-<sup>17</sup> Where you die, I will die, and there I will be buried. May the LORD punish me, and ever so severely, if anything but death separates you and me.”
+**¹⁷** Where you die, I will die, and there I will be buried. May the LORD punish me, and ever so severely, if anything but death separates you and me.”
 
-<sup>18</sup> When Naomi saw that Ruth was determined to go with her, she stopped trying to persuade her.
+**¹⁸** When Naomi saw that Ruth was determined to go with her, she stopped trying to persuade her.
 
 ## The Return to Bethlehem
 
-<sup>19</sup> So Naomi and Ruth traveled until they came to Bethlehem. When they entered Bethlehem, the whole town was stirred because of them, and the women of the town exclaimed, “Can this be Naomi?”
+**¹⁹** So Naomi and Ruth traveled until they came to Bethlehem. When they entered Bethlehem, the whole town was stirred because of them, and the women of the town exclaimed, “Can this be Naomi?”
 
-<sup>20</sup> “Do not call me Naomi,[^944]” she replied. “Call me Mara,[^945] because the Almighty [^946] has dealt quite bitterly with me.
+**²⁰** “Do not call me Naomi,[^944]” she replied. “Call me Mara,[^945] because the Almighty [^946] has dealt quite bitterly with me.
 
-<sup>21</sup> I went away full, but the LORD has brought me back empty. Why call me Naomi? After all, the LORD has testified against me, and the Almighty has afflicted me.”
+**²¹** I went away full, but the LORD has brought me back empty. Why call me Naomi? After all, the LORD has testified against me, and the Almighty has afflicted me.”
 
-<sup>22</sup> So Naomi returned from the land of Moab with her daughter-in-law Ruth the Moabitess. And they arrived in Bethlehem at the beginning of the barley harvest.
+**²²** So Naomi returned from the land of Moab with her daughter-in-law Ruth the Moabitess. And they arrived in Bethlehem at the beginning of the barley harvest.
 
 [^943]: 1:8 Forms of the Hebrew chesed are translated here and in most cases throughout the Scriptures as loving devotion; the range of meaning includes love, goodness, kindness, faithfulness, and mercy, as well as loyalty to a covenant.
 [^944]: 1:20 Naomi means pleasant.

@@ -8,36 +8,36 @@ weight: 3
 
 **(Leviticus 7:11–21)**
 
-<sup>1</sup> “If one’s offering is a peace offering and he offers an animal from the herd, whether male or female, he must present it without blemish before the LORD.
+**¹** “If one’s offering is a peace offering and he offers an animal from the herd, whether male or female, he must present it without blemish before the LORD.
 
-<sup>2</sup> He is to lay his hand on the head of the offering and slaughter it at the entrance to the Tent of Meeting. Then Aaron’s sons the priests shall splatter the blood on all sides of the altar.
+**²** He is to lay his hand on the head of the offering and slaughter it at the entrance to the Tent of Meeting. Then Aaron’s sons the priests shall splatter the blood on all sides of the altar.
 
-<sup>3</sup> From the peace offering he is to bring a food offering to the LORD: the fat that covers the entrails, all the fat that is on them,
+**³** From the peace offering he is to bring a food offering to the LORD: the fat that covers the entrails, all the fat that is on them,
 
-<sup>4</sup> both kidneys with the fat on them near the loins, and the lobe of the liver, which he is to remove with the kidneys.
+**⁴** both kidneys with the fat on them near the loins, and the lobe of the liver, which he is to remove with the kidneys.
 
-<sup>5</sup> Then Aaron’s sons are to burn it on the altar atop the burnt offering that is on the burning wood, as a food offering, a pleasing aroma to the LORD.
+**⁵** Then Aaron’s sons are to burn it on the altar atop the burnt offering that is on the burning wood, as a food offering, a pleasing aroma to the LORD.
 
-<sup>6</sup> If, however, one’s peace offering to the LORD is from the flock, he must present a male or female without blemish.
+**⁶** If, however, one’s peace offering to the LORD is from the flock, he must present a male or female without blemish.
 
-<sup>7</sup> If he is presenting a lamb for his offering, he must present it before the LORD.
+**⁷** If he is presenting a lamb for his offering, he must present it before the LORD.
 
-<sup>8</sup> He is to lay his hand on the head of his offering and slaughter it in front of the Tent of Meeting. Then Aaron’s sons shall splatter its blood on all sides of the altar.
+**⁸** He is to lay his hand on the head of his offering and slaughter it in front of the Tent of Meeting. Then Aaron’s sons shall splatter its blood on all sides of the altar.
 
-<sup>9</sup> And from the peace offering he shall bring a food offering to the LORD consisting of its fat: the entire fat tail cut off close to the backbone, the fat that covers the entrails, all the fat that is on them,
+**⁹** And from the peace offering he shall bring a food offering to the LORD consisting of its fat: the entire fat tail cut off close to the backbone, the fat that covers the entrails, all the fat that is on them,
 
-<sup>10</sup> both kidneys with the fat on them near the loins, and the lobe of the liver, which he is to remove with the kidneys.
+**¹⁰** both kidneys with the fat on them near the loins, and the lobe of the liver, which he is to remove with the kidneys.
 
-<sup>11</sup> Then the priest is to burn them on the altar as food, a food offering to the LORD.
+**¹¹** Then the priest is to burn them on the altar as food, a food offering to the LORD.
 
-<sup>12</sup> If one’s offering is a goat, he is to present it before the LORD.
+**¹²** If one’s offering is a goat, he is to present it before the LORD.
 
-<sup>13</sup> He must lay his hand on its head and slaughter it in front of the Tent of Meeting. Then Aaron’s sons shall splatter its blood on all sides of the altar.
+**¹³** He must lay his hand on its head and slaughter it in front of the Tent of Meeting. Then Aaron’s sons shall splatter its blood on all sides of the altar.
 
-<sup>14</sup> And from his offering he shall present a food offering to the LORD: the fat that covers the entrails, all the fat that is on them,
+**¹⁴** And from his offering he shall present a food offering to the LORD: the fat that covers the entrails, all the fat that is on them,
 
-<sup>15</sup> both kidneys with the fat on them near the loins, and the lobe of the liver, which he is to remove with the kidneys.
+**¹⁵** both kidneys with the fat on them near the loins, and the lobe of the liver, which he is to remove with the kidneys.
 
-<sup>16</sup> Then the priest is to burn the food on the altar as a food offering, a pleasing aroma. All the fat is the LORD’s.
+**¹⁶** Then the priest is to burn the food on the altar as a food offering, a pleasing aroma. All the fat is the LORD’s.
 
-<sup>17</sup> This is a permanent statute for the generations to come, wherever you live: You must not eat any fat or any blood.”
+**¹⁷** This is a permanent statute for the generations to come, wherever you live: You must not eat any fat or any blood.”

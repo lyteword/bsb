@@ -8,59 +8,59 @@ weight: 3
 
 **(Hebrews 5:11–14)**
 
-<sup>1</sup> Brothers, I could not address you as spiritual, but as worldly—as infants in Christ.
+**¹** Brothers, I could not address you as spiritual, but as worldly—as infants in Christ.
 
-<sup>2</sup> I gave you milk, not solid food, for you were not yet ready for solid food. In fact, you are still not ready,
+**²** I gave you milk, not solid food, for you were not yet ready for solid food. In fact, you are still not ready,
 
-<sup>3</sup> for you are still worldly. For since there is jealousy and dissension among you, are you not worldly? Are you not walking in the way of man?
+**³** for you are still worldly. For since there is jealousy and dissension among you, are you not worldly? Are you not walking in the way of man?
 
-<sup>4</sup> For when one of you says, “I follow Paul,” and another, “I follow Apollos,” are you not mere men?
+**⁴** For when one of you says, “I follow Paul,” and another, “I follow Apollos,” are you not mere men?
 
-<sup>5</sup> What then is Apollos? And what is Paul? They are servants through whom you believed, as the Lord has assigned to each his role.
+**⁵** What then is Apollos? And what is Paul? They are servants through whom you believed, as the Lord has assigned to each his role.
 
-<sup>6</sup> I planted the seed and Apollos watered it, but God made it grow.
+**⁶** I planted the seed and Apollos watered it, but God made it grow.
 
-<sup>7</sup> So neither he who plants nor he who waters is anything, but only God, who makes things grow.
+**⁷** So neither he who plants nor he who waters is anything, but only God, who makes things grow.
 
-<sup>8</sup> He who plants and he who waters are one in purpose,[^4393] and each will be rewarded according to his own labor.
+**⁸** He who plants and he who waters are one in purpose,[^4393] and each will be rewarded according to his own labor.
 
-<sup>9</sup> For we are God’s fellow workers; you are God’s field, God’s building.
+**⁹** For we are God’s fellow workers; you are God’s field, God’s building.
 
 ## Christ Our Foundation
 
 **(Isaiah 28:14–22; Ephesians 2:19–22; 1 Peter 2:1–8)**
 
-<sup>10</sup> By the grace God has given me, I laid a foundation as an expert builder, and someone else is building on it. But each one must be careful how he builds.
+**¹⁰** By the grace God has given me, I laid a foundation as an expert builder, and someone else is building on it. But each one must be careful how he builds.
 
-<sup>11</sup> For no one can lay a foundation other than the one already laid, which is Jesus Christ.
+**¹¹** For no one can lay a foundation other than the one already laid, which is Jesus Christ.
 
-<sup>12</sup> If anyone builds on this foundation using gold, silver, precious stones, wood, hay, or straw,
+**¹²** If anyone builds on this foundation using gold, silver, precious stones, wood, hay, or straw,
 
-<sup>13</sup> his workmanship will be evident, because the Day will bring it to light. It will be revealed with fire, and the fire will prove the quality of each man’s work.
+**¹³** his workmanship will be evident, because the Day will bring it to light. It will be revealed with fire, and the fire will prove the quality of each man’s work.
 
-<sup>14</sup> If what he has built survives, he will receive a reward.
+**¹⁴** If what he has built survives, he will receive a reward.
 
-<sup>15</sup> If it is burned up, he will suffer loss. He himself will be saved, but only as if through the flames.
+**¹⁵** If it is burned up, he will suffer loss. He himself will be saved, but only as if through the flames.
 
 ## God’s Temple and God’s Wisdom
 
 **(Romans 12:1–8; 1 Corinthians 6:18–20)**
 
-<sup>16</sup> Do you not know that you yourselves are God’s temple, and that God’s Spirit dwells in [^4394] you?
+**¹⁶** Do you not know that you yourselves are God’s temple, and that God’s Spirit dwells in [^4394] you?
 
-<sup>17</sup> If anyone destroys God’s temple, God will destroy him; for God’s temple is holy, and you are that temple.
+**¹⁷** If anyone destroys God’s temple, God will destroy him; for God’s temple is holy, and you are that temple.
 
-<sup>18</sup> Let no one deceive himself. If any of you thinks he is wise in this age, he should become a fool, so that he may become wise.
+**¹⁸** Let no one deceive himself. If any of you thinks he is wise in this age, he should become a fool, so that he may become wise.
 
-<sup>19</sup> For the wisdom of this world is foolishness in God’s sight. As it is written: “He catches the wise in their craftiness.”[^4395]
+**¹⁹** For the wisdom of this world is foolishness in God’s sight. As it is written: “He catches the wise in their craftiness.”[^4395]
 
-<sup>20</sup> And again, “The Lord knows that the thoughts of the wise are futile.”[^4396]
+**²⁰** And again, “The Lord knows that the thoughts of the wise are futile.”[^4396]
 
-<sup>21</sup> Therefore, stop boasting in men. All things are yours,
+**²¹** Therefore, stop boasting in men. All things are yours,
 
-<sup>22</sup> whether Paul or Apollos or Cephas [^4397] or the world or life or death or the present or the future. All of them belong to you,
+**²²** whether Paul or Apollos or Cephas [^4397] or the world or life or death or the present or the future. All of them belong to you,
 
-<sup>23</sup> and you belong to Christ, and Christ belongs to God.
+**²³** and you belong to Christ, and Christ belongs to God.
 
 [^4393]: 3:8 Literally are one
 [^4394]: 3:16 Or among

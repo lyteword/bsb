@@ -8,51 +8,51 @@ weight: 3
 
 **(1 Kings 6:1–4)**
 
-<sup>1</sup> Then Solomon began to build the house of the LORD in Jerusalem on Mount Moriah, where the LORD had appeared [^1709] to his father David. This was the place that David had prepared on the threshing floor of Ornan [^1710] the Jebusite.
+**¹** Then Solomon began to build the house of the LORD in Jerusalem on Mount Moriah, where the LORD had appeared [^1709] to his father David. This was the place that David had prepared on the threshing floor of Ornan [^1710] the Jebusite.
 
-<sup>2</sup> Solomon began construction on the second day of the second month in the fourth year of his reign.
+**²** Solomon began construction on the second day of the second month in the fourth year of his reign.
 
-<sup>3</sup> The foundation that Solomon laid for the house of God was sixty cubits long and twenty cubits wide,[^1711] according to the old standard.[^1712]
+**³** The foundation that Solomon laid for the house of God was sixty cubits long and twenty cubits wide,[^1711] according to the old standard.[^1712]
 
-<sup>4</sup> The portico at the front, extending across the width of the temple, was twenty cubits long [^1713] and twenty cubits high.[^1714] He overlaid the inside with pure gold.
+**⁴** The portico at the front, extending across the width of the temple, was twenty cubits long [^1713] and twenty cubits high.[^1714] He overlaid the inside with pure gold.
 
 ## The Temple’s Interior
 
 **(1 Kings 6:14–22)**
 
-<sup>5</sup> He paneled the main room with cypress,[^1715] which he overlaid with fine gold and decorated with palm trees and chains.
+**⁵** He paneled the main room with cypress,[^1715] which he overlaid with fine gold and decorated with palm trees and chains.
 
-<sup>6</sup> He adorned the temple with precious stones for beauty, and its gold was from Parvaim.
+**⁶** He adorned the temple with precious stones for beauty, and its gold was from Parvaim.
 
-<sup>7</sup> He overlaid its beams, thresholds, walls, and doors with gold, and he carved cherubim on the walls.
+**⁷** He overlaid its beams, thresholds, walls, and doors with gold, and he carved cherubim on the walls.
 
-<sup>8</sup> Then he made the Most Holy Place;[^1716] its length corresponded to the width of the temple—twenty cubits long and twenty cubits wide. And he overlaid the inside with six hundred talents of fine gold.[^1717]
+**⁸** Then he made the Most Holy Place;[^1716] its length corresponded to the width of the temple—twenty cubits long and twenty cubits wide. And he overlaid the inside with six hundred talents of fine gold.[^1717]
 
-<sup>9</sup> The weight of the nails was fifty shekels of gold.[^1718] He also overlaid the upper rooms with gold.
+**⁹** The weight of the nails was fifty shekels of gold.[^1718] He also overlaid the upper rooms with gold.
 
 ## The Cherubim
 
 **(1 Kings 6:23–30)**
 
-<sup>10</sup> In the Most Holy Place he made two cherubim of sculptured work, and he overlaid them with gold.
+**¹⁰** In the Most Holy Place he made two cherubim of sculptured work, and he overlaid them with gold.
 
-<sup>11</sup> The total wingspan of the cherubim was twenty cubits. One wing of the first cherub was five cubits long [^1719] and touched the wall of the temple, and its other wing was five cubits long and touched the wing of the other cherub.
+**¹¹** The total wingspan of the cherubim was twenty cubits. One wing of the first cherub was five cubits long [^1719] and touched the wall of the temple, and its other wing was five cubits long and touched the wing of the other cherub.
 
-<sup>12</sup> The wing of the second cherub also measured five cubits and touched the wall of the temple, while its other wing measured five cubits and touched the wing of the first cherub.
+**¹²** The wing of the second cherub also measured five cubits and touched the wall of the temple, while its other wing measured five cubits and touched the wing of the first cherub.
 
-<sup>13</sup> So the total wingspan of these cherubim was twenty cubits. They stood on their feet, facing the main room.
+**¹³** So the total wingspan of these cherubim was twenty cubits. They stood on their feet, facing the main room.
 
 ## The Veil and Pillars
 
 **(1 Kings 7:13–22)**
 
-<sup>14</sup> He made the veil of blue, purple, and crimson yarn and fine linen, with cherubim woven into it.
+**¹⁴** He made the veil of blue, purple, and crimson yarn and fine linen, with cherubim woven into it.
 
-<sup>15</sup> In front of the temple he made two pillars, which together were thirty-five cubits high,[^1720] each with a capital on top measuring five cubits.
+**¹⁵** In front of the temple he made two pillars, which together were thirty-five cubits high,[^1720] each with a capital on top measuring five cubits.
 
-<sup>16</sup> He made interwoven chains [^1721] and put them on top of the pillars. He made a hundred pomegranates and fastened them into the chainwork.
+**¹⁶** He made interwoven chains [^1721] and put them on top of the pillars. He made a hundred pomegranates and fastened them into the chainwork.
 
-<sup>17</sup> Then he set up the pillars in front of the temple, one on the south and one on the north. The pillar on the south he named Jachin,[^1722] and the pillar on the north he named Boaz.[^1723]
+**¹⁷** Then he set up the pillars in front of the temple, one on the south and one on the north. The pillar on the south he named Jachin,[^1722] and the pillar on the north he named Boaz.[^1723]
 
 [^1709]: 3:1 See LXX; Hebrew where He had appeared
 [^1710]: 3:1 Ornan is a variant of Araunah; see 2 Samuel 24:16.

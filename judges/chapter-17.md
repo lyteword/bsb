@@ -6,31 +6,31 @@ weight: 17
 
 ## Micah’s Idolatry
 
-<sup>1</sup> Now a man named Micah from the hill country of Ephraim
+**¹** Now a man named Micah from the hill country of Ephraim
 
-<sup>2</sup> said to his mother, “The eleven hundred shekels of silver [^932] that were taken from you and about which I heard you utter a curse—I have the silver here with me; I took it.” Then his mother said, “Blessed be my son by the LORD!”
+**²** said to his mother, “The eleven hundred shekels of silver [^932] that were taken from you and about which I heard you utter a curse—I have the silver here with me; I took it.” Then his mother said, “Blessed be my son by the LORD!”
 
-<sup>3</sup> And when he had returned the eleven hundred shekels of silver to his mother, she said, “I wholly dedicate the silver to the LORD for my son’s benefit, to make a graven image and a molten idol. Therefore I will now return it to you.”
+**³** And when he had returned the eleven hundred shekels of silver to his mother, she said, “I wholly dedicate the silver to the LORD for my son’s benefit, to make a graven image and a molten idol. Therefore I will now return it to you.”
 
-<sup>4</sup> So he returned the silver to his mother, and she took two hundred shekels of silver [^933] and gave them to a silversmith, who made them into a graven image and a molten idol. And they were placed in the house of Micah.
+**⁴** So he returned the silver to his mother, and she took two hundred shekels of silver [^933] and gave them to a silversmith, who made them into a graven image and a molten idol. And they were placed in the house of Micah.
 
-<sup>5</sup> Now this man Micah had a shrine, and he made an ephod and some household idols, and ordained [^934] one of his sons as his priest.
+**⁵** Now this man Micah had a shrine, and he made an ephod and some household idols, and ordained [^934] one of his sons as his priest.
 
-<sup>6</sup> In those days there was no king in Israel; everyone did what was right in his own eyes.
+**⁶** In those days there was no king in Israel; everyone did what was right in his own eyes.
 
-<sup>7</sup> And there was a young Levite from Bethlehem in Judah who had been residing within the clan of Judah.
+**⁷** And there was a young Levite from Bethlehem in Judah who had been residing within the clan of Judah.
 
-<sup>8</sup> This man left the city of Bethlehem in Judah to settle where he could find a place. And as he traveled, he came to Micah’s house in the hill country of Ephraim.
+**⁸** This man left the city of Bethlehem in Judah to settle where he could find a place. And as he traveled, he came to Micah’s house in the hill country of Ephraim.
 
-<sup>9</sup> “Where are you from?” Micah asked him. “I am a Levite from Bethlehem in Judah,” he replied, “and I am on my way to settle wherever I can find a place.”
+**⁹** “Where are you from?” Micah asked him. “I am a Levite from Bethlehem in Judah,” he replied, “and I am on my way to settle wherever I can find a place.”
 
-<sup>10</sup> “Stay with me,” Micah said to him, “and be my father and priest, and I will give you ten shekels of silver [^935] per year, a suit of clothes, and your provisions.” So the Levite went in
+**¹⁰** “Stay with me,” Micah said to him, “and be my father and priest, and I will give you ten shekels of silver [^935] per year, a suit of clothes, and your provisions.” So the Levite went in
 
-<sup>11</sup> and agreed to stay with him, and the young man became like a son to Micah.
+**¹¹** and agreed to stay with him, and the young man became like a son to Micah.
 
-<sup>12</sup> Micah ordained the Levite, and the young man became his priest and lived in his house.
+**¹²** Micah ordained the Levite, and the young man became his priest and lived in his house.
 
-<sup>13</sup> Then Micah said, “Now I know that the LORD will be good to me, because a Levite has become my priest.”
+**¹³** Then Micah said, “Now I know that the LORD will be good to me, because a Levite has become my priest.”
 
 [^932]: 17:2 1,100 shekels is approximately 27.6 pounds or 12.5 kilograms of silver; also in verse 3.
 [^933]: 17:4 200 shekels is approximately 5 pounds or 2.3 kilograms of silver.

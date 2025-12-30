@@ -6,31 +6,31 @@ weight: 9
 
 ## David and Mephibosheth
 
-<sup>1</sup> Then David asked, “Is there anyone left from the house of Saul to whom I can show kindness for the sake of Jonathan?”
+**¹** Then David asked, “Is there anyone left from the house of Saul to whom I can show kindness for the sake of Jonathan?”
 
-<sup>2</sup> And there was a servant of the house of Saul named Ziba. They summoned him to David, and the king inquired, “Are you Ziba?” “I am your servant,” he replied.
+**²** And there was a servant of the house of Saul named Ziba. They summoned him to David, and the king inquired, “Are you Ziba?” “I am your servant,” he replied.
 
-<sup>3</sup> So the king asked, “Is there anyone left of the house of Saul to whom I can show the kindness of God?” Ziba answered, “There is still Jonathan’s son, who is lame in both feet.”
+**³** So the king asked, “Is there anyone left of the house of Saul to whom I can show the kindness of God?” Ziba answered, “There is still Jonathan’s son, who is lame in both feet.”
 
-<sup>4</sup> “Where is he?” replied the king. And Ziba said, “Indeed, he is in Lo-debar at the house of Machir son of Ammiel.”
+**⁴** “Where is he?” replied the king. And Ziba said, “Indeed, he is in Lo-debar at the house of Machir son of Ammiel.”
 
-<sup>5</sup> So King David had him brought from the house of Machir son of Ammiel in Lo-debar.
+**⁵** So King David had him brought from the house of Machir son of Ammiel in Lo-debar.
 
-<sup>6</sup> And when Mephibosheth [^1101] son of Jonathan, the son of Saul, came to David, he fell facedown in reverence. Then David said, “Mephibosheth!” “I am your servant,” he replied.
+**⁶** And when Mephibosheth [^1101] son of Jonathan, the son of Saul, came to David, he fell facedown in reverence. Then David said, “Mephibosheth!” “I am your servant,” he replied.
 
-<sup>7</sup> “Do not be afraid,” said David, “for surely I will show you kindness for the sake of your father Jonathan. I will restore to you all the land of your grandfather Saul, and you will always eat at my table.”
+**⁷** “Do not be afraid,” said David, “for surely I will show you kindness for the sake of your father Jonathan. I will restore to you all the land of your grandfather Saul, and you will always eat at my table.”
 
-<sup>8</sup> Mephibosheth bowed down and said, “What is your servant, that you should show regard for a dead dog like me?”
+**⁸** Mephibosheth bowed down and said, “What is your servant, that you should show regard for a dead dog like me?”
 
-<sup>9</sup> Then the king summoned Saul’s servant Ziba and said to him, “I have given to your master’s grandson all that belonged to Saul and to all his house.
+**⁹** Then the king summoned Saul’s servant Ziba and said to him, “I have given to your master’s grandson all that belonged to Saul and to all his house.
 
-<sup>10</sup> You and your sons and servants are to work the ground for him and bring in the harvest, so that your master’s grandson may have food to eat. But Mephibosheth, your master’s grandson, is always to eat at my table.” Now Ziba had fifteen sons and twenty servants.
+**¹⁰** You and your sons and servants are to work the ground for him and bring in the harvest, so that your master’s grandson may have food to eat. But Mephibosheth, your master’s grandson, is always to eat at my table.” Now Ziba had fifteen sons and twenty servants.
 
-<sup>11</sup> And Ziba said to the king, “Your servant will do all that my lord the king has commanded.” So Mephibosheth ate at David’s table [^1102] like one of the king’s own sons.
+**¹¹** And Ziba said to the king, “Your servant will do all that my lord the king has commanded.” So Mephibosheth ate at David’s table [^1102] like one of the king’s own sons.
 
-<sup>12</sup> And Mephibosheth had a young son named Mica,[^1103] and all who dwelt in the house of Ziba were servants of Mephibosheth.
+**¹²** And Mephibosheth had a young son named Mica,[^1103] and all who dwelt in the house of Ziba were servants of Mephibosheth.
 
-<sup>13</sup> So Mephibosheth lived in Jerusalem, because he always ate at the king’s table, and he was lame in both feet.
+**¹³** So Mephibosheth lived in Jerusalem, because he always ate at the king’s table, and he was lame in both feet.
 
 [^1101]: 9:6 Mephibosheth is also called Merib-baal; see 1 Chronicles 8:34.
 [^1102]: 9:11 LXX; Hebrew my table

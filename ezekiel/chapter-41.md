@@ -6,61 +6,61 @@ weight: 41
 
 ## Inside the Temple
 
-<sup>1</sup> Then the man brought me into the outer sanctuary and measured the side pillars to be six cubits wide [^3136] on each side.[^3137]
+**¹** Then the man brought me into the outer sanctuary and measured the side pillars to be six cubits wide [^3136] on each side.[^3137]
 
-<sup>2</sup> The width of the entrance was ten cubits,[^3138] and the sides of the entrance were five cubits [^3139] on each side. He also measured the length of the outer sanctuary to be forty cubits, and the width to be twenty cubits.[^3140]
+**²** The width of the entrance was ten cubits,[^3138] and the sides of the entrance were five cubits [^3139] on each side. He also measured the length of the outer sanctuary to be forty cubits, and the width to be twenty cubits.[^3140]
 
-<sup>3</sup> And he went into the inner sanctuary and measured the side pillars at the entrance to be two cubits wide.[^3141] The entrance was six cubits wide, and the walls on each side were seven cubits wide.[^3142]
+**³** And he went into the inner sanctuary and measured the side pillars at the entrance to be two cubits wide.[^3141] The entrance was six cubits wide, and the walls on each side were seven cubits wide.[^3142]
 
-<sup>4</sup> Then he measured the room adjacent to the inner sanctuary [^3143] to be twenty cubits long and twenty cubits wide.[^3144] And he said to me, “This is the Most Holy Place.[^3145]”
+**⁴** Then he measured the room adjacent to the inner sanctuary [^3143] to be twenty cubits long and twenty cubits wide.[^3144] And he said to me, “This is the Most Holy Place.[^3145]”
 
 ## Outside the Temple
 
-<sup>5</sup> Next he measured the wall of the temple to be six cubits thick, and the width of each side room around the temple was four cubits.[^3146]
+**⁵** Next he measured the wall of the temple to be six cubits thick, and the width of each side room around the temple was four cubits.[^3146]
 
-<sup>6</sup> The side rooms were arranged one above another in three levels of thirty rooms each. There were ledges all around the wall of the temple to serve as supports for the side rooms, so that the supports would not be fastened into the wall of the temple itself.
+**⁶** The side rooms were arranged one above another in three levels of thirty rooms each. There were ledges all around the wall of the temple to serve as supports for the side rooms, so that the supports would not be fastened into the wall of the temple itself.
 
-<sup>7</sup> The side rooms surrounding the temple widened at each successive level, because the structure surrounding the temple ascended by stages corresponding to the narrowing of the temple wall as it rose upward. And so a stairway went up from the lowest story to the highest, through the middle one.
+**⁷** The side rooms surrounding the temple widened at each successive level, because the structure surrounding the temple ascended by stages corresponding to the narrowing of the temple wall as it rose upward. And so a stairway went up from the lowest story to the highest, through the middle one.
 
-<sup>8</sup> I saw that the temple had a raised base all around it, forming the foundation of the side rooms. It was the full length of a rod, six long cubits.
+**⁸** I saw that the temple had a raised base all around it, forming the foundation of the side rooms. It was the full length of a rod, six long cubits.
 
-<sup>9</sup> The outer wall of the side rooms was five cubits thick, and the open area between the side rooms of the temple
+**⁹** The outer wall of the side rooms was five cubits thick, and the open area between the side rooms of the temple
 
-<sup>10</sup> and the outer chambers was twenty cubits wide all around the temple.
+**¹⁰** and the outer chambers was twenty cubits wide all around the temple.
 
-<sup>11</sup> The side rooms opened into this area, with one entrance on the north and another on the south. The open area was five cubits wide all around.
+**¹¹** The side rooms opened into this area, with one entrance on the north and another on the south. The open area was five cubits wide all around.
 
-<sup>12</sup> Now the building that faced the temple courtyard on the west was seventy cubits wide,[^3147] and the wall of the building was five cubits thick all around, with a length of ninety cubits.[^3148]
+**¹²** Now the building that faced the temple courtyard on the west was seventy cubits wide,[^3147] and the wall of the building was five cubits thick all around, with a length of ninety cubits.[^3148]
 
-<sup>13</sup> Then he measured the temple to be a hundred cubits long,[^3149] and the temple courtyard and the building with its walls were also a hundred cubits long.
+**¹³** Then he measured the temple to be a hundred cubits long,[^3149] and the temple courtyard and the building with its walls were also a hundred cubits long.
 
-<sup>14</sup> The width of the temple courtyard on the east, including the front of the temple, was a hundred cubits.
+**¹⁴** The width of the temple courtyard on the east, including the front of the temple, was a hundred cubits.
 
 ## The Interior Structures
 
-<sup>15</sup> Next he measured the length of the building facing the temple courtyard at the rear of the temple, including its galleries on each side; it was a hundred cubits. The outer sanctuary, the inner sanctuary, and the porticoes facing the court,
+**¹⁵** Next he measured the length of the building facing the temple courtyard at the rear of the temple, including its galleries on each side; it was a hundred cubits. The outer sanctuary, the inner sanctuary, and the porticoes facing the court,
 
-<sup>16</sup> as well as the thresholds and the beveled windows and the galleries all around with their three levels opposite the threshold, were overlaid with wood on all sides. They were paneled from the ground to the windows, and the windows were covered.
+**¹⁶** as well as the thresholds and the beveled windows and the galleries all around with their three levels opposite the threshold, were overlaid with wood on all sides. They were paneled from the ground to the windows, and the windows were covered.
 
-<sup>17</sup> In the space above the outside of the entrance to the inner sanctuary on all the walls, spaced evenly around the inner and outer sanctuary,
+**¹⁷** In the space above the outside of the entrance to the inner sanctuary on all the walls, spaced evenly around the inner and outer sanctuary,
 
-<sup>18</sup> were alternating carved cherubim and palm trees. Each cherub had two faces:
+**¹⁸** were alternating carved cherubim and palm trees. Each cherub had two faces:
 
-<sup>19</sup> the face of a man was toward the palm tree on one side, and the face of a young lion was toward the palm tree on the other side. They were carved all the way around the temple.
+**¹⁹** the face of a man was toward the palm tree on one side, and the face of a young lion was toward the palm tree on the other side. They were carved all the way around the temple.
 
-<sup>20</sup> Cherubim and palm trees were carved on the wall of the outer sanctuary from the floor to the space above the entrance.
+**²⁰** Cherubim and palm trees were carved on the wall of the outer sanctuary from the floor to the space above the entrance.
 
-<sup>21</sup> The outer sanctuary had a rectangular doorframe, and the doorframe of the sanctuary was similar.
+**²¹** The outer sanctuary had a rectangular doorframe, and the doorframe of the sanctuary was similar.
 
-<sup>22</sup> There was an altar of wood three cubits high and two cubits square.[^3150] Its corners, base, and sides were of wood. And the man told me, “This is the table that is before the LORD.”
+**²²** There was an altar of wood three cubits high and two cubits square.[^3150] Its corners, base, and sides were of wood. And the man told me, “This is the table that is before the LORD.”
 
-<sup>23</sup> Both the outer sanctuary and the inner sanctuary had double doors,
+**²³** Both the outer sanctuary and the inner sanctuary had double doors,
 
-<sup>24</sup> and each door had two swinging panels. There were two panels for one door and two for the other.
+**²⁴** and each door had two swinging panels. There were two panels for one door and two for the other.
 
-<sup>25</sup> Cherubim and palm trees like those on the walls were carved on the doors of the outer sanctuary, and there was a wooden canopy outside, on the front of the portico.
+**²⁵** Cherubim and palm trees like those on the walls were carved on the doors of the outer sanctuary, and there was a wooden canopy outside, on the front of the portico.
 
-<sup>26</sup> There were beveled windows and palm trees on the sidewalls of the portico. The side rooms of the temple also had canopies.
+**²⁶** There were beveled windows and palm trees on the sidewalls of the portico. The side rooms of the temple also had canopies.
 
 [^3136]: 41:1 6 (long) cubits is approximately 10.5 feet or 3.2 meters; also in verses 3, 5, and 8.
 [^3137]: 41:1 One Hebrew manuscript and LXX; most Hebrew manuscripts on each side—the width of the tent

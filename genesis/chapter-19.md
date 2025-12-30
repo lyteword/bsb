@@ -8,89 +8,89 @@ weight: 19
 
 **(Judges 19:1–30)**
 
-<sup>1</sup> Now the two angels arrived at Sodom in the evening, and Lot was sitting in the gateway of the city. When Lot saw them, he got up to meet them, bowed facedown,
+**¹** Now the two angels arrived at Sodom in the evening, and Lot was sitting in the gateway of the city. When Lot saw them, he got up to meet them, bowed facedown,
 
-<sup>2</sup> and said, “My lords, please turn aside into the house of your servant; wash your feet and spend the night. Then you can rise early and go on your way.” “No,” they answered, “we will spend the night in the square.”
+**²** and said, “My lords, please turn aside into the house of your servant; wash your feet and spend the night. Then you can rise early and go on your way.” “No,” they answered, “we will spend the night in the square.”
 
-<sup>3</sup> But Lot insisted so strongly that they followed him into his house. He prepared a feast for them and baked unleavened bread, and they ate.
+**³** But Lot insisted so strongly that they followed him into his house. He prepared a feast for them and baked unleavened bread, and they ate.
 
-<sup>4</sup> Before they had gone to bed, all the men of the city of Sodom, both young and old, surrounded the house.
+**⁴** Before they had gone to bed, all the men of the city of Sodom, both young and old, surrounded the house.
 
-<sup>5</sup> They called out to Lot, saying, “Where are the men who came to you tonight? Send them out to us so we can have relations with them!”
+**⁵** They called out to Lot, saying, “Where are the men who came to you tonight? Send them out to us so we can have relations with them!”
 
-<sup>6</sup> Lot went outside to meet them, shutting the door behind him.
+**⁶** Lot went outside to meet them, shutting the door behind him.
 
-<sup>7</sup> “Please, my brothers,” he pleaded, “don’t do such a wicked thing!
+**⁷** “Please, my brothers,” he pleaded, “don’t do such a wicked thing!
 
-<sup>8</sup> Look, I have two daughters who have never slept with a man. Let me bring them to you, and you can do to them as you please. But do not do anything to these men, for they have come under the protection of my roof.”
+**⁸** Look, I have two daughters who have never slept with a man. Let me bring them to you, and you can do to them as you please. But do not do anything to these men, for they have come under the protection of my roof.”
 
-<sup>9</sup> “Get out of the way!” they replied. And they declared, “This one came here as a foreigner, and he is already acting like a judge! Now we will treat you worse than them.” And they pressed in on Lot and moved in to break down the door.
+**⁹** “Get out of the way!” they replied. And they declared, “This one came here as a foreigner, and he is already acting like a judge! Now we will treat you worse than them.” And they pressed in on Lot and moved in to break down the door.
 
-<sup>10</sup> But the men inside reached out, pulled Lot into the house with them, and shut the door.
+**¹⁰** But the men inside reached out, pulled Lot into the house with them, and shut the door.
 
-<sup>11</sup> And they struck the men at the entrance, young and old, with blindness, so that they wearied themselves trying to find the door.
+**¹¹** And they struck the men at the entrance, young and old, with blindness, so that they wearied themselves trying to find the door.
 
 ## Lot Flees to Zoar
 
-<sup>12</sup> Then the two men said to Lot, “Do you have anyone else here—a son-in-law, your sons or daughters, or anyone else in the city who belongs to you? Get them out of here,
+**¹²** Then the two men said to Lot, “Do you have anyone else here—a son-in-law, your sons or daughters, or anyone else in the city who belongs to you? Get them out of here,
 
-<sup>13</sup> because we are about to destroy this place. For the outcry to the LORD against its people is so great that He has sent us to destroy it.”
+**¹³** because we are about to destroy this place. For the outcry to the LORD against its people is so great that He has sent us to destroy it.”
 
-<sup>14</sup> So Lot went out and spoke to the sons-in-law who were pledged in marriage to his daughters. “Get up,” he said. “Get out of this place, for the LORD is about to destroy the city!” But his sons-in-law thought he was joking.
+**¹⁴** So Lot went out and spoke to the sons-in-law who were pledged in marriage to his daughters. “Get up,” he said. “Get out of this place, for the LORD is about to destroy the city!” But his sons-in-law thought he was joking.
 
-<sup>15</sup> At daybreak the angels hurried Lot along, saying, “Get up! Take your wife and your two daughters who are here, or you will be swept away in the punishment of the city.”
+**¹⁵** At daybreak the angels hurried Lot along, saying, “Get up! Take your wife and your two daughters who are here, or you will be swept away in the punishment of the city.”
 
-<sup>16</sup> But when Lot hesitated, the men grabbed his hand and the hands of his wife and his two daughters. And they led them safely out of the city, because of the LORD’s compassion for them.
+**¹⁶** But when Lot hesitated, the men grabbed his hand and the hands of his wife and his two daughters. And they led them safely out of the city, because of the LORD’s compassion for them.
 
-<sup>17</sup> As soon as the men had brought them out, one of them said, “Run for your lives! Do not look back, and do not stop anywhere on the plain! Flee to the mountains, or you will be swept away!”
+**¹⁷** As soon as the men had brought them out, one of them said, “Run for your lives! Do not look back, and do not stop anywhere on the plain! Flee to the mountains, or you will be swept away!”
 
-<sup>18</sup> But Lot replied, “No, my lords, please!
+**¹⁸** But Lot replied, “No, my lords, please!
 
-<sup>19</sup> Your servant has indeed found favor in your sight, and you have shown me great kindness by sparing my life. But I cannot run to the mountains; the disaster will overtake me, and I will die.
+**¹⁹** Your servant has indeed found favor in your sight, and you have shown me great kindness by sparing my life. But I cannot run to the mountains; the disaster will overtake me, and I will die.
 
-<sup>20</sup> Look, there is a town nearby where I can flee, and it is a small place. Please let me flee there—is it not a small place? Then my life will be saved.”
+**²⁰** Look, there is a town nearby where I can flee, and it is a small place. Please let me flee there—is it not a small place? Then my life will be saved.”
 
-<sup>21</sup> “Very well,” he answered, “I will grant this request as well, and will not demolish the town you indicate.
+**²¹** “Very well,” he answered, “I will grant this request as well, and will not demolish the town you indicate.
 
-<sup>22</sup> Hurry! Run there quickly, for I cannot do anything until you reach it.” That is why the town was called Zoar.[^88]
+**²²** Hurry! Run there quickly, for I cannot do anything until you reach it.” That is why the town was called Zoar.[^88]
 
-<sup>23</sup> And by the time the sun had risen over the land, Lot had reached Zoar.
+**²³** And by the time the sun had risen over the land, Lot had reached Zoar.
 
 ## The Destruction of Sodom and Gomorrah
 
 **(Luke 17:20–37)**
 
-<sup>24</sup> Then the LORD rained down sulfur and fire on Sodom and Gomorrah—from the LORD out of the heavens.
+**²⁴** Then the LORD rained down sulfur and fire on Sodom and Gomorrah—from the LORD out of the heavens.
 
-<sup>25</sup> Thus He destroyed these cities and the entire plain, including all the inhabitants of the cities and everything that grew on the ground.
+**²⁵** Thus He destroyed these cities and the entire plain, including all the inhabitants of the cities and everything that grew on the ground.
 
-<sup>26</sup> But Lot’s wife looked back, and she became a pillar of salt.
+**²⁶** But Lot’s wife looked back, and she became a pillar of salt.
 
-<sup>27</sup> Early the next morning, Abraham got up and returned to the place where he had stood before the LORD.
+**²⁷** Early the next morning, Abraham got up and returned to the place where he had stood before the LORD.
 
-<sup>28</sup> He looked down toward Sodom and Gomorrah and all the land of the plain, and he saw the smoke rising from the land like smoke from a furnace.
+**²⁸** He looked down toward Sodom and Gomorrah and all the land of the plain, and he saw the smoke rising from the land like smoke from a furnace.
 
-<sup>29</sup> So when God destroyed the cities of the plain, He remembered Abraham, and He brought Lot out of the catastrophe that destroyed the cities where he had lived.
+**²⁹** So when God destroyed the cities of the plain, He remembered Abraham, and He brought Lot out of the catastrophe that destroyed the cities where he had lived.
 
 ## Lot and His Daughters
 
-<sup>30</sup> Lot and his two daughters left Zoar and settled in the mountains—for he was afraid to stay in Zoar—where they lived in a cave.
+**³⁰** Lot and his two daughters left Zoar and settled in the mountains—for he was afraid to stay in Zoar—where they lived in a cave.
 
-<sup>31</sup> One day the older daughter said to the younger, “Our father is old, and there is no man in the land to sleep with us, as is the custom over all the earth.
+**³¹** One day the older daughter said to the younger, “Our father is old, and there is no man in the land to sleep with us, as is the custom over all the earth.
 
-<sup>32</sup> Come, let us get our father drunk with wine so we can sleep with him and preserve his line.”
+**³²** Come, let us get our father drunk with wine so we can sleep with him and preserve his line.”
 
-<sup>33</sup> So that night they got their father drunk with wine, and the firstborn went in and slept with her father; he was not aware when she lay down or when she got up.
+**³³** So that night they got their father drunk with wine, and the firstborn went in and slept with her father; he was not aware when she lay down or when she got up.
 
-<sup>34</sup> The next day the older daughter said to the younger, “Look, I slept with my father last night. Let us get him drunk with wine again tonight so you can go in and sleep with him and we can preserve our father’s line.”
+**³⁴** The next day the older daughter said to the younger, “Look, I slept with my father last night. Let us get him drunk with wine again tonight so you can go in and sleep with him and we can preserve our father’s line.”
 
-<sup>35</sup> So again that night they got their father drunk with wine, and the younger daughter went in and slept with him; he was not aware when she lay down or when she got up.
+**³⁵** So again that night they got their father drunk with wine, and the younger daughter went in and slept with him; he was not aware when she lay down or when she got up.
 
-<sup>36</sup> Thus both of Lot’s daughters became pregnant by their father.
+**³⁶** Thus both of Lot’s daughters became pregnant by their father.
 
-<sup>37</sup> The older daughter gave birth to a son and named him Moab.[^89] He is the father of the Moabites of today.
+**³⁷** The older daughter gave birth to a son and named him Moab.[^89] He is the father of the Moabites of today.
 
-<sup>38</sup> The younger daughter also gave birth to a son, and she named him Ben-ammi.[^90] He is the father of the Ammonites of today.
+**³⁸** The younger daughter also gave birth to a son, and she named him Ben-ammi.[^90] He is the father of the Ammonites of today.
 
 [^88]: 19:22 Zoar means small.
 [^89]: 19:37 Moab sounds like the Hebrew for from my father.

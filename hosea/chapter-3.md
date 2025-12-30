@@ -8,15 +8,15 @@ weight: 3
 
 **(Zechariah 2:6–13)**
 
-<sup>1</sup> Then the LORD said to me, “Go show love to your wife again, though she is loved by another [^3284] and is an adulteress. Love her as the LORD loves the Israelites, though they turn to other gods and love to offer raisin cakes to idols.[^3285]”
+**¹** Then the LORD said to me, “Go show love to your wife again, though she is loved by another [^3284] and is an adulteress. Love her as the LORD loves the Israelites, though they turn to other gods and love to offer raisin cakes to idols.[^3285]”
 
-<sup>2</sup> So I bought her for fifteen shekels of silver [^3286] and a homer and a lethech of barley.[^3287]
+**²** So I bought her for fifteen shekels of silver [^3286] and a homer and a lethech of barley.[^3287]
 
-<sup>3</sup> Then I said to her, “You must live with me for many days; you must not be promiscuous or belong to another, and I will do the same for you.”
+**³** Then I said to her, “You must live with me for many days; you must not be promiscuous or belong to another, and I will do the same for you.”
 
-<sup>4</sup> For the Israelites must live many days without king or prince, without sacrifice or sacred pillar, and without ephod or idol.
+**⁴** For the Israelites must live many days without king or prince, without sacrifice or sacred pillar, and without ephod or idol.
 
-<sup>5</sup> Afterward, the people of Israel will return and seek the LORD their God and David their king. They will come trembling to the LORD and to His goodness in the last days.
+**⁵** Afterward, the people of Israel will return and seek the LORD their God and David their king. They will come trembling to the LORD and to His goodness in the last days.
 
 [^3284]: 3:1 Or Go show love to a woman who is loved by another
 [^3285]: 3:1 Literally and love raisin cakes

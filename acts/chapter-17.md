@@ -6,79 +6,79 @@ weight: 17
 
 ## The Uproar in Thessalonica
 
-<sup>1</sup> When they had passed through Amphipolis and Apollonia, they came to Thessalonica, where there was a Jewish synagogue.
+**¹** When they had passed through Amphipolis and Apollonia, they came to Thessalonica, where there was a Jewish synagogue.
 
-<sup>2</sup> As was his custom, Paul went into the synagogue, and on three Sabbaths he reasoned with them from the Scriptures,
+**²** As was his custom, Paul went into the synagogue, and on three Sabbaths he reasoned with them from the Scriptures,
 
-<sup>3</sup> explaining and proving that the Christ had to suffer and rise from the dead. “This Jesus I am proclaiming to you is the Christ,” he declared.
+**³** explaining and proving that the Christ had to suffer and rise from the dead. “This Jesus I am proclaiming to you is the Christ,” he declared.
 
-<sup>4</sup> Some of the Jews were persuaded and joined Paul and Silas, along with a large number of God-fearing Greeks and quite a few leading women.
+**⁴** Some of the Jews were persuaded and joined Paul and Silas, along with a large number of God-fearing Greeks and quite a few leading women.
 
-<sup>5</sup> The Jews, however, became jealous. So they brought in some troublemakers from the marketplace, formed a mob, and sent the city into an uproar. They raided Jason’s house in search of Paul and Silas, hoping to bring them out to the people.
+**⁵** The Jews, however, became jealous. So they brought in some troublemakers from the marketplace, formed a mob, and sent the city into an uproar. They raided Jason’s house in search of Paul and Silas, hoping to bring them out to the people.
 
-<sup>6</sup> But when they could not find them, they dragged Jason and some other brothers before the city officials, shouting, “These men who have turned the world upside down have now come here,
+**⁶** But when they could not find them, they dragged Jason and some other brothers before the city officials, shouting, “These men who have turned the world upside down have now come here,
 
-<sup>7</sup> and Jason has welcomed them into his home. They are all defying Caesar’s decrees, saying that there is another king, named Jesus!”
+**⁷** and Jason has welcomed them into his home. They are all defying Caesar’s decrees, saying that there is another king, named Jesus!”
 
-<sup>8</sup> On hearing this, the crowd and city officials were greatly disturbed.
+**⁸** On hearing this, the crowd and city officials were greatly disturbed.
 
-<sup>9</sup> And they collected bond from Jason and the others and then released them.
+**⁹** And they collected bond from Jason and the others and then released them.
 
 ## The Character of the Bereans
 
-<sup>10</sup> As soon as night had fallen, the brothers sent Paul and Silas away to Berea. On arriving there, they went into the Jewish synagogue.
+**¹⁰** As soon as night had fallen, the brothers sent Paul and Silas away to Berea. On arriving there, they went into the Jewish synagogue.
 
-<sup>11</sup> Now the Bereans were more noble-minded than the Thessalonians, for they received the message with great eagerness and examined the Scriptures every day to see if these teachings were true.[^4221]
+**¹¹** Now the Bereans were more noble-minded than the Thessalonians, for they received the message with great eagerness and examined the Scriptures every day to see if these teachings were true.[^4221]
 
-<sup>12</sup> As a result, many of them believed, along with quite a few prominent Greek women and men.
+**¹²** As a result, many of them believed, along with quite a few prominent Greek women and men.
 
-<sup>13</sup> But when the Jews from Thessalonica learned that Paul was also proclaiming the word of God in Berea, they went there themselves to incite and agitate the crowds.
+**¹³** But when the Jews from Thessalonica learned that Paul was also proclaiming the word of God in Berea, they went there themselves to incite and agitate the crowds.
 
-<sup>14</sup> The brothers immediately sent Paul to the coast, but Silas and Timothy remained in Berea.
+**¹⁴** The brothers immediately sent Paul to the coast, but Silas and Timothy remained in Berea.
 
-<sup>15</sup> Those who escorted Paul brought him to Athens and then returned with instructions for Silas and Timothy to join him as soon as possible.
+**¹⁵** Those who escorted Paul brought him to Athens and then returned with instructions for Silas and Timothy to join him as soon as possible.
 
 ## Paul in Athens
 
-<sup>16</sup> While Paul was waiting for them in Athens, he was deeply disturbed in his spirit to see that the city was full of idols.
+**¹⁶** While Paul was waiting for them in Athens, he was deeply disturbed in his spirit to see that the city was full of idols.
 
-<sup>17</sup> So he reasoned in the synagogue with the Jews and God-fearing Gentiles, and in the marketplace with those he met each day.
+**¹⁷** So he reasoned in the synagogue with the Jews and God-fearing Gentiles, and in the marketplace with those he met each day.
 
-<sup>18</sup> Some Epicurean and Stoic philosophers also began to debate with him. Some of them asked, “What is this babbler trying to say?” Others said, “He seems to be advocating foreign gods.” They said this because Paul was proclaiming the good news of Jesus and the resurrection.
+**¹⁸** Some Epicurean and Stoic philosophers also began to debate with him. Some of them asked, “What is this babbler trying to say?” Others said, “He seems to be advocating foreign gods.” They said this because Paul was proclaiming the good news of Jesus and the resurrection.
 
-<sup>19</sup> So they took Paul and brought him to the Areopagus,[^4222] where they asked him, “May we know what this new teaching is that you are presenting?
+**¹⁹** So they took Paul and brought him to the Areopagus,[^4222] where they asked him, “May we know what this new teaching is that you are presenting?
 
-<sup>20</sup> For you are bringing some strange notions to our ears, and we want to know what they mean.”
+**²⁰** For you are bringing some strange notions to our ears, and we want to know what they mean.”
 
-<sup>21</sup> Now all the Athenians and foreigners who lived there spent their time doing nothing more than hearing and articulating new ideas.
+**²¹** Now all the Athenians and foreigners who lived there spent their time doing nothing more than hearing and articulating new ideas.
 
 ## Paul’s Address in the Areopagus
 
-<sup>22</sup> Then Paul stood up in the meeting [^4223] of the Areopagus and said, “Men of Athens, I see that in every way you are very religious.
+**²²** Then Paul stood up in the meeting [^4223] of the Areopagus and said, “Men of Athens, I see that in every way you are very religious.
 
-<sup>23</sup> For as I walked around and examined your objects of worship, I even found an altar with this inscription: TO AN UNKNOWN GOD. Therefore what you worship as something unknown, I now proclaim to you.
+**²³** For as I walked around and examined your objects of worship, I even found an altar with this inscription: TO AN UNKNOWN GOD. Therefore what you worship as something unknown, I now proclaim to you.
 
-<sup>24</sup> The God who made the world and everything in it is the Lord of heaven and earth and does not live in temples made by human hands.
+**²⁴** The God who made the world and everything in it is the Lord of heaven and earth and does not live in temples made by human hands.
 
-<sup>25</sup> Nor is He served by human hands, as if He needed anything, because He Himself gives everyone life and breath and everything else.
+**²⁵** Nor is He served by human hands, as if He needed anything, because He Himself gives everyone life and breath and everything else.
 
-<sup>26</sup> From one man [^4224] He made every nation of men, that they should inhabit the whole earth; and He determined their appointed times and the boundaries of their lands.
+**²⁶** From one man [^4224] He made every nation of men, that they should inhabit the whole earth; and He determined their appointed times and the boundaries of their lands.
 
-<sup>27</sup> God intended that they would seek Him and perhaps reach out for Him and find Him, though He is not far from each one of us.
+**²⁷** God intended that they would seek Him and perhaps reach out for Him and find Him, though He is not far from each one of us.
 
-<sup>28</sup> ‘For in Him we live and move and have our being.’[^4225] As some of your own poets have said, ‘We are His offspring.’[^4226]
+**²⁸** ‘For in Him we live and move and have our being.’[^4225] As some of your own poets have said, ‘We are His offspring.’[^4226]
 
-<sup>29</sup> Therefore, being offspring of God, we should not think that the Divine Being is like gold or silver or stone, an image formed by man’s skill and imagination.
+**²⁹** Therefore, being offspring of God, we should not think that the Divine Being is like gold or silver or stone, an image formed by man’s skill and imagination.
 
-<sup>30</sup> Although God overlooked the ignorance of earlier times, He now commands all people everywhere to repent.
+**³⁰** Although God overlooked the ignorance of earlier times, He now commands all people everywhere to repent.
 
-<sup>31</sup> For He has set a day when He will judge the world with justice by the Man He has appointed. He has given proof of this to everyone by raising Him from the dead.”
+**³¹** For He has set a day when He will judge the world with justice by the Man He has appointed. He has given proof of this to everyone by raising Him from the dead.”
 
-<sup>32</sup> When they heard about the resurrection of the dead, some began to mock him, but others said, “We want to hear you again on this topic.”
+**³²** When they heard about the resurrection of the dead, some began to mock him, but others said, “We want to hear you again on this topic.”
 
-<sup>33</sup> At that, Paul left the Areopagus.
+**³³** At that, Paul left the Areopagus.
 
-<sup>34</sup> But some [^4227] joined him and believed, including Dionysius the Areopagite, a woman named Damaris, and others who were with them.
+**³⁴** But some [^4227] joined him and believed, including Dionysius the Areopagite, a woman named Damaris, and others who were with them.
 
 [^4221]: 17:11 Literally with great eagerness, every day examining the Writings, whether these things were so.
 [^4222]: 17:19 Or Ares Hill or Mars Hill; also in verse 22 and added for clarity in verse 33

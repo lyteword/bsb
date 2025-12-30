@@ -6,57 +6,57 @@ weight: 4
 
 ## Adversaries Hinder the Work
 
-<sup>1</sup> When the enemies of Judah and Benjamin heard that the exiles were building a temple for the LORD, the God of Israel,
+**¹** When the enemies of Judah and Benjamin heard that the exiles were building a temple for the LORD, the God of Israel,
 
-<sup>2</sup> they approached Zerubbabel and the heads of the families, saying, “Let us build with you because, like you, we seek your God and have been sacrificing to Him since the time of King Esar-haddon of Assyria, who brought us here.”
+**²** they approached Zerubbabel and the heads of the families, saying, “Let us build with you because, like you, we seek your God and have been sacrificing to Him since the time of King Esar-haddon of Assyria, who brought us here.”
 
-<sup>3</sup> But Zerubbabel, Jeshua, and the other heads of the families of Israel replied, “You have no part with us in building a house for our God, since we alone must build it for the LORD, the God of Israel, as Cyrus king of Persia has commanded us.”
+**³** But Zerubbabel, Jeshua, and the other heads of the families of Israel replied, “You have no part with us in building a house for our God, since we alone must build it for the LORD, the God of Israel, as Cyrus king of Persia has commanded us.”
 
-<sup>4</sup> Then the people of the land set out to discourage the people of Judah and make them afraid to build.
+**⁴** Then the people of the land set out to discourage the people of Judah and make them afraid to build.
 
-<sup>5</sup> They hired counselors against them to frustrate their plans throughout the reign of Cyrus king of Persia and down to the reign of Darius king of Persia.
+**⁵** They hired counselors against them to frustrate their plans throughout the reign of Cyrus king of Persia and down to the reign of Darius king of Persia.
 
 ## Opposition under Xerxes and Artaxerxes
 
-<sup>6</sup> At the beginning of the reign of Xerxes,[^1899] an accusation was lodged against the people of Judah and Jerusalem.
+**⁶** At the beginning of the reign of Xerxes,[^1899] an accusation was lodged against the people of Judah and Jerusalem.
 
-<sup>7</sup> And in the days of Artaxerxes king of Persia, Bishlam, Mithredath, Tabeel, and the rest of his associates wrote a letter to Artaxerxes. It was written in Aramaic and then translated.[^1900]
+**⁷** And in the days of Artaxerxes king of Persia, Bishlam, Mithredath, Tabeel, and the rest of his associates wrote a letter to Artaxerxes. It was written in Aramaic and then translated.[^1900]
 
-<sup>8</sup> Rehum the commander and Shimshai the scribe wrote the letter against Jerusalem to King Artaxerxes as follows:
+**⁸** Rehum the commander and Shimshai the scribe wrote the letter against Jerusalem to King Artaxerxes as follows:
 
-<sup>9</sup> From Rehum the commander, Shimshai the scribe, and the rest of their associates—the judges and officials over Tripolis, Persia, Erech and Babylon, the Elamites of Susa,
+**⁹** From Rehum the commander, Shimshai the scribe, and the rest of their associates—the judges and officials over Tripolis, Persia, Erech and Babylon, the Elamites of Susa,
 
-<sup>10</sup> and the rest of the peoples whom the great and honorable Ashurbanipal [^1901] deported and settled in the cities of Samaria and elsewhere west of the Euphrates.[^1902]
+**¹⁰** and the rest of the peoples whom the great and honorable Ashurbanipal [^1901] deported and settled in the cities of Samaria and elsewhere west of the Euphrates.[^1902]
 
-<sup>11</sup> (This is the text of the letter they sent to him.) To King Artaxerxes, From your servants, the men west of the Euphrates:
+**¹¹** (This is the text of the letter they sent to him.) To King Artaxerxes, From your servants, the men west of the Euphrates:
 
-<sup>12</sup> Let it be known to the king that the Jews who came from you to us have returned to Jerusalem and are rebuilding that rebellious and wicked city. They are restoring its walls and repairing its foundations.
+**¹²** Let it be known to the king that the Jews who came from you to us have returned to Jerusalem and are rebuilding that rebellious and wicked city. They are restoring its walls and repairing its foundations.
 
-<sup>13</sup> Let it now be known to the king that if that city is rebuilt and its walls are restored, they will not pay tribute, duty, or toll, and the royal treasury will suffer.
+**¹³** Let it now be known to the king that if that city is rebuilt and its walls are restored, they will not pay tribute, duty, or toll, and the royal treasury will suffer.
 
-<sup>14</sup> Now because we are in the service of the palace [^1903] and it is not fitting for us to allow the king to be dishonored, we have sent to inform the king
+**¹⁴** Now because we are in the service of the palace [^1903] and it is not fitting for us to allow the king to be dishonored, we have sent to inform the king
 
-<sup>15</sup> that a search should be made of the record books of your fathers. In these books you will discover and verify that the city is a rebellious city, harmful to kings and provinces, inciting sedition from ancient times. That is why this city was destroyed.
+**¹⁵** that a search should be made of the record books of your fathers. In these books you will discover and verify that the city is a rebellious city, harmful to kings and provinces, inciting sedition from ancient times. That is why this city was destroyed.
 
-<sup>16</sup> We advise the king that if this city is rebuilt and its walls are restored, you will have no dominion west of the Euphrates.
+**¹⁶** We advise the king that if this city is rebuilt and its walls are restored, you will have no dominion west of the Euphrates.
 
 ## The Decree of Artaxerxes
 
-<sup>17</sup> Then the king sent this reply: To Rehum the commander, Shimshai the scribe, and the rest of your associates living in Samaria and elsewhere in the region west of the Euphrates: Greetings.
+**¹⁷** Then the king sent this reply: To Rehum the commander, Shimshai the scribe, and the rest of your associates living in Samaria and elsewhere in the region west of the Euphrates: Greetings.
 
-<sup>18</sup> The letter you sent us has been translated and read in my presence.
+**¹⁸** The letter you sent us has been translated and read in my presence.
 
-<sup>19</sup> I issued a decree, and a search was conducted. It was discovered that this city has revolted against kings from ancient times, engaging in rebellion and sedition.
+**¹⁹** I issued a decree, and a search was conducted. It was discovered that this city has revolted against kings from ancient times, engaging in rebellion and sedition.
 
-<sup>20</sup> And mighty kings have ruled over Jerusalem and exercised authority over the whole region west of the Euphrates; and tribute, duty, and toll were paid to them.
+**²⁰** And mighty kings have ruled over Jerusalem and exercised authority over the whole region west of the Euphrates; and tribute, duty, and toll were paid to them.
 
-<sup>21</sup> Now, therefore, issue an order for these men to stop, so that this city will not be rebuilt until I so order.
+**²¹** Now, therefore, issue an order for these men to stop, so that this city will not be rebuilt until I so order.
 
-<sup>22</sup> See that you do not neglect this matter. Why allow this threat to increase and the royal interests to suffer?
+**²²** See that you do not neglect this matter. Why allow this threat to increase and the royal interests to suffer?
 
-<sup>23</sup> When the text of the letter from King Artaxerxes was read to Rehum, Shimshai the scribe, and their associates, they went immediately to the Jews in Jerusalem and forcibly stopped them.
+**²³** When the text of the letter from King Artaxerxes was read to Rehum, Shimshai the scribe, and their associates, they went immediately to the Jews in Jerusalem and forcibly stopped them.
 
-<sup>24</sup> Thus the construction of the house of God in Jerusalem ceased, and it remained at a standstill until the second year of the reign of Darius king of Persia.
+**²⁴** Thus the construction of the house of God in Jerusalem ceased, and it remained at a standstill until the second year of the reign of Darius king of Persia.
 
 [^1899]: 4:6 Hebrew Ahasuerus
 [^1900]: 4:7 The original text of Ezra 4:8 through Ezra 6:18 is in Aramaic.

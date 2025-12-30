@@ -8,61 +8,61 @@ weight: 3
 
 **(Romans 5:12–21)**
 
-<sup>1</sup> Now the serpent [^13] was more crafty than any beast of the field that the LORD God had made. And he said to the woman, “Did God really say, ‘You must not eat from any tree in the garden?’”
+**¹** Now the serpent [^13] was more crafty than any beast of the field that the LORD God had made. And he said to the woman, “Did God really say, ‘You must not eat from any tree in the garden?’”
 
-<sup>2</sup> The woman answered the serpent, “We may eat the fruit of the trees of the garden,
+**²** The woman answered the serpent, “We may eat the fruit of the trees of the garden,
 
-<sup>3</sup> but about the fruit of the tree in the middle of the garden, God has said, ‘You must not eat of it or touch it, or you will die.’”
+**³** but about the fruit of the tree in the middle of the garden, God has said, ‘You must not eat of it or touch it, or you will die.’”
 
-<sup>4</sup> “You will not surely die,” the serpent told the woman.
+**⁴** “You will not surely die,” the serpent told the woman.
 
-<sup>5</sup> “For God knows that in the day you eat of it, your eyes will be opened and you will be like God, knowing good and evil.”
+**⁵** “For God knows that in the day you eat of it, your eyes will be opened and you will be like God, knowing good and evil.”
 
-<sup>6</sup> When the woman saw that the tree was good for food and pleasing to the eyes, and that it was desirable for obtaining wisdom, she took the fruit and ate it. She also gave some to her husband who was with her, and he ate it.
+**⁶** When the woman saw that the tree was good for food and pleasing to the eyes, and that it was desirable for obtaining wisdom, she took the fruit and ate it. She also gave some to her husband who was with her, and he ate it.
 
-<sup>7</sup> And the eyes of both of them were opened, and they knew that they were naked; so they sewed together fig leaves and made coverings for themselves.
+**⁷** And the eyes of both of them were opened, and they knew that they were naked; so they sewed together fig leaves and made coverings for themselves.
 
 ## God Arraigns Adam and Eve
 
-<sup>8</sup> Then the man and his wife heard the voice of the LORD God walking in the garden in the breeze [^14] of the day, and they hid themselves from the presence of the LORD God among the trees of the garden.
+**⁸** Then the man and his wife heard the voice of the LORD God walking in the garden in the breeze [^14] of the day, and they hid themselves from the presence of the LORD God among the trees of the garden.
 
-<sup>9</sup> But the LORD God called out to the man, “Where are you?”
+**⁹** But the LORD God called out to the man, “Where are you?”
 
-<sup>10</sup> “I heard Your voice in the garden,” he replied, “and I was afraid because I was naked; so I hid myself.”
+**¹⁰** “I heard Your voice in the garden,” he replied, “and I was afraid because I was naked; so I hid myself.”
 
-<sup>11</sup> “Who told you that you were naked?” asked the LORD God. “Have you eaten from the tree of which I commanded you not to eat?”
+**¹¹** “Who told you that you were naked?” asked the LORD God. “Have you eaten from the tree of which I commanded you not to eat?”
 
-<sup>12</sup> And the man answered, “The woman whom You gave me, she gave me fruit from the tree, and I ate it.”
+**¹²** And the man answered, “The woman whom You gave me, she gave me fruit from the tree, and I ate it.”
 
-<sup>13</sup> Then the LORD God said to the woman, “What is this you have done?” “The serpent deceived me,” she replied, “and I ate.”
+**¹³** Then the LORD God said to the woman, “What is this you have done?” “The serpent deceived me,” she replied, “and I ate.”
 
 ## The Fate of the Serpent
 
-<sup>14</sup> So the LORD God said to the serpent: “Because you have done this, cursed are you above all livestock and every beast of the field! On your belly will you go, and dust you will eat, all the days of your life.
+**¹⁴** So the LORD God said to the serpent: “Because you have done this, cursed are you above all livestock and every beast of the field! On your belly will you go, and dust you will eat, all the days of your life.
 
-<sup>15</sup> And I will put enmity between you and the woman, and between your seed and her seed. He will crush your head, and you will strike his heel.[^15]”
+**¹⁵** And I will put enmity between you and the woman, and between your seed and her seed. He will crush your head, and you will strike his heel.[^15]”
 
 ## The Punishment of Mankind
 
-<sup>16</sup> To the woman He said: “I will sharply increase your pain in childbirth; in pain you will bring forth children. Your desire will be for your husband,[^16] and he will rule over you.”
+**¹⁶** To the woman He said: “I will sharply increase your pain in childbirth; in pain you will bring forth children. Your desire will be for your husband,[^16] and he will rule over you.”
 
-<sup>17</sup> And to Adam He said: “Because you have listened to the voice of your wife and have eaten from the tree of which I commanded you not to eat, cursed is the ground because of you; through toil you will eat of it all the days of your life.
+**¹⁷** And to Adam He said: “Because you have listened to the voice of your wife and have eaten from the tree of which I commanded you not to eat, cursed is the ground because of you; through toil you will eat of it all the days of your life.
 
-<sup>18</sup> Both thorns and thistles it will yield for you, and you will eat the plants of the field.
+**¹⁸** Both thorns and thistles it will yield for you, and you will eat the plants of the field.
 
-<sup>19</sup> By the sweat of your brow you will eat your bread, until you return to the ground— because out of it were you taken. For dust you are, and to dust you shall return.”
+**¹⁹** By the sweat of your brow you will eat your bread, until you return to the ground— because out of it were you taken. For dust you are, and to dust you shall return.”
 
-<sup>20</sup> And Adam named his wife Eve,[^17] because she would be the mother of all the living.
+**²⁰** And Adam named his wife Eve,[^17] because she would be the mother of all the living.
 
 ## The Expulsion from Paradise
 
-<sup>21</sup> And the LORD God made garments of skin for Adam and his wife, and He clothed them.
+**²¹** And the LORD God made garments of skin for Adam and his wife, and He clothed them.
 
-<sup>22</sup> Then the LORD God said, “Behold, the man has become like one of Us, knowing good and evil. And now, lest he reach out his hand and take also from the tree of life, and eat, and live forever...”
+**²²** Then the LORD God said, “Behold, the man has become like one of Us, knowing good and evil. And now, lest he reach out his hand and take also from the tree of life, and eat, and live forever...”
 
-<sup>23</sup> Therefore the LORD God banished him from the Garden of Eden to work the ground from which he had been taken.
+**²³** Therefore the LORD God banished him from the Garden of Eden to work the ground from which he had been taken.
 
-<sup>24</sup> So He drove out the man and stationed cherubim on the east side of the Garden of Eden, along with a whirling sword of flame to guard the way to the tree of life.
+**²⁴** So He drove out the man and stationed cherubim on the east side of the Garden of Eden, along with a whirling sword of flame to guard the way to the tree of life.
 
 [^13]: 3:1 Hebrew nachash, translated in this chapter as serpent, is translated in most cases as snake.
 [^14]: 3:8 Or at the breezy (time); Hebrew unto the Ruach

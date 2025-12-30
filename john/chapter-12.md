@@ -8,115 +8,115 @@ weight: 12
 
 **(Matthew 26:6–13; Mark 14:3–9; Luke 7:36–50)**
 
-<sup>1</sup> Six days before the Passover, Jesus came to Bethany, the hometown of Lazarus, whom He had raised from the dead.
+**¹** Six days before the Passover, Jesus came to Bethany, the hometown of Lazarus, whom He had raised from the dead.
 
-<sup>2</sup> So they hosted a dinner for Jesus there. Martha served, and Lazarus was among those reclining at the table with Him.
+**²** So they hosted a dinner for Jesus there. Martha served, and Lazarus was among those reclining at the table with Him.
 
-<sup>3</sup> Then Mary took about a pint [^4077] of expensive perfume, made of pure nard, and she anointed Jesus’ feet and wiped them with her hair. And the house was filled with the fragrance of the perfume.
+**³** Then Mary took about a pint [^4077] of expensive perfume, made of pure nard, and she anointed Jesus’ feet and wiped them with her hair. And the house was filled with the fragrance of the perfume.
 
-<sup>4</sup> But one of His disciples, Judas Iscariot, who was going to betray Him, asked,
+**⁴** But one of His disciples, Judas Iscariot, who was going to betray Him, asked,
 
-<sup>5</sup> “Why wasn’t this perfume sold for three hundred denarii [^4078] and the money given to the poor?”
+**⁵** “Why wasn’t this perfume sold for three hundred denarii [^4078] and the money given to the poor?”
 
-<sup>6</sup> Judas did not say this because he cared about the poor, but because he was a thief. As keeper of the money bag, he used to take from what was put into it.
+**⁶** Judas did not say this because he cared about the poor, but because he was a thief. As keeper of the money bag, he used to take from what was put into it.
 
-<sup>7</sup> “Leave her alone,” Jesus replied. “She has kept this perfume in preparation for the day of My burial.
+**⁷** “Leave her alone,” Jesus replied. “She has kept this perfume in preparation for the day of My burial.
 
-<sup>8</sup> The poor you will always have with you,[^4079] but you will not always have Me.”
+**⁸** The poor you will always have with you,[^4079] but you will not always have Me.”
 
 ## The Plot to Kill Lazarus
 
-<sup>9</sup> Meanwhile a large crowd of Jews learned that Jesus was there. And they came not only because of Him, but also to see Lazarus, whom He had raised from the dead.
+**⁹** Meanwhile a large crowd of Jews learned that Jesus was there. And they came not only because of Him, but also to see Lazarus, whom He had raised from the dead.
 
-<sup>10</sup> So the chief priests made plans to kill Lazarus as well,
+**¹⁰** So the chief priests made plans to kill Lazarus as well,
 
-<sup>11</sup> for on account of him many of the Jews were deserting them and believing in Jesus.
+**¹¹** for on account of him many of the Jews were deserting them and believing in Jesus.
 
 ## The Triumphal Entry
 
 **(Zechariah 9:9–13; Matthew 21:1–11; Mark 11:1–11; Luke 19:28–40)**
 
-<sup>12</sup> The next day the great crowd that had come to the feast heard that Jesus was coming to Jerusalem.
+**¹²** The next day the great crowd that had come to the feast heard that Jesus was coming to Jerusalem.
 
-<sup>13</sup> They took palm branches and went out to meet Him, shouting: “Hosanna!”[^4080] “Blessed is He who comes in the name of the Lord!”[^4081] “Blessed is the King of Israel!”
+**¹³** They took palm branches and went out to meet Him, shouting: “Hosanna!”[^4080] “Blessed is He who comes in the name of the Lord!”[^4081] “Blessed is the King of Israel!”
 
-<sup>14</sup> Finding a young donkey, Jesus sat on it, as it is written:
+**¹⁴** Finding a young donkey, Jesus sat on it, as it is written:
 
-<sup>15</sup> “Do not be afraid, O Daughter of Zion. See, your King is coming, seated on the colt of a donkey.”[^4082]
+**¹⁵** “Do not be afraid, O Daughter of Zion. See, your King is coming, seated on the colt of a donkey.”[^4082]
 
-<sup>16</sup> At first His disciples did not understand these things, but after Jesus was glorified they remembered what had been done to Him, and they realized that these very things had also been written about Him.
+**¹⁶** At first His disciples did not understand these things, but after Jesus was glorified they remembered what had been done to Him, and they realized that these very things had also been written about Him.
 
-<sup>17</sup> Meanwhile, many people who had been with Jesus when He called Lazarus from the tomb and raised him from the dead continued to testify.
+**¹⁷** Meanwhile, many people who had been with Jesus when He called Lazarus from the tomb and raised him from the dead continued to testify.
 
-<sup>18</sup> That is also why the crowd went out to meet Him, because they heard that He had performed this sign.
+**¹⁸** That is also why the crowd went out to meet Him, because they heard that He had performed this sign.
 
-<sup>19</sup> Then the Pharisees said to one another, “You can see that this is doing you no good. Look how the whole world has gone after Him!”
+**¹⁹** Then the Pharisees said to one another, “You can see that this is doing you no good. Look how the whole world has gone after Him!”
 
 ## Jesus Predicts His Death
 
-<sup>20</sup> Now there were some Greeks among those who went up to worship at the feast.
+**²⁰** Now there were some Greeks among those who went up to worship at the feast.
 
-<sup>21</sup> They came to Philip, who was from Bethsaida in Galilee, and requested of him, “Sir, we want to see Jesus.”
+**²¹** They came to Philip, who was from Bethsaida in Galilee, and requested of him, “Sir, we want to see Jesus.”
 
-<sup>22</sup> Philip relayed this appeal to Andrew, and both of them went and told Jesus.
+**²²** Philip relayed this appeal to Andrew, and both of them went and told Jesus.
 
-<sup>23</sup> But Jesus replied, “The hour has come for the Son of Man to be glorified.
+**²³** But Jesus replied, “The hour has come for the Son of Man to be glorified.
 
-<sup>24</sup> Truly, truly, I tell you, unless a kernel of wheat falls to the ground and dies, it remains only a seed. But if it dies, it bears much fruit.
+**²⁴** Truly, truly, I tell you, unless a kernel of wheat falls to the ground and dies, it remains only a seed. But if it dies, it bears much fruit.
 
-<sup>25</sup> Whoever loves his life will lose it, but whoever hates his life in this world will keep it for eternal life.
+**²⁵** Whoever loves his life will lose it, but whoever hates his life in this world will keep it for eternal life.
 
-<sup>26</sup> If anyone serves Me, he must follow Me; and where I am, My servant will be as well. If anyone serves Me, the Father will honor him.
+**²⁶** If anyone serves Me, he must follow Me; and where I am, My servant will be as well. If anyone serves Me, the Father will honor him.
 
-<sup>27</sup> Now My soul is troubled, and what shall I say? ‘Father, save Me from this hour’? No, it is for this purpose that I have come to this hour.
+**²⁷** Now My soul is troubled, and what shall I say? ‘Father, save Me from this hour’? No, it is for this purpose that I have come to this hour.
 
-<sup>28</sup> Father, glorify Your name!” Then a voice came from heaven: “I have glorified it, and I will glorify it again.”
+**²⁸** Father, glorify Your name!” Then a voice came from heaven: “I have glorified it, and I will glorify it again.”
 
-<sup>29</sup> The crowd standing there heard it and said that it had thundered. Others said that an angel had spoken to Him.
+**²⁹** The crowd standing there heard it and said that it had thundered. Others said that an angel had spoken to Him.
 
-<sup>30</sup> In response, Jesus said, “This voice was not for My benefit, but yours.
+**³⁰** In response, Jesus said, “This voice was not for My benefit, but yours.
 
-<sup>31</sup> Now judgment is upon this world; now the prince of this world will be cast out.
+**³¹** Now judgment is upon this world; now the prince of this world will be cast out.
 
-<sup>32</sup> And I, when I am lifted up from the earth, will draw everyone to Myself.”
+**³²** And I, when I am lifted up from the earth, will draw everyone to Myself.”
 
-<sup>33</sup> He said this to indicate the kind of death He was going to die.
+**³³** He said this to indicate the kind of death He was going to die.
 
-<sup>34</sup> The crowd replied, “We have heard from the Law that the Christ will remain forever. So how can You say that the Son of Man must be lifted up? Who is this Son of Man?”
+**³⁴** The crowd replied, “We have heard from the Law that the Christ will remain forever. So how can You say that the Son of Man must be lifted up? Who is this Son of Man?”
 
-<sup>35</sup> Then Jesus told them, “For a little while longer, the Light will be among you. Walk while you have the Light, so that darkness will not overtake you. The one who walks in the darkness does not know where he is going.
+**³⁵** Then Jesus told them, “For a little while longer, the Light will be among you. Walk while you have the Light, so that darkness will not overtake you. The one who walks in the darkness does not know where he is going.
 
-<sup>36</sup> While you have the Light, believe in the Light, so that you may become sons of light.” After Jesus had spoken these things, He went away and was hidden from them.
+**³⁶** While you have the Light, believe in the Light, so that you may become sons of light.” After Jesus had spoken these things, He went away and was hidden from them.
 
 ## Belief and Unbelief
 
-<sup>37</sup> Although Jesus had performed so many signs in their presence, they still did not believe in Him.
+**³⁷** Although Jesus had performed so many signs in their presence, they still did not believe in Him.
 
-<sup>38</sup> This was to fulfill the word of Isaiah the prophet: “Lord, who has believed our message? And to whom has the arm of the Lord been revealed?”[^4083]
+**³⁸** This was to fulfill the word of Isaiah the prophet: “Lord, who has believed our message? And to whom has the arm of the Lord been revealed?”[^4083]
 
-<sup>39</sup> For this reason they were unable to believe. For again, Isaiah says:
+**³⁹** For this reason they were unable to believe. For again, Isaiah says:
 
-<sup>40</sup> “He has blinded their eyes and hardened their hearts, so that they cannot see with their eyes, and understand with their hearts, and turn, and I would heal them.”[^4084]
+**⁴⁰** “He has blinded their eyes and hardened their hearts, so that they cannot see with their eyes, and understand with their hearts, and turn, and I would heal them.”[^4084]
 
-<sup>41</sup> Isaiah said these things because he saw Jesus’ glory and spoke about Him.
+**⁴¹** Isaiah said these things because he saw Jesus’ glory and spoke about Him.
 
-<sup>42</sup> Nevertheless, many of the leaders believed in Him. But because of the Pharisees they did not confess Him, for fear that they would be put out of the synagogue.
+**⁴²** Nevertheless, many of the leaders believed in Him. But because of the Pharisees they did not confess Him, for fear that they would be put out of the synagogue.
 
-<sup>43</sup> For they loved praise from men more than praise from God.
+**⁴³** For they loved praise from men more than praise from God.
 
-<sup>44</sup> Then Jesus cried out, “Whoever believes in Me does not believe in Me alone, but in the One who sent Me.
+**⁴⁴** Then Jesus cried out, “Whoever believes in Me does not believe in Me alone, but in the One who sent Me.
 
-<sup>45</sup> And whoever sees Me sees the One who sent Me.
+**⁴⁵** And whoever sees Me sees the One who sent Me.
 
-<sup>46</sup> I have come into the world as a light, so that no one who believes in Me should remain in darkness.
+**⁴⁶** I have come into the world as a light, so that no one who believes in Me should remain in darkness.
 
-<sup>47</sup> As for anyone who hears My words and does not keep them, I do not judge him. For I have not come to judge the world, but to save the world.
+**⁴⁷** As for anyone who hears My words and does not keep them, I do not judge him. For I have not come to judge the world, but to save the world.
 
-<sup>48</sup> There is a judge for the one who rejects Me and does not receive My words: The word that I have spoken will judge him on the last day.
+**⁴⁸** There is a judge for the one who rejects Me and does not receive My words: The word that I have spoken will judge him on the last day.
 
-<sup>49</sup> I have not spoken on My own, but the Father who sent Me has commanded Me what to say and how to say it.
+**⁴⁹** I have not spoken on My own, but the Father who sent Me has commanded Me what to say and how to say it.
 
-<sup>50</sup> And I know that His command leads to eternal life. So I speak exactly what the Father has told Me to say.”
+**⁵⁰** And I know that His command leads to eternal life. So I speak exactly what the Father has told Me to say.”
 
 [^4077]: 12:3 Greek a litra; that is, approximately 12 ounces or 340 grams
 [^4078]: 12:5 A denarius was customarily a day’s wage for a laborer; see Matthew 20:2.

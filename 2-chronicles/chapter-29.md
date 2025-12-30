@@ -8,79 +8,79 @@ weight: 29
 
 **(2 Kings 18:1–12)**
 
-<sup>1</sup> Hezekiah was twenty-five years old when he became king, and he reigned in Jerusalem twenty-nine years. His mother’s name was Abijah,[^1836] the daughter of Zechariah.
+**¹** Hezekiah was twenty-five years old when he became king, and he reigned in Jerusalem twenty-nine years. His mother’s name was Abijah,[^1836] the daughter of Zechariah.
 
-<sup>2</sup> And he did what was right in the eyes of the LORD, just as his father David had done.
+**²** And he did what was right in the eyes of the LORD, just as his father David had done.
 
-<sup>3</sup> In the first month of the first year of his reign, Hezekiah opened and repaired the doors of the house of the LORD.
+**³** In the first month of the first year of his reign, Hezekiah opened and repaired the doors of the house of the LORD.
 
-<sup>4</sup> Then he brought in the priests and Levites and gathered them in the square on the east side.
+**⁴** Then he brought in the priests and Levites and gathered them in the square on the east side.
 
-<sup>5</sup> “Listen to me, O Levites,” he said. “Consecrate yourselves now and consecrate the house of the LORD, the God of your fathers. Remove from the Holy Place every impurity.
+**⁵** “Listen to me, O Levites,” he said. “Consecrate yourselves now and consecrate the house of the LORD, the God of your fathers. Remove from the Holy Place every impurity.
 
-<sup>6</sup> For our fathers were unfaithful and did evil in the sight of the LORD our God. They abandoned Him, turned their faces away from the dwelling place of the LORD, and turned their backs on Him.
+**⁶** For our fathers were unfaithful and did evil in the sight of the LORD our God. They abandoned Him, turned their faces away from the dwelling place of the LORD, and turned their backs on Him.
 
-<sup>7</sup> They also shut the doors of the portico and extinguished the lamps. They did not burn incense or present burnt offerings in the Holy Place of the God of Israel.
+**⁷** They also shut the doors of the portico and extinguished the lamps. They did not burn incense or present burnt offerings in the Holy Place of the God of Israel.
 
-<sup>8</sup> Therefore, the wrath of the LORD has fallen upon Judah and Jerusalem, and He has made them an object of terror, horror, and scorn, as you can see with your own eyes.
+**⁸** Therefore, the wrath of the LORD has fallen upon Judah and Jerusalem, and He has made them an object of terror, horror, and scorn, as you can see with your own eyes.
 
-<sup>9</sup> For behold, this is why our fathers have fallen by the sword, and our sons and daughters and wives are in captivity.
+**⁹** For behold, this is why our fathers have fallen by the sword, and our sons and daughters and wives are in captivity.
 
-<sup>10</sup> Now it is in my heart to make a covenant with the LORD, the God of Israel, so that His fierce anger will turn away from us.
+**¹⁰** Now it is in my heart to make a covenant with the LORD, the God of Israel, so that His fierce anger will turn away from us.
 
-<sup>11</sup> Now, my sons, do not be negligent, for the LORD has chosen you to stand before Him, to serve Him, to minister before Him, and to burn incense.”
+**¹¹** Now, my sons, do not be negligent, for the LORD has chosen you to stand before Him, to serve Him, to minister before Him, and to burn incense.”
 
-<sup>12</sup> Then the Levites set to work: Mahath son of Amasai and Joel son of Azariah from the Kohathites; Kish son of Abdi and Azariah son of Jehallelel from the Merarites; Joah son of Zimmah and Eden son of Joah from the Gershonites;
+**¹²** Then the Levites set to work: Mahath son of Amasai and Joel son of Azariah from the Kohathites; Kish son of Abdi and Azariah son of Jehallelel from the Merarites; Joah son of Zimmah and Eden son of Joah from the Gershonites;
 
-<sup>13</sup> Shimri and Jeuel from the Elizaphanites; Zechariah and Mattaniah from the Asaphites;
+**¹³** Shimri and Jeuel from the Elizaphanites; Zechariah and Mattaniah from the Asaphites;
 
-<sup>14</sup> Jehiel and Shimei from the Hemanites; and Shemaiah and Uzziel from the Jeduthunites.
+**¹⁴** Jehiel and Shimei from the Hemanites; and Shemaiah and Uzziel from the Jeduthunites.
 
-<sup>15</sup> When they had assembled their brothers and consecrated themselves, they went in to cleanse the house of the LORD, according to the command of the king by the words of the LORD.
+**¹⁵** When they had assembled their brothers and consecrated themselves, they went in to cleanse the house of the LORD, according to the command of the king by the words of the LORD.
 
-<sup>16</sup> So the priests went inside the house of the LORD to cleanse it, and they brought out to the courtyard all the unclean things that they found in the temple of the LORD. Then the Levites took these things and carried them out to the Kidron Valley.
+**¹⁶** So the priests went inside the house of the LORD to cleanse it, and they brought out to the courtyard all the unclean things that they found in the temple of the LORD. Then the Levites took these things and carried them out to the Kidron Valley.
 
-<sup>17</sup> They began the consecration on the first day of the first month, and on the eighth day of the month they reached the portico of the LORD. For eight more days they consecrated the house of the LORD itself, finishing on the sixteenth day of the first month.
+**¹⁷** They began the consecration on the first day of the first month, and on the eighth day of the month they reached the portico of the LORD. For eight more days they consecrated the house of the LORD itself, finishing on the sixteenth day of the first month.
 
-<sup>18</sup> Then they went in to King Hezekiah and reported, “We have cleansed the entire house of the LORD, the altar of burnt offering with all its utensils, and the table of the showbread with all its utensils.
+**¹⁸** Then they went in to King Hezekiah and reported, “We have cleansed the entire house of the LORD, the altar of burnt offering with all its utensils, and the table of the showbread with all its utensils.
 
-<sup>19</sup> Moreover, we have prepared and consecrated all the articles that King Ahaz in his unfaithfulness cast aside during his reign. They are now in front of the altar of the LORD.”
+**¹⁹** Moreover, we have prepared and consecrated all the articles that King Ahaz in his unfaithfulness cast aside during his reign. They are now in front of the altar of the LORD.”
 
 ## Hezekiah Restores Temple Worship
 
-<sup>20</sup> Early the next morning King Hezekiah gathered the city officials and went up to the house of the LORD.
+**²⁰** Early the next morning King Hezekiah gathered the city officials and went up to the house of the LORD.
 
-<sup>21</sup> They brought seven bulls, seven rams, seven lambs, and seven male goats as a sin offering for the kingdom, for the sanctuary, and for Judah. And the king commanded the priests, the descendants of Aaron, to offer them on the altar of the LORD.
+**²¹** They brought seven bulls, seven rams, seven lambs, and seven male goats as a sin offering for the kingdom, for the sanctuary, and for Judah. And the king commanded the priests, the descendants of Aaron, to offer them on the altar of the LORD.
 
-<sup>22</sup> So they slaughtered the bulls, and the priests took the blood and splattered it on the altar. They slaughtered the rams and splattered the blood on the altar. And they slaughtered the lambs and splattered the blood on the altar.
+**²²** So they slaughtered the bulls, and the priests took the blood and splattered it on the altar. They slaughtered the rams and splattered the blood on the altar. And they slaughtered the lambs and splattered the blood on the altar.
 
-<sup>23</sup> Then they brought the goats for the sin offering before the king and the assembly, who laid their hands on them.
+**²³** Then they brought the goats for the sin offering before the king and the assembly, who laid their hands on them.
 
-<sup>24</sup> And the priests slaughtered the goats and put their blood on the altar for a sin offering, to make atonement for all Israel, because the king had ordered the burnt offering and the sin offering for all Israel.
+**²⁴** And the priests slaughtered the goats and put their blood on the altar for a sin offering, to make atonement for all Israel, because the king had ordered the burnt offering and the sin offering for all Israel.
 
-<sup>25</sup> Hezekiah stationed the Levites in the house of the LORD with cymbals, harps, and lyres according to the command of David, of Gad the king’s seer, and of Nathan the prophet. For the command had come from the LORD through His prophets.
+**²⁵** Hezekiah stationed the Levites in the house of the LORD with cymbals, harps, and lyres according to the command of David, of Gad the king’s seer, and of Nathan the prophet. For the command had come from the LORD through His prophets.
 
-<sup>26</sup> The Levites stood with the instruments of David, and the priests with the trumpets.
+**²⁶** The Levites stood with the instruments of David, and the priests with the trumpets.
 
-<sup>27</sup> And Hezekiah ordered that the burnt offering be sacrificed on the altar. When the burnt offering began, the song of the LORD and the trumpets began as well, accompanied by the instruments of David king of Israel.
+**²⁷** And Hezekiah ordered that the burnt offering be sacrificed on the altar. When the burnt offering began, the song of the LORD and the trumpets began as well, accompanied by the instruments of David king of Israel.
 
-<sup>28</sup> The whole assembly was worshiping, the singers were singing, and the trumpeters were playing. All this continued until the burnt offering was completed.
+**²⁸** The whole assembly was worshiping, the singers were singing, and the trumpeters were playing. All this continued until the burnt offering was completed.
 
-<sup>29</sup> When the offerings were completed, the king and all those present with him bowed down and worshiped.
+**²⁹** When the offerings were completed, the king and all those present with him bowed down and worshiped.
 
-<sup>30</sup> Then King Hezekiah and his officials ordered the Levites to sing praises to the LORD in the words of David and of Asaph the seer. So they sang praises with gladness and bowed down and worshiped.
+**³⁰** Then King Hezekiah and his officials ordered the Levites to sing praises to the LORD in the words of David and of Asaph the seer. So they sang praises with gladness and bowed down and worshiped.
 
-<sup>31</sup> Then Hezekiah said, “Now that you have consecrated yourselves to the LORD,[^1837] come near and bring sacrifices and thank offerings to the house of the LORD.” So the assembly brought sacrifices and thank offerings, and all whose hearts were willing brought burnt offerings.
+**³¹** Then Hezekiah said, “Now that you have consecrated yourselves to the LORD,[^1837] come near and bring sacrifices and thank offerings to the house of the LORD.” So the assembly brought sacrifices and thank offerings, and all whose hearts were willing brought burnt offerings.
 
-<sup>32</sup> The number of burnt offerings the assembly brought was seventy bulls, a hundred rams, and two hundred lambs; all these were for a burnt offering to the LORD.
+**³²** The number of burnt offerings the assembly brought was seventy bulls, a hundred rams, and two hundred lambs; all these were for a burnt offering to the LORD.
 
-<sup>33</sup> And the consecrated offerings were six hundred bulls and three thousand sheep.
+**³³** And the consecrated offerings were six hundred bulls and three thousand sheep.
 
-<sup>34</sup> However, since there were not enough priests to skin all the burnt offerings, their Levite brothers helped them until the work was finished and until the priests had consecrated themselves. For the Levites had been more diligent in consecrating themselves than the priests had been.
+**³⁴** However, since there were not enough priests to skin all the burnt offerings, their Levite brothers helped them until the work was finished and until the priests had consecrated themselves. For the Levites had been more diligent in consecrating themselves than the priests had been.
 
-<sup>35</sup> Furthermore, the burnt offerings were abundant, along with the fat of the peace offerings and the drink offerings for the burnt offerings. So the service of the house of the LORD was established.
+**³⁵** Furthermore, the burnt offerings were abundant, along with the fat of the peace offerings and the drink offerings for the burnt offerings. So the service of the house of the LORD was established.
 
-<sup>36</sup> Then Hezekiah and all the people rejoiced at what God had prepared for the people, because everything had been accomplished so quickly.
+**³⁶** Then Hezekiah and all the people rejoiced at what God had prepared for the people, because everything had been accomplished so quickly.
 
 [^1836]: 29:1 Abijah is a variant of Abi; see 2 Kings 18:2.
 [^1837]: 29:31 Or filled your hand for the LORD

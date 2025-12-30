@@ -8,129 +8,129 @@ weight: 1
 
 **(Genesis 5:1–32; Genesis 10:1–32; Genesis 11:10–26)**
 
-<sup>1</sup> Adam, Seth, Enosh,
+**¹** Adam, Seth, Enosh,
 
-<sup>2</sup> Kenan, Mahalalel, Jared,
+**²** Kenan, Mahalalel, Jared,
 
-<sup>3</sup> Enoch, Methuselah, Lamech, Noah.
+**³** Enoch, Methuselah, Lamech, Noah.
 
-<sup>4</sup> The sons of Noah:[^1463] Shem, Ham, and Japheth.
+**⁴** The sons of Noah:[^1463] Shem, Ham, and Japheth.
 
-<sup>5</sup> The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.
+**⁵** The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.
 
-<sup>6</sup> The sons of Gomer: Ashkenaz, Riphath,[^1464] and Togarmah.
+**⁶** The sons of Gomer: Ashkenaz, Riphath,[^1464] and Togarmah.
 
-<sup>7</sup> And the sons of Javan: Elishah, Tarshish, the Kittites, and the Rodanites.
+**⁷** And the sons of Javan: Elishah, Tarshish, the Kittites, and the Rodanites.
 
-<sup>8</sup> The sons of Ham: Cush, Mizraim, Put, and Canaan.
+**⁸** The sons of Ham: Cush, Mizraim, Put, and Canaan.
 
-<sup>9</sup> The sons of Cush: Seba, Havilah, Sabta,[^1465] Raamah, and Sabteca. The sons of Raamah: Sheba and Dedan.
+**⁹** The sons of Cush: Seba, Havilah, Sabta,[^1465] Raamah, and Sabteca. The sons of Raamah: Sheba and Dedan.
 
-<sup>10</sup> Cush was the father of Nimrod, who began to be a mighty one [^1466] on the earth.
+**¹⁰** Cush was the father of Nimrod, who began to be a mighty one [^1466] on the earth.
 
-<sup>11</sup> Mizraim was the father of the Ludites, the Anamites, the Lehabites, the Naphtuhites,
+**¹¹** Mizraim was the father of the Ludites, the Anamites, the Lehabites, the Naphtuhites,
 
-<sup>12</sup> the Pathrusites, the Casluhites (from whom the Philistines came), and the Caphtorites.[^1467]
+**¹²** the Pathrusites, the Casluhites (from whom the Philistines came), and the Caphtorites.[^1467]
 
-<sup>13</sup> And Canaan was the father of Sidon his firstborn,[^1468] and of the Hittites,[^1469]
+**¹³** And Canaan was the father of Sidon his firstborn,[^1468] and of the Hittites,[^1469]
 
-<sup>14</sup> the Jebusites, the Amorites, the Girgashites,
+**¹⁴** the Jebusites, the Amorites, the Girgashites,
 
-<sup>15</sup> the Hivites, the Arkites, the Sinites,
+**¹⁵** the Hivites, the Arkites, the Sinites,
 
-<sup>16</sup> the Arvadites, the Zemarites, and the Hamathites.
+**¹⁶** the Arvadites, the Zemarites, and the Hamathites.
 
-<sup>17</sup> The sons of Shem: Elam, Asshur, Arphaxad, Lud, and Aram. The sons of Aram: [^1470] Uz, Hul, Gether, and Meshech.[^1471]
+**¹⁷** The sons of Shem: Elam, Asshur, Arphaxad, Lud, and Aram. The sons of Aram: [^1470] Uz, Hul, Gether, and Meshech.[^1471]
 
-<sup>18</sup> Arphaxad was the father of Shelah, and Shelah was the father of Eber.
+**¹⁸** Arphaxad was the father of Shelah, and Shelah was the father of Eber.
 
-<sup>19</sup> Two sons were born to Eber: One was named Peleg,[^1472] because in his days the earth was divided, and his brother was named Joktan.
+**¹⁹** Two sons were born to Eber: One was named Peleg,[^1472] because in his days the earth was divided, and his brother was named Joktan.
 
-<sup>20</sup> And Joktan was the father of Almodad, Sheleph, Hazarmaveth, Jerah,
+**²⁰** And Joktan was the father of Almodad, Sheleph, Hazarmaveth, Jerah,
 
-<sup>21</sup> Hadoram, Uzal, Diklah,
+**²¹** Hadoram, Uzal, Diklah,
 
-<sup>22</sup> Obal,[^1473] Abimael, Sheba,
+**²²** Obal,[^1473] Abimael, Sheba,
 
-<sup>23</sup> Ophir, Havilah, and Jobab. All these were sons of Joktan.
+**²³** Ophir, Havilah, and Jobab. All these were sons of Joktan.
 
-<sup>24</sup> So from Shem came Arphaxad, Shelah,[^1474]
+**²⁴** So from Shem came Arphaxad, Shelah,[^1474]
 
-<sup>25</sup> Eber, Peleg, Reu,
+**²⁵** Eber, Peleg, Reu,
 
-<sup>26</sup> Serug, Nahor, Terah,
+**²⁶** Serug, Nahor, Terah,
 
-<sup>27</sup> and Abram (that is, Abraham).
+**²⁷** and Abram (that is, Abraham).
 
 ## The Descendants of Abraham
 
 **(Genesis 25:12–18)**
 
-<sup>28</sup> The sons of Abraham were Isaac and Ishmael.
+**²⁸** The sons of Abraham were Isaac and Ishmael.
 
-<sup>29</sup> These are their genealogies: Nebaioth the firstborn of Ishmael, then Kedar, Adbeel, Mibsam,
+**²⁹** These are their genealogies: Nebaioth the firstborn of Ishmael, then Kedar, Adbeel, Mibsam,
 
-<sup>30</sup> Mishma, Dumah, Massa, Hadad, Tema,
+**³⁰** Mishma, Dumah, Massa, Hadad, Tema,
 
-<sup>31</sup> Jetur, Naphish, and Kedemah. These were the sons of Ishmael.
+**³¹** Jetur, Naphish, and Kedemah. These were the sons of Ishmael.
 
-<sup>32</sup> The sons born to Keturah, Abraham’s concubine: Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah. The sons of Jokshan: Sheba and Dedan.
+**³²** The sons born to Keturah, Abraham’s concubine: Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah. The sons of Jokshan: Sheba and Dedan.
 
-<sup>33</sup> The sons of Midian: Ephah, Epher, Hanoch, Abida, and Eldaah. All of these were Keturah’s sons.
+**³³** The sons of Midian: Ephah, Epher, Hanoch, Abida, and Eldaah. All of these were Keturah’s sons.
 
-<sup>34</sup> Abraham was the father of Isaac. The sons of Isaac: Esau and Israel.
+**³⁴** Abraham was the father of Isaac. The sons of Isaac: Esau and Israel.
 
 ## The Descendants of Esau
 
 **(Genesis 36:1–19)**
 
-<sup>35</sup> The sons of Esau: Eliphaz, Reuel, Jeush, Jalam, and Korah.
+**³⁵** The sons of Esau: Eliphaz, Reuel, Jeush, Jalam, and Korah.
 
-<sup>36</sup> The sons of Eliphaz: Teman, Omar, Zepho,[^1475] Gatam, and Kenaz; and by Timna, Amalek.
+**³⁶** The sons of Eliphaz: Teman, Omar, Zepho,[^1475] Gatam, and Kenaz; and by Timna, Amalek.
 
-<sup>37</sup> The sons of Reuel: Nahath, Zerah, Shammah, and Mizzah.
+**³⁷** The sons of Reuel: Nahath, Zerah, Shammah, and Mizzah.
 
 ## The Descendants of Seir
 
 **(Genesis 36:20–30)**
 
-<sup>38</sup> The sons of Seir: Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, and Dishan.
+**³⁸** The sons of Seir: Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, and Dishan.
 
-<sup>39</sup> The sons of Lotan: Hori and Homam.[^1476] Timna was Lotan’s sister.
+**³⁹** The sons of Lotan: Hori and Homam.[^1476] Timna was Lotan’s sister.
 
-<sup>40</sup> The sons of Shobal: Alvan,[^1477] Manahath, Ebal, Shepho,[^1478] and Onam. The sons of Zibeon: Aiah and Anah.
+**⁴⁰** The sons of Shobal: Alvan,[^1477] Manahath, Ebal, Shepho,[^1478] and Onam. The sons of Zibeon: Aiah and Anah.
 
-<sup>41</sup> The son [^1479] of Anah: Dishon. The sons of Dishon: Hemdan,[^1480] Eshban, Ithran, and Cheran.
+**⁴¹** The son [^1479] of Anah: Dishon. The sons of Dishon: Hemdan,[^1480] Eshban, Ithran, and Cheran.
 
-<sup>42</sup> The sons of Ezer: Bilhan, Zaavan, and Akan.[^1481] The sons of Dishan: Uz and Aran.
+**⁴²** The sons of Ezer: Bilhan, Zaavan, and Akan.[^1481] The sons of Dishan: Uz and Aran.
 
 ## The Kings of Edom
 
 **(Genesis 36:31–43)**
 
-<sup>43</sup> These are the kings who reigned in the land of Edom before any king reigned over the Israelites:[^1482] Bela son of Beor. His city was named Dinhabah.
+**⁴³** These are the kings who reigned in the land of Edom before any king reigned over the Israelites:[^1482] Bela son of Beor. His city was named Dinhabah.
 
-<sup>44</sup> When Bela died, Jobab son of Zerah from Bozrah reigned in his place.
+**⁴⁴** When Bela died, Jobab son of Zerah from Bozrah reigned in his place.
 
-<sup>45</sup> When Jobab died, Husham from the land of the Temanites reigned in his place.
+**⁴⁵** When Jobab died, Husham from the land of the Temanites reigned in his place.
 
-<sup>46</sup> When Husham died, Hadad son of Bedad, who defeated Midian in the country of Moab, reigned in his place. And the name of his city was Avith.
+**⁴⁶** When Husham died, Hadad son of Bedad, who defeated Midian in the country of Moab, reigned in his place. And the name of his city was Avith.
 
-<sup>47</sup> When Hadad died, Samlah from Masrekah reigned in his place.
+**⁴⁷** When Hadad died, Samlah from Masrekah reigned in his place.
 
-<sup>48</sup> When Samlah died, Shaul from Rehoboth on the Euphrates [^1483] reigned in his place.
+**⁴⁸** When Samlah died, Shaul from Rehoboth on the Euphrates [^1483] reigned in his place.
 
-<sup>49</sup> When Shaul died, Baal-hanan son of Achbor reigned in his place.
+**⁴⁹** When Shaul died, Baal-hanan son of Achbor reigned in his place.
 
-<sup>50</sup> When Baal-hanan died, Hadad reigned in his place. His city was named Pau,[^1484] and his wife’s name was Mehetabel daughter of Matred, the daughter of Me-zahab.
+**⁵⁰** When Baal-hanan died, Hadad reigned in his place. His city was named Pau,[^1484] and his wife’s name was Mehetabel daughter of Matred, the daughter of Me-zahab.
 
-<sup>51</sup> Then Hadad died. Now the chiefs of Edom were Timna, Alvah, Jetheth,
+**⁵¹** Then Hadad died. Now the chiefs of Edom were Timna, Alvah, Jetheth,
 
-<sup>52</sup> Oholibamah, Elah, Pinon,
+**⁵²** Oholibamah, Elah, Pinon,
 
-<sup>53</sup> Kenaz, Teman, Mibzar,
+**⁵³** Kenaz, Teman, Mibzar,
 
-<sup>54</sup> Magdiel, and Iram. These were the chiefs of Edom.
+**⁵⁴** Magdiel, and Iram. These were the chiefs of Edom.
 
 [^1463]: 1:4 LXX; Hebrew does not include The sons of Noah:; see Genesis 5:32.
 [^1464]: 1:6 Many Hebrew manuscripts and Vulgate (see also LXX and Genesis 10:3); most Hebrew manuscripts Diphath

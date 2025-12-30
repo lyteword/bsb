@@ -15,20 +15,20 @@ This repository contains a complete **Berean Standard Bible (BSB)** translation 
 ```
 # Psalm 23
 
-<sup>1</sup> The LORD is my shepherd; I shall not want.
+**¹** The LORD is my shepherd; I shall not want.
 
-<sup>2</sup> He makes me lie down in green pastures; He leads me beside quiet waters.
+**²** He makes me lie down in green pastures; He leads me beside quiet waters.
 ```
 
 `john/chapter-1.md`
 ```
 # Chapter 1
 
-<sup>1</sup> In the beginning was the Word, and the Word was with God, and the Word was God.
+**¹** In the beginning was the Word, and the Word was with God, and the Word was God.
 
-<sup>2</sup> He was with God in the beginning.
+**²** He was with God in the beginning.
 
-<sup>3</sup> Through Him all things were made, and without Him nothing was made that has been made.
+**³** Through Him all things were made, and without Him nothing was made that has been made.
 ```
 
 ## Usage

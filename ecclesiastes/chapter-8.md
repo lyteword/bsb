@@ -6,44 +6,44 @@ weight: 8
 
 ## Obey the King
 
-<sup>1</sup> Who is like the wise man? Who knows the interpretation of a matter? A man’s wisdom brightens his face, and the sternness of his face is changed.
+**¹** Who is like the wise man? Who knows the interpretation of a matter? A man’s wisdom brightens his face, and the sternness of his face is changed.
 
-<sup>2</sup> Keep the king’s command, I say, because of your oath before God.
+**²** Keep the king’s command, I say, because of your oath before God.
 
-<sup>3</sup> Do not hasten to leave his presence, and do not persist in a bad cause, for he will do whatever he pleases.
+**³** Do not hasten to leave his presence, and do not persist in a bad cause, for he will do whatever he pleases.
 
-<sup>4</sup> For the king’s word is supreme, and who can say to him, “What are you doing?”
+**⁴** For the king’s word is supreme, and who can say to him, “What are you doing?”
 
-<sup>5</sup> Whoever keeps his command will come to no harm, and a wise heart knows the right time and procedure.
+**⁵** Whoever keeps his command will come to no harm, and a wise heart knows the right time and procedure.
 
-<sup>6</sup> For there is a right time and procedure to every purpose, though a man’s misery weighs heavily upon him.
+**⁶** For there is a right time and procedure to every purpose, though a man’s misery weighs heavily upon him.
 
-<sup>7</sup> Since no one knows what will happen, who can tell him what is to come?
+**⁷** Since no one knows what will happen, who can tell him what is to come?
 
-<sup>8</sup> As no man has power over the wind to contain it, so no one has authority over his day of death. As no one can be discharged in wartime, so wickedness will not release those who practice it.
+**⁸** As no man has power over the wind to contain it, so no one has authority over his day of death. As no one can be discharged in wartime, so wickedness will not release those who practice it.
 
-<sup>9</sup> All this I have seen, applying my mind to every deed that is done under the sun; there is a time when one man lords it over another to his own detriment.
+**⁹** All this I have seen, applying my mind to every deed that is done under the sun; there is a time when one man lords it over another to his own detriment.
 
 ## Fear God
 
 **(Isaiah 8:11–15)**
 
-<sup>10</sup> Then too, I saw the burial of the wicked who used to go in and out of the holy place, and they were praised [^2533] in the city where they had done so. This too is futile.
+**¹⁰** Then too, I saw the burial of the wicked who used to go in and out of the holy place, and they were praised [^2533] in the city where they had done so. This too is futile.
 
-<sup>11</sup> When the sentence for a crime is not speedily executed, the hearts of men become fully set on doing evil.
+**¹¹** When the sentence for a crime is not speedily executed, the hearts of men become fully set on doing evil.
 
-<sup>12</sup> Although a sinner does evil a hundred times and still lives long, yet I also know that it will go well with those who fear God, who are reverent in His presence.
+**¹²** Although a sinner does evil a hundred times and still lives long, yet I also know that it will go well with those who fear God, who are reverent in His presence.
 
-<sup>13</sup> Yet because the wicked do not fear God, it will not go well with them, and their days will not lengthen like a shadow.
+**¹³** Yet because the wicked do not fear God, it will not go well with them, and their days will not lengthen like a shadow.
 
 ## God’s Ways Are Mysterious
 
-<sup>14</sup> There is a futility that is done on the earth: There are righteous men who get what the actions of the wicked deserve, and there are wicked men who get what the actions of the righteous deserve. I say that this too is futile.
+**¹⁴** There is a futility that is done on the earth: There are righteous men who get what the actions of the wicked deserve, and there are wicked men who get what the actions of the righteous deserve. I say that this too is futile.
 
-<sup>15</sup> So I commended the enjoyment of life, because there is nothing better for a man under the sun than to eat and drink and be merry. For this joy will accompany him in his labor during the days of his life that God gives him under the sun.
+**¹⁵** So I commended the enjoyment of life, because there is nothing better for a man under the sun than to eat and drink and be merry. For this joy will accompany him in his labor during the days of his life that God gives him under the sun.
 
-<sup>16</sup> When I applied my mind to know wisdom and to observe the task that one performs on the earth—though his eyes do not see sleep in the day or even in the night—
+**¹⁶** When I applied my mind to know wisdom and to observe the task that one performs on the earth—though his eyes do not see sleep in the day or even in the night—
 
-<sup>17</sup> I saw every work of God, and that a man is unable to comprehend the work that is done under the sun. Despite his efforts to search it out, he cannot find its meaning; even if the wise man claims to know, he is unable to comprehend.
+**¹⁷** I saw every work of God, and that a man is unable to comprehend the work that is done under the sun. Despite his efforts to search it out, he cannot find its meaning; even if the wise man claims to know, he is unable to comprehend.
 
 [^2533]: 8:10 Some Hebrew manuscripts, LXX, and Vulgate; most Hebrew manuscripts were soon forgotten

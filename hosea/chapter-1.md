@@ -6,27 +6,27 @@ weight: 1
 
 ## Hosea’s Wife and Children
 
-<sup>1</sup> This is the word of the LORD that came to Hosea son of Beeri in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and of Jeroboam son of Jehoash,[^3267] king of Israel.
+**¹** This is the word of the LORD that came to Hosea son of Beeri in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and of Jeroboam son of Jehoash,[^3267] king of Israel.
 
-<sup>2</sup> When the LORD first spoke through Hosea, He told him, “Go, take a prostitute as your wife and have children of adultery, because this land is flagrantly prostituting itself by departing from the LORD.”
+**²** When the LORD first spoke through Hosea, He told him, “Go, take a prostitute as your wife and have children of adultery, because this land is flagrantly prostituting itself by departing from the LORD.”
 
-<sup>3</sup> So Hosea went and married Gomer daughter of Diblaim, and she conceived and bore him a son.
+**³** So Hosea went and married Gomer daughter of Diblaim, and she conceived and bore him a son.
 
-<sup>4</sup> Then the LORD said to Hosea, “Name him Jezreel,[^3268] for soon I will bring the bloodshed of Jezreel upon the house of Jehu, and I will put an end to the kingdom of Israel.
+**⁴** Then the LORD said to Hosea, “Name him Jezreel,[^3268] for soon I will bring the bloodshed of Jezreel upon the house of Jehu, and I will put an end to the kingdom of Israel.
 
-<sup>5</sup> And on that day I will break the bow of Israel in the Valley of Jezreel.”
+**⁵** And on that day I will break the bow of Israel in the Valley of Jezreel.”
 
-<sup>6</sup> Gomer again conceived and gave birth to a daughter, and the LORD said to Hosea, “Name her Lo-ruhamah,[^3269] for I will no longer have compassion on the house of Israel, that I should ever forgive them.
+**⁶** Gomer again conceived and gave birth to a daughter, and the LORD said to Hosea, “Name her Lo-ruhamah,[^3269] for I will no longer have compassion on the house of Israel, that I should ever forgive them.
 
-<sup>7</sup> Yet I will have compassion on the house of Judah, and I will save them—not by bow or sword or war, not by horses and cavalry, but by the LORD their God.”
+**⁷** Yet I will have compassion on the house of Judah, and I will save them—not by bow or sword or war, not by horses and cavalry, but by the LORD their God.”
 
-<sup>8</sup> After she had weaned Lo-ruhamah, Gomer conceived and gave birth to a son.
+**⁸** After she had weaned Lo-ruhamah, Gomer conceived and gave birth to a son.
 
-<sup>9</sup> And the LORD said, “Name him Lo-ammi,[^3270] for you are not My people, and I am not your God.[^3271]
+**⁹** And the LORD said, “Name him Lo-ammi,[^3270] for you are not My people, and I am not your God.[^3271]
 
-<sup>10</sup> Yet the number of the Israelites will be like the sand of the sea, which cannot be measured or counted. And it will happen that in the very place where it was said to them, ‘You are not My people,’ they will be called ‘sons of the living God.’[^3272]
+**¹⁰** Yet the number of the Israelites will be like the sand of the sea, which cannot be measured or counted. And it will happen that in the very place where it was said to them, ‘You are not My people,’ they will be called ‘sons of the living God.’[^3272]
 
-<sup>11</sup> Then the people of Judah and of Israel will be gathered together, and they will appoint for themselves one leader, and will go up out of the land. For great will be the day of Jezreel.
+**¹¹** Then the people of Judah and of Israel will be gathered together, and they will appoint for themselves one leader, and will go up out of the land. For great will be the day of Jezreel.
 
 [^3267]: 1:1 Hebrew Joash, a variant of Jehoash
 [^3268]: 1:4 Jezreel means God sows; also in verse 11.

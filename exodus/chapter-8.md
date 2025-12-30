@@ -6,73 +6,73 @@ weight: 8
 
 ## The Second Plague: Frogs
 
-<sup>1</sup> Then the LORD said to Moses, “Go to Pharaoh and tell him that this is what the LORD says: ‘Let My people go, so that they may worship Me.
+**¹** Then the LORD said to Moses, “Go to Pharaoh and tell him that this is what the LORD says: ‘Let My people go, so that they may worship Me.
 
-<sup>2</sup> But if you refuse to let them go, I will plague your whole country with frogs.
+**²** But if you refuse to let them go, I will plague your whole country with frogs.
 
-<sup>3</sup> The Nile will teem with frogs, and they will come into your palace and up to your bedroom and onto your bed, into the houses of your officials and your people, and into your ovens and kneading bowls.
+**³** The Nile will teem with frogs, and they will come into your palace and up to your bedroom and onto your bed, into the houses of your officials and your people, and into your ovens and kneading bowls.
 
-<sup>4</sup> The frogs will come up on you and your people and all your officials.’”
+**⁴** The frogs will come up on you and your people and all your officials.’”
 
-<sup>5</sup> And the LORD said to Moses, “Tell Aaron, ‘Stretch out your hand with your staff over the rivers and canals and ponds, and cause the frogs to come up onto the land of Egypt.’”
+**⁵** And the LORD said to Moses, “Tell Aaron, ‘Stretch out your hand with your staff over the rivers and canals and ponds, and cause the frogs to come up onto the land of Egypt.’”
 
-<sup>6</sup> So Aaron stretched out his hand over the waters of Egypt, and the frogs came up and covered the land of Egypt.
+**⁶** So Aaron stretched out his hand over the waters of Egypt, and the frogs came up and covered the land of Egypt.
 
-<sup>7</sup> But the magicians did the same thing by their magic arts, and they also brought frogs up onto the land of Egypt.
+**⁷** But the magicians did the same thing by their magic arts, and they also brought frogs up onto the land of Egypt.
 
-<sup>8</sup> Pharaoh summoned Moses and Aaron and said, “Pray to the LORD to take the frogs away from me and my people. Then I will let your people go, that they may sacrifice to the LORD.”
+**⁸** Pharaoh summoned Moses and Aaron and said, “Pray to the LORD to take the frogs away from me and my people. Then I will let your people go, that they may sacrifice to the LORD.”
 
-<sup>9</sup> Moses said to Pharaoh, “You may have the honor over me. When shall I pray for you and your officials and your people that the frogs (except for those in the Nile) may be taken away from you and your houses?”
+**⁹** Moses said to Pharaoh, “You may have the honor over me. When shall I pray for you and your officials and your people that the frogs (except for those in the Nile) may be taken away from you and your houses?”
 
-<sup>10</sup> “Tomorrow,” Pharaoh answered. “May it be as you say,” Moses replied, “so that you may know that there is no one like the LORD our God.
+**¹⁰** “Tomorrow,” Pharaoh answered. “May it be as you say,” Moses replied, “so that you may know that there is no one like the LORD our God.
 
-<sup>11</sup> The frogs will depart from you and your houses and your officials and your people; they will remain only in the Nile.”
+**¹¹** The frogs will depart from you and your houses and your officials and your people; they will remain only in the Nile.”
 
-<sup>12</sup> After Moses and Aaron had left Pharaoh, Moses cried out to the LORD for help with the frogs that He had brought against Pharaoh.
+**¹²** After Moses and Aaron had left Pharaoh, Moses cried out to the LORD for help with the frogs that He had brought against Pharaoh.
 
-<sup>13</sup> And the LORD did as Moses requested, and the frogs in the houses, the courtyards, and the fields died.
+**¹³** And the LORD did as Moses requested, and the frogs in the houses, the courtyards, and the fields died.
 
-<sup>14</sup> They were piled into countless heaps, and there was a terrible stench in the land.
+**¹⁴** They were piled into countless heaps, and there was a terrible stench in the land.
 
-<sup>15</sup> When Pharaoh saw that there was relief, however, he hardened [^265] his heart and would not listen to Moses and Aaron, just as the LORD had said.
+**¹⁵** When Pharaoh saw that there was relief, however, he hardened [^265] his heart and would not listen to Moses and Aaron, just as the LORD had said.
 
 ## The Third Plague: Gnats
 
-<sup>16</sup> Then the LORD said to Moses, “Tell Aaron, ‘Stretch out your staff and strike the dust of the earth, that it may turn into swarms of gnats throughout the land of Egypt.’”
+**¹⁶** Then the LORD said to Moses, “Tell Aaron, ‘Stretch out your staff and strike the dust of the earth, that it may turn into swarms of gnats throughout the land of Egypt.’”
 
-<sup>17</sup> This they did, and when Aaron stretched out his hand with his staff and struck the dust of the earth, gnats came upon man and beast. All the dust of the earth turned into gnats throughout the land of Egypt.
+**¹⁷** This they did, and when Aaron stretched out his hand with his staff and struck the dust of the earth, gnats came upon man and beast. All the dust of the earth turned into gnats throughout the land of Egypt.
 
-<sup>18</sup> The magicians tried to produce gnats using their magic arts, but they could not. And the gnats remained on man and beast.
+**¹⁸** The magicians tried to produce gnats using their magic arts, but they could not. And the gnats remained on man and beast.
 
-<sup>19</sup> “This is the finger of God,” the magicians said to Pharaoh. But Pharaoh’s heart was hardened,[^266] and he would not listen to them, just as the LORD had said.
+**¹⁹** “This is the finger of God,” the magicians said to Pharaoh. But Pharaoh’s heart was hardened,[^266] and he would not listen to them, just as the LORD had said.
 
 ## The Fourth Plague: Flies
 
-<sup>20</sup> Then the LORD said to Moses, “Get up early in the morning, and when Pharaoh goes out to the water, stand before him and tell him that this is what the LORD says: ‘Let My people go, so that they may worship Me.
+**²⁰** Then the LORD said to Moses, “Get up early in the morning, and when Pharaoh goes out to the water, stand before him and tell him that this is what the LORD says: ‘Let My people go, so that they may worship Me.
 
-<sup>21</sup> But if you will not let My people go, I will send swarms of flies [^267] upon you and your officials and your people and your houses. The houses of the Egyptians and even the ground where they stand will be full of flies.
+**²¹** But if you will not let My people go, I will send swarms of flies [^267] upon you and your officials and your people and your houses. The houses of the Egyptians and even the ground where they stand will be full of flies.
 
-<sup>22</sup> But on that day I will give special treatment to the land of Goshen, where My people live; no swarms of flies will be found there. In this way you will know that I, the LORD, am in the land.
+**²²** But on that day I will give special treatment to the land of Goshen, where My people live; no swarms of flies will be found there. In this way you will know that I, the LORD, am in the land.
 
-<sup>23</sup> I will make a distinction [^268] between My people and your people. This sign will take place tomorrow.’”
+**²³** I will make a distinction [^268] between My people and your people. This sign will take place tomorrow.’”
 
-<sup>24</sup> And the LORD did so. Thick swarms of flies poured into Pharaoh’s palace and into the houses of his officials. Throughout Egypt the land was ruined by swarms of flies.
+**²⁴** And the LORD did so. Thick swarms of flies poured into Pharaoh’s palace and into the houses of his officials. Throughout Egypt the land was ruined by swarms of flies.
 
-<sup>25</sup> Then Pharaoh summoned Moses and Aaron and said, “Go, sacrifice to your God within this land.”
+**²⁵** Then Pharaoh summoned Moses and Aaron and said, “Go, sacrifice to your God within this land.”
 
-<sup>26</sup> But Moses replied, “It would not be right to do that, because the sacrifices we offer to the LORD our God would be detestable to the Egyptians. If we offer sacrifices that are detestable before the Egyptians, will they not stone us?
+**²⁶** But Moses replied, “It would not be right to do that, because the sacrifices we offer to the LORD our God would be detestable to the Egyptians. If we offer sacrifices that are detestable before the Egyptians, will they not stone us?
 
-<sup>27</sup> We must make a three-day journey into the wilderness and sacrifice to the LORD our God as He commands us.”
+**²⁷** We must make a three-day journey into the wilderness and sacrifice to the LORD our God as He commands us.”
 
-<sup>28</sup> Pharaoh answered, “I will let you go and sacrifice to the LORD your God in the wilderness, but you must not go very far. Now pray for me.”
+**²⁸** Pharaoh answered, “I will let you go and sacrifice to the LORD your God in the wilderness, but you must not go very far. Now pray for me.”
 
-<sup>29</sup> “As soon as I leave you,” Moses said, “I will pray to the LORD, so that tomorrow the swarms of flies will depart from Pharaoh and his officials and his people. But Pharaoh must not act deceitfully again by refusing to let the people go and sacrifice to the LORD.”
+**²⁹** “As soon as I leave you,” Moses said, “I will pray to the LORD, so that tomorrow the swarms of flies will depart from Pharaoh and his officials and his people. But Pharaoh must not act deceitfully again by refusing to let the people go and sacrifice to the LORD.”
 
-<sup>30</sup> Then Moses left Pharaoh and prayed to the LORD,
+**³⁰** Then Moses left Pharaoh and prayed to the LORD,
 
-<sup>31</sup> and the LORD did as Moses requested. He removed the swarms of flies from Pharaoh and his officials and his people; not one fly remained.
+**³¹** and the LORD did as Moses requested. He removed the swarms of flies from Pharaoh and his officials and his people; not one fly remained.
 
-<sup>32</sup> But Pharaoh hardened his heart this time as well, and he would not let the people go.
+**³²** But Pharaoh hardened his heart this time as well, and he would not let the people go.
 
 [^265]: 8:15 Or made heavy; also in verse 32
 [^266]: 8:19 Or stiffened or strengthened

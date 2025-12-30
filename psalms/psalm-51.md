@@ -10,43 +10,43 @@ weight: 51
 
 For the choirmaster. A Psalm of David. When Nathan the prophet came to him after his adultery with Bathsheba.
 
-<sup>1</sup> Have mercy on me,[^2256] O God, according to Your loving devotion; according to Your great compassion, blot out my transgressions.
+**¹** Have mercy on me,[^2256] O God, according to Your loving devotion; according to Your great compassion, blot out my transgressions.
 
-<sup>2</sup> Wash me clean of my iniquity and cleanse me from my sin.
+**²** Wash me clean of my iniquity and cleanse me from my sin.
 
-<sup>3</sup> For I know my transgressions, and my sin is always before me.
+**³** For I know my transgressions, and my sin is always before me.
 
-<sup>4</sup> Against You, You only, have I sinned and done what is evil in Your sight, so that You may be proved right when You speak and blameless when You judge.[^2257]
+**⁴** Against You, You only, have I sinned and done what is evil in Your sight, so that You may be proved right when You speak and blameless when You judge.[^2257]
 
-<sup>5</sup> Surely I was brought forth in iniquity; I was sinful when my mother conceived me.
+**⁵** Surely I was brought forth in iniquity; I was sinful when my mother conceived me.
 
-<sup>6</sup> Surely You desire truth in the inmost being; You teach me wisdom in the inmost place.
+**⁶** Surely You desire truth in the inmost being; You teach me wisdom in the inmost place.
 
-<sup>7</sup> Purify me with hyssop, and I will be clean; wash me, and I will be whiter than snow.
+**⁷** Purify me with hyssop, and I will be clean; wash me, and I will be whiter than snow.
 
-<sup>8</sup> Let me hear joy and gladness; let the bones You have crushed rejoice.
+**⁸** Let me hear joy and gladness; let the bones You have crushed rejoice.
 
-<sup>9</sup> Hide Your face from my sins and blot out all my iniquities.
+**⁹** Hide Your face from my sins and blot out all my iniquities.
 
-<sup>10</sup> Create in me a clean heart, O God, and renew a right spirit within me.
+**¹⁰** Create in me a clean heart, O God, and renew a right spirit within me.
 
-<sup>11</sup> Cast me not away from Your presence; take not Your Holy Spirit from me.
+**¹¹** Cast me not away from Your presence; take not Your Holy Spirit from me.
 
-<sup>12</sup> Restore to me the joy of Your salvation, and sustain me with a willing spirit.
+**¹²** Restore to me the joy of Your salvation, and sustain me with a willing spirit.
 
-<sup>13</sup> Then I will teach transgressors Your ways, and sinners will return to You.
+**¹³** Then I will teach transgressors Your ways, and sinners will return to You.
 
-<sup>14</sup> Deliver me from bloodguilt, O God, the God of my salvation, and my tongue will sing of Your righteousness.
+**¹⁴** Deliver me from bloodguilt, O God, the God of my salvation, and my tongue will sing of Your righteousness.
 
-<sup>15</sup> O Lord, open my lips, and my mouth will declare Your praise.
+**¹⁵** O Lord, open my lips, and my mouth will declare Your praise.
 
-<sup>16</sup> For You do not delight in sacrifice, or I would bring it; You take no pleasure in burnt offerings.
+**¹⁶** For You do not delight in sacrifice, or I would bring it; You take no pleasure in burnt offerings.
 
-<sup>17</sup> The sacrifices of God are a broken spirit; a broken and a contrite heart, O God, You will not despise.
+**¹⁷** The sacrifices of God are a broken spirit; a broken and a contrite heart, O God, You will not despise.
 
-<sup>18</sup> In Your good pleasure, cause Zion to prosper; build up the walls of Jerusalem.
+**¹⁸** In Your good pleasure, cause Zion to prosper; build up the walls of Jerusalem.
 
-<sup>19</sup> Then You will delight in righteous sacrifices, in whole burnt offerings; then bulls will be offered on Your altar.
+**¹⁹** Then You will delight in righteous sacrifices, in whole burnt offerings; then bulls will be offered on Your altar.
 
 [^2256]: 51:1 Or Be gracious to me
 [^2257]: 51:4 LXX and victorious when You judge; cited in Romans 3:4

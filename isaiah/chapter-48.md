@@ -6,51 +6,51 @@ weight: 48
 
 ## Israel’s Stubbornness
 
-<sup>1</sup> “Listen to this, O house of Jacob, you who are called by the name of Israel, who have descended from the line of Judah, who swear by the name of the LORD, who invoke the God of Israel— but not in truth or righteousness—
+**¹** “Listen to this, O house of Jacob, you who are called by the name of Israel, who have descended from the line of Judah, who swear by the name of the LORD, who invoke the God of Israel— but not in truth or righteousness—
 
-<sup>2</sup> who indeed call yourselves after the holy city and lean on the God of Israel; the LORD of Hosts is His name.
+**²** who indeed call yourselves after the holy city and lean on the God of Israel; the LORD of Hosts is His name.
 
-<sup>3</sup> I foretold the former things long ago; they came out of My mouth and I proclaimed them. Suddenly I acted, and they came to pass.
+**³** I foretold the former things long ago; they came out of My mouth and I proclaimed them. Suddenly I acted, and they came to pass.
 
-<sup>4</sup> For I knew that you are stubborn; your neck is iron and your forehead is bronze.
+**⁴** For I knew that you are stubborn; your neck is iron and your forehead is bronze.
 
-<sup>5</sup> Therefore I declared it to you long ago; I announced it before it came to pass, so that you could not claim, ‘My idol has done this; my carved image and molten god has ordained it.’
+**⁵** Therefore I declared it to you long ago; I announced it before it came to pass, so that you could not claim, ‘My idol has done this; my carved image and molten god has ordained it.’
 
-<sup>6</sup> You have heard these things; look at them all. Will you not acknowledge them? From now on I will tell you of new things, hidden things unknown to you.
+**⁶** You have heard these things; look at them all. Will you not acknowledge them? From now on I will tell you of new things, hidden things unknown to you.
 
-<sup>7</sup> They are created now, and not long ago; you have not heard of them before today. So you cannot claim, ‘I already knew them!’
+**⁷** They are created now, and not long ago; you have not heard of them before today. So you cannot claim, ‘I already knew them!’
 
-<sup>8</sup> You have never heard; you have never understood; for a long time your ears have not been open. For I knew how deceitful you are; you have been called a rebel from birth.
+**⁸** You have never heard; you have never understood; for a long time your ears have not been open. For I knew how deceitful you are; you have been called a rebel from birth.
 
-<sup>9</sup> For the sake of My name I will delay My wrath; for the sake of My praise I will restrain it, so that you will not be cut off.
+**⁹** For the sake of My name I will delay My wrath; for the sake of My praise I will restrain it, so that you will not be cut off.
 
-<sup>10</sup> See, I have refined you, but not as silver; I have tested you in the furnace of affliction.
+**¹⁰** See, I have refined you, but not as silver; I have tested you in the furnace of affliction.
 
-<sup>11</sup> For My own sake, My very own sake, I will act; for how can I let Myself be defamed? I will not yield My glory to another.
+**¹¹** For My own sake, My very own sake, I will act; for how can I let Myself be defamed? I will not yield My glory to another.
 
 ## Deliverance Promised to Israel
 
-<sup>12</sup> Listen to Me, O Jacob, and Israel, whom I have called: I am He; I am the first, and I am the last.
+**¹²** Listen to Me, O Jacob, and Israel, whom I have called: I am He; I am the first, and I am the last.
 
-<sup>13</sup> Surely My own hand founded the earth, and My right hand spread out the heavens; when I summon them, they stand up together.
+**¹³** Surely My own hand founded the earth, and My right hand spread out the heavens; when I summon them, they stand up together.
 
-<sup>14</sup> Come together, all of you, and listen: Which of the idols has foretold these things? The LORD’s chosen ally will carry out His desire against Babylon, and His arm will be against the Chaldeans.[^2721]
+**¹⁴** Come together, all of you, and listen: Which of the idols has foretold these things? The LORD’s chosen ally will carry out His desire against Babylon, and His arm will be against the Chaldeans.[^2721]
 
-<sup>15</sup> I, even I, have spoken; yes, I have called him. I have brought him, and he will succeed in his mission.
+**¹⁵** I, even I, have spoken; yes, I have called him. I have brought him, and he will succeed in his mission.
 
-<sup>16</sup> Come near to Me and listen to this: From the beginning I have not spoken in secret; from the time it happened, I was there.” And now the Lord GOD has sent me, accompanied by His Spirit.
+**¹⁶** Come near to Me and listen to this: From the beginning I have not spoken in secret; from the time it happened, I was there.” And now the Lord GOD has sent me, accompanied by His Spirit.
 
-<sup>17</sup> Thus says the LORD your Redeemer, the Holy One of Israel: “I am the LORD your God, who teaches you for your benefit, who directs you in the way you should go.
+**¹⁷** Thus says the LORD your Redeemer, the Holy One of Israel: “I am the LORD your God, who teaches you for your benefit, who directs you in the way you should go.
 
-<sup>18</sup> If only you had paid attention to My commandments, your peace would have been like a river, and your righteousness like waves of the sea.
+**¹⁸** If only you had paid attention to My commandments, your peace would have been like a river, and your righteousness like waves of the sea.
 
-<sup>19</sup> Your descendants would have been as countless as the sand, and your offspring as numerous as its grains;[^2722] their name would never be cut off or eliminated from My presence.”
+**¹⁹** Your descendants would have been as countless as the sand, and your offspring as numerous as its grains;[^2722] their name would never be cut off or eliminated from My presence.”
 
-<sup>20</sup> Leave Babylon! Flee from the Chaldeans! Declare it with a shout of joy, proclaim it, let it go out to the ends of the earth, saying, “The LORD has redeemed His servant Jacob!”
+**²⁰** Leave Babylon! Flee from the Chaldeans! Declare it with a shout of joy, proclaim it, let it go out to the ends of the earth, saying, “The LORD has redeemed His servant Jacob!”
 
-<sup>21</sup> They did not thirst when He led them through the deserts; He made water flow for them from the rock; He split the rock, and water gushed out.
+**²¹** They did not thirst when He led them through the deserts; He made water flow for them from the rock; He split the rock, and water gushed out.
 
-<sup>22</sup> “There is no peace,” says the LORD, “for the wicked.”
+**²²** “There is no peace,” says the LORD, “for the wicked.”
 
 [^2721]: 48:14 That is, the Babylonians; also in verse 20
 [^2722]: 48:19 Literally like the sand, and your offspring like its grains

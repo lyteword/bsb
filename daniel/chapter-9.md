@@ -6,61 +6,61 @@ weight: 9
 
 ## Daniel’s Prayer for His People
 
-<sup>1</sup> In the first year of Darius son of Xerxes,[^3239] a Mede by descent, who was made ruler over the kingdom of the Chaldeans [^3240]—
+**¹** In the first year of Darius son of Xerxes,[^3239] a Mede by descent, who was made ruler over the kingdom of the Chaldeans [^3240]—
 
-<sup>2</sup> in the first year of his reign, I, Daniel, understood from the sacred books, according to the word of the LORD to Jeremiah the prophet, that the desolation of Jerusalem would last seventy years.[^3241]
+**²** in the first year of his reign, I, Daniel, understood from the sacred books, according to the word of the LORD to Jeremiah the prophet, that the desolation of Jerusalem would last seventy years.[^3241]
 
-<sup>3</sup> So I turned my attention to the Lord God to seek Him by prayer and petition, with fasting, sackcloth, and ashes.
+**³** So I turned my attention to the Lord God to seek Him by prayer and petition, with fasting, sackcloth, and ashes.
 
-<sup>4</sup> And I prayed to the LORD my God and confessed, “O, Lord, the great and awesome God, who keeps His covenant of loving devotion [^3242] to those who love Him and keep His commandments,
+**⁴** And I prayed to the LORD my God and confessed, “O, Lord, the great and awesome God, who keeps His covenant of loving devotion [^3242] to those who love Him and keep His commandments,
 
-<sup>5</sup> we have sinned and done wrong. We have acted wickedly and rebelled. We have turned away from Your commandments and ordinances.
+**⁵** we have sinned and done wrong. We have acted wickedly and rebelled. We have turned away from Your commandments and ordinances.
 
-<sup>6</sup> We have not listened to Your servants the prophets, who spoke in Your name to our kings, leaders, fathers, and all the people of the land.
+**⁶** We have not listened to Your servants the prophets, who spoke in Your name to our kings, leaders, fathers, and all the people of the land.
 
-<sup>7</sup> To You, O Lord, belongs righteousness, but this day we are covered with shame—the men of Judah, the people of Jerusalem, and all Israel near and far, in all the countries to which You have driven us because of our unfaithfulness to You.
+**⁷** To You, O Lord, belongs righteousness, but this day we are covered with shame—the men of Judah, the people of Jerusalem, and all Israel near and far, in all the countries to which You have driven us because of our unfaithfulness to You.
 
-<sup>8</sup> O LORD, we are covered with shame—our kings, our leaders, and our fathers—because we have sinned against You.
+**⁸** O LORD, we are covered with shame—our kings, our leaders, and our fathers—because we have sinned against You.
 
-<sup>9</sup> To the Lord our God belong compassion and forgiveness, even though we have rebelled against Him
+**⁹** To the Lord our God belong compassion and forgiveness, even though we have rebelled against Him
 
-<sup>10</sup> and have not obeyed the voice of the LORD our God to walk in His laws, which He set before us through His servants the prophets.
+**¹⁰** and have not obeyed the voice of the LORD our God to walk in His laws, which He set before us through His servants the prophets.
 
-<sup>11</sup> All Israel has transgressed Your law and turned away, refusing to obey Your voice; so the oath and the curse written in the Law of Moses the servant of God has been poured out on us, because we have sinned against You.
+**¹¹** All Israel has transgressed Your law and turned away, refusing to obey Your voice; so the oath and the curse written in the Law of Moses the servant of God has been poured out on us, because we have sinned against You.
 
-<sup>12</sup> You have carried out the words spoken against us and against our rulers by bringing upon us a great disaster. For under all of heaven, nothing has ever been done like what has been done to Jerusalem.
+**¹²** You have carried out the words spoken against us and against our rulers by bringing upon us a great disaster. For under all of heaven, nothing has ever been done like what has been done to Jerusalem.
 
-<sup>13</sup> Just as it is written in the Law of Moses, all this disaster has come upon us, yet we have not sought the favor of the LORD our God by turning from our iniquities and giving attention to Your truth.
+**¹³** Just as it is written in the Law of Moses, all this disaster has come upon us, yet we have not sought the favor of the LORD our God by turning from our iniquities and giving attention to Your truth.
 
-<sup>14</sup> Therefore the LORD has kept the calamity in store and brought it upon us. For the LORD our God is righteous in all He does; yet we have not obeyed His voice.
+**¹⁴** Therefore the LORD has kept the calamity in store and brought it upon us. For the LORD our God is righteous in all He does; yet we have not obeyed His voice.
 
-<sup>15</sup> Now, O Lord our God, who brought Your people out of the land of Egypt with a mighty hand, and who made for Yourself a name renowned to this day, we have sinned; we have acted wickedly.
+**¹⁵** Now, O Lord our God, who brought Your people out of the land of Egypt with a mighty hand, and who made for Yourself a name renowned to this day, we have sinned; we have acted wickedly.
 
-<sup>16</sup> O Lord, in keeping with all Your righteous acts, I pray that Your anger and wrath may turn away from Your city Jerusalem, Your holy mountain; for because of our sins and the iniquities of our fathers, Jerusalem and Your people are a reproach to all around us.
+**¹⁶** O Lord, in keeping with all Your righteous acts, I pray that Your anger and wrath may turn away from Your city Jerusalem, Your holy mountain; for because of our sins and the iniquities of our fathers, Jerusalem and Your people are a reproach to all around us.
 
-<sup>17</sup> So now, our God, hear the prayers and petitions of Your servant. For Your sake, O Lord, cause Your face to shine upon Your desolate sanctuary.
+**¹⁷** So now, our God, hear the prayers and petitions of Your servant. For Your sake, O Lord, cause Your face to shine upon Your desolate sanctuary.
 
-<sup>18</sup> Incline Your ear, O my God, and hear; open Your eyes and see the desolation of the city that bears Your name. For we are not presenting our petitions before You because of our righteous acts, but because of Your great compassion.
+**¹⁸** Incline Your ear, O my God, and hear; open Your eyes and see the desolation of the city that bears Your name. For we are not presenting our petitions before You because of our righteous acts, but because of Your great compassion.
 
-<sup>19</sup> O Lord, listen! O Lord, forgive! O Lord, hear and act! For Your sake, O my God, do not delay, because Your city and Your people bear Your name.”
+**¹⁹** O Lord, listen! O Lord, forgive! O Lord, hear and act! For Your sake, O my God, do not delay, because Your city and Your people bear Your name.”
 
 ## Gabriel’s Prophecy of the Seventy Weeks
 
-<sup>20</sup> While I was speaking, praying, confessing my sin and that of my people Israel, and presenting my petition before the LORD my God concerning His holy mountain—
+**²⁰** While I was speaking, praying, confessing my sin and that of my people Israel, and presenting my petition before the LORD my God concerning His holy mountain—
 
-<sup>21</sup> while I was still praying, Gabriel, the man I had seen in the earlier vision, came to me in swift flight about the time of the evening sacrifice.
+**²¹** while I was still praying, Gabriel, the man I had seen in the earlier vision, came to me in swift flight about the time of the evening sacrifice.
 
-<sup>22</sup> He instructed me and spoke with me, saying: “O Daniel, I have come now to give you insight and understanding.
+**²²** He instructed me and spoke with me, saying: “O Daniel, I have come now to give you insight and understanding.
 
-<sup>23</sup> At the beginning of your petitions, an answer went out, and I have come to tell you, for you are highly precious. So consider the message and understand the vision:
+**²³** At the beginning of your petitions, an answer went out, and I have come to tell you, for you are highly precious. So consider the message and understand the vision:
 
-<sup>24</sup> Seventy weeks [^3243] are decreed for your people and your holy city to stop their transgression, to put an end to sin, to make atonement for iniquity, to bring in everlasting righteousness, to seal up vision and prophecy, and to anoint the Most Holy Place.[^3244]
+**²⁴** Seventy weeks [^3243] are decreed for your people and your holy city to stop their transgression, to put an end to sin, to make atonement for iniquity, to bring in everlasting righteousness, to seal up vision and prophecy, and to anoint the Most Holy Place.[^3244]
 
-<sup>25</sup> Know and understand this: From the issuance of the decree to restore and rebuild Jerusalem until the Messiah,[^3245] the Prince, there will be seven weeks and sixty-two weeks. It will be rebuilt with streets and a trench, but in times of distress.
+**²⁵** Know and understand this: From the issuance of the decree to restore and rebuild Jerusalem until the Messiah,[^3245] the Prince, there will be seven weeks and sixty-two weeks. It will be rebuilt with streets and a trench, but in times of distress.
 
-<sup>26</sup> Then after the sixty-two weeks [^3246] the Messiah will be cut off and will have nothing. Then the people of the prince who is to come will destroy the city and the sanctuary. The end will come like a flood, and until the end there will be war; desolations have been decreed.
+**²⁶** Then after the sixty-two weeks [^3246] the Messiah will be cut off and will have nothing. Then the people of the prince who is to come will destroy the city and the sanctuary. The end will come like a flood, and until the end there will be war; desolations have been decreed.
 
-<sup>27</sup> And he will confirm a covenant with many for one week,[^3247] but in the middle of the week he will put an end to sacrifice and offering. And on the wing of the temple will come the abomination that causes desolation,[^3248] until the decreed destruction is poured out upon him.[^3249]”
+**²⁷** And he will confirm a covenant with many for one week,[^3247] but in the middle of the week he will put an end to sacrifice and offering. And on the wing of the temple will come the abomination that causes desolation,[^3248] until the decreed destruction is poured out upon him.[^3249]”
 
 [^3239]: 9:1 Hebrew Ahasuerus
 [^3240]: 9:1 That is, the Babylonians

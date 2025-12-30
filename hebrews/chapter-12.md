@@ -8,73 +8,73 @@ weight: 12
 
 **(2 Timothy 2:1–13)**
 
-<sup>1</sup> Therefore, since we are surrounded by such a great cloud of witnesses, let us throw off every encumbrance and the sin that so easily entangles, and let us run with endurance the race set out for us.
+**¹** Therefore, since we are surrounded by such a great cloud of witnesses, let us throw off every encumbrance and the sin that so easily entangles, and let us run with endurance the race set out for us.
 
-<sup>2</sup> Let us fix our eyes on Jesus, the author [^4661] and perfecter of our faith, who for the joy set before Him endured the cross, scorning its shame, and sat down at the right hand of the throne of God.
+**²** Let us fix our eyes on Jesus, the author [^4661] and perfecter of our faith, who for the joy set before Him endured the cross, scorning its shame, and sat down at the right hand of the throne of God.
 
-<sup>3</sup> Consider Him who endured such hostility from sinners, so that you will not grow weary and lose heart.
+**³** Consider Him who endured such hostility from sinners, so that you will not grow weary and lose heart.
 
 ## God Disciplines His Sons
 
-<sup>4</sup> In your struggle against sin, you have not yet resisted to the point of shedding your blood.
+**⁴** In your struggle against sin, you have not yet resisted to the point of shedding your blood.
 
-<sup>5</sup> And you have forgotten the exhortation that addresses you as sons: “My son, do not take lightly the discipline of the Lord, and do not lose heart when He rebukes you.
+**⁵** And you have forgotten the exhortation that addresses you as sons: “My son, do not take lightly the discipline of the Lord, and do not lose heart when He rebukes you.
 
-<sup>6</sup> For the Lord disciplines the one He loves, and He chastises every son He receives.”[^4662]
+**⁶** For the Lord disciplines the one He loves, and He chastises every son He receives.”[^4662]
 
-<sup>7</sup> Endure suffering as discipline; God is treating you as sons. For what son is not disciplined by his father?
+**⁷** Endure suffering as discipline; God is treating you as sons. For what son is not disciplined by his father?
 
-<sup>8</sup> If you do not experience discipline like everyone else, then you are illegitimate children and not true sons.
+**⁸** If you do not experience discipline like everyone else, then you are illegitimate children and not true sons.
 
-<sup>9</sup> Furthermore, we have all had earthly fathers who disciplined us, and we respected them. Should we not much more submit to the Father of our spirits and live?
+**⁹** Furthermore, we have all had earthly fathers who disciplined us, and we respected them. Should we not much more submit to the Father of our spirits and live?
 
-<sup>10</sup> Our fathers disciplined us for a short time as they thought best, but God disciplines us for our good, so that we may share in His holiness.
+**¹⁰** Our fathers disciplined us for a short time as they thought best, but God disciplines us for our good, so that we may share in His holiness.
 
-<sup>11</sup> No discipline seems enjoyable at the time, but painful. Later on, however, it yields a harvest of righteousness and peace [^4663] to those who have been trained by it.
+**¹¹** No discipline seems enjoyable at the time, but painful. Later on, however, it yields a harvest of righteousness and peace [^4663] to those who have been trained by it.
 
-<sup>12</sup> Therefore strengthen your limp hands and weak knees.[^4664]
+**¹²** Therefore strengthen your limp hands and weak knees.[^4664]
 
-<sup>13</sup> Make straight paths for your feet,[^4665] so that the lame may not be disabled, but rather healed.
+**¹³** Make straight paths for your feet,[^4665] so that the lame may not be disabled, but rather healed.
 
 ## A Call to Holiness
 
 **(1 Peter 1:13–21)**
 
-<sup>14</sup> Pursue peace with everyone, as well as holiness, without which no one will see the Lord.
+**¹⁴** Pursue peace with everyone, as well as holiness, without which no one will see the Lord.
 
-<sup>15</sup> See to it that no one falls short of the grace of God, and that no root of bitterness [^4666] springs up to cause trouble and defile many.
+**¹⁵** See to it that no one falls short of the grace of God, and that no root of bitterness [^4666] springs up to cause trouble and defile many.
 
-<sup>16</sup> See to it that no one is sexually immoral, or is godless like Esau, who for a single meal sold his birthright.
+**¹⁶** See to it that no one is sexually immoral, or is godless like Esau, who for a single meal sold his birthright.
 
-<sup>17</sup> For you know that afterward, when he wanted to inherit the blessing, he was rejected. He could find no ground for repentance, though he sought the blessing with tears.
+**¹⁷** For you know that afterward, when he wanted to inherit the blessing, he was rejected. He could find no ground for repentance, though he sought the blessing with tears.
 
 ## An Unshakable Kingdom
 
 **(Exodus 20:18–21; Deuteronomy 5:22–33)**
 
-<sup>18</sup> For you have not come to a mountain that can be touched and that[^4667] is burning with fire; to darkness, gloom, and storm;
+**¹⁸** For you have not come to a mountain that can be touched and that[^4667] is burning with fire; to darkness, gloom, and storm;
 
-<sup>19</sup> to a trumpet blast or to a voice that made its hearers beg that no further word be spoken.
+**¹⁹** to a trumpet blast or to a voice that made its hearers beg that no further word be spoken.
 
-<sup>20</sup> For they could not bear what was commanded: “If even an animal touches the mountain, it must be stoned.”[^4668]
+**²⁰** For they could not bear what was commanded: “If even an animal touches the mountain, it must be stoned.”[^4668]
 
-<sup>21</sup> The sight was so terrifying that even Moses said, “I am trembling with fear.”[^4669]
+**²¹** The sight was so terrifying that even Moses said, “I am trembling with fear.”[^4669]
 
-<sup>22</sup> Instead, you have come to Mount Zion, to the city of the living God, the heavenly Jerusalem. You have come to myriads of angels
+**²²** Instead, you have come to Mount Zion, to the city of the living God, the heavenly Jerusalem. You have come to myriads of angels
 
-<sup>23</sup> in joyful assembly, to the congregation of the firstborn, enrolled in heaven. You have come to God the Judge of all, to the spirits of the righteous made perfect,
+**²³** in joyful assembly, to the congregation of the firstborn, enrolled in heaven. You have come to God the Judge of all, to the spirits of the righteous made perfect,
 
-<sup>24</sup> to Jesus the mediator of a new covenant, and to the sprinkled blood that speaks a better word than the blood of Abel.
+**²⁴** to Jesus the mediator of a new covenant, and to the sprinkled blood that speaks a better word than the blood of Abel.
 
-<sup>25</sup> See to it that you do not refuse Him who speaks. For if the people did not escape when they refused Him who warned them on earth, how much less will we escape if we reject Him who warns us from heaven?
+**²⁵** See to it that you do not refuse Him who speaks. For if the people did not escape when they refused Him who warned them on earth, how much less will we escape if we reject Him who warns us from heaven?
 
-<sup>26</sup> At that time His voice shook the earth, but now He has promised, “Once more I will shake not only the earth, but heaven as well.”[^4670]
+**²⁶** At that time His voice shook the earth, but now He has promised, “Once more I will shake not only the earth, but heaven as well.”[^4670]
 
-<sup>27</sup> The words “Once more” signify the removal of what can be shaken—that is, created things—so that the unshakable may remain.
+**²⁷** The words “Once more” signify the removal of what can be shaken—that is, created things—so that the unshakable may remain.
 
-<sup>28</sup> Therefore, since we are receiving an unshakable kingdom, let us be filled with gratitude, and so worship God acceptably with reverence and awe.
+**²⁸** Therefore, since we are receiving an unshakable kingdom, let us be filled with gratitude, and so worship God acceptably with reverence and awe.
 
-<sup>29</sup> “For our God is a consuming fire.”[^4671]
+**²⁹** “For our God is a consuming fire.”[^4671]
 
 [^4661]: 12:2 Or pioneer or founder
 [^4662]: 12:6 Literally and He flogs every son He receives; Proverbs 3:11–12 (see also LXX)

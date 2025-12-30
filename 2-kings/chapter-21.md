@@ -8,64 +8,64 @@ weight: 21
 
 **(2 Chronicles 33:1–9)**
 
-<sup>1</sup> Manasseh was twelve years old when he became king, and he reigned in Jerusalem fifty-five years. His mother’s name was Hephzibah.
+**¹** Manasseh was twelve years old when he became king, and he reigned in Jerusalem fifty-five years. His mother’s name was Hephzibah.
 
-<sup>2</sup> And he did evil in the sight of the LORD by following the abominations of the nations that the LORD had driven out before the Israelites.
+**²** And he did evil in the sight of the LORD by following the abominations of the nations that the LORD had driven out before the Israelites.
 
-<sup>3</sup> For he rebuilt the high places that his father Hezekiah had destroyed, and he raised up altars for Baal. He made an Asherah pole, as King Ahab of Israel had done, and he worshiped and served all the host of heaven.
+**³** For he rebuilt the high places that his father Hezekiah had destroyed, and he raised up altars for Baal. He made an Asherah pole, as King Ahab of Israel had done, and he worshiped and served all the host of heaven.
 
-<sup>4</sup> Manasseh also built altars in the house of the LORD, of which the LORD had said, “In Jerusalem I will put My Name.”
+**⁴** Manasseh also built altars in the house of the LORD, of which the LORD had said, “In Jerusalem I will put My Name.”
 
-<sup>5</sup> In both courtyards of the house of the LORD, he built altars to all the host of heaven.
+**⁵** In both courtyards of the house of the LORD, he built altars to all the host of heaven.
 
-<sup>6</sup> He sacrificed his own son in the fire,[^1439] practiced sorcery and divination, and consulted mediums and spiritists. He did great evil in the sight of the LORD, provoking Him to anger.
+**⁶** He sacrificed his own son in the fire,[^1439] practiced sorcery and divination, and consulted mediums and spiritists. He did great evil in the sight of the LORD, provoking Him to anger.
 
-<sup>7</sup> Manasseh even took the carved Asherah pole he had made and set it up in the temple, of which the LORD had said to David and his son Solomon, “In this temple and in Jerusalem, which I have chosen out of all the tribes of Israel, I will establish My Name forever.
+**⁷** Manasseh even took the carved Asherah pole he had made and set it up in the temple, of which the LORD had said to David and his son Solomon, “In this temple and in Jerusalem, which I have chosen out of all the tribes of Israel, I will establish My Name forever.
 
-<sup>8</sup> I will never again cause the feet of the Israelites to wander from the land that I gave to their fathers, if only they are careful to do all I have commanded them—the whole Law that My servant Moses commanded them.”
+**⁸** I will never again cause the feet of the Israelites to wander from the land that I gave to their fathers, if only they are careful to do all I have commanded them—the whole Law that My servant Moses commanded them.”
 
-<sup>9</sup> But the people did not listen and Manasseh led them astray, so that they did greater evil than the nations that the LORD had destroyed before the Israelites.
+**⁹** But the people did not listen and Manasseh led them astray, so that they did greater evil than the nations that the LORD had destroyed before the Israelites.
 
 ## Manasseh’s Idolatries Rebuked
 
 **(2 Chronicles 33:10–20)**
 
-<sup>10</sup> And the LORD spoke through His servants the prophets, saying,
+**¹⁰** And the LORD spoke through His servants the prophets, saying,
 
-<sup>11</sup> “Since Manasseh king of Judah has committed all these abominations, acting more wickedly than the Amorites who preceded him, and with his idols has caused Judah to sin,
+**¹¹** “Since Manasseh king of Judah has committed all these abominations, acting more wickedly than the Amorites who preceded him, and with his idols has caused Judah to sin,
 
-<sup>12</sup> this is what the LORD, the God of Israel, says: ‘Behold, I am bringing such calamity upon Jerusalem and Judah that the news will reverberate in the ears of all who hear it.
+**¹²** this is what the LORD, the God of Israel, says: ‘Behold, I am bringing such calamity upon Jerusalem and Judah that the news will reverberate in the ears of all who hear it.
 
-<sup>13</sup> I will stretch out over Jerusalem the measuring line used against Samaria and the plumb line used against the house of Ahab, and I will wipe out Jerusalem as one wipes out a bowl—wiping it and turning it upside down.
+**¹³** I will stretch out over Jerusalem the measuring line used against Samaria and the plumb line used against the house of Ahab, and I will wipe out Jerusalem as one wipes out a bowl—wiping it and turning it upside down.
 
-<sup>14</sup> So I will forsake the remnant of My inheritance and deliver them into the hands of their enemies. And they will become plunder and spoil to all their enemies,
+**¹⁴** So I will forsake the remnant of My inheritance and deliver them into the hands of their enemies. And they will become plunder and spoil to all their enemies,
 
-<sup>15</sup> because they have done evil in My sight and have provoked Me to anger from the day their fathers came out of Egypt until this day.’”
+**¹⁵** because they have done evil in My sight and have provoked Me to anger from the day their fathers came out of Egypt until this day.’”
 
-<sup>16</sup> Moreover, Manasseh shed so much innocent blood that he filled Jerusalem from end to end, in addition to the sin that he had caused Judah to commit, doing evil in the sight of the LORD.
+**¹⁶** Moreover, Manasseh shed so much innocent blood that he filled Jerusalem from end to end, in addition to the sin that he had caused Judah to commit, doing evil in the sight of the LORD.
 
-<sup>17</sup> As for the rest of the acts of Manasseh, along with all his accomplishments and the sin that he committed, are they not written in the Book of the Chronicles of the Kings of Judah?
+**¹⁷** As for the rest of the acts of Manasseh, along with all his accomplishments and the sin that he committed, are they not written in the Book of the Chronicles of the Kings of Judah?
 
-<sup>18</sup> And Manasseh rested with his fathers and was buried in his palace garden, the garden of Uzza. And his son Amon reigned in his place.
+**¹⁸** And Manasseh rested with his fathers and was buried in his palace garden, the garden of Uzza. And his son Amon reigned in his place.
 
 ## Amon Reigns in Judah
 
 **(2 Chronicles 33:21–25)**
 
-<sup>19</sup> Amon was twenty-two years old when he became king, and he reigned in Jerusalem two years. His mother’s name was Meshullemeth daughter of Haruz; she was from Jotbah.
+**¹⁹** Amon was twenty-two years old when he became king, and he reigned in Jerusalem two years. His mother’s name was Meshullemeth daughter of Haruz; she was from Jotbah.
 
-<sup>20</sup> And he did evil in the sight of the LORD, as his father Manasseh had done.
+**²⁰** And he did evil in the sight of the LORD, as his father Manasseh had done.
 
-<sup>21</sup> He walked in all the ways of his father, and he served and worshiped the idols his father had served.
+**²¹** He walked in all the ways of his father, and he served and worshiped the idols his father had served.
 
-<sup>22</sup> He abandoned the LORD, the God of his fathers, and did not walk in the way of the LORD.
+**²²** He abandoned the LORD, the God of his fathers, and did not walk in the way of the LORD.
 
-<sup>23</sup> Then the servants of Amon conspired against him and killed the king in his palace.
+**²³** Then the servants of Amon conspired against him and killed the king in his palace.
 
-<sup>24</sup> But the people of the land killed all those who had conspired against King Amon, and they made his son Josiah king in his place.
+**²⁴** But the people of the land killed all those who had conspired against King Amon, and they made his son Josiah king in his place.
 
-<sup>25</sup> As for the rest of the acts of Amon, along with his accomplishments, are they not written in the Book of the Chronicles of the Kings of Judah?
+**²⁵** As for the rest of the acts of Amon, along with his accomplishments, are they not written in the Book of the Chronicles of the Kings of Judah?
 
-<sup>26</sup> And he was buried in his tomb in the garden of Uzza, and his son Josiah reigned in his place.
+**²⁶** And he was buried in his tomb in the garden of Uzza, and his son Josiah reigned in his place.
 
 [^1439]: 21:6 Literally made his son pass through the fire

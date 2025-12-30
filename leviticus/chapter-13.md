@@ -8,125 +8,125 @@ weight: 13
 
 **(Numbers 5:1–4)**
 
-<sup>1</sup> Then the LORD said to Moses and Aaron,
+**¹** Then the LORD said to Moses and Aaron,
 
-<sup>2</sup> “When someone has a swelling or rash or bright spot on his skin that may be an infectious skin disease,[^467] he must be brought to Aaron the priest or to one of his sons who is a priest.
+**²** “When someone has a swelling or rash or bright spot on his skin that may be an infectious skin disease,[^467] he must be brought to Aaron the priest or to one of his sons who is a priest.
 
-<sup>3</sup> The priest is to examine the infection on his skin, and if the hair in the infection has turned white and the sore appears to be deeper than the skin, it is a skin disease. After the priest examines him, he must pronounce him unclean.
+**³** The priest is to examine the infection on his skin, and if the hair in the infection has turned white and the sore appears to be deeper than the skin, it is a skin disease. After the priest examines him, he must pronounce him unclean.
 
-<sup>4</sup> If, however, the spot on his skin is white and does not appear to be deeper than the skin, and the hair in it has not turned white, the priest shall isolate the infected person for seven days.
+**⁴** If, however, the spot on his skin is white and does not appear to be deeper than the skin, and the hair in it has not turned white, the priest shall isolate the infected person for seven days.
 
-<sup>5</sup> On the seventh day the priest is to reexamine him, and if he sees that the infection is unchanged and has not spread on the skin, the priest must isolate him for another seven days.
+**⁵** On the seventh day the priest is to reexamine him, and if he sees that the infection is unchanged and has not spread on the skin, the priest must isolate him for another seven days.
 
-<sup>6</sup> The priest will examine him again on the seventh day, and if the sore has faded and has not spread on the skin, the priest shall pronounce him clean; it is a rash. The person must wash his clothes and be clean.
+**⁶** The priest will examine him again on the seventh day, and if the sore has faded and has not spread on the skin, the priest shall pronounce him clean; it is a rash. The person must wash his clothes and be clean.
 
-<sup>7</sup> But if the rash spreads further on his skin after he has shown himself to the priest for his cleansing, he must present himself again to the priest.
+**⁷** But if the rash spreads further on his skin after he has shown himself to the priest for his cleansing, he must present himself again to the priest.
 
-<sup>8</sup> The priest will reexamine him, and if the rash has spread on the skin, the priest must pronounce him unclean; it is a skin disease.
+**⁸** The priest will reexamine him, and if the rash has spread on the skin, the priest must pronounce him unclean; it is a skin disease.
 
-<sup>9</sup> When anyone develops a skin disease, he must be brought to the priest.
+**⁹** When anyone develops a skin disease, he must be brought to the priest.
 
-<sup>10</sup> The priest will examine him, and if there is a white swelling on the skin that has turned the hair white, and there is raw flesh in the swelling,
+**¹⁰** The priest will examine him, and if there is a white swelling on the skin that has turned the hair white, and there is raw flesh in the swelling,
 
-<sup>11</sup> it is a chronic skin disease and the priest must pronounce him unclean. He need not isolate him, for he is unclean.
+**¹¹** it is a chronic skin disease and the priest must pronounce him unclean. He need not isolate him, for he is unclean.
 
-<sup>12</sup> But if the skin disease breaks out all over his skin so that it covers all the skin of the infected person from head to foot, as far as the priest can see,
+**¹²** But if the skin disease breaks out all over his skin so that it covers all the skin of the infected person from head to foot, as far as the priest can see,
 
-<sup>13</sup> the priest shall examine him, and if the disease has covered his entire body, he is to pronounce the infected person clean. Since it has all turned white, he is clean.
+**¹³** the priest shall examine him, and if the disease has covered his entire body, he is to pronounce the infected person clean. Since it has all turned white, he is clean.
 
-<sup>14</sup> But whenever raw flesh appears on someone, he will be unclean.
+**¹⁴** But whenever raw flesh appears on someone, he will be unclean.
 
-<sup>15</sup> When the priest sees the raw flesh, he must pronounce him unclean. The raw flesh is unclean; it is a skin disease.
+**¹⁵** When the priest sees the raw flesh, he must pronounce him unclean. The raw flesh is unclean; it is a skin disease.
 
-<sup>16</sup> But if the raw flesh changes and turns white, he must go to the priest.
+**¹⁶** But if the raw flesh changes and turns white, he must go to the priest.
 
-<sup>17</sup> The priest will reexamine him, and if the infection has turned white, the priest is to pronounce the infected person clean; then he is clean.
+**¹⁷** The priest will reexamine him, and if the infection has turned white, the priest is to pronounce the infected person clean; then he is clean.
 
-<sup>18</sup> When a boil appears on someone’s skin and it heals,
+**¹⁸** When a boil appears on someone’s skin and it heals,
 
-<sup>19</sup> and a white swelling or a reddish-white spot develops where the boil was, he must present himself to the priest.
+**¹⁹** and a white swelling or a reddish-white spot develops where the boil was, he must present himself to the priest.
 
-<sup>20</sup> The priest shall examine it, and if it appears to be beneath the skin and the hair in it has turned white, the priest shall pronounce him unclean; it is a diseased infection that has broken out in the boil.
+**²⁰** The priest shall examine it, and if it appears to be beneath the skin and the hair in it has turned white, the priest shall pronounce him unclean; it is a diseased infection that has broken out in the boil.
 
-<sup>21</sup> But when the priest examines it, if there is no white hair in it, and it is not beneath the skin and has faded, the priest shall isolate him for seven days.
+**²¹** But when the priest examines it, if there is no white hair in it, and it is not beneath the skin and has faded, the priest shall isolate him for seven days.
 
-<sup>22</sup> If it spreads any further on the skin, the priest must pronounce him unclean; it is an infection.
+**²²** If it spreads any further on the skin, the priest must pronounce him unclean; it is an infection.
 
-<sup>23</sup> But if the spot remains unchanged and does not spread, it is only the scar from the boil, and the priest shall pronounce him clean.
+**²³** But if the spot remains unchanged and does not spread, it is only the scar from the boil, and the priest shall pronounce him clean.
 
-<sup>24</sup> When there is a burn on someone’s skin and the raw area of the burn becomes reddish-white or white,
+**²⁴** When there is a burn on someone’s skin and the raw area of the burn becomes reddish-white or white,
 
-<sup>25</sup> the priest must examine it. If the hair in the spot has turned white and the spot appears to be deeper than the skin, it is a disease that has broken out in the burn. The priest must pronounce him unclean; it is a diseased infection.
+**²⁵** the priest must examine it. If the hair in the spot has turned white and the spot appears to be deeper than the skin, it is a disease that has broken out in the burn. The priest must pronounce him unclean; it is a diseased infection.
 
-<sup>26</sup> But if the priest examines it and there is no white hair in the spot, and it is not beneath the skin but has faded, the priest shall isolate him for seven days.
+**²⁶** But if the priest examines it and there is no white hair in the spot, and it is not beneath the skin but has faded, the priest shall isolate him for seven days.
 
-<sup>27</sup> On the seventh day the priest is to reexamine him, and if it has spread further on the skin, the priest must pronounce him unclean; it is a diseased infection.
+**²⁷** On the seventh day the priest is to reexamine him, and if it has spread further on the skin, the priest must pronounce him unclean; it is a diseased infection.
 
-<sup>28</sup> But if the spot is unchanged and has not spread on the skin but has faded, it is a swelling from the burn, and the priest is to pronounce him clean; for it is only the scar from the burn.
+**²⁸** But if the spot is unchanged and has not spread on the skin but has faded, it is a swelling from the burn, and the priest is to pronounce him clean; for it is only the scar from the burn.
 
-<sup>29</sup> If a man or woman has an infection on the head or chin,
+**²⁹** If a man or woman has an infection on the head or chin,
 
-<sup>30</sup> the priest shall examine the infection, and if it appears to be deeper than the skin and the hair in it is yellow and thin, the priest must pronounce him unclean; it is a scaly outbreak, an infectious disease of the head or chin.
+**³⁰** the priest shall examine the infection, and if it appears to be deeper than the skin and the hair in it is yellow and thin, the priest must pronounce him unclean; it is a scaly outbreak, an infectious disease of the head or chin.
 
-<sup>31</sup> But if the priest examines the scaly infection and it does not appear to be deeper than the skin, and there is no black hair in it, the priest shall isolate the infected person for seven days.
+**³¹** But if the priest examines the scaly infection and it does not appear to be deeper than the skin, and there is no black hair in it, the priest shall isolate the infected person for seven days.
 
-<sup>32</sup> On the seventh day the priest is to reexamine the infection, and if the scaly outbreak has not spread and there is no yellow hair in it, and it does not appear to be deeper than the skin,
+**³²** On the seventh day the priest is to reexamine the infection, and if the scaly outbreak has not spread and there is no yellow hair in it, and it does not appear to be deeper than the skin,
 
-<sup>33</sup> then the person must shave himself except for the scaly area. Then the priest shall isolate him for another seven days.
+**³³** then the person must shave himself except for the scaly area. Then the priest shall isolate him for another seven days.
 
-<sup>34</sup> On the seventh day the priest shall examine the scaly outbreak, and if it has not spread on the skin and does not appear to be deeper than the skin, the priest is to pronounce him clean. He must wash his clothes, and he will be clean.
+**³⁴** On the seventh day the priest shall examine the scaly outbreak, and if it has not spread on the skin and does not appear to be deeper than the skin, the priest is to pronounce him clean. He must wash his clothes, and he will be clean.
 
-<sup>35</sup> If, however, the scaly outbreak spreads further on the skin after his cleansing,
+**³⁵** If, however, the scaly outbreak spreads further on the skin after his cleansing,
 
-<sup>36</sup> the priest is to examine him, and if the scaly outbreak has spread on the skin, the priest need not look for yellow hair; the person is unclean.
+**³⁶** the priest is to examine him, and if the scaly outbreak has spread on the skin, the priest need not look for yellow hair; the person is unclean.
 
-<sup>37</sup> If, however, in his sight the scaly outbreak is unchanged and black hair has grown in it, then it has healed. He is clean, and the priest is to pronounce him clean.
+**³⁷** If, however, in his sight the scaly outbreak is unchanged and black hair has grown in it, then it has healed. He is clean, and the priest is to pronounce him clean.
 
-<sup>38</sup> When a man or a woman has white spots on the skin,
+**³⁸** When a man or a woman has white spots on the skin,
 
-<sup>39</sup> the priest shall examine them, and if the spots are dull white, it is a harmless rash that has broken out on the skin; the person is clean.
+**³⁹** the priest shall examine them, and if the spots are dull white, it is a harmless rash that has broken out on the skin; the person is clean.
 
-<sup>40</sup> Now if a man loses his hair and is bald, he is still clean.
+**⁴⁰** Now if a man loses his hair and is bald, he is still clean.
 
-<sup>41</sup> Or if his hairline recedes and he is bald on his forehead, he is still clean.
+**⁴¹** Or if his hairline recedes and he is bald on his forehead, he is still clean.
 
-<sup>42</sup> But if there is a reddish-white sore on the bald head or forehead, it is an infectious disease breaking out on it.
+**⁴²** But if there is a reddish-white sore on the bald head or forehead, it is an infectious disease breaking out on it.
 
-<sup>43</sup> The priest is to examine him, and if the swelling of the infection on his bald head or forehead is reddish-white like a skin disease,
+**⁴³** The priest is to examine him, and if the swelling of the infection on his bald head or forehead is reddish-white like a skin disease,
 
-<sup>44</sup> the man is diseased; he is unclean. The priest must pronounce him unclean because of the infection on his head.
+**⁴⁴** the man is diseased; he is unclean. The priest must pronounce him unclean because of the infection on his head.
 
-<sup>45</sup> A diseased person must wear torn clothes and let his hair hang loose,[^468] and he must cover his mouth and cry out, ‘Unclean, unclean!’
+**⁴⁵** A diseased person must wear torn clothes and let his hair hang loose,[^468] and he must cover his mouth and cry out, ‘Unclean, unclean!’
 
-<sup>46</sup> As long as he has the infection, he remains unclean. He must live alone in a place outside the camp.
+**⁴⁶** As long as he has the infection, he remains unclean. He must live alone in a place outside the camp.
 
 ## Laws about Mildew
 
-<sup>47</sup> If any fabric is contaminated with mildew [^469]—any wool or linen garment,
+**⁴⁷** If any fabric is contaminated with mildew [^469]—any wool or linen garment,
 
-<sup>48</sup> any weave or knit of linen or wool, or any article of leather—
+**⁴⁸** any weave or knit of linen or wool, or any article of leather—
 
-<sup>49</sup> and if the mark in the fabric, leather, weave, knit, or leather article is green or red, then it is contaminated with mildew and must be shown to the priest.
+**⁴⁹** and if the mark in the fabric, leather, weave, knit, or leather article is green or red, then it is contaminated with mildew and must be shown to the priest.
 
-<sup>50</sup> And the priest is to examine the mildew and isolate the contaminated fabric for seven days.
+**⁵⁰** And the priest is to examine the mildew and isolate the contaminated fabric for seven days.
 
-<sup>51</sup> On the seventh day the priest shall reexamine it, and if the mildew has spread in the fabric, weave, knit, or leather, then regardless of how it is used, it is a harmful mildew; the article is unclean.
+**⁵¹** On the seventh day the priest shall reexamine it, and if the mildew has spread in the fabric, weave, knit, or leather, then regardless of how it is used, it is a harmful mildew; the article is unclean.
 
-<sup>52</sup> He is to burn the fabric, weave, or knit, whether the contaminated item is wool or linen or leather. Since the mildew is harmful, the article must be burned up.
+**⁵²** He is to burn the fabric, weave, or knit, whether the contaminated item is wool or linen or leather. Since the mildew is harmful, the article must be burned up.
 
-<sup>53</sup> But when the priest reexamines it, if the mildew has not spread in the fabric, weave, knit, or leather article,
+**⁵³** But when the priest reexamines it, if the mildew has not spread in the fabric, weave, knit, or leather article,
 
-<sup>54</sup> the priest is to order the contaminated article to be washed and isolated for another seven days.
+**⁵⁴** the priest is to order the contaminated article to be washed and isolated for another seven days.
 
-<sup>55</sup> After it has been washed, the priest is to reexamine it, and if the mildewed article has not changed in appearance, it is unclean. Even though the mildew has not spread, you must burn it, whether the rot is on the front or back.
+**⁵⁵** After it has been washed, the priest is to reexamine it, and if the mildewed article has not changed in appearance, it is unclean. Even though the mildew has not spread, you must burn it, whether the rot is on the front or back.
 
-<sup>56</sup> If the priest examines it and the mildew has faded after it has been washed, he must cut the contaminated section out of the fabric, leather, weave, or knit.
+**⁵⁶** If the priest examines it and the mildew has faded after it has been washed, he must cut the contaminated section out of the fabric, leather, weave, or knit.
 
-<sup>57</sup> But if it reappears in the fabric, weave, or knit, or on any leather article, it is spreading. You must burn the contaminated article.
+**⁵⁷** But if it reappears in the fabric, weave, or knit, or on any leather article, it is spreading. You must burn the contaminated article.
 
-<sup>58</sup> If the mildew disappears from the fabric, weave, or knit, or any leather article after washing, then it is to be washed again, and it will be clean.
+**⁵⁸** If the mildew disappears from the fabric, weave, or knit, or any leather article after washing, then it is to be washed again, and it will be clean.
 
-<sup>59</sup> This is the law concerning a mildew contamination in wool or linen fabric, weave, or knit, or any leather article, for pronouncing it clean or unclean.”
+**⁵⁹** This is the law concerning a mildew contamination in wool or linen fabric, weave, or knit, or any leather article, for pronouncing it clean or unclean.”
 
 [^467]: 13:2 Forms of the Hebrew tzaraath, traditionally translated as leprosy, were used for various skin diseases; here and throughout verses 3–46.
 [^468]: 13:45 Or uncover his head

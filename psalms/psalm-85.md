@@ -8,30 +8,30 @@ weight: 85
 
 For the choirmaster. A Psalm of the sons of Korah.
 
-<sup>1</sup> You showed favor to Your land, O LORD; You restored Jacob from captivity.[^2329]
+**¹** You showed favor to Your land, O LORD; You restored Jacob from captivity.[^2329]
 
-<sup>2</sup> You forgave the iniquity of Your people; You covered all their sin. Selah
+**²** You forgave the iniquity of Your people; You covered all their sin. Selah
 
-<sup>3</sup> You withheld all Your fury; You turned from Your burning anger.
+**³** You withheld all Your fury; You turned from Your burning anger.
 
-<sup>4</sup> Restore us, O God of our salvation, and put away Your displeasure toward us.
+**⁴** Restore us, O God of our salvation, and put away Your displeasure toward us.
 
-<sup>5</sup> Will You be angry with us forever? Will You draw out Your anger to all generations?
+**⁵** Will You be angry with us forever? Will You draw out Your anger to all generations?
 
-<sup>6</sup> Will You not revive us again, that Your people may rejoice in You?
+**⁶** Will You not revive us again, that Your people may rejoice in You?
 
-<sup>7</sup> Show us Your loving devotion, O LORD, and grant us Your salvation.
+**⁷** Show us Your loving devotion, O LORD, and grant us Your salvation.
 
-<sup>8</sup> I will listen to what God the LORD will say; for He will surely speak peace to His people and His saints; He will not let them return to folly.
+**⁸** I will listen to what God the LORD will say; for He will surely speak peace to His people and His saints; He will not let them return to folly.
 
-<sup>9</sup> Surely His salvation is near to those who fear Him, that His glory may dwell in our land.
+**⁹** Surely His salvation is near to those who fear Him, that His glory may dwell in our land.
 
-<sup>10</sup> Loving devotion and faithfulness have joined together; righteousness and peace have kissed.
+**¹⁰** Loving devotion and faithfulness have joined together; righteousness and peace have kissed.
 
-<sup>11</sup> Faithfulness sprouts from the earth, and righteousness looks down from heaven.
+**¹¹** Faithfulness sprouts from the earth, and righteousness looks down from heaven.
 
-<sup>12</sup> The LORD will indeed provide what is good, and our land will yield its increase.
+**¹²** The LORD will indeed provide what is good, and our land will yield its increase.
 
-<sup>13</sup> Righteousness will go before Him to prepare the way for His steps.
+**¹³** Righteousness will go before Him to prepare the way for His steps.
 
 [^2329]: 85:1 Or restored the fortunes of Jacob

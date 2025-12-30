@@ -8,49 +8,49 @@ weight: 25
 
 Of David.[^2196]
 
-<sup>1</sup> To You, O LORD, I lift up my soul;
+**¹** To You, O LORD, I lift up my soul;
 
-<sup>2</sup> in You, my God, I trust. Do not let me be put to shame; do not let my enemies exult over me.
+**²** in You, my God, I trust. Do not let me be put to shame; do not let my enemies exult over me.
 
-<sup>3</sup> Surely none who wait for You will be put to shame; but those who engage in treachery without cause will be disgraced.
+**³** Surely none who wait for You will be put to shame; but those who engage in treachery without cause will be disgraced.
 
-<sup>4</sup> Show me Your ways, O LORD; teach me Your paths.
+**⁴** Show me Your ways, O LORD; teach me Your paths.
 
-<sup>5</sup> Guide me in Your truth and teach me, for You are the God of my salvation; all day long I wait for You.
+**⁵** Guide me in Your truth and teach me, for You are the God of my salvation; all day long I wait for You.
 
-<sup>6</sup> Remember, O LORD, Your compassion and loving devotion, for they are from age to age.
+**⁶** Remember, O LORD, Your compassion and loving devotion, for they are from age to age.
 
-<sup>7</sup> Remember not the sins of my youth, nor my rebellious acts; remember me according to Your loving devotion, because of Your goodness, O LORD.
+**⁷** Remember not the sins of my youth, nor my rebellious acts; remember me according to Your loving devotion, because of Your goodness, O LORD.
 
-<sup>8</sup> Good and upright is the LORD; therefore He shows sinners the way.
+**⁸** Good and upright is the LORD; therefore He shows sinners the way.
 
-<sup>9</sup> He guides the humble in what is right and teaches them His way.
+**⁹** He guides the humble in what is right and teaches them His way.
 
-<sup>10</sup> All the LORD’s ways are loving and faithful to those who keep His covenant and His decrees.
+**¹⁰** All the LORD’s ways are loving and faithful to those who keep His covenant and His decrees.
 
-<sup>11</sup> For the sake of Your name, O LORD, forgive my iniquity, for it is great.
+**¹¹** For the sake of Your name, O LORD, forgive my iniquity, for it is great.
 
-<sup>12</sup> Who is the man who fears the LORD? He will instruct him in the path chosen for him.
+**¹²** Who is the man who fears the LORD? He will instruct him in the path chosen for him.
 
-<sup>13</sup> His soul will dwell in prosperity, and his descendants will inherit the land.
+**¹³** His soul will dwell in prosperity, and his descendants will inherit the land.
 
-<sup>14</sup> The LORD confides in those who fear Him, and reveals His covenant to them.
+**¹⁴** The LORD confides in those who fear Him, and reveals His covenant to them.
 
-<sup>15</sup> My eyes are always on the LORD, for He will free my feet from the mesh.
+**¹⁵** My eyes are always on the LORD, for He will free my feet from the mesh.
 
-<sup>16</sup> Turn to me and be gracious, for I am lonely and afflicted.
+**¹⁶** Turn to me and be gracious, for I am lonely and afflicted.
 
-<sup>17</sup> The troubles of my heart increase; free me from my distress.
+**¹⁷** The troubles of my heart increase; free me from my distress.
 
-<sup>18</sup> Consider my affliction and trouble, and take away all my sins.
+**¹⁸** Consider my affliction and trouble, and take away all my sins.
 
-<sup>19</sup> Consider my enemies, for they are many, and they hate me with vicious hatred.
+**¹⁹** Consider my enemies, for they are many, and they hate me with vicious hatred.
 
-<sup>20</sup> Guard my soul and deliver me; let me not be put to shame, for I take refuge in You.
+**²⁰** Guard my soul and deliver me; let me not be put to shame, for I take refuge in You.
 
-<sup>21</sup> May integrity and uprightness preserve me, because I wait for You.[^2197]
+**²¹** May integrity and uprightness preserve me, because I wait for You.[^2197]
 
-<sup>22</sup> Redeem Israel, O God, from all its distress.
+**²²** Redeem Israel, O God, from all its distress.
 
 [^2196]: 25:0 This psalm is an acrostic poem, each verse beginning with the successive letters of the Hebrew alphabet.
 [^2197]: 25:21 Or because my hope is in You; LXX because I wait for You, O Lord

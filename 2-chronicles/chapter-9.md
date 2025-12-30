@@ -8,75 +8,75 @@ weight: 9
 
 **(1 Kings 10:1–13)**
 
-<sup>1</sup> Now when the queen of Sheba heard about the fame of Solomon, she came to test him with difficult questions. She arrived in Jerusalem with a very large caravan—with camels bearing spices, gold in abundance, and precious stones. And she came to Solomon and spoke with him about all that was on her mind.
+**¹** Now when the queen of Sheba heard about the fame of Solomon, she came to test him with difficult questions. She arrived in Jerusalem with a very large caravan—with camels bearing spices, gold in abundance, and precious stones. And she came to Solomon and spoke with him about all that was on her mind.
 
-<sup>2</sup> And Solomon answered all her questions; nothing was too difficult for him to explain.
+**²** And Solomon answered all her questions; nothing was too difficult for him to explain.
 
-<sup>3</sup> When the queen of Sheba saw the wisdom of Solomon, the palace he had built,
+**³** When the queen of Sheba saw the wisdom of Solomon, the palace he had built,
 
-<sup>4</sup> the food at his table, the seating of his servants, the service and attire of his attendants, the attire of his cupbearers, and the burnt offerings he presented [^1746] at the house of the LORD, it took her breath away.
+**⁴** the food at his table, the seating of his servants, the service and attire of his attendants, the attire of his cupbearers, and the burnt offerings he presented [^1746] at the house of the LORD, it took her breath away.
 
-<sup>5</sup> She said to the king, “The report I heard in my own country about your words [^1747] and wisdom is true.
+**⁵** She said to the king, “The report I heard in my own country about your words [^1747] and wisdom is true.
 
-<sup>6</sup> But I did not believe the reports until I came and saw with my own eyes. Indeed, not half of the greatness of your wisdom was told to me. You have far exceeded the report I heard.
+**⁶** But I did not believe the reports until I came and saw with my own eyes. Indeed, not half of the greatness of your wisdom was told to me. You have far exceeded the report I heard.
 
-<sup>7</sup> How blessed are your men! How blessed are these servants of yours who stand continually before you and hear your wisdom!
+**⁷** How blessed are your men! How blessed are these servants of yours who stand continually before you and hear your wisdom!
 
-<sup>8</sup> Blessed be the LORD your God, who has delighted in you to set you on His throne to be king for the LORD your God. Because your God loved Israel enough to establish them forever, He has made you king over them to carry out justice and righteousness.”
+**⁸** Blessed be the LORD your God, who has delighted in you to set you on His throne to be king for the LORD your God. Because your God loved Israel enough to establish them forever, He has made you king over them to carry out justice and righteousness.”
 
-<sup>9</sup> Then she gave the king 120 talents of gold,[^1748] a great quantity of spices, and precious stones. There had never been such spices as those the queen of Sheba gave to King Solomon.
+**⁹** Then she gave the king 120 talents of gold,[^1748] a great quantity of spices, and precious stones. There had never been such spices as those the queen of Sheba gave to King Solomon.
 
-<sup>10</sup> (The servants of Hiram and of Solomon who brought gold from Ophir also brought algum [^1749] wood and precious stones.
+**¹⁰** (The servants of Hiram and of Solomon who brought gold from Ophir also brought algum [^1749] wood and precious stones.
 
-<sup>11</sup> The king made the algum wood into steps [^1750] for the house of the LORD and for the king’s palace, and into lyres and harps for the singers. Never before had anything like them been seen in the land of Judah.)
+**¹¹** The king made the algum wood into steps [^1750] for the house of the LORD and for the king’s palace, and into lyres and harps for the singers. Never before had anything like them been seen in the land of Judah.)
 
-<sup>12</sup> King Solomon gave the queen of Sheba all she desired—whatever she asked—far more than she had brought the king. Then she left and returned to her own country, along with her servants.
+**¹²** King Solomon gave the queen of Sheba all she desired—whatever she asked—far more than she had brought the king. Then she left and returned to her own country, along with her servants.
 
 ## Solomon’s Wealth and Splendor
 
 **(1 Kings 10:14–29)**
 
-<sup>13</sup> The weight of gold that came to Solomon each year was 666 talents,[^1751]
+**¹³** The weight of gold that came to Solomon each year was 666 talents,[^1751]
 
-<sup>14</sup> not including the revenue from the merchants and traders. And all the Arabian kings and governors of the land also brought gold and silver to Solomon.
+**¹⁴** not including the revenue from the merchants and traders. And all the Arabian kings and governors of the land also brought gold and silver to Solomon.
 
-<sup>15</sup> King Solomon made two hundred large shields of hammered gold; six hundred shekels of hammered gold [^1752] went into each shield.
+**¹⁵** King Solomon made two hundred large shields of hammered gold; six hundred shekels of hammered gold [^1752] went into each shield.
 
-<sup>16</sup> He also made three hundred small shields of hammered gold; three hundred shekels of gold [^1753] went into each shield. And the king put them in the House of the Forest of Lebanon.
+**¹⁶** He also made three hundred small shields of hammered gold; three hundred shekels of gold [^1753] went into each shield. And the king put them in the House of the Forest of Lebanon.
 
-<sup>17</sup> Additionally, the king made a great throne of ivory and overlaid it with pure gold.
+**¹⁷** Additionally, the king made a great throne of ivory and overlaid it with pure gold.
 
-<sup>18</sup> The throne had six steps, and a footstool of gold was attached to it. There were armrests on both sides of the seat, with a lion standing beside each armrest.
+**¹⁸** The throne had six steps, and a footstool of gold was attached to it. There were armrests on both sides of the seat, with a lion standing beside each armrest.
 
-<sup>19</sup> Twelve lions stood on the six steps, one at either end of each step. Nothing like this had ever been made for any kingdom.
+**¹⁹** Twelve lions stood on the six steps, one at either end of each step. Nothing like this had ever been made for any kingdom.
 
-<sup>20</sup> All King Solomon’s drinking cups were gold, and all the utensils of the House of the Forest of Lebanon were pure gold. There was no silver, because it was accounted as nothing in the days of Solomon.
+**²⁰** All King Solomon’s drinking cups were gold, and all the utensils of the House of the Forest of Lebanon were pure gold. There was no silver, because it was accounted as nothing in the days of Solomon.
 
-<sup>21</sup> For the king had the ships of Tarshish [^1754] that went with Hiram’s [^1755] servants, and once every three years the ships of Tarshish would arrive bearing gold, silver, ivory, apes, and peacocks.[^1756]
+**²¹** For the king had the ships of Tarshish [^1754] that went with Hiram’s [^1755] servants, and once every three years the ships of Tarshish would arrive bearing gold, silver, ivory, apes, and peacocks.[^1756]
 
-<sup>22</sup> So King Solomon surpassed all the kings of the earth in riches and wisdom.
+**²²** So King Solomon surpassed all the kings of the earth in riches and wisdom.
 
-<sup>23</sup> All the kings of the earth sought an audience with Solomon to hear the wisdom that God had put in his heart.
+**²³** All the kings of the earth sought an audience with Solomon to hear the wisdom that God had put in his heart.
 
-<sup>24</sup> Year after year, each visitor would bring his tribute: articles of silver and gold, clothing, weapons, spices, horses, and mules.
+**²⁴** Year after year, each visitor would bring his tribute: articles of silver and gold, clothing, weapons, spices, horses, and mules.
 
-<sup>25</sup> Solomon had 4,000 stalls for horses and chariots, and 12,000 horses,[^1757] which he stationed in the chariot cities and also with him in Jerusalem.
+**²⁵** Solomon had 4,000 stalls for horses and chariots, and 12,000 horses,[^1757] which he stationed in the chariot cities and also with him in Jerusalem.
 
-<sup>26</sup> He reigned over all the kings from the Euphrates [^1758] to the land of the Philistines, as far as the border of Egypt.
+**²⁶** He reigned over all the kings from the Euphrates [^1758] to the land of the Philistines, as far as the border of Egypt.
 
-<sup>27</sup> The king made silver as common in Jerusalem as stones, and cedar as abundant as sycamore in the foothills.[^1759]
+**²⁷** The king made silver as common in Jerusalem as stones, and cedar as abundant as sycamore in the foothills.[^1759]
 
-<sup>28</sup> Solomon’s horses were imported from Egypt and from all the lands.
+**²⁸** Solomon’s horses were imported from Egypt and from all the lands.
 
 ## The Death of Solomon
 
 **(1 Kings 11:41–43)**
 
-<sup>29</sup> As for the rest of the acts of Solomon, from beginning to end, are they not written in the Records of Nathan the Prophet, in the Prophecy of Ahijah the Shilonite, and in the Visions of Iddo the Seer concerning Jeroboam son of Nebat?
+**²⁹** As for the rest of the acts of Solomon, from beginning to end, are they not written in the Records of Nathan the Prophet, in the Prophecy of Ahijah the Shilonite, and in the Visions of Iddo the Seer concerning Jeroboam son of Nebat?
 
-<sup>30</sup> Solomon reigned in Jerusalem over all Israel forty years.
+**³⁰** Solomon reigned in Jerusalem over all Israel forty years.
 
-<sup>31</sup> And Solomon rested with his fathers and was buried in the city of his father David. And his son Rehoboam reigned in his place.
+**³¹** And Solomon rested with his fathers and was buried in the city of his father David. And his son Rehoboam reigned in his place.
 
 [^1746]: 9:4 LXX and Syriac (see also 1 Kings 10:5); Hebrew and his stairway by which he went up
 [^1747]: 9:5 Or your achievements

@@ -8,53 +8,53 @@ weight: 21
 
 **(2 Kings 8:16–19)**
 
-<sup>1</sup> And Jehoshaphat rested with his fathers and was buried with them in the City of David. And his son Jehoram reigned in his place.
+**¹** And Jehoshaphat rested with his fathers and was buried with them in the City of David. And his son Jehoram reigned in his place.
 
-<sup>2</sup> Jehoram’s brothers, the sons of Jehoshaphat, were Azariah, Jehiel, Zechariah, Azariah, Michael, and Shephatiah; these were all sons of Jehoshaphat king of Israel.[^1792]
+**²** Jehoram’s brothers, the sons of Jehoshaphat, were Azariah, Jehiel, Zechariah, Azariah, Michael, and Shephatiah; these were all sons of Jehoshaphat king of Israel.[^1792]
 
-<sup>3</sup> Their father had given them many gifts of silver and gold and precious things, as well as the fortified cities in Judah; but he gave the kingdom to Jehoram because he was the firstborn.
+**³** Their father had given them many gifts of silver and gold and precious things, as well as the fortified cities in Judah; but he gave the kingdom to Jehoram because he was the firstborn.
 
-<sup>4</sup> When Jehoram had established himself over his father’s kingdom, he strengthened himself by putting to the sword all his brothers along with some of the princes of Israel.
+**⁴** When Jehoram had established himself over his father’s kingdom, he strengthened himself by putting to the sword all his brothers along with some of the princes of Israel.
 
-<sup>5</sup> Jehoram was thirty-two years old when he became king, and he reigned in Jerusalem eight years.
+**⁵** Jehoram was thirty-two years old when he became king, and he reigned in Jerusalem eight years.
 
-<sup>6</sup> And Jehoram walked in the ways of the kings of Israel, just as the house of Ahab had done. For he married a daughter of Ahab and did evil in the sight of the LORD.
+**⁶** And Jehoram walked in the ways of the kings of Israel, just as the house of Ahab had done. For he married a daughter of Ahab and did evil in the sight of the LORD.
 
-<sup>7</sup> Yet the LORD was unwilling to destroy the house of David, because of the covenant He had made with David, and since He had promised to maintain a lamp for David and his descendants forever.
+**⁷** Yet the LORD was unwilling to destroy the house of David, because of the covenant He had made with David, and since He had promised to maintain a lamp for David and his descendants forever.
 
 ## Edom and Libnah Rebel
 
 **(2 Kings 8:20–24)**
 
-<sup>8</sup> In the days of Jehoram, Edom rebelled against the hand of Judah and appointed their own king.
+**⁸** In the days of Jehoram, Edom rebelled against the hand of Judah and appointed their own king.
 
-<sup>9</sup> So Jehoram crossed into Edom with his officers and all his chariots. When the Edomites surrounded him and his chariot commanders, he rose up and attacked [^1793] by night.
+**⁹** So Jehoram crossed into Edom with his officers and all his chariots. When the Edomites surrounded him and his chariot commanders, he rose up and attacked [^1793] by night.
 
-<sup>10</sup> So to this day Edom has been in rebellion against the hand of Judah. Likewise, Libnah rebelled against his hand at the same time, because Jehoram had forsaken the LORD, the God of his fathers.
+**¹⁰** So to this day Edom has been in rebellion against the hand of Judah. Likewise, Libnah rebelled against his hand at the same time, because Jehoram had forsaken the LORD, the God of his fathers.
 
-<sup>11</sup> Jehoram had also built high places on the hills of Judah; he had caused the people of Jerusalem to prostitute themselves and had led Judah astray.
+**¹¹** Jehoram had also built high places on the hills of Judah; he had caused the people of Jerusalem to prostitute themselves and had led Judah astray.
 
 ## Elijah’s Letter to Jehoram
 
-<sup>12</sup> Then a letter came to Jehoram from Elijah the prophet, which stated: “This is what the LORD, the God of your father David, says: ‘You have not walked in the ways of your father Jehoshaphat or of Asa king of Judah,
+**¹²** Then a letter came to Jehoram from Elijah the prophet, which stated: “This is what the LORD, the God of your father David, says: ‘You have not walked in the ways of your father Jehoshaphat or of Asa king of Judah,
 
-<sup>13</sup> but you have walked in the ways of the kings of Israel and have caused Judah and the people of Jerusalem to prostitute themselves, just as the house of Ahab prostituted itself. You have also killed your brothers, your father’s family, who were better than you.
+**¹³** but you have walked in the ways of the kings of Israel and have caused Judah and the people of Jerusalem to prostitute themselves, just as the house of Ahab prostituted itself. You have also killed your brothers, your father’s family, who were better than you.
 
-<sup>14</sup> So behold, the LORD is about to strike your people, your sons, your wives, and all your possessions with a serious blow.
+**¹⁴** So behold, the LORD is about to strike your people, your sons, your wives, and all your possessions with a serious blow.
 
-<sup>15</sup> And day after day you yourself will suffer from a severe illness, a disease of your bowels, until it causes your bowels to come out.’”
+**¹⁵** And day after day you yourself will suffer from a severe illness, a disease of your bowels, until it causes your bowels to come out.’”
 
 ## Jehoram’s Disease and Death
 
-<sup>16</sup> Then the LORD stirred against Jehoram the spirit of the Philistines and Arabs who lived near the Cushites.
+**¹⁶** Then the LORD stirred against Jehoram the spirit of the Philistines and Arabs who lived near the Cushites.
 
-<sup>17</sup> So they went to war against Judah, invaded it, and carried off all the possessions found in the king’s palace, along with his sons and wives; not a son was left to him except Jehoahaz,[^1794] his youngest.
+**¹⁷** So they went to war against Judah, invaded it, and carried off all the possessions found in the king’s palace, along with his sons and wives; not a son was left to him except Jehoahaz,[^1794] his youngest.
 
-<sup>18</sup> After all this, the LORD afflicted Jehoram with an incurable disease of the bowels.
+**¹⁸** After all this, the LORD afflicted Jehoram with an incurable disease of the bowels.
 
-<sup>19</sup> This continued day after day until two full years had passed. Finally, his intestines came out because of his disease, and he died in severe pain. And his people did not make a fire in his honor as they had done for his fathers.
+**¹⁹** This continued day after day until two full years had passed. Finally, his intestines came out because of his disease, and he died in severe pain. And his people did not make a fire in his honor as they had done for his fathers.
 
-<sup>20</sup> Jehoram was thirty-two years old when he became king, and he reigned in Jerusalem eight years. He died, to no one’s regret, and was buried in the City of David, but not in the tombs of the kings.
+**²⁰** Jehoram was thirty-two years old when he became king, and he reigned in Jerusalem eight years. He died, to no one’s regret, and was buried in the City of David, but not in the tombs of the kings.
 
 [^1792]: 21:2 That is, Judah; in 2 Chronicles, Judah is occasionally called Israel, as representative of the true Israel.
 [^1793]: 21:9 Or he went out and escaped
