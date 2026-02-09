@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 45 BSB | Read the Bible Online"
+linkTitle: "45"
+description: "Read Ezekiel 45 Online | “When you divide the land by lot as an inheritance, you are to set aside a portion for the LORD, a holy portion of the land 25,000 cubits long and 20,000 cubits wide.[^3168] This entire tract of land will be holy..."
 weight: 45
 ---
 
-# Chapter 45
+# Ezekiel 45 
 
 ## Consecration of the Land
 

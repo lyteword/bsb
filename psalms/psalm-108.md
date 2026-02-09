@@ -1,8 +1,11 @@
 ---
+title: "Psalm 108 BSB | Read the Bible Online"
+linkTitle: "108"
+description: "Read Psalm 108 Online | My heart is steadfast, O God; I will sing and make music with all my being.[^2373..."
 weight: 108
 ---
 
-# Psalm 108
+# Psalm 108 
 
 ## Israel’s Kingdom Blessing
 

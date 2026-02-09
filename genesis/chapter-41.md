@@ -1,8 +1,11 @@
 ---
+title: "Genesis 41 BSB | Read the Bible Online"
+linkTitle: "41"
+description: "Read Genesis 41 Online | After two full years had passed, Pharaoh had a dream: He was standing beside the Nile..."
 weight: 41
 ---
 
-# Chapter 41
+# Genesis 41 
 
 ## The Dreams of Pharaoh
 

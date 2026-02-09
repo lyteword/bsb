@@ -1,8 +1,11 @@
 ---
+title: "Hosea 12 BSB | Read the Bible Online"
+linkTitle: "12"
+description: "Read Hosea 12 Online | Ephraim [^3324] feeds on the wind and pursues the east wind all day long; he multiplies lies and violence; he makes a covenant with Assyria and sends olive oil to Egypt..."
 weight: 12
 ---
 
-# Chapter 12
+# Hosea 12 
 
 ## A Reproof of Ephraim, Judah, and Jacob
 

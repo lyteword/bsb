@@ -1,8 +1,11 @@
 ---
+title: "Ephesians 3 BSB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Ephesians 3 Online | For this reason I, Paul, the prisoner of Christ Jesus for the sake of you Gentiles...[^4502..."
 weight: 3
 ---
 
-# Chapter 3
+# Ephesians 3 
 
 ## The Mystery of the Gospel
 

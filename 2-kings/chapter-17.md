@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 17 BSB | Read the Bible Online"
+linkTitle: "17"
+description: "Read 2 Kings 17 Online | In the twelfth year of the reign of Ahaz over Judah, Hoshea son of Elah became king of Israel, and he reigned in Samaria nine years..."
 weight: 17
 ---
 
-# Chapter 17
+# 2 Kings 17 
 
 ## Hoshea the Last King of Israel
 

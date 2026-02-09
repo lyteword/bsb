@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 12 BSB | Read the Bible Online"
+linkTitle: "12"
+description: "Read Proverbs 12 Online | Whoever loves discipline loves knowledge, but he who hates correction is stupid..."
 weight: 12
 ---
 
-# Chapter 12
+# Proverbs 12 
 
 ## Loving Discipline and Knowledge
 

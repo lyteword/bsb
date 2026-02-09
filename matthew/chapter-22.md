@@ -1,8 +1,11 @@
 ---
+title: "Matthew 22 BSB | Read the Bible Online"
+linkTitle: "22"
+description: "Read Matthew 22 Online | Once again, Jesus spoke to them in parables..."
 weight: 22
 ---
 
-# Chapter 22
+# Matthew 22 
 
 ## The Parable of the Banquet
 

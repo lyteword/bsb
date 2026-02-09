@@ -1,8 +1,11 @@
 ---
+title: "Jonah 1 BSB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Jonah 1 Online | Now the word of the LORD came to Jonah son of Amittai, saying..."
 weight: 1
 ---
 
-# Chapter 1
+# Jonah 1 
 
 ## Jonah Flees from the LORD
 

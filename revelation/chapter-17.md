@@ -1,8 +1,11 @@
 ---
+title: "Revelation 17 BSB | Read the Bible Online"
+linkTitle: "17"
+description: "Read Revelation 17 Online | Then one of the seven angels with the seven bowls came and said to me, “Come, I will show you the punishment of the great prostitute, who sits on many waters..."
 weight: 17
 ---
 
-# Chapter 17
+# Revelation 17 
 
 ## The Woman on the Beast
 

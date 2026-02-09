@@ -1,8 +1,11 @@
 ---
+title: "Genesis 50 BSB | Read the Bible Online"
+linkTitle: "50"
+description: "Read Genesis 50 Online | Then Joseph fell upon his father’s face, wept over him, and kissed him..."
 weight: 50
 ---
 
-# Chapter 50
+# Genesis 50 
 
 ## Mourning and Burial for Jacob
 

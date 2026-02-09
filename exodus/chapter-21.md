@@ -1,8 +1,11 @@
 ---
+title: "Exodus 21 BSB | Read the Bible Online"
+linkTitle: "21"
+description: "Read Exodus 21 Online | “These are the ordinances that you are to set before them..."
 weight: 21
 ---
 
-# Chapter 21
+# Exodus 21 
 
 ## Hebrew Servants
 

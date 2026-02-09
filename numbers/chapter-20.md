@@ -1,8 +1,11 @@
 ---
+title: "Numbers 20 BSB | Read the Bible Online"
+linkTitle: "20"
+description: "Read Numbers 20 Online | In the first month, the whole congregation of Israel entered the Wilderness of Zin and stayed in Kadesh. There Miriam died and was buried..."
 weight: 20
 ---
 
-# Chapter 20
+# Numbers 20 
 
 ## Water from the Rock
 

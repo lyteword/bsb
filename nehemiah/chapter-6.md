@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 6 BSB | Read the Bible Online"
+linkTitle: "6"
+description: "Read Nehemiah 6 Online | When Sanballat, Tobiah, Geshem the Arab, and the rest of our enemies heard that I had rebuilt the wall and not a gap was left—though to that time I had not yet installed the doors in the gates..."
 weight: 6
 ---
 
-# Chapter 6
+# Nehemiah 6 
 
 ## Sanballat’s Conspiracy
 

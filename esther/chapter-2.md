@@ -1,8 +1,11 @@
 ---
+title: "Esther 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Esther 2 Online | Some time later, when the anger of King Xerxes had subsided, he remembered Vashti and what she had done, and what had been decreed against her..."
 weight: 2
 ---
 
-# Chapter 2
+# Esther 2 
 
 ## Seeking Vashti’s Successor
 

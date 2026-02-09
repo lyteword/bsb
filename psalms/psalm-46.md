@@ -1,8 +1,11 @@
 ---
+title: "Psalm 46 BSB | Read the Bible Online"
+linkTitle: "46"
+description: "Read Psalm 46 Online | God is our refuge and strength, an ever-present help in times of trouble..."
 weight: 46
 ---
 
-# Psalm 46
+# Psalm 46 
 
 ## God Is Our Refuge and Strength
 

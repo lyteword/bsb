@@ -1,8 +1,11 @@
 ---
+title: "Acts 11 BSB | Read the Bible Online"
+linkTitle: "11"
+description: "Read Acts 11 Online | The apostles and brothers throughout Judea soon heard that the Gentiles also had received the word of God..."
 weight: 11
 ---
 
-# Chapter 11
+# Acts 11 
 
 ## Peter’s Report at Jerusalem
 

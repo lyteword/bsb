@@ -1,8 +1,11 @@
 ---
+title: "John 19 BSB | Read the Bible Online"
+linkTitle: "19"
+description: "Read John 19 Online | Then Pilate took Jesus and had Him flogged..."
 weight: 19
 ---
 
-# Chapter 19
+# John 19 
 
 ## The Soldiers Mock Jesus
 

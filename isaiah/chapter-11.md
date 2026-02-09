@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 11 BSB | Read the Bible Online"
+linkTitle: "11"
+description: "Read Isaiah 11 Online | Then a shoot will spring up from the stump of Jesse, and a Branch from his roots will bear fruit..."
 weight: 11
 ---
 
-# Chapter 11
+# Isaiah 11 
 
 ## The Root of Jesse
 

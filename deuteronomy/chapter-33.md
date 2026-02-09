@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 33 BSB | Read the Bible Online"
+linkTitle: "33"
+description: "Read Deuteronomy 33 Online | This is the blessing that Moses the man of God pronounced upon the Israelites before his death..."
 weight: 33
 ---
 
-# Chapter 33
+# Deuteronomy 33 
 
 ## Moses Blesses the Twelve Tribes
 

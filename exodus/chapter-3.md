@@ -1,8 +1,11 @@
 ---
+title: "Exodus 3 BSB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Exodus 3 Online | Meanwhile, Moses was shepherding the flock of his father-in-law Jethro,[^240] the priest of Midian. He led the flock to the far side of the wilderness and came to Horeb,[^241] the mountain of God..."
 weight: 3
 ---
 
-# Chapter 3
+# Exodus 3 
 
 ## Moses at the Burning Bush
 

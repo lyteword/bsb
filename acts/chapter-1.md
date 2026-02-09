@@ -1,8 +1,11 @@
 ---
+title: "Acts 1 BSB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Acts 1 Online | In my first book, O Theophilus, I wrote about all that Jesus began to do and to teach..."
 weight: 1
 ---
 
-# Chapter 1
+# Acts 1 
 
 ## Prologue
 

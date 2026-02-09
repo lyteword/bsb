@@ -1,8 +1,11 @@
 ---
+title: "Galatians 1 BSB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Galatians 1 Online | Paul, an apostle—sent not from men nor by man, but by Jesus Christ and God the Father, who raised Him from the dead..."
 weight: 1
 ---
 
-# Chapter 1
+# Galatians 1 
 
 ## Paul’s Greeting to the Galatians
 

@@ -1,8 +1,11 @@
 ---
+title: "Matthew 9 BSB | Read the Bible Online"
+linkTitle: "9"
+description: "Read Matthew 9 Online | Jesus got into a boat, crossed over, and came to His own town..."
 weight: 9
 ---
 
-# Chapter 9
+# Matthew 9 
 
 ## Jesus Heals a Paralytic
 

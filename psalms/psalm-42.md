@@ -1,8 +1,11 @@
 ---
+title: "Psalm 42 BSB | Read the Bible Online"
+linkTitle: "42"
+description: "Read Psalm 42 Online | As the deer pants for streams of water, so my soul longs after You, O God..."
 weight: 42
 ---
 
-# Psalm 42
+# Psalm 42 
 
 ## As the Deer Pants for the Water
 

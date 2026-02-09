@@ -1,8 +1,11 @@
 ---
+title: "Revelation 14 BSB | Read the Bible Online"
+linkTitle: "14"
+description: "Read Revelation 14 Online | Then I looked and saw the Lamb standing on Mount Zion, and with Him 144,000 who had His name and His Father’s name written on their foreheads..."
 weight: 14
 ---
 
-# Chapter 14
+# Revelation 14 
 
 ## The Lamb and the 144,000
 

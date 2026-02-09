@@ -1,8 +1,11 @@
 ---
+title: "Judges 7 BSB | Read the Bible Online"
+linkTitle: "7"
+description: "Read Judges 7 Online | Early in the morning Jerubbaal [^895] (that is, Gideon) and all the men with him camped beside the spring of Harod. And the camp of Midian was north of them in the valley near the hill of Moreh..."
 weight: 7
 ---
 
-# Chapter 7
+# Judges 7 
 
 ## Gideon’s Army of Three Hundred
 

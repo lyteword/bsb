@@ -1,8 +1,11 @@
 ---
+title: "Psalm 117 BSB | Read the Bible Online"
+linkTitle: "117"
+description: "Read Psalm 117 Online | Praise the LORD, all you nations! Extol Him, all you peoples![^2388..."
 weight: 117
 ---
 
-# Psalm 117
+# Psalm 117 
 
 ## Extol Him, All You Peoples
 

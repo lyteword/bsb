@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 5 BSB | Read the Bible Online"
+linkTitle: "5"
+description: "Read Isaiah 5 Online | I will sing for my beloved a song of his vineyard: My beloved had a vineyard on a very fertile hill..."
 weight: 5
 ---
 
-# Chapter 5
+# Isaiah 5 
 
 ## The Song of the Vineyard
 

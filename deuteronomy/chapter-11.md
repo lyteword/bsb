@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 11 BSB | Read the Bible Online"
+linkTitle: "11"
+description: "Read Deuteronomy 11 Online | You shall therefore love the LORD your God and always keep His charge, His statutes, His ordinances, and His commandments..."
 weight: 11
 ---
 
-# Chapter 11
+# Deuteronomy 11 
 
 ## Obedience and Discipline
 

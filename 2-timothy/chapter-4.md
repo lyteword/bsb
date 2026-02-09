@@ -1,8 +1,11 @@
 ---
+title: "2 Timothy 4 BSB | Read the Bible Online"
+linkTitle: "4"
+description: "Read 2 Timothy 4 Online | I charge you in the presence of God and of Christ Jesus, who will judge the living and the dead, and in view of His appearing and His kingdom..."
 weight: 4
 ---
 
-# Chapter 4
+# 2 Timothy 4 
 
 ## Preach the Word
 

@@ -1,8 +1,11 @@
 ---
+title: "Revelation 1 BSB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Revelation 1 Online | This is the revelation of Jesus Christ, which God gave Him to show His servants what must soon [^4788] come to pass. He made it known by sending His angel to His servant John..."
 weight: 1
 ---
 
-# Chapter 1
+# Revelation 1 
 
 ## Prologue
 

@@ -1,8 +1,11 @@
 ---
+title: "Zephaniah 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Zephaniah 2 Online | Gather yourselves, gather together, O shameful nation..."
 weight: 2
 ---
 
-# Chapter 2
+# Zephaniah 2 
 
 ## A Call to Repentance
 

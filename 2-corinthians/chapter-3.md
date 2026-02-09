@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 3 BSB | Read the Bible Online"
+linkTitle: "3"
+description: "Read 2 Corinthians 3 Online | Are we beginning to commend ourselves again? Or do we need, like some people, letters of recommendation to you or from you..."
 weight: 3
 ---
 
-# Chapter 3
+# 2 Corinthians 3 
 
 ## Ministers of a New Covenant
 

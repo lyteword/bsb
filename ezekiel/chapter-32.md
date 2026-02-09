@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 32 BSB | Read the Bible Online"
+linkTitle: "32"
+description: "Read Ezekiel 32 Online | In the twelfth year, on the first day of the twelfth month, the word of the LORD came to me, saying..."
 weight: 32
 ---
 
-# Chapter 32
+# Ezekiel 32 
 
 ## A Lament for Pharaoh King of Egypt
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 129 BSB | Read the Bible Online"
+linkTitle: "129"
+description: "Read Psalm 129 Online | Many a time they have persecuted me from my youth— let Israel now declare..."
 weight: 129
 ---
 
-# Psalm 129
+# Psalm 129 
 
 ## The Cords of the Wicked
 

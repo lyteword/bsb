@@ -1,8 +1,11 @@
 ---
+title: "Psalm 53 BSB | Read the Bible Online"
+linkTitle: "53"
+description: "Read Psalm 53 Online | The fool says in his heart, “There is no God.” They are corrupt; their ways are vile. There is no one who does good..."
 weight: 53
 ---
 
-# Psalm 53
+# Psalm 53 
 
 ## The Fool Says There Is No God
 

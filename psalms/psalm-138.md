@@ -1,8 +1,11 @@
 ---
+title: "Psalm 138 BSB | Read the Bible Online"
+linkTitle: "138"
+description: "Read Psalm 138 Online | I give You thanks with all my heart; before the gods I sing Your praises..."
 weight: 138
 ---
 
-# Psalm 138
+# Psalm 138 
 
 ## A Thankful Heart
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 39 BSB | Read the Bible Online"
+linkTitle: "39"
+description: "Read Psalm 39 Online | I said, “I will watch my ways so that I will not sin with my tongue; I will guard my mouth with a muzzle as long as the wicked are present...."
 weight: 39
 ---
 
-# Psalm 39
+# Psalm 39 
 
 ## I Will Watch My Ways
 

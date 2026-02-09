@@ -1,8 +1,11 @@
 ---
+title: "2 Peter 3 BSB | Read the Bible Online"
+linkTitle: "3"
+description: "Read 2 Peter 3 Online | Beloved, this is now my second letter to you. Both of them are reminders to stir you to wholesome thinking..."
 weight: 3
 ---
 
-# Chapter 3
+# 2 Peter 3 
 
 ## The Coming Judgment
 

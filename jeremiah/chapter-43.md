@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 43 BSB | Read the Bible Online"
+linkTitle: "43"
+description: "Read Jeremiah 43 Online | When Jeremiah had finished telling all the people all the words of the LORD their God—everything that the LORD had sent him to say..."
 weight: 43
 ---
 
-# Chapter 43
+# Jeremiah 43 
 
 ## Jeremiah Taken to Egypt
 

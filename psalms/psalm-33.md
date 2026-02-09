@@ -1,8 +1,11 @@
 ---
+title: "Psalm 33 BSB | Read the Bible Online"
+linkTitle: "33"
+description: "Read Psalm 33 Online | Rejoice in the LORD, O righteous ones; it is fitting for the upright to praise Him..."
 weight: 33
 ---
 
-# Psalm 33
+# Psalm 33 
 
 ## Praise to the Creator
 

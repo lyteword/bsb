@@ -1,8 +1,11 @@
 ---
+title: "Luke 24 BSB | Read the Bible Online"
+linkTitle: "24"
+description: "Read Luke 24 Online | On the first day of the week,[^4005] very early in the morning, the women came to the tomb, bringing the spices they had prepared..."
 weight: 24
 ---
 
-# Chapter 24
+# Luke 24 
 
 ## The Resurrection
 

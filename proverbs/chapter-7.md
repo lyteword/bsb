@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 7 BSB | Read the Bible Online"
+linkTitle: "7"
+description: "Read Proverbs 7 Online | My son, keep my words and treasure my commandments within you..."
 weight: 7
 ---
 
-# Chapter 7
+# Proverbs 7 
 
 ## Warnings about the Adulteress
 

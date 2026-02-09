@@ -1,8 +1,11 @@
 ---
+title: "Haggai 1 BSB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Haggai 1 Online | In the second year of the reign of Darius, on the first day of the sixth month, the word of the LORD came through Haggai the prophet to Zerubbabel son of Shealtiel, governor of Judah, and to Joshua son of Jehozadak,[^3470] the high priest, stating..."
 weight: 1
 ---
 
-# Chapter 1
+# Haggai 1 
 
 ## A Call to Rebuild the Temple
 

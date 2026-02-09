@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 7 BSB | Read the Bible Online"
+linkTitle: "7"
+description: "Read Ezekiel 7 Online | And the word of the LORD came to me, saying..."
 weight: 7
 ---
 
-# Chapter 7
+# Ezekiel 7 
 
 ## The Hour of Doom
 

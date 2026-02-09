@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 19 BSB | Read the Bible Online"
+linkTitle: "19"
+description: "Read Leviticus 19 Online | Then the LORD said to Moses..."
 weight: 19
 ---
 
-# Chapter 19
+# Leviticus 19 
 
 ## Commandments for Holiness
 

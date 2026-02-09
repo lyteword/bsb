@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 13 BSB | Read the Bible Online"
+linkTitle: "13"
+description: "Read Isaiah 13 Online | This is the burden against Babylon that Isaiah son of Amoz received..."
 weight: 13
 ---
 
-# Chapter 13
+# Isaiah 13 
 
 ## The Burden against Babylon
 

@@ -1,8 +1,11 @@
 ---
+title: "Matthew 25 BSB | Read the Bible Online"
+linkTitle: "25"
+description: "Read Matthew 25 Online | “At that time the kingdom of heaven will be like ten virgins who took their lamps and went out to meet the bridegroom..."
 weight: 25
 ---
 
-# Chapter 25
+# Matthew 25 
 
 ## The Parable of the Ten Virgins
 

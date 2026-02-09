@@ -1,8 +1,11 @@
 ---
+title: "Exodus 17 BSB | Read the Bible Online"
+linkTitle: "17"
+description: "Read Exodus 17 Online | Then the whole congregation of Israel left the Desert of Sin,[^308] moving from place to place as the LORD commanded. They camped at Rephidim, but there was no water for the people to drink..."
 weight: 17
 ---
 
-# Chapter 17
+# Exodus 17 
 
 ## Water from the Rock
 

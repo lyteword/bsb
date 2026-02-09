@@ -1,8 +1,11 @@
 ---
+title: "2 Timothy 1 BSB | Read the Bible Online"
+linkTitle: "1"
+description: "Read 2 Timothy 1 Online | Paul, an apostle of Christ Jesus by the will of God, according to the promise of life in Christ Jesus..."
 weight: 1
 ---
 
-# Chapter 1
+# 2 Timothy 1 
 
 ## Paul’s Greeting to Timothy
 

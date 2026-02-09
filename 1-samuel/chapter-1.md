@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 1 BSB | Read the Bible Online"
+linkTitle: "1"
+description: "Read 1 Samuel 1 Online | Now there was a man named Elkanah who was from Ramathaim-zophim [^957] in the hill country of Ephraim. He was the son of Jeroham, the son of Elihu,[^958] the son of Tohu, the son of Zuph, an Ephraimite..."
 weight: 1
 ---
 
-# Chapter 1
+# 1 Samuel 1 
 
 ## Elkanah and His Wives
 

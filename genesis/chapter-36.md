@@ -1,8 +1,11 @@
 ---
+title: "Genesis 36 BSB | Read the Bible Online"
+linkTitle: "36"
+description: "Read Genesis 36 Online | This is the account of Esau (that is, Edom)..."
 weight: 36
 ---
 
-# Chapter 36
+# Genesis 36 
 
 ## The Descendants of Esau
 

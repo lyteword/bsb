@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 19 BSB | Read the Bible Online"
+linkTitle: "19"
+description: "Read 1 Kings 19 Online | Now Ahab told Jezebel everything that Elijah had done and how he had killed all the prophets with the sword..."
 weight: 19
 ---
 
-# Chapter 19
+# 1 Kings 19 
 
 ## Elijah Flees from Jezebel
 

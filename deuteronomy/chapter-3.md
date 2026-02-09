@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 3 BSB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Deuteronomy 3 Online | Then we turned and went up the road to Bashan, and Og king of Bashan and his whole army came out to meet us in battle at Edrei..."
 weight: 3
 ---
 
-# Chapter 3
+# Deuteronomy 3 
 
 ## The Defeat of Og
 

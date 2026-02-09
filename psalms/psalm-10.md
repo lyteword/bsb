@@ -1,8 +1,11 @@
 ---
+title: "Psalm 10 BSB | Read the Bible Online"
+linkTitle: "10"
+description: "Read Psalm 10 Online | Why, O LORD, do You stand far off? Why do You hide in times of trouble..."
 weight: 10
 ---
 
-# Psalm 10
+# Psalm 10 
 
 ## The Perils of the Pilgrim
 

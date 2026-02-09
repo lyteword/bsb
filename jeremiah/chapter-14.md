@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 14 BSB | Read the Bible Online"
+linkTitle: "14"
+description: "Read Jeremiah 14 Online | This is the word of the LORD that came to Jeremiah concerning the drought..."
 weight: 14
 ---
 
-# Chapter 14
+# Jeremiah 14 
 
 ## Drought, Famine, Sword, and Plague
 

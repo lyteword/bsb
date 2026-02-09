@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 10 BSB | Read the Bible Online"
+linkTitle: "10"
+description: "Read 2 Samuel 10 Online | Some time later, the king of the Ammonites died and was succeeded by his son Hanun..."
 weight: 10
 ---
 
-# Chapter 10
+# 2 Samuel 10 
 
 ## David’s Messengers Disgraced
 

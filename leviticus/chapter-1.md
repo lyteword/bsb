@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 1 BSB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Leviticus 1 Online | Then the LORD called to Moses and spoke to him from the Tent of Meeting, saying..."
 weight: 1
 ---
 
-# Chapter 1
+# Leviticus 1 
 
 ## Laws for Burnt Offerings
 

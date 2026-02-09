@@ -1,8 +1,11 @@
 ---
+title: "Nahum 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Nahum 2 Online | One who scatters advances against you, O Nineveh. Guard the fortress! Watch the road! Brace yourselves![^3433] Summon all your strength..."
 weight: 2
 ---
 
-# Chapter 2
+# Nahum 2 
 
 ## The Overthrow of Nineveh
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 87 BSB | Read the Bible Online"
+linkTitle: "87"
+description: "Read Psalm 87 Online | He has founded His city on the holy mountains.[^2330..."
 weight: 87
 ---
 
-# Psalm 87
+# Psalm 87 
 
 ## The LORD Loves the Gates of Zion
 

@@ -1,8 +1,11 @@
 ---
+title: "Romans 16 BSB | Read the Bible Online"
+linkTitle: "16"
+description: "Read Romans 16 Online | I commend to you our sister Phoebe, a servant [^4376] of the church in Cenchrea..."
 weight: 16
 ---
 
-# Chapter 16
+# Romans 16 
 
 ## Personal Greetings and Love
 

@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 48 BSB | Read the Bible Online"
+linkTitle: "48"
+description: "Read Ezekiel 48 Online | “Now these are the names of the tribes: At the northern frontier, Dan will have one portion bordering the road of Hethlon to Lebo-hamath and running on to Hazar-enan on the border of Damascus with Hamath to the north, and extending from the east side to the west side..."
 weight: 48
 ---
 
-# Chapter 48
+# Ezekiel 48 
 
 ## The Portions for the Tribes
 

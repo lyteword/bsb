@@ -1,8 +1,11 @@
 ---
+title: "Revelation 21 BSB | Read the Bible Online"
+linkTitle: "21"
+description: "Read Revelation 21 Online | Then I saw a new heaven and a new earth,[^4842] for the first heaven and earth had passed away, and the sea was no more..."
 weight: 21
 ---
 
-# Chapter 21
+# Revelation 21 
 
 ## A New Heaven and a New Earth
 

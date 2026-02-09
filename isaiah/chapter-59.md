@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 59 BSB | Read the Bible Online"
+linkTitle: "59"
+description: "Read Isaiah 59 Online | Surely the arm of the LORD is not too short to save, nor His ear too dull to hear..."
 weight: 59
 ---
 
-# Chapter 59
+# Isaiah 59 
 
 ## Sin Separates Us from God
 

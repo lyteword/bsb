@@ -1,8 +1,11 @@
 ---
+title: "Acts 27 BSB | Read the Bible Online"
+linkTitle: "27"
+description: "Read Acts 27 Online | When it was decided that we would sail for Italy, Paul and some other prisoners were handed over to a centurion named Julius, who belonged to the Imperial [^4267] Regiment..."
 weight: 27
 ---
 
-# Chapter 27
+# Acts 27 
 
 ## Paul Sails for Rome
 

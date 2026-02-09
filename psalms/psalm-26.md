@@ -1,8 +1,11 @@
 ---
+title: "Psalm 26 BSB | Read the Bible Online"
+linkTitle: "26"
+description: "Read Psalm 26 Online | Vindicate me, O LORD! For I have walked with integrity; I have trusted in the LORD without wavering..."
 weight: 26
 ---
 
-# Psalm 26
+# Psalm 26 
 
 ## Vindicate Me, O LORD
 

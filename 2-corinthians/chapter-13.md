@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 13 BSB | Read the Bible Online"
+linkTitle: "13"
+description: "Read 2 Corinthians 13 Online | This is the third time I am coming to you. “Every matter must be established by the testimony of two or three witnesses.”[^4475..."
 weight: 13
 ---
 
-# Chapter 13
+# 2 Corinthians 13 
 
 ## Examine Yourselves
 

@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 1 BSB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Ecclesiastes 1 Online | These are the words of the Teacher,[^2525] the son of David, king in Jerusalem..."
 weight: 1
 ---
 
-# Chapter 1
+# Ecclesiastes 1 
 
 ## Everything Is Futile
 

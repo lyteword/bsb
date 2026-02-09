@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 27 BSB | Read the Bible Online"
+linkTitle: "27"
+description: "Read Proverbs 27 Online | Do not boast about tomorrow, for you do not know what a day may bring..."
 weight: 27
 ---
 
-# Chapter 27
+# Proverbs 27 
 
 ## Do Not Boast about Tomorrow
 

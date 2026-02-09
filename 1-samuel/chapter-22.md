@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 22 BSB | Read the Bible Online"
+linkTitle: "22"
+description: "Read 1 Samuel 22 Online | So David left Gath and took refuge in the cave of Adullam. When his brothers and the rest of his father’s household heard about it, they went down to him there..."
 weight: 22
 ---
 
-# Chapter 22
+# 1 Samuel 22 
 
 ## David Flees to Adullam and Mizpeh
 

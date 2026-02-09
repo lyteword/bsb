@@ -1,8 +1,11 @@
 ---
+title: "Judges 11 BSB | Read the Bible Online"
+linkTitle: "11"
+description: "Read Judges 11 Online | Now Jephthah the Gileadite was a mighty man of valor; he was the son of a prostitute, and Gilead was his father..."
 weight: 11
 ---
 
-# Chapter 11
+# Judges 11 
 
 ## Jephthah Delivers Israel
 

@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 36 BSB | Read the Bible Online"
+linkTitle: "36"
+description: "Read Jeremiah 36 Online | In the fourth year of Jehoiakim son of Josiah king of Judah, this word came to Jeremiah from the LORD..."
 weight: 36
 ---
 
-# Chapter 36
+# Jeremiah 36 
 
 ## Jeremiah’s Scroll Read in the Temple
 

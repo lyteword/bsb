@@ -1,8 +1,11 @@
 ---
+title: "Numbers 31 BSB | Read the Bible Online"
+linkTitle: "31"
+description: "Read Numbers 31 Online | And the LORD said to Moses..."
 weight: 31
 ---
 
-# Chapter 31
+# Numbers 31 
 
 ## Vengeance on Midian
 

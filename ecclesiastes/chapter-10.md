@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 10 BSB | Read the Bible Online"
+linkTitle: "10"
+description: "Read Ecclesiastes 10 Online | As dead flies bring a stench to the perfumer’s oil, so a little folly outweighs wisdom and honor..."
 weight: 10
 ---
 
-# Chapter 10
+# Ecclesiastes 10 
 
 ## Wisdom and Folly
 

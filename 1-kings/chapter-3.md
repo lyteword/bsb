@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 3 BSB | Read the Bible Online"
+linkTitle: "3"
+description: "Read 1 Kings 3 Online | Later, Solomon formed an alliance with Pharaoh king of Egypt by marrying his daughter. Solomon brought her to the City of David until he had finished building his palace and the house of the LORD, as well as the wall around Jerusalem..."
 weight: 3
 ---
 
-# Chapter 3
+# 1 Kings 3 
 
 ## Solomon’s Prayer for Wisdom
 

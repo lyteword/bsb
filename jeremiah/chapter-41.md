@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 41 BSB | Read the Bible Online"
+linkTitle: "41"
+description: "Read Jeremiah 41 Online | In the seventh month, Ishmael son of Nethaniah, the son of Elishama, who was a member of the royal family and one of the king’s chief officers, came with ten men to Gedaliah son of Ahikam at Mizpah, and they ate a meal together there..."
 weight: 41
 ---
 
-# Chapter 41
+# Jeremiah 41 
 
 ## The Murder of Gedaliah
 

@@ -1,8 +1,11 @@
 ---
+title: "Acts 12 BSB | Read the Bible Online"
+linkTitle: "12"
+description: "Read Acts 12 Online | About that time, King Herod [^4202] reached out to harm [^4203] some who belonged to the church..."
 weight: 12
 ---
 
-# Chapter 12
+# Acts 12 
 
 ## James Killed, Peter Imprisoned
 

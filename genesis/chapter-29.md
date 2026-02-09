@@ -1,8 +1,11 @@
 ---
+title: "Genesis 29 BSB | Read the Bible Online"
+linkTitle: "29"
+description: "Read Genesis 29 Online | Jacob resumed his journey and came to the land of the people of the east..."
 weight: 29
 ---
 
-# Chapter 29
+# Genesis 29 
 
 ## Jacob Meets Rachel
 

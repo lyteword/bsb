@@ -1,8 +1,11 @@
 ---
+title: "Haggai 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Haggai 2 Online | On the twenty-first day of the seventh month, the word of the LORD came through Haggai the prophet, saying..."
 weight: 2
 ---
 
-# Chapter 2
+# Haggai 2 
 
 ## The Coming Glory of God’s House
 

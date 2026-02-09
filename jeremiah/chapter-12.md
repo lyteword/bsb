@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 12 BSB | Read the Bible Online"
+linkTitle: "12"
+description: "Read Jeremiah 12 Online | Righteous are You, O LORD, when I plead before You. Yet about Your judgments I wish to contend with You: Why does the way of the wicked prosper? Why do all the faithless live at ease..."
 weight: 12
 ---
 
-# Chapter 12
+# Jeremiah 12 
 
 ## The Prosperity of the Wicked
 

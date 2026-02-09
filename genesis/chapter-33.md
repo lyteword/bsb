@@ -1,8 +1,11 @@
 ---
+title: "Genesis 33 BSB | Read the Bible Online"
+linkTitle: "33"
+description: "Read Genesis 33 Online | Now Jacob looked up and saw Esau coming toward him with four hundred men. So he divided the children among Leah, Rachel, and the two maidservants..."
 weight: 33
 ---
 
-# Chapter 33
+# Genesis 33 
 
 ## Jacob Meets Esau
 

@@ -1,8 +1,11 @@
 ---
+title: "John 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read John 2 Online | On the third day a wedding took place at Cana in Galilee. Jesus’ mother was there..."
 weight: 2
 ---
 
-# Chapter 2
+# John 2 
 
 ## The Wedding at Cana
 

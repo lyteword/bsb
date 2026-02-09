@@ -1,8 +1,11 @@
 ---
+title: "Daniel 4 BSB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Daniel 4 Online | King Nebuchadnezzar, To the people of every nation and language who dwell in all the earth: May your prosperity be multiplied..."
 weight: 4
 ---
 
-# Chapter 4
+# Daniel 4 
 
 ## Nebuchadnezzar Confesses God’s Kingdom
 

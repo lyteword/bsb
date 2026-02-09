@@ -1,8 +1,11 @@
 ---
+title: "Genesis 1 BSB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Genesis 1 Online | In the beginning God created the heavens and the earth..."
 weight: 1
 ---
 
-# Chapter 1
+# Genesis 1 
 
 ## The Creation
 

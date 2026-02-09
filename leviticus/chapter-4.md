@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 4 BSB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Leviticus 4 Online | Then the LORD said to Moses..."
 weight: 4
 ---
 
-# Chapter 4
+# Leviticus 4 
 
 ## Laws for Sin Offerings
 

@@ -1,8 +1,11 @@
 ---
+title: "Genesis 13 BSB | Read the Bible Online"
+linkTitle: "13"
+description: "Read Genesis 13 Online | So Abram went up out of Egypt into the Negev—he and his wife and all his possessions—and Lot was with him..."
 weight: 13
 ---
 
-# Chapter 13
+# Genesis 13 
 
 ## Abram and Lot Part Ways
 

@@ -1,8 +1,11 @@
 ---
+title: "Numbers 29 BSB | Read the Bible Online"
+linkTitle: "29"
+description: "Read Numbers 29 Online | “On the first day of the seventh month, you are to hold a sacred assembly, and you must not do any regular work. This will be a day for you to sound the trumpets..."
 weight: 29
 ---
 
-# Chapter 29
+# Numbers 29 
 
 ## The Feast of Trumpets
 

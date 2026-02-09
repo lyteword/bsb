@@ -1,8 +1,11 @@
 ---
+title: "Psalm 11 BSB | Read the Bible Online"
+linkTitle: "11"
+description: "Read Psalm 11 Online | In the LORD I take refuge. How then can you say to me: “Flee like a bird to your mountain..."
 weight: 11
 ---
 
-# Psalm 11
+# Psalm 11 
 
 ## In the LORD I Take Refuge
 

@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 6 BSB | Read the Bible Online"
+linkTitle: "6"
+description: "Read Proverbs 6 Online | My son, if you have put up security for your neighbor, if you have struck hands in pledge with a stranger..."
 weight: 6
 ---
 
-# Chapter 6
+# Proverbs 6 
 
 ## Warnings against Foolishness
 

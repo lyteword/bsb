@@ -1,8 +1,11 @@
 ---
+title: "Joshua 8 BSB | Read the Bible Online"
+linkTitle: "8"
+description: "Read Joshua 8 Online | Then the LORD said to Joshua, “Do not be afraid or discouraged. Take the whole army with you, and go up and attack Ai. See, I have delivered into your hand the king of Ai, his people, his city, and his land..."
 weight: 8
 ---
 
-# Chapter 8
+# Joshua 8 
 
 ## The Conquest of Ai
 

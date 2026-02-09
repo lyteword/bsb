@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 6 BSB | Read the Bible Online"
+linkTitle: "6"
+description: "Read 1 Samuel 6 Online | When the ark of the LORD had been in the land of the Philistines seven months..."
 weight: 6
 ---
 
-# Chapter 6
+# 1 Samuel 6 
 
 ## The Ark Returned to Israel
 

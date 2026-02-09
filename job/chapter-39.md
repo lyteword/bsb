@@ -1,8 +1,11 @@
 ---
+title: "Job 39 BSB | Read the Bible Online"
+linkTitle: "39"
+description: "Read Job 39 Online | “Do you know when mountain goats give birth? Have you watched the doe bear her fawn..."
 weight: 39
 ---
 
-# Chapter 39
+# Job 39 
 
 ## The LORD Speaks of His Creation
 

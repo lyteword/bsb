@@ -1,8 +1,11 @@
 ---
+title: "Luke 14 BSB | Read the Bible Online"
+linkTitle: "14"
+description: "Read Luke 14 Online | One Sabbath, Jesus went to eat in the home of a leading Pharisee, and those in attendance were watching Him closely..."
 weight: 14
 ---
 
-# Chapter 14
+# Luke 14 
 
 ## Jesus Heals a Man with Dropsy
 

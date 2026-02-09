@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 23 BSB | Read the Bible Online"
+linkTitle: "23"
+description: "Read Leviticus 23 Online | Then the LORD said to Moses..."
 weight: 23
 ---
 
-# Chapter 23
+# Leviticus 23 
 
 ## Feasts and Sabbaths
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 126 BSB | Read the Bible Online"
+linkTitle: "126"
+description: "Read Psalm 126 Online | When the LORD restored the captives of Zion,[^2406] we were like dreamers.[^2407..."
 weight: 126
 ---
 
-# Psalm 126
+# Psalm 126 
 
 ## Zion’s Captives Restored
 

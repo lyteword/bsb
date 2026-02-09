@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 9 BSB | Read the Bible Online"
+linkTitle: "9"
+description: "Read Isaiah 9 Online | Nevertheless, there will be no more gloom for those in distress. In the past He humbled the land of Zebulun and the land of Naphtali, but in the future He will honor the Way of the Sea, beyond the Jordan, Galilee of the nations..."
 weight: 9
 ---
 
-# Chapter 9
+# Isaiah 9 
 
 ## Unto Us a Child Is Born
 

@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 6 BSB | Read the Bible Online"
+linkTitle: "6"
+description: "Read Jeremiah 6 Online | “Run for cover, O sons of Benjamin; flee from Jerusalem! Sound the ram’s horn in Tekoa; send up a signal over Beth-haccherem, for disaster looms from the north, even great destruction..."
 weight: 6
 ---
 
-# Chapter 6
+# Jeremiah 6 
 
 ## Jerusalem’s Final Warning
 

@@ -1,8 +1,11 @@
 ---
+title: "Numbers 26 BSB | Read the Bible Online"
+linkTitle: "26"
+description: "Read Numbers 26 Online | After the plague had ended, the LORD said to Moses and Eleazar son of Aaron the priest..."
 weight: 26
 ---
 
-# Chapter 26
+# Numbers 26 
 
 ## The Second Census of Israel
 

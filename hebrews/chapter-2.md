@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Hebrews 2 Online | We must pay closer attention, therefore, to what we have heard, so that we do not drift away..."
 weight: 2
 ---
 
-# Chapter 2
+# Hebrews 2 
 
 ## Salvation Confirmed
 

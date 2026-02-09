@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 14 BSB | Read the Bible Online"
+linkTitle: "14"
+description: "Read Proverbs 14 Online | Every wise woman builds her house, but a foolish one tears it down with her own hands..."
 weight: 14
 ---
 
-# Chapter 14
+# Proverbs 14 
 
 ## The Wise Woman
 

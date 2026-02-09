@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 28 BSB | Read the Bible Online"
+linkTitle: "28"
+description: "Read Ezekiel 28 Online | And the word of the LORD came to me, saying..."
 weight: 28
 ---
 
-# Chapter 28
+# Ezekiel 28 
 
 ## A Prophecy against the Ruler of Tyre
 

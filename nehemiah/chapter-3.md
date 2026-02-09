@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 3 BSB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Nehemiah 3 Online | At the Sheep Gate, Eliashib the high priest and his fellow priests began rebuilding. They dedicated it and installed its doors. After building as far as the Tower of the Hundred and the Tower of Hananel, they dedicated the wall..."
 weight: 3
 ---
 
-# Chapter 3
+# Nehemiah 3 
 
 ## The Builders of the Walls
 

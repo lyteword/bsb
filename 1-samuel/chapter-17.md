@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 17 BSB | Read the Bible Online"
+linkTitle: "17"
+description: "Read 1 Samuel 17 Online | Now the Philistines gathered their forces for war at Socoh in Judah, and they camped between Socoh and Azekah in Ephes-dammim..."
 weight: 17
 ---
 
-# Chapter 17
+# 1 Samuel 17 
 
 ## Goliath’s Challenge
 

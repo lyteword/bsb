@@ -1,8 +1,11 @@
 ---
+title: "Exodus 25 BSB | Read the Bible Online"
+linkTitle: "25"
+description: "Read Exodus 25 Online | Then the LORD said to Moses..."
 weight: 25
 ---
 
-# Chapter 25
+# Exodus 25 
 
 ## Offerings for the Tabernacle
 

@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 11 BSB | Read the Bible Online"
+linkTitle: "11"
+description: "Read Jeremiah 11 Online | This is the word that came to Jeremiah from the LORD..."
 weight: 11
 ---
 
-# Chapter 11
+# Jeremiah 11 
 
 ## The Broken Covenant
 

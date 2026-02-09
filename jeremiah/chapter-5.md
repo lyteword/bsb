@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 5 BSB | Read the Bible Online"
+linkTitle: "5"
+description: "Read Jeremiah 5 Online | “Go up and down the streets of Jerusalem. Look now and take note; search her squares. If you can find a single person, anyone who acts justly, anyone who seeks the truth, then I will forgive the city..."
 weight: 5
 ---
 
-# Chapter 5
+# Jeremiah 5 
 
 ## No One Is Just
 

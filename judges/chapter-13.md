@@ -1,8 +1,11 @@
 ---
+title: "Judges 13 BSB | Read the Bible Online"
+linkTitle: "13"
+description: "Read Judges 13 Online | Again the Israelites did evil in the sight of the LORD, so He delivered them into the hand of the Philistines for forty years..."
 weight: 13
 ---
 
-# Chapter 13
+# Judges 13 
 
 ## The Birth of Samson
 

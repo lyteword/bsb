@@ -1,8 +1,11 @@
 ---
+title: "Daniel 3 BSB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Daniel 3 Online | King Nebuchadnezzar made a golden statue [^3215] sixty cubits high and six cubits wide,[^3216] and he set it up on the plain of Dura in the province of Babylon..."
 weight: 3
 ---
 
-# Chapter 3
+# Daniel 3 
 
 ## Nebuchadnezzar’s Golden Statue
 

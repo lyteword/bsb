@@ -1,8 +1,11 @@
 ---
+title: "Matthew 24 BSB | Read the Bible Online"
+linkTitle: "24"
+description: "Read Matthew 24 Online | As Jesus left the temple and was walking away, His disciples came up to Him to point out its buildings..."
 weight: 24
 ---
 
-# Chapter 24
+# Matthew 24 
 
 ## Temple Destruction and Other Signs
 

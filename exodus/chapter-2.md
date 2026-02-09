@@ -1,8 +1,11 @@
 ---
+title: "Exodus 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Exodus 2 Online | Now a man of the house of Levi married a Levite woman..."
 weight: 2
 ---
 
-# Chapter 2
+# Exodus 2 
 
 ## The Birth and Adoption of Moses
 

@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 4 BSB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Nehemiah 4 Online | Now when Sanballat heard that we were rebuilding the wall, he was furious and filled with indignation. He ridiculed the Jews..."
 weight: 4
 ---
 
-# Chapter 4
+# Nehemiah 4 
 
 ## The Work Ridiculed
 

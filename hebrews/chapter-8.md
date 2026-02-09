@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 8 BSB | Read the Bible Online"
+linkTitle: "8"
+description: "Read Hebrews 8 Online | The point of what we are saying is this: We do have such a high priest, who sat down at the right hand of the throne of the Majesty in heaven..."
 weight: 8
 ---
 
-# Chapter 8
+# Hebrews 8 
 
 ## Christ’s Eternal Priesthood
 

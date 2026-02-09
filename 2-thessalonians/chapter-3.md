@@ -1,8 +1,11 @@
 ---
+title: "2 Thessalonians 3 BSB | Read the Bible Online"
+linkTitle: "3"
+description: "Read 2 Thessalonians 3 Online | Finally, brothers, pray for us, that the word of the Lord may spread quickly and be held in honor, just as it was with you..."
 weight: 3
 ---
 
-# Chapter 3
+# 2 Thessalonians 3 
 
 ## Request for Prayer
 

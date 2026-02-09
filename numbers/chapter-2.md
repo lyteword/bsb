@@ -1,8 +1,11 @@
 ---
+title: "Numbers 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Numbers 2 Online | Then the LORD said to Moses and Aaron..."
 weight: 2
 ---
 
-# Chapter 2
+# Numbers 2 
 
 ## The Order of the Camps
 

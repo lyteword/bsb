@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 9 BSB | Read the Bible Online"
+linkTitle: "9"
+description: "Read Ezekiel 9 Online | Then I heard Him call out in a loud voice, saying, “Draw near, O executioners of the city, each with a weapon of destruction in hand...."
 weight: 9
 ---
 
-# Chapter 9
+# Ezekiel 9 
 
 ## Execution of the Idolaters
 

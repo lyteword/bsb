@@ -1,8 +1,11 @@
 ---
+title: "Judges 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Judges 2 Online | Now the angel [^876] of the LORD went up from Gilgal to Bochim and said, “I brought you up out of Egypt and led you into the land that I had promised to your fathers, and I said, ‘I will never break My covenant with you..."
 weight: 2
 ---
 
-# Chapter 2
+# Judges 2 
 
 ## Israel Rebuked at Bochim
 

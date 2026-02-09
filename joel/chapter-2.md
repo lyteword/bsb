@@ -1,8 +1,11 @@
 ---
+title: "Joel 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Joel 2 Online | Blow the ram’s horn in Zion; sound the alarm on My holy mountain! Let all who dwell in the land tremble, for the Day of the LORD is coming; indeed, it is near..."
 weight: 2
 ---
 
-# Chapter 2
+# Joel 2 
 
 ## The Army of Locusts
 

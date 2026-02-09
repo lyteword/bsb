@@ -1,8 +1,11 @@
 ---
+title: "Genesis 8 BSB | Read the Bible Online"
+linkTitle: "8"
+description: "Read Genesis 8 Online | But God remembered Noah and all the animals and livestock that were with him in the ark. And God sent a wind over the earth, and the waters began to subside..."
 weight: 8
 ---
 
-# Chapter 8
+# Genesis 8 
 
 ## The Ark Rests on Ararat
 

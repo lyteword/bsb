@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 21 BSB | Read the Bible Online"
+linkTitle: "21"
+description: "Read Jeremiah 21 Online | This is the word that came to Jeremiah from the LORD when King Zedekiah sent to him Pashhur son of Malchijah and the priest Zephaniah son of Maaseiah. They said..."
 weight: 21
 ---
 
-# Chapter 21
+# Jeremiah 21 
 
 ## Jerusalem Will Fall to Babylon
 

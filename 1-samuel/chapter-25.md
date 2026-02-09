@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 25 BSB | Read the Bible Online"
+linkTitle: "25"
+description: "Read 1 Samuel 25 Online | When Samuel died, all Israel gathered to mourn for him; and they buried him at his home in Ramah. Then David set out and went down to the Wilderness of Paran.[^1053..."
 weight: 25
 ---
 
-# Chapter 25
+# 1 Samuel 25 
 
 ## The Death of Samuel
 

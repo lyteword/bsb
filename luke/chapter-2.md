@@ -1,8 +1,11 @@
 ---
+title: "Luke 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Luke 2 Online | Now in those days a decree went out from Caesar Augustus that a census should be taken of the whole empire.[^3873..."
 weight: 2
 ---
 
-# Chapter 2
+# Luke 2 
 
 ## The Birth of Jesus
 

@@ -1,8 +1,11 @@
 ---
+title: "Jonah 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Jonah 2 Online | From inside the fish, Jonah prayed to the LORD his God..."
 weight: 2
 ---
 
-# Chapter 2
+# Jonah 2 
 
 ## Jonah’s Prayer
 

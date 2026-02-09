@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 24 BSB | Read the Bible Online"
+linkTitle: "24"
+description: "Read 1 Samuel 24 Online | After Saul had returned from pursuing the Philistines, he was told, “David is in the wilderness of En-gedi...."
 weight: 24
 ---
 
-# Chapter 24
+# 1 Samuel 24 
 
 ## David Spares Saul
 

@@ -1,8 +1,11 @@
 ---
+title: "Mark 13 BSB | Read the Bible Online"
+linkTitle: "13"
+description: "Read Mark 13 Online | As Jesus was leaving the temple, one of His disciples said to Him, “Teacher, look at the magnificent stones and buildings!..."
 weight: 13
 ---
 
-# Chapter 13
+# Mark 13 
 
 ## Temple Destruction and Other Signs
 

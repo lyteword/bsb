@@ -1,8 +1,11 @@
 ---
+title: "Revelation 15 BSB | Read the Bible Online"
+linkTitle: "15"
+description: "Read Revelation 15 Online | Then I saw another great and marvelous sign in heaven: seven angels with the seven final plagues, with which the wrath of God is completed..."
 weight: 15
 ---
 
-# Chapter 15
+# Revelation 15 
 
 ## The Song of Moses and the Lamb
 

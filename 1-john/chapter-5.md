@@ -1,8 +1,11 @@
 ---
+title: "1 John 5 BSB | Read the Bible Online"
+linkTitle: "5"
+description: "Read 1 John 5 Online | Everyone who believes that Jesus is the Christ has been born of God, and everyone who loves the Father also loves those born of Him.[^4772..."
 weight: 5
 ---
 
-# Chapter 5
+# 1 John 5 
 
 ## Overcoming the World
 

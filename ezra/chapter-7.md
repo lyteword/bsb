@@ -1,8 +1,11 @@
 ---
+title: "Ezra 7 BSB | Read the Bible Online"
+linkTitle: "7"
+description: "Read Ezra 7 Online | Many years later,[^1915] during the reign of Artaxerxes king of Persia, Ezra son of Seraiah, the son of Azariah, the son of Hilkiah..."
 weight: 7
 ---
 
-# Chapter 7
+# Ezra 7 
 
 ## Ezra Arrives in Jerusalem
 

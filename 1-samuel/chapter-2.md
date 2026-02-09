@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read 1 Samuel 2 Online | At that time Hannah prayed: “My heart rejoices in the LORD; my horn [^966] is exalted in the LORD. My mouth speaks boldly against my enemies, for I rejoice in Your salvation..."
 weight: 2
 ---
 
-# Chapter 2
+# 1 Samuel 2 
 
 ## Hannah’s Prayer of Thanksgiving
 

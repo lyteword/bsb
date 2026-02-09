@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 11 BSB | Read the Bible Online"
+linkTitle: "11"
+description: "Read Ezekiel 11 Online | Then the Spirit lifted me up and brought me to the gate of the house of the LORD that faces east. And there at the entrance of the gate were twenty-five men. Among them I saw Jaazaniah son of Azzur and Pelatiah son of Benaiah, who were leaders of the people..."
 weight: 11
 ---
 
-# Chapter 11
+# Ezekiel 11 
 
 ## Evil in High Places
 

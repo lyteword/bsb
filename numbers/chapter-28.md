@@ -1,8 +1,11 @@
 ---
+title: "Numbers 28 BSB | Read the Bible Online"
+linkTitle: "28"
+description: "Read Numbers 28 Online | Then the LORD said to Moses..."
 weight: 28
 ---
 
-# Chapter 28
+# Numbers 28 
 
 ## The Daily Offerings
 

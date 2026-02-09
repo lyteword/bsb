@@ -1,8 +1,11 @@
 ---
+title: "Romans 7 BSB | Read the Bible Online"
+linkTitle: "7"
+description: "Read Romans 7 Online | Do you not know, brothers (for I am speaking to those who know the law), that the law has authority over a man only as long as he lives..."
 weight: 7
 ---
 
-# Chapter 7
+# Romans 7 
 
 ## Release from the Law
 

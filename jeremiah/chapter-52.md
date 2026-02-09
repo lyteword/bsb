@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 52 BSB | Read the Bible Online"
+linkTitle: "52"
+description: "Read Jeremiah 52 Online | Zedekiah was twenty-one years old when he became king, and he reigned in Jerusalem eleven years. His mother’s name was Hamutal daughter of Jeremiah; she was from Libnah..."
 weight: 52
 ---
 
-# Chapter 52
+# Jeremiah 52 
 
 ## The Fall of Jerusalem Recounted
 

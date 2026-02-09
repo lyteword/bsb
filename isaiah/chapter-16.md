@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 16 BSB | Read the Bible Online"
+linkTitle: "16"
+description: "Read Isaiah 16 Online | Send the tribute lambs to the ruler of the land, from Sela in the desert to the mount of Daughter Zion..."
 weight: 16
 ---
 
-# Chapter 16
+# Isaiah 16 
 
 ## Moab’s Destruction
 

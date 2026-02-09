@@ -1,8 +1,11 @@
 ---
+title: "Psalm 63 BSB | Read the Bible Online"
+linkTitle: "63"
+description: "Read Psalm 63 Online | O God, You are my God. Earnestly I seek You; my soul thirsts for You. My body yearns for You in a dry and weary land without water..."
 weight: 63
 ---
 
-# Psalm 63
+# Psalm 63 
 
 ## Thirsting for God
 

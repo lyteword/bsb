@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 30 BSB | Read the Bible Online"
+linkTitle: "30"
+description: "Read 1 Samuel 30 Online | On the third day David and his men arrived in Ziklag, and the Amalekites had raided the Negev, attacked Ziklag, and burned it down..."
 weight: 30
 ---
 
-# Chapter 30
+# 1 Samuel 30 
 
 ## The Amalekites Raid Ziklag
 

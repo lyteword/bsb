@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 25 BSB | Read the Bible Online"
+linkTitle: "25"
+description: "Read Isaiah 25 Online | O LORD, You are my God! I will exalt You; I will praise Your name. For You have worked wonders— plans formed long ago— in perfect faithfulness..."
 weight: 25
 ---
 
-# Chapter 25
+# Isaiah 25 
 
 ## Praise to the Victorious God
 

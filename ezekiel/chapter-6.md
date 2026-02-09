@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 6 BSB | Read the Bible Online"
+linkTitle: "6"
+description: "Read Ezekiel 6 Online | And the word of the LORD came to me, saying..."
 weight: 6
 ---
 
-# Chapter 6
+# Ezekiel 6 
 
 ## Judgment against Idolatry
 

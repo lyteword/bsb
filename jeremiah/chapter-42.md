@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 42 BSB | Read the Bible Online"
+linkTitle: "42"
+description: "Read Jeremiah 42 Online | Then all the commanders of the forces, along with Johanan son of Kareah, Jezaniah [^2921] son of Hoshaiah, and all the people from the least to the greatest, approached..."
 weight: 42
 ---
 
-# Chapter 42
+# Jeremiah 42 
 
 ## A Warning against Going to Egypt
 

@@ -1,8 +1,11 @@
 ---
+title: "Romans 14 BSB | Read the Bible Online"
+linkTitle: "14"
+description: "Read Romans 14 Online | Accept him whose faith is weak, without passing judgment on his opinions.[^4361..."
 weight: 14
 ---
 
-# Chapter 14
+# Romans 14 
 
 ## The Law of Liberty
 

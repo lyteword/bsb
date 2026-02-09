@@ -1,8 +1,11 @@
 ---
+title: "Galatians 5 BSB | Read the Bible Online"
+linkTitle: "5"
+description: "Read Galatians 5 Online | It is for freedom that Christ has set us free. Stand firm, then, and do not be encumbered once more by a yoke of slavery..."
 weight: 5
 ---
 
-# Chapter 5
+# Galatians 5 
 
 ## Freedom in Christ
 

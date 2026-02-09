@@ -1,8 +1,11 @@
 ---
+title: "Psalm 59 BSB | Read the Bible Online"
+linkTitle: "59"
+description: "Read Psalm 59 Online | Deliver me from my enemies, O my God; protect me from those who rise against me..."
 weight: 59
 ---
 
-# Psalm 59
+# Psalm 59 
 
 ## Deliver Me from My Enemies
 

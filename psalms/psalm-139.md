@@ -1,8 +1,11 @@
 ---
+title: "Psalm 139 BSB | Read the Bible Online"
+linkTitle: "139"
+description: "Read Psalm 139 Online | O LORD, You have searched me and known me..."
 weight: 139
 ---
 
-# Psalm 139
+# Psalm 139 
 
 ## You Have Searched Me and Known Me
 

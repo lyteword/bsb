@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 44 BSB | Read the Bible Online"
+linkTitle: "44"
+description: "Read Isaiah 44 Online | But now listen, O Jacob My servant, Israel, whom I have chosen..."
 weight: 44
 ---
 
-# Chapter 44
+# Isaiah 44 
 
 ## The LORD Has Chosen Israel
 

@@ -1,8 +1,11 @@
 ---
+title: "Luke 20 BSB | Read the Bible Online"
+linkTitle: "20"
+description: "Read Luke 20 Online | One day as Jesus was teaching the people in the temple courts [^3972] and proclaiming the gospel, the chief priests and scribes, together with the elders, came up to Him..."
 weight: 20
 ---
 
-# Chapter 20
+# Luke 20 
 
 ## Jesus’ Authority Challenged
 

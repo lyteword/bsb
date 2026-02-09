@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 8 BSB | Read the Bible Online"
+linkTitle: "8"
+description: "Read Proverbs 8 Online | Does not wisdom call out, and understanding raise her voice..."
 weight: 8
 ---
 
-# Chapter 8
+# Proverbs 8 
 
 ## The Excellence of Wisdom
 

@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 5 BSB | Read the Bible Online"
+linkTitle: "5"
+description: "Read Deuteronomy 5 Online | Then Moses summoned all Israel and said to them:[^663] Hear, O Israel, the statutes and ordinances that I declare in your hearing this day. Learn them and observe them carefully..."
 weight: 5
 ---
 
-# Chapter 5
+# Deuteronomy 5 
 
 ## The Covenant at Horeb
 

@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 12 BSB | Read the Bible Online"
+linkTitle: "12"
+description: "Read Zechariah 12 Online | This is the burden of the word of the LORD concerning Israel. Thus declares the LORD, who stretches out the heavens and lays the foundation of the earth, who forms the spirit of man within him..."
 weight: 12
 ---
 
-# Chapter 12
+# Zechariah 12 
 
 ## The Coming Deliverance of Jerusalem
 

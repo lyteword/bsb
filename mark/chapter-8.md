@@ -1,8 +1,11 @@
 ---
+title: "Mark 8 BSB | Read the Bible Online"
+linkTitle: "8"
+description: "Read Mark 8 Online | In those days the crowd once again became very large, and they had nothing to eat. Jesus called the disciples to Him and said..."
 weight: 8
 ---
 
-# Chapter 8
+# Mark 8 
 
 ## The Feeding of the Four Thousand
 

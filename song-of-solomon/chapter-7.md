@@ -1,8 +1,11 @@
 ---
+title: "Song Of Solomon 7 BSB | Read the Bible Online"
+linkTitle: "7"
+description: "Read Song Of Solomon 7 Online | How beautiful are your sandaled feet, O daughter of the prince! The curves of your thighs are like jewels, the handiwork of a master..."
 weight: 7
 ---
 
-# Chapter 7
+# Song Of Solomon 7 
 
 ## Admiration by the Bridegroom
 

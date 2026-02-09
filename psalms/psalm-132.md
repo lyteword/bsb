@@ -1,8 +1,11 @@
 ---
+title: "Psalm 132 BSB | Read the Bible Online"
+linkTitle: "132"
+description: "Read Psalm 132 Online | O LORD, remember on behalf of David all the hardships he endured..."
 weight: 132
 ---
 
-# Psalm 132
+# Psalm 132 
 
 ## The LORD Has Chosen Zion
 

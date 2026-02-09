@@ -1,8 +1,11 @@
 ---
+title: "John 14 BSB | Read the Bible Online"
+linkTitle: "14"
+description: "Read John 14 Online | “Do not let your hearts be troubled. You believe in God;[^4090] believe in Me as well..."
 weight: 14
 ---
 
-# Chapter 14
+# John 14 
 
 ## In My Father’s House Are Many Rooms
 

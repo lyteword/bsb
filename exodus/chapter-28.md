@@ -1,8 +1,11 @@
 ---
+title: "Exodus 28 BSB | Read the Bible Online"
+linkTitle: "28"
+description: "Read Exodus 28 Online | “Next, have your brother Aaron brought to you from among the Israelites, along with his sons Nadab, Abihu, Eleazar, and Ithamar, to serve Me as priests..."
 weight: 28
 ---
 
-# Chapter 28
+# Exodus 28 
 
 ## Garments for the Priests
 

@@ -1,8 +1,11 @@
 ---
+title: "Luke 22 BSB | Read the Bible Online"
+linkTitle: "22"
+description: "Read Luke 22 Online | Now the Feast of Unleavened Bread,[^3982] called the Passover, was approaching..."
 weight: 22
 ---
 
-# Chapter 22
+# Luke 22 
 
 ## The Plot to Kill Jesus
 

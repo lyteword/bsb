@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 6 BSB | Read the Bible Online"
+linkTitle: "6"
+description: "Read 2 Chronicles 6 Online | Then Solomon declared: “The LORD has said that He would dwell in the thick cloud..."
 weight: 6
 ---
 
-# Chapter 6
+# 2 Chronicles 6 
 
 ## Solomon Blesses the LORD
 

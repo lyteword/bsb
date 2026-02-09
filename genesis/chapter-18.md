@@ -1,8 +1,11 @@
 ---
+title: "Genesis 18 BSB | Read the Bible Online"
+linkTitle: "18"
+description: "Read Genesis 18 Online | Then the LORD appeared to Abraham by the Oaks [^85] of Mamre in the heat of the day, while he was sitting at the entrance of his tent..."
 weight: 18
 ---
 
-# Chapter 18
+# Genesis 18 
 
 ## The Three Visitors
 

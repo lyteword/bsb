@@ -1,8 +1,11 @@
 ---
+title: "Numbers 34 BSB | Read the Bible Online"
+linkTitle: "34"
+description: "Read Numbers 34 Online | Then the LORD said to Moses..."
 weight: 34
 ---
 
-# Chapter 34
+# Numbers 34 
 
 ## The Boundaries of Canaan
 

@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read 1 Kings 2 Online | As the time drew near for David to die, he charged his son Solomon..."
 weight: 2
 ---
 
-# Chapter 2
+# 1 Kings 2 
 
 ## David Instructs Solomon
 

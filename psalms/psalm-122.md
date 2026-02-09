@@ -1,8 +1,11 @@
 ---
+title: "Psalm 122 BSB | Read the Bible Online"
+linkTitle: "122"
+description: "Read Psalm 122 Online | I was glad when they said to me, “Let us go to the house of the LORD...."
 weight: 122
 ---
 
-# Psalm 122
+# Psalm 122 
 
 ## Pray for the Peace of Jerusalem
 

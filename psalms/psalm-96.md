@@ -1,8 +1,11 @@
 ---
+title: "Psalm 96 BSB | Read the Bible Online"
+linkTitle: "96"
+description: "Read Psalm 96 Online | Sing to the LORD a new song; sing to the LORD, all the earth..."
 weight: 96
 ---
 
-# Psalm 96
+# Psalm 96 
 
 ## Sing to the LORD, All the Earth
 

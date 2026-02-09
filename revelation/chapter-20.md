@@ -1,8 +1,11 @@
 ---
+title: "Revelation 20 BSB | Read the Bible Online"
+linkTitle: "20"
+description: "Read Revelation 20 Online | Then I saw an angel coming down from heaven with the key to the Abyss, holding in his hand a great chain..."
 weight: 20
 ---
 
-# Chapter 20
+# Revelation 20 
 
 ## Satan Bound
 

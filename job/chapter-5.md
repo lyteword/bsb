@@ -1,8 +1,11 @@
 ---
+title: "Job 5 BSB | Read the Bible Online"
+linkTitle: "5"
+description: "Read Job 5 Online | “Call out if you please, but who will answer? To which of the holy ones will you turn..."
 weight: 5
 ---
 
-# Chapter 5
+# Job 5 
 
 ## Eliphaz Continues: God Blesses those Who Seek Him
 

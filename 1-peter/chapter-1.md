@@ -1,8 +1,11 @@
 ---
+title: "1 Peter 1 BSB | Read the Bible Online"
+linkTitle: "1"
+description: "Read 1 Peter 1 Online | Peter, an apostle of Jesus Christ, To the elect who are exiles of the Dispersion throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia, chosen [^4701..."
 weight: 1
 ---
 
-# Chapter 1
+# 1 Peter 1 
 
 ## A Greeting from Peter
 

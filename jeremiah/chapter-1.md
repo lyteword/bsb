@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 1 BSB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Jeremiah 1 Online | These are the words of Jeremiah son of Hilkiah, one of the priests in Anathoth in the territory of Benjamin..."
 weight: 1
 ---
 
-# Chapter 1
+# Jeremiah 1 
 
 ## The Call of Jeremiah
 

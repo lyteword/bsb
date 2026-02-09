@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 13 BSB | Read the Bible Online"
+linkTitle: "13"
+description: "Read Jeremiah 13 Online | This is what the LORD said to me: “Go and buy yourself a linen loincloth and put it around your waist, but do not let it touch water...."
 weight: 13
 ---
 
-# Chapter 13
+# Jeremiah 13 
 
 ## The Linen Loincloth
 

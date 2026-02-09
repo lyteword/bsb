@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 8 BSB | Read the Bible Online"
+linkTitle: "8"
+description: "Read Nehemiah 8 Online | At that time all the people gathered together in the square before the Water Gate, and they asked Ezra the scribe to bring out the Book of the Law of Moses, which the LORD had commanded for Israel..."
 weight: 8
 ---
 
-# Chapter 8
+# Nehemiah 8 
 
 ## Ezra Reads the Law
 

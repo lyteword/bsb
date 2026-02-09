@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 18 BSB | Read the Bible Online"
+linkTitle: "18"
+description: "Read 2 Kings 18 Online | In the third year of the reign of Hoshea son of Elah over Israel, Hezekiah son of Ahaz became king of Judah..."
 weight: 18
 ---
 
-# Chapter 18
+# 2 Kings 18 
 
 ## Hezekiah Destroys Idolatry in Judah
 

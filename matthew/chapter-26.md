@@ -1,8 +1,11 @@
 ---
+title: "Matthew 26 BSB | Read the Bible Online"
+linkTitle: "26"
+description: "Read Matthew 26 Online | When Jesus had finished saying all these things, He told His disciples..."
 weight: 26
 ---
 
-# Chapter 26
+# Matthew 26 
 
 ## The Plot to Kill Jesus
 

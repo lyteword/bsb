@@ -1,8 +1,11 @@
 ---
+title: "Micah 3 BSB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Micah 3 Online | Then I said: “Hear now, O leaders of Jacob, you rulers of the house of Israel. Should you not know justice..."
 weight: 3
 ---
 
-# Chapter 3
+# Micah 3 
 
 ## Rulers and Prophets Condemned
 

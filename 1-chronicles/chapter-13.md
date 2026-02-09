@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 13 BSB | Read the Bible Online"
+linkTitle: "13"
+description: "Read 1 Chronicles 13 Online | Then David conferred with all his leaders, the commanders of thousands and of hundreds..."
 weight: 13
 ---
 
-# Chapter 13
+# 1 Chronicles 13 
 
 ## David Fetches the Ark
 

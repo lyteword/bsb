@@ -1,8 +1,11 @@
 ---
+title: "Song Of Solomon 6 BSB | Read the Bible Online"
+linkTitle: "6"
+description: "Read Song Of Solomon 6 Online | Where has your beloved gone, O most beautiful among women? Which way has he turned? We will seek him with you..."
 weight: 6
 ---
 
-# Chapter 6
+# Song Of Solomon 6 
 
 ## Together in the Garden
 

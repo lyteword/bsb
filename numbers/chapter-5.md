@@ -1,8 +1,11 @@
 ---
+title: "Numbers 5 BSB | Read the Bible Online"
+linkTitle: "5"
+description: "Read Numbers 5 Online | Then the LORD said to Moses..."
 weight: 5
 ---
 
-# Chapter 5
+# Numbers 5 
 
 ## Cleansing the Camps
 

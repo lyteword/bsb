@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 44 BSB | Read the Bible Online"
+linkTitle: "44"
+description: "Read Ezekiel 44 Online | The man then brought me back to the outer gate of the sanctuary that faced east, but it was shut..."
 weight: 44
 ---
 
-# Chapter 44
+# Ezekiel 44 
 
 ## The East Gate Assigned to the Prince
 

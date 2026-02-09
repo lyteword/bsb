@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 25 BSB | Read the Bible Online"
+linkTitle: "25"
+description: "Read Leviticus 25 Online | Then the LORD said to Moses on Mount Sinai..."
 weight: 25
 ---
 
-# Chapter 25
+# Leviticus 25 
 
 ## The Seventh Year
 

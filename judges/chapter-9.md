@@ -1,8 +1,11 @@
 ---
+title: "Judges 9 BSB | Read the Bible Online"
+linkTitle: "9"
+description: "Read Judges 9 Online | Now Abimelech son of Jerubbaal [^903] went to his mother’s brothers at Shechem and said to them and to all the clan of his mother..."
 weight: 9
 ---
 
-# Chapter 9
+# Judges 9 
 
 ## Abimelech’s Conspiracy
 

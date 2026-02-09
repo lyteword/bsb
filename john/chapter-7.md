@@ -1,8 +1,11 @@
 ---
+title: "John 7 BSB | Read the Bible Online"
+linkTitle: "7"
+description: "Read John 7 Online | After this, Jesus traveled throughout Galilee. He did not want to travel in Judea, because the Jews there were trying to kill Him..."
 weight: 7
 ---
 
-# Chapter 7
+# John 7 
 
 ## Jesus Teaches at the Feast
 

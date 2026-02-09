@@ -1,8 +1,11 @@
 ---
+title: "2 Peter 1 BSB | Read the Bible Online"
+linkTitle: "1"
+description: "Read 2 Peter 1 Online | Simon Peter, a servant and apostle of Jesus Christ, To those who through the righteousness of our God and Savior Jesus Christ have received a faith as precious as ours..."
 weight: 1
 ---
 
-# Chapter 1
+# 2 Peter 1 
 
 ## A Greeting from Peter
 

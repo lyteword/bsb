@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 5 BSB | Read the Bible Online"
+linkTitle: "5"
+description: "Read 1 Kings 5 Online | Now when Hiram king of Tyre heard that Solomon had been anointed king in his father’s place, he sent envoys to Solomon; for Hiram had always been a friend of David..."
 weight: 5
 ---
 
-# Chapter 5
+# 1 Kings 5 
 
 ## Preparations for the Temple
 

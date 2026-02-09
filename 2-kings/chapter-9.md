@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 9 BSB | Read the Bible Online"
+linkTitle: "9"
+description: "Read 2 Kings 9 Online | Now Elisha the prophet summoned one of the sons of the prophets and said to him, “Tuck your cloak under your belt,[^1375] take this flask of oil, and go to Ramoth-gilead..."
 weight: 9
 ---
 
-# Chapter 9
+# 2 Kings 9 
 
 ## Jehu Anointed King of Israel
 

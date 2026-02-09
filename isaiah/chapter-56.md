@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 56 BSB | Read the Bible Online"
+linkTitle: "56"
+description: "Read Isaiah 56 Online | This is what the LORD says: “Maintain justice and do what is right, for My salvation is coming soon, and My righteousness will be revealed..."
 weight: 56
 ---
 
-# Chapter 56
+# Isaiah 56 
 
 ## Salvation for Foreigners
 

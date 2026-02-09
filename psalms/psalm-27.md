@@ -1,8 +1,11 @@
 ---
+title: "Psalm 27 BSB | Read the Bible Online"
+linkTitle: "27"
+description: "Read Psalm 27 Online | The LORD is my light and my salvation— whom shall I fear? The LORD is the stronghold of my life— whom shall I dread..."
 weight: 27
 ---
 
-# Psalm 27
+# Psalm 27 
 
 ## The LORD Is My Salvation
 

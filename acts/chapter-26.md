@@ -1,8 +1,11 @@
 ---
+title: "Acts 26 BSB | Read the Bible Online"
+linkTitle: "26"
+description: "Read Acts 26 Online | Agrippa said to Paul, “You have permission to speak for yourself.” Then Paul stretched out his hand and began his defense..."
 weight: 26
 ---
 
-# Chapter 26
+# Acts 26 
 
 ## Paul’s Testimony to Agrippa
 

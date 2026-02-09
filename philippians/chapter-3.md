@@ -1,8 +1,11 @@
 ---
+title: "Philippians 3 BSB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Philippians 3 Online | Finally, my brothers, rejoice in the Lord. It is no trouble for me to write the same things to you again, and it is a safeguard for you..."
 weight: 3
 ---
 
-# Chapter 3
+# Philippians 3 
 
 ## Righteousness through Faith in Christ
 

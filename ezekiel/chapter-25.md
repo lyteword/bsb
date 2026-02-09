@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 25 BSB | Read the Bible Online"
+linkTitle: "25"
+description: "Read Ezekiel 25 Online | Then the word of the LORD came to me, saying..."
 weight: 25
 ---
 
-# Chapter 25
+# Ezekiel 25 
 
 ## A Prophecy against Ammon
 

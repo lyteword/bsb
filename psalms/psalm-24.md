@@ -1,8 +1,11 @@
 ---
+title: "Psalm 24 BSB | Read the Bible Online"
+linkTitle: "24"
+description: "Read Psalm 24 Online | The earth is the LORD’s, and the fullness thereof,[^2193] the world and all who dwell therein..."
 weight: 24
 ---
 
-# Psalm 24
+# Psalm 24 
 
 ## The Earth Is the LORD’s
 

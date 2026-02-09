@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 5 BSB | Read the Bible Online"
+linkTitle: "5"
+description: "Read 2 Corinthians 5 Online | For we know that if the earthly tent we live in is dismantled, we have a building from God, an eternal house in heaven, not built by human hands..."
 weight: 5
 ---
 
-# Chapter 5
+# 2 Corinthians 5 
 
 ## Our Eternal Dwelling
 

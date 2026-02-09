@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 15 BSB | Read the Bible Online"
+linkTitle: "15"
+description: "Read 2 Kings 15 Online | In the twenty-seventh year of Jeroboam’s reign over Israel, Azariah [^1406] son of Amaziah became king of Judah..."
 weight: 15
 ---
 
-# Chapter 15
+# 2 Kings 15 
 
 ## Azariah Reigns in Judah
 

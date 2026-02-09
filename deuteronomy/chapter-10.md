@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 10 BSB | Read the Bible Online"
+linkTitle: "10"
+description: "Read Deuteronomy 10 Online | At that time the LORD said to me, “Chisel out two stone tablets like the originals, come up to Me on the mountain, and make an ark of wood..."
 weight: 10
 ---
 
-# Chapter 10
+# Deuteronomy 10 
 
 ## New Stone Tablets
 

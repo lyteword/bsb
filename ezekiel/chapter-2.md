@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Ezekiel 2 Online | “Son of man,[^2999]” He said to me, “stand up on your feet and I will speak to you...."
 weight: 2
 ---
 
-# Chapter 2
+# Ezekiel 2 
 
 ## Ezekiel’s Call
 

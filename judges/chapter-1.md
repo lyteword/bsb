@@ -1,8 +1,11 @@
 ---
+title: "Judges 1 BSB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Judges 1 Online | After the death of Joshua, the Israelites inquired of the LORD, “Who will be the first to go up and fight for us against the Canaanites?..."
 weight: 1
 ---
 
-# Chapter 1
+# Judges 1 
 
 ## The Conquest of Canaan Proceeds
 

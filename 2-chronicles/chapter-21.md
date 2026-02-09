@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 21 BSB | Read the Bible Online"
+linkTitle: "21"
+description: "Read 2 Chronicles 21 Online | And Jehoshaphat rested with his fathers and was buried with them in the City of David. And his son Jehoram reigned in his place..."
 weight: 21
 ---
 
-# Chapter 21
+# 2 Chronicles 21 
 
 ## Jehoram Reigns in Judah
 

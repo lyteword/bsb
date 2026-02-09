@@ -1,8 +1,11 @@
 ---
+title: "Lamentations 4 BSB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Lamentations 4 Online | How [^2989] the gold has become tarnished, the pure gold has become dull! The gems of the temple lie scattered on every street corner..."
 weight: 4
 ---
 
-# Chapter 4
+# Lamentations 4 
 
 ## The Distress of Zion
 

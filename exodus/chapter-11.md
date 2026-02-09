@@ -1,8 +1,11 @@
 ---
+title: "Exodus 11 BSB | Read the Bible Online"
+linkTitle: "11"
+description: "Read Exodus 11 Online | Then the LORD said to Moses, “I will bring upon Pharaoh and Egypt one more plague. After that, he will allow you to leave this place. And when he lets you go, he will drive you out completely..."
 weight: 11
 ---
 
-# Chapter 11
+# Exodus 11 
 
 ## The Plague on the Firstborn Foretold
 

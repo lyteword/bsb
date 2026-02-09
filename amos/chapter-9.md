@@ -1,8 +1,11 @@
 ---
+title: "Amos 9 BSB | Read the Bible Online"
+linkTitle: "9"
+description: "Read Amos 9 Online | I saw the Lord standing beside the altar, and He said: “Strike the tops of the pillars so that the thresholds shake. Topple them on the heads of all the people, and I will kill the rest with the sword. None of those who flee will get away; none of the fugitives will escape..."
 weight: 9
 ---
 
-# Chapter 9
+# Amos 9 
 
 ## The Destruction of Israel
 

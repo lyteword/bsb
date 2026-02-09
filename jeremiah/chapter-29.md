@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 29 BSB | Read the Bible Online"
+linkTitle: "29"
+description: "Read Jeremiah 29 Online | This is the text of the letter that Jeremiah the prophet sent from Jerusalem to the surviving elders among the exiles and to the priests, the prophets, and all the others Nebuchadnezzar had carried into exile from Jerusalem to Babylon..."
 weight: 29
 ---
 
-# Chapter 29
+# Jeremiah 29 
 
 ## Jeremiah’s Letter to the Exiles
 

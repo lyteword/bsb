@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 11 BSB | Read the Bible Online"
+linkTitle: "11"
+description: "Read 2 Samuel 11 Online | In the spring,[^1107] at the time when kings march out to war, David sent out Joab and his servants with the whole army of Israel. They destroyed the Ammonites and besieged Rabbah, but David remained in Jerusalem..."
 weight: 11
 ---
 
-# Chapter 11
+# 2 Samuel 11 
 
 ## David and Bathsheba
 

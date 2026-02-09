@@ -1,8 +1,11 @@
 ---
+title: "Ruth 3 BSB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Ruth 3 Online | One day Ruth’s mother-in-law Naomi said to her, “My daughter, should I not seek a resting place for you, that it may be well with you..."
 weight: 3
 ---
 
-# Chapter 3
+# Ruth 3 
 
 ## Ruth’s Redemption Assured
 

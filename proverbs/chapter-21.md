@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 21 BSB | Read the Bible Online"
+linkTitle: "21"
+description: "Read Proverbs 21 Online | The king’s heart is a waterway in the hand of the LORD; He directs it where He pleases..."
 weight: 21
 ---
 
-# Chapter 21
+# Proverbs 21 
 
 ## The King’s Heart
 

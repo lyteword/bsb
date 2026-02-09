@@ -1,8 +1,11 @@
 ---
+title: "Numbers 4 BSB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Numbers 4 Online | Then the LORD said to Moses and Aaron..."
 weight: 4
 ---
 
-# Chapter 4
+# Numbers 4 
 
 ## The Duties of the Kohathites
 

@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 25 BSB | Read the Bible Online"
+linkTitle: "25"
+description: "Read Jeremiah 25 Online | This is the word that came to Jeremiah concerning all the people of Judah in the fourth year of Jehoiakim son of Josiah king of Judah, which was the first year of Nebuchadnezzar king of Babylon..."
 weight: 25
 ---
 
-# Chapter 25
+# Jeremiah 25 
 
 ## Seventy Years of Captivity
 

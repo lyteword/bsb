@@ -1,8 +1,11 @@
 ---
+title: "Genesis 7 BSB | Read the Bible Online"
+linkTitle: "7"
+description: "Read Genesis 7 Online | Then the LORD said to Noah, “Go into the ark, you and all your family, because I have found you righteous in this generation..."
 weight: 7
 ---
 
-# Chapter 7
+# Genesis 7 
 
 ## The Great Flood
 

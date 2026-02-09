@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 13 BSB | Read the Bible Online"
+linkTitle: "13"
+description: "Read Hebrews 13 Online | Continue in brotherly love..."
 weight: 13
 ---
 
-# Chapter 13
+# Hebrews 13 
 
 ## Brotherly Love
 

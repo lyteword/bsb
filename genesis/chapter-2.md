@@ -1,8 +1,11 @@
 ---
+title: "Genesis 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Genesis 2 Online | Thus the heavens and the earth were completed in all their vast array..."
 weight: 2
 ---
 
-# Chapter 2
+# Genesis 2 
 
 ## The Seventh Day
 

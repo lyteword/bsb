@@ -1,8 +1,11 @@
 ---
+title: "Exodus 19 BSB | Read the Bible Online"
+linkTitle: "19"
+description: "Read Exodus 19 Online | In the third month, on the same day of the month [^316] that the Israelites had left the land of Egypt, they came to the Wilderness of Sinai..."
 weight: 19
 ---
 
-# Chapter 19
+# Exodus 19 
 
 ## Israel at Mount Sinai
 

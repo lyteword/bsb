@@ -1,8 +1,11 @@
 ---
+title: "Job 9 BSB | Read the Bible Online"
+linkTitle: "9"
+description: "Read Job 9 Online | Then Job answered..."
 weight: 9
 ---
 
-# Chapter 9
+# Job 9 
 
 ## Job: How Can I Contend with God?
 

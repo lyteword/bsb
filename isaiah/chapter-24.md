@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 24 BSB | Read the Bible Online"
+linkTitle: "24"
+description: "Read Isaiah 24 Online | Behold, the LORD lays waste the earth and leaves it in ruins. He will twist its surface and scatter its inhabitants..."
 weight: 24
 ---
 
-# Chapter 24
+# Isaiah 24 
 
 ## God’s Judgment on the Earth
 

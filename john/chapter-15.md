@@ -1,8 +1,11 @@
 ---
+title: "John 15 BSB | Read the Bible Online"
+linkTitle: "15"
+description: "Read John 15 Online | “I am the true vine, and My Father is the keeper of the vineyard..."
 weight: 15
 ---
 
-# Chapter 15
+# John 15 
 
 ## Jesus the True Vine
 

@@ -1,8 +1,11 @@
 ---
+title: "Job 42 BSB | Read the Bible Online"
+linkTitle: "42"
+description: "Read Job 42 Online | Then Job replied to the LORD..."
 weight: 42
 ---
 
-# Chapter 42
+# Job 42 
 
 ## Job Submits Himself to the LORD
 

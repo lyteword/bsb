@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 5 BSB | Read the Bible Online"
+linkTitle: "5"
+description: "Read 2 Chronicles 5 Online | So all the work that Solomon had performed for the house of the LORD was completed. Then Solomon brought in the items his father David had dedicated—the silver, the gold, and all the furnishings—and he placed them in the treasuries of the house of God..."
 weight: 5
 ---
 
-# Chapter 5
+# 2 Chronicles 5 
 
 ## The Ark Enters the Temple
 

@@ -1,8 +1,11 @@
 ---
+title: "Mark 6 BSB | Read the Bible Online"
+linkTitle: "6"
+description: "Read Mark 6 Online | Jesus went on from there and came to His hometown, accompanied by His disciples..."
 weight: 6
 ---
 
-# Chapter 6
+# Mark 6 
 
 ## The Rejection at Nazareth
 

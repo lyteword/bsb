@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 10 BSB | Read the Bible Online"
+linkTitle: "10"
+description: "Read 2 Chronicles 10 Online | Then Rehoboam went to Shechem, for all Israel had gone there to make him king..."
 weight: 10
 ---
 
-# Chapter 10
+# 2 Chronicles 10 
 
 ## Rebellion against Rehoboam
 

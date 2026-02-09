@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 40 BSB | Read the Bible Online"
+linkTitle: "40"
+description: "Read Ezekiel 40 Online | In the twenty-fifth year of our exile, at the beginning of the year, on the tenth day of the month—in the fourteenth year after Jerusalem had been struck down—on that very day the hand of the LORD was upon me, and He took me there..."
 weight: 40
 ---
 
-# Chapter 40
+# Ezekiel 40 
 
 ## The Man with a Measuring Rod
 

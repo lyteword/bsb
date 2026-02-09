@@ -1,8 +1,11 @@
 ---
+title: "Esther 9 BSB | Read the Bible Online"
+linkTitle: "9"
+description: "Read Esther 9 Online | On the thirteenth day of the twelfth month, the month of Adar,[^2056] the king’s command and edict were to be executed. On this day the enemies of the Jews had hoped to overpower them, but their plan was overturned and the Jews overpowered those who hated them..."
 weight: 9
 ---
 
-# Chapter 9
+# Esther 9 
 
 ## The Jews Destroy Their Enemies
 

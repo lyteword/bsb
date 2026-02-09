@@ -1,8 +1,11 @@
 ---
+title: "Psalm 15 BSB | Read the Bible Online"
+linkTitle: "15"
+description: "Read Psalm 15 Online | O LORD, who may abide in Your tent? Who may dwell on Your holy mountain..."
 weight: 15
 ---
 
-# Psalm 15
+# Psalm 15 
 
 ## Who May Dwell on Your Holy Mountain?
 

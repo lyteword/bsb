@@ -1,8 +1,11 @@
 ---
+title: "Genesis 47 BSB | Read the Bible Online"
+linkTitle: "47"
+description: "Read Genesis 47 Online | So Joseph went and told Pharaoh: “My father and my brothers, with their flocks and herds and all they own, have come from the land of Canaan and are now in Goshen...."
 weight: 47
 ---
 
-# Chapter 47
+# Genesis 47 
 
 ## Jacob Settles in Goshen
 

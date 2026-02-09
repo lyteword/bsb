@@ -1,8 +1,11 @@
 ---
+title: "1 Timothy 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read 1 Timothy 2 Online | First of all, then, I urge that petitions, prayers, intercessions, and thanksgiving be offered for everyone..."
 weight: 2
 ---
 
-# Chapter 2
+# 1 Timothy 2 
 
 ## A Call to Prayer
 

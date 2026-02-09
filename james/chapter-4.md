@@ -1,8 +1,11 @@
 ---
+title: "James 4 BSB | Read the Bible Online"
+linkTitle: "4"
+description: "Read James 4 Online | What causes conflicts and quarrels among you? Don’t they come from the passions at war within you?[^4695..."
 weight: 4
 ---
 
-# Chapter 4
+# James 4 
 
 ## A Warning against Pride
 

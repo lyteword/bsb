@@ -1,8 +1,11 @@
 ---
+title: "Psalm 125 BSB | Read the Bible Online"
+linkTitle: "125"
+description: "Read Psalm 125 Online | Those who trust in the LORD are like Mount Zion. It cannot be moved; it abides forever..."
 weight: 125
 ---
 
-# Psalm 125
+# Psalm 125 
 
 ## The LORD Surrounds His People
 

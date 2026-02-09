@@ -1,8 +1,11 @@
 ---
+title: "Exodus 6 BSB | Read the Bible Online"
+linkTitle: "6"
+description: "Read Exodus 6 Online | But the LORD said to Moses, “Now you will see what I will do to Pharaoh, for because of My mighty hand he will let the people go; because of My strong hand he will drive them out of his land...."
 weight: 6
 ---
 
-# Chapter 6
+# Exodus 6 
 
 ## God Promises Deliverance
 

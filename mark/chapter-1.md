@@ -1,8 +1,11 @@
 ---
+title: "Mark 1 BSB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Mark 1 Online | This is the beginning of the gospel of Jesus Christ, the Son of God.[^3736..."
 weight: 1
 ---
 
-# Chapter 1
+# Mark 1 
 
 ## The Mission of John the Baptist
 

@@ -1,8 +1,11 @@
 ---
+title: "Genesis 46 BSB | Read the Bible Online"
+linkTitle: "46"
+description: "Read Genesis 46 Online | So Israel set out with all that he had, and when he came to Beersheba, he offered sacrifices to the God of his father Isaac..."
 weight: 46
 ---
 
-# Chapter 46
+# Genesis 46 
 
 ## Jacob’s Journey to Egypt
 

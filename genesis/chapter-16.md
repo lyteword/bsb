@@ -1,8 +1,11 @@
 ---
+title: "Genesis 16 BSB | Read the Bible Online"
+linkTitle: "16"
+description: "Read Genesis 16 Online | Now Abram’s wife Sarai had borne him no children, but she had an Egyptian maidservant named Hagar..."
 weight: 16
 ---
 
-# Chapter 16
+# Genesis 16 
 
 ## Hagar and Ishmael
 

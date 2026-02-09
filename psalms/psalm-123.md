@@ -1,8 +1,11 @@
 ---
+title: "Psalm 123 BSB | Read the Bible Online"
+linkTitle: "123"
+description: "Read Psalm 123 Online | I lift up my eyes to You, the One enthroned in heaven..."
 weight: 123
 ---
 
-# Psalm 123
+# Psalm 123 
 
 ## I Lift Up My Eyes to You
 

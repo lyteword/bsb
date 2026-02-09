@@ -1,8 +1,11 @@
 ---
+title: "Song Of Solomon 4 BSB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Song Of Solomon 4 Online | How beautiful you are, my darling— how very beautiful! Your eyes are like doves behind your veil. Your hair is like a flock of goats streaming down Mount Gilead..."
 weight: 4
 ---
 
-# Chapter 4
+# Song Of Solomon 4 
 
 ## Solomon Admires His Bride
 

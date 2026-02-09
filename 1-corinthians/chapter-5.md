@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 5 BSB | Read the Bible Online"
+linkTitle: "5"
+description: "Read 1 Corinthians 5 Online | It is actually reported that there is sexual immorality among you, and of a kind that is intolerable even among pagans: A man has his father’s wife..."
 weight: 5
 ---
 
-# Chapter 5
+# 1 Corinthians 5 
 
 ## Immorality Rebuked
 

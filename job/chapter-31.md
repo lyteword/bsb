@@ -1,8 +1,11 @@
 ---
+title: "Job 31 BSB | Read the Bible Online"
+linkTitle: "31"
+description: "Read Job 31 Online | “I have made a covenant with my eyes. How then could I gaze with desire at a virgin..."
 weight: 31
 ---
 
-# Chapter 31
+# Job 31 
 
 ## Job’s Final Appeal
 

@@ -1,8 +1,11 @@
 ---
+title: "Luke 11 BSB | Read the Bible Online"
+linkTitle: "11"
+description: "Read Luke 11 Online | One day in a place where Jesus had just finished praying, one of His disciples requested, “Lord, teach us to pray, just as John taught his disciples...."
 weight: 11
 ---
 
-# Chapter 11
+# Luke 11 
 
 ## The Lord’s Prayer
 

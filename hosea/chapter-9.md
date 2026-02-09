@@ -1,8 +1,11 @@
 ---
+title: "Hosea 9 BSB | Read the Bible Online"
+linkTitle: "9"
+description: "Read Hosea 9 Online | Do not rejoice, O Israel, with exultation like the nations, for you have played the harlot against your God; you have made love for hire on every threshing floor..."
 weight: 9
 ---
 
-# Chapter 9
+# Hosea 9 
 
 ## Israel’s Punishment
 

@@ -1,8 +1,11 @@
 ---
+title: "Genesis 22 BSB | Read the Bible Online"
+linkTitle: "22"
+description: "Read Genesis 22 Online | Some time later God tested Abraham and said to him, “Abraham!” “Here I am,” he answered..."
 weight: 22
 ---
 
-# Chapter 22
+# Genesis 22 
 
 ## The Offering of Isaac
 

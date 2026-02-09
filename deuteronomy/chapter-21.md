@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 21 BSB | Read the Bible Online"
+linkTitle: "21"
+description: "Read Deuteronomy 21 Online | If one is found slain, lying in a field in the land that the LORD your God is giving you to possess, and it is not known who killed him..."
 weight: 21
 ---
 
-# Chapter 21
+# Deuteronomy 21 
 
 ## Atonement for an Unsolved Murder
 

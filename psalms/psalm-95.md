@@ -1,8 +1,11 @@
 ---
+title: "Psalm 95 BSB | Read the Bible Online"
+linkTitle: "95"
+description: "Read Psalm 95 Online | Come, let us sing for joy to the LORD; let us shout to the Rock of our salvation..."
 weight: 95
 ---
 
-# Psalm 95
+# Psalm 95 
 
 ## Do Not Harden Your Hearts
 

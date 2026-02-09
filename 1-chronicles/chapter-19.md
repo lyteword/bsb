@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 19 BSB | Read the Bible Online"
+linkTitle: "19"
+description: "Read 1 Chronicles 19 Online | Some time later, Nahash king of the Ammonites died and was succeeded by his son..."
 weight: 19
 ---
 
-# Chapter 19
+# 1 Chronicles 19 
 
 ## David’s Messengers Disgraced
 

@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 23 BSB | Read the Bible Online"
+linkTitle: "23"
+description: "Read Ezekiel 23 Online | Again the word of the LORD came to me, saying..."
 weight: 23
 ---
 
-# Chapter 23
+# Ezekiel 23 
 
 ## The Two Adulterous Sisters
 

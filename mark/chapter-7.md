@@ -1,8 +1,11 @@
 ---
+title: "Mark 7 BSB | Read the Bible Online"
+linkTitle: "7"
+description: "Read Mark 7 Online | Then the Pharisees and some of the scribes who had come from Jerusalem gathered around Jesus..."
 weight: 7
 ---
 
-# Chapter 7
+# Mark 7 
 
 ## The Tradition of the Elders
 

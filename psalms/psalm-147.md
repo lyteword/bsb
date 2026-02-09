@@ -1,8 +1,11 @@
 ---
+title: "Psalm 147 BSB | Read the Bible Online"
+linkTitle: "147"
+description: "Read Psalm 147 Online | Hallelujah! [^2430] How good it is to sing praises to our God, how pleasant and lovely to praise Him..."
 weight: 147
 ---
 
-# Psalm 147
+# Psalm 147 
 
 ## It Is Good to Sing Praises
 

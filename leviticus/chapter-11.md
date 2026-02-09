@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 11 BSB | Read the Bible Online"
+linkTitle: "11"
+description: "Read Leviticus 11 Online | The LORD spoke again to Moses and Aaron, telling them..."
 weight: 11
 ---
 
-# Chapter 11
+# Leviticus 11 
 
 ## Clean and Unclean Animals
 

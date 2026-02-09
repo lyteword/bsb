@@ -1,8 +1,11 @@
 ---
+title: "Job 29 BSB | Read the Bible Online"
+linkTitle: "29"
+description: "Read Job 29 Online | And Job continued his discourse..."
 weight: 29
 ---
 
-# Chapter 29
+# Job 29 
 
 ## Job’s Former Blessings
 

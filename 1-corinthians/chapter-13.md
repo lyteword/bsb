@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 13 BSB | Read the Bible Online"
+linkTitle: "13"
+description: "Read 1 Corinthians 13 Online | If I speak in the tongues of men and of angels, but have not love, I am only a ringing gong or a clanging cymbal..."
 weight: 13
 ---
 
-# Chapter 13
+# 1 Corinthians 13 
 
 ## Love
 

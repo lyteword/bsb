@@ -1,8 +1,11 @@
 ---
+title: "Acts 18 BSB | Read the Bible Online"
+linkTitle: "18"
+description: "Read Acts 18 Online | After this, Paul left Athens and went to Corinth..."
 weight: 18
 ---
 
-# Chapter 18
+# Acts 18 
 
 ## Paul Ministers in Corinth
 

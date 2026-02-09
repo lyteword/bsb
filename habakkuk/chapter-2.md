@@ -1,8 +1,11 @@
 ---
+title: "Habakkuk 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Habakkuk 2 Online | I will stand at my guard post and station myself on the ramparts. I will watch to see what He will say to me, and how I should answer when corrected..."
 weight: 2
 ---
 
-# Chapter 2
+# Habakkuk 2 
 
 ## The LORD Answers Again
 

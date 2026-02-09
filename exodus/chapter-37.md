@@ -1,8 +1,11 @@
 ---
+title: "Exodus 37 BSB | Read the Bible Online"
+linkTitle: "37"
+description: "Read Exodus 37 Online | Bezalel went on to construct the ark of acacia wood, two and a half cubits long, a cubit and a half wide, and a cubit and a half high.[^416..."
 weight: 37
 ---
 
-# Chapter 37
+# Exodus 37 
 
 ## Constructing the Ark
 

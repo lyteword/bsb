@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 48 BSB | Read the Bible Online"
+linkTitle: "48"
+description: "Read Isaiah 48 Online | “Listen to this, O house of Jacob, you who are called by the name of Israel, who have descended from the line of Judah, who swear by the name of the LORD, who invoke the God of Israel— but not in truth or righteousness..."
 weight: 48
 ---
 
-# Chapter 48
+# Isaiah 48 
 
 ## Israel’s Stubbornness
 

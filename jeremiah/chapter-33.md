@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 33 BSB | Read the Bible Online"
+linkTitle: "33"
+description: "Read Jeremiah 33 Online | While Jeremiah was still confined in the courtyard of the guard, the word of the LORD came to him a second time..."
 weight: 33
 ---
 
-# Chapter 33
+# Jeremiah 33 
 
 ## The Excellence of the Restored Nation
 

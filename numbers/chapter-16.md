@@ -1,8 +1,11 @@
 ---
+title: "Numbers 16 BSB | Read the Bible Online"
+linkTitle: "16"
+description: "Read Numbers 16 Online | Now Korah son of Izhar, the son of Kohath son of Levi, along with some Reubenites—Dathan and Abiram, sons of Eliab, and On son of Peleth—conducted..."
 weight: 16
 ---
 
-# Chapter 16
+# Numbers 16 
 
 ## Korah’s Rebellion
 

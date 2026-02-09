@@ -1,8 +1,11 @@
 ---
+title: "Mark 15 BSB | Read the Bible Online"
+linkTitle: "15"
+description: "Read Mark 15 Online | Early in the morning, the chief priests, elders, scribes, and the whole Sanhedrin [^3848] devised a plan. They bound Jesus, led Him away, and handed Him over to Pilate..."
 weight: 15
 ---
 
-# Chapter 15
+# Mark 15 
 
 ## Jesus Delivered to Pilate
 

@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 22 BSB | Read the Bible Online"
+linkTitle: "22"
+description: "Read Isaiah 22 Online | This is the burden against the Valley of Vision: What ails you now, that you have all gone up to the rooftops..."
 weight: 22
 ---
 
-# Chapter 22
+# Isaiah 22 
 
 ## The Valley of Vision
 

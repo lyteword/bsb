@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read 2 Samuel 2 Online | Some time later, David inquired of the LORD, “Should I go up to one of the towns of Judah?” “Go up,” the LORD answered. Then David asked, “Where should I go?” “To Hebron,” replied the LORD..."
 weight: 2
 ---
 
-# Chapter 2
+# 2 Samuel 2 
 
 ## David Anointed King of Judah
 

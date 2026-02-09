@@ -1,8 +1,11 @@
 ---
+title: "Psalm 106 BSB | Read the Bible Online"
+linkTitle: "106"
+description: "Read Psalm 106 Online | Hallelujah! [^2363] Give thanks to the LORD, for He is good; His loving devotion endures forever..."
 weight: 106
 ---
 
-# Psalm 106
+# Psalm 106 
 
 ## Give Thanks to the LORD, for He Is Good
 

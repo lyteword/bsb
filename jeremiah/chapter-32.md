@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 32 BSB | Read the Bible Online"
+linkTitle: "32"
+description: "Read Jeremiah 32 Online | This is the word that came to Jeremiah from the LORD in the tenth year of Zedekiah king of Judah, which was the eighteenth year of Nebuchadnezzar..."
 weight: 32
 ---
 
-# Chapter 32
+# Jeremiah 32 
 
 ## Jeremiah Buys Hanamel’s Field
 

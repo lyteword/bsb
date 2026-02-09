@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 7 BSB | Read the Bible Online"
+linkTitle: "7"
+description: "Read 1 Kings 7 Online | Solomon, however, took thirteen years to complete the construction of his entire palace..."
 weight: 7
 ---
 
-# Chapter 7
+# 1 Kings 7 
 
 ## Solomon’s Palace Complex
 

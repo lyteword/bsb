@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 11 BSB | Read the Bible Online"
+linkTitle: "11"
+description: "Read 2 Chronicles 11 Online | When Rehoboam arrived in Jerusalem, he mobilized the house of Judah and Benjamin—180,000 chosen warriors—to fight against Israel and restore the kingdom to Rehoboam..."
 weight: 11
 ---
 
-# Chapter 11
+# 2 Chronicles 11 
 
 ## Shemaiah’s Prophecy
 

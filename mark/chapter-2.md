@@ -1,8 +1,11 @@
 ---
+title: "Mark 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Mark 2 Online | A few days later Jesus went back to Capernaum. And when the people heard that He was home..."
 weight: 2
 ---
 
-# Chapter 2
+# Mark 2 
 
 ## Jesus Heals a Paralytic
 

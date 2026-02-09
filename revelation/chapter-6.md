@@ -1,8 +1,11 @@
 ---
+title: "Revelation 6 BSB | Read the Bible Online"
+linkTitle: "6"
+description: "Read Revelation 6 Online | Then I watched as the Lamb opened one of the seven seals, and I heard one of the four living creatures say in a voice like thunder, “Come!..."
 weight: 6
 ---
 
-# Chapter 6
+# Revelation 6 
 
 ## The First Seal: The White Horse
 

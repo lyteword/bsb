@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 20 BSB | Read the Bible Online"
+linkTitle: "20"
+description: "Read Proverbs 20 Online | Wine is a mocker, strong drink is a brawler, and whoever is led astray by them is not wise..."
 weight: 20
 ---
 
-# Chapter 20
+# Proverbs 20 
 
 ## Wine Is a Mocker
 

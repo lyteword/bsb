@@ -1,8 +1,11 @@
 ---
+title: "Genesis 23 BSB | Read the Bible Online"
+linkTitle: "23"
+description: "Read Genesis 23 Online | Now Sarah lived to be 127 years old..."
 weight: 23
 ---
 
-# Chapter 23
+# Genesis 23 
 
 ## The Death and Burial of Sarah
 

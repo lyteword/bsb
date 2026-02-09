@@ -1,8 +1,11 @@
 ---
+title: "Song Of Solomon 5 BSB | Read the Bible Online"
+linkTitle: "5"
+description: "Read Song Of Solomon 5 Online | I have come to my garden, my sister, my bride; I have gathered my myrrh with my spice. I have eaten my honeycomb with my honey; I have drunk my wine with my milk..."
 weight: 5
 ---
 
-# Chapter 5
+# Song Of Solomon 5 
 
 ## The Bride and Her Beloved
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 17 BSB | Read the Bible Online"
+linkTitle: "17"
+description: "Read Psalm 17 Online | Hear, O LORD, my righteous plea; listen to my cry. Give ear to my prayer— it comes from lips free of deceit..."
 weight: 17
 ---
 
-# Psalm 17
+# Psalm 17 
 
 ## Hear My Righteous Plea
 

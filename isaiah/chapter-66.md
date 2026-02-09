@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 66 BSB | Read the Bible Online"
+linkTitle: "66"
+description: "Read Isaiah 66 Online | This is what the LORD says: “Heaven is My throne, and earth is My footstool. What kind of house will you build for Me? Or where will My place of repose be..."
 weight: 66
 ---
 
-# Chapter 66
+# Isaiah 66 
 
 ## Heaven Is My Throne
 

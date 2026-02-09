@@ -1,8 +1,11 @@
 ---
+title: "Hosea 10 BSB | Read the Bible Online"
+linkTitle: "10"
+description: "Read Hosea 10 Online | Israel was a luxuriant vine, yielding fruit for himself. The more his fruit increased, the more he increased the altars. The better his land produced, the better he made the sacred pillars..."
 weight: 10
 ---
 
-# Chapter 10
+# Hosea 10 
 
 ## Retribution for Israel’s Sin
 

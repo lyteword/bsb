@@ -1,8 +1,11 @@
 ---
+title: "Numbers 25 BSB | Read the Bible Online"
+linkTitle: "25"
+description: "Read Numbers 25 Online | While Israel was staying in Shittim,[^601] the men began to indulge in sexual immorality with the daughters of Moab..."
 weight: 25
 ---
 
-# Chapter 25
+# Numbers 25 
 
 ## Moab Seduces Israel
 

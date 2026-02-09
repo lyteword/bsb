@@ -1,8 +1,11 @@
 ---
+title: "James 5 BSB | Read the Bible Online"
+linkTitle: "5"
+description: "Read James 5 Online | Come now, you who are rich, weep and wail over the misery to come upon you..."
 weight: 5
 ---
 
-# Chapter 5
+# James 5 
 
 ## A Warning to the Rich
 

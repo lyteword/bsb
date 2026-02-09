@@ -1,8 +1,11 @@
 ---
+title: "2 Thessalonians 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read 2 Thessalonians 2 Online | Now concerning the coming of our Lord Jesus Christ and our being gathered together to Him, we ask you, brothers..."
 weight: 2
 ---
 
-# Chapter 2
+# 2 Thessalonians 2 
 
 ## The Man of Lawlessness
 

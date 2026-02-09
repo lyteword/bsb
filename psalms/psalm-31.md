@@ -1,8 +1,11 @@
 ---
+title: "Psalm 31 BSB | Read the Bible Online"
+linkTitle: "31"
+description: "Read Psalm 31 Online | In You, O LORD, I have taken refuge; let me never be put to shame; save me by Your righteousness..."
 weight: 31
 ---
 
-# Psalm 31
+# Psalm 31 
 
 ## Into Your Hands I Commit My Spirit
 

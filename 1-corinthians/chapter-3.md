@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 3 BSB | Read the Bible Online"
+linkTitle: "3"
+description: "Read 1 Corinthians 3 Online | Brothers, I could not address you as spiritual, but as worldly—as infants in Christ..."
 weight: 3
 ---
 
-# Chapter 3
+# 1 Corinthians 3 
 
 ## God’s Fellow Workers
 

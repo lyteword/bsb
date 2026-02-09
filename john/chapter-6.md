@@ -1,8 +1,11 @@
 ---
+title: "John 6 BSB | Read the Bible Online"
+linkTitle: "6"
+description: "Read John 6 Online | After this, Jesus crossed to the other side of the Sea of Galilee (that is, the Sea of Tiberias)..."
 weight: 6
 ---
 
-# Chapter 6
+# John 6 
 
 ## The Feeding of the Five Thousand
 

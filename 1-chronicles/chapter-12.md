@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 12 BSB | Read the Bible Online"
+linkTitle: "12"
+description: "Read 1 Chronicles 12 Online | Now these were the men who came to David at Ziklag, while he was still banished from the presence of Saul son of Kish (they were among the mighty men who helped him in battle..."
 weight: 12
 ---
 
-# Chapter 12
+# 1 Chronicles 12 
 
 ## The Mighty Men Join David at Ziklag
 

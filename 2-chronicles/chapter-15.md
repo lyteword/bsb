@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 15 BSB | Read the Bible Online"
+linkTitle: "15"
+description: "Read 2 Chronicles 15 Online | Now the Spirit of God came upon Azariah son of Oded..."
 weight: 15
 ---
 
-# Chapter 15
+# 2 Chronicles 15 
 
 ## The Prophecy of Azariah
 

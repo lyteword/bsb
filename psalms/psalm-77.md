@@ -1,8 +1,11 @@
 ---
+title: "Psalm 77 BSB | Read the Bible Online"
+linkTitle: "77"
+description: "Read Psalm 77 Online | I cried out to God; I cried aloud to God to hear me..."
 weight: 77
 ---
 
-# Psalm 77
+# Psalm 77 
 
 ## In the Day of Trouble I Sought the Lord
 

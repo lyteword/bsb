@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 35 BSB | Read the Bible Online"
+linkTitle: "35"
+description: "Read Ezekiel 35 Online | Moreover, the word of the LORD came to me, saying..."
 weight: 35
 ---
 
-# Chapter 35
+# Ezekiel 35 
 
 ## A Prophecy against Mount Seir
 

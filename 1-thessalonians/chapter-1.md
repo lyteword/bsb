@@ -1,8 +1,11 @@
 ---
+title: "1 Thessalonians 1 BSB | Read the Bible Online"
+linkTitle: "1"
+description: "Read 1 Thessalonians 1 Online | Paul, Silvanus,[^4539] and Timothy, To the church of the Thessalonians in God the Father and the Lord Jesus Christ: Grace and peace to you.[^4540..."
 weight: 1
 ---
 
-# Chapter 1
+# 1 Thessalonians 1 
 
 ## Greetings to the Thessalonians
 

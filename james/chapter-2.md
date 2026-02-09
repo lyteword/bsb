@@ -1,8 +1,11 @@
 ---
+title: "James 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read James 2 Online | My brothers, as you hold out your faith in our glorious Lord Jesus Christ, do not show favoritism..."
 weight: 2
 ---
 
-# Chapter 2
+# James 2 
 
 ## A Warning against Favoritism
 

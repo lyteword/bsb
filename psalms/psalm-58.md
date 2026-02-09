@@ -1,8 +1,11 @@
 ---
+title: "Psalm 58 BSB | Read the Bible Online"
+linkTitle: "58"
+description: "Read Psalm 58 Online | Do you indeed speak justly, O rulers? Do you judge uprightly, O sons of men..."
 weight: 58
 ---
 
-# Psalm 58
+# Psalm 58 
 
 ## God Judges the Earth
 

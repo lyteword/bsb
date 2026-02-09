@@ -1,8 +1,11 @@
 ---
+title: "Mark 16 BSB | Read the Bible Online"
+linkTitle: "16"
+description: "Read Mark 16 Online | When the Sabbath was over, Mary Magdalene, Mary the mother of James, and Salome bought spices so they could go and anoint the body of Jesus..."
 weight: 16
 ---
 
-# Chapter 16
+# Mark 16 
 
 ## The Resurrection
 

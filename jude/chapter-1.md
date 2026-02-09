@@ -1,8 +1,11 @@
 ---
+title: "Jude 1 BSB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Jude 1 Online | Jude, a servant of Jesus Christ and a brother of James, To those who are called, loved by God the Father, and kept in Jesus Christ..."
 weight: 1
 ---
 
-# Chapter 1
+# Jude 1 
 
 ## A Greeting from Jude
 

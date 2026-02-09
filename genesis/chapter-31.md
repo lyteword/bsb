@@ -1,8 +1,11 @@
 ---
+title: "Genesis 31 BSB | Read the Bible Online"
+linkTitle: "31"
+description: "Read Genesis 31 Online | Now Jacob heard that Laban’s sons were saying, “Jacob has taken away all that belonged to our father and built all this wealth at our father’s expense...."
 weight: 31
 ---
 
-# Chapter 31
+# Genesis 31 
 
 ## Jacob Flees from Laban
 

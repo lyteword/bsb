@@ -1,8 +1,11 @@
 ---
+title: "Joshua 24 BSB | Read the Bible Online"
+linkTitle: "24"
+description: "Read Joshua 24 Online | Then Joshua assembled all the tribes of Israel at Shechem. He summoned the elders, leaders, judges, and officers of Israel, and they presented themselves before God..."
 weight: 24
 ---
 
-# Chapter 24
+# Joshua 24 
 
 ## Joshua Reviews Israel’s History
 

@@ -1,8 +1,11 @@
 ---
+title: "John 13 BSB | Read the Bible Online"
+linkTitle: "13"
+description: "Read John 13 Online | It was now just before the Passover Feast, and Jesus knew that His hour had come to leave this world and return to the Father. Having loved His own who were in the world, He loved them to the very end.[^4085..."
 weight: 13
 ---
 
-# Chapter 13
+# John 13 
 
 ## Jesus Washes His Disciples’ Feet
 

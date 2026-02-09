@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 24 BSB | Read the Bible Online"
+linkTitle: "24"
+description: "Read Ezekiel 24 Online | In the ninth year, on the tenth day of the tenth month, the word of the LORD came to me, saying..."
 weight: 24
 ---
 
-# Chapter 24
+# Ezekiel 24 
 
 ## The Parable of the Cooking Pot
 

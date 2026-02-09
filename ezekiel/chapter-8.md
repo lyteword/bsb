@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 8 BSB | Read the Bible Online"
+linkTitle: "8"
+description: "Read Ezekiel 8 Online | In the sixth year, on the fifth day of the sixth month, I was sitting in my house, and the elders of Judah were sitting before me; and there the hand of the Lord GOD fell upon me..."
 weight: 8
 ---
 
-# Chapter 8
+# Ezekiel 8 
 
 ## The Vision of Idolatry in the Temple
 

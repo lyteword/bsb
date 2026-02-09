@@ -1,8 +1,11 @@
 ---
+title: "Psalm 40 BSB | Read the Bible Online"
+linkTitle: "40"
+description: "Read Psalm 40 Online | I waited patiently for the LORD; He inclined to me and heard my cry..."
 weight: 40
 ---
 
-# Psalm 40
+# Psalm 40 
 
 ## I Waited Patiently for the LORD
 

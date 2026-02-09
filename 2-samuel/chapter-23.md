@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 23 BSB | Read the Bible Online"
+linkTitle: "23"
+description: "Read 2 Samuel 23 Online | These are the last words of David: “The oracle of David son of Jesse, the oracle of the man raised on high, the one anointed by the God of Jacob, and the sweet psalmist of Israel:[^1177..."
 weight: 23
 ---
 
-# Chapter 23
+# 2 Samuel 23 
 
 ## David’s Last Song
 

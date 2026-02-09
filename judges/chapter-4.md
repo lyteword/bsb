@@ -1,8 +1,11 @@
 ---
+title: "Judges 4 BSB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Judges 4 Online | After Ehud died, the Israelites again did evil in the sight of the LORD..."
 weight: 4
 ---
 
-# Chapter 4
+# Judges 4 
 
 ## Deborah and Barak
 

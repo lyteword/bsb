@@ -1,8 +1,11 @@
 ---
+title: "Exodus 40 BSB | Read the Bible Online"
+linkTitle: "40"
+description: "Read Exodus 40 Online | Then the LORD said to Moses..."
 weight: 40
 ---
 
-# Chapter 40
+# Exodus 40 
 
 ## Setting Up the Tabernacle
 

@@ -1,8 +1,11 @@
 ---
+title: "Micah 5 BSB | Read the Bible Online"
+linkTitle: "5"
+description: "Read Micah 5 Online | Now, O daughter of troops, mobilize your troops; for a siege is laid against us! With a rod they will strike the cheek of the judge of Israel..."
 weight: 5
 ---
 
-# Chapter 5
+# Micah 5 
 
 ## A Ruler from Bethlehem
 

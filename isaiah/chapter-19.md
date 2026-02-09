@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 19 BSB | Read the Bible Online"
+linkTitle: "19"
+description: "Read Isaiah 19 Online | This is the burden against Egypt: Behold, the LORD rides on a swift cloud; He is coming to Egypt. The idols of Egypt will tremble before Him, and the hearts of the Egyptians will melt within them..."
 weight: 19
 ---
 
-# Chapter 19
+# Isaiah 19 
 
 ## The Burden against Egypt
 

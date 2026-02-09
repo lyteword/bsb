@@ -1,8 +1,11 @@
 ---
+title: "Psalm 29 BSB | Read the Bible Online"
+linkTitle: "29"
+description: "Read Psalm 29 Online | Ascribe to the LORD, O heavenly beings,[^2200] ascribe to the LORD glory and strength..."
 weight: 29
 ---
 
-# Psalm 29
+# Psalm 29 
 
 ## Ascribe Glory to the LORD
 

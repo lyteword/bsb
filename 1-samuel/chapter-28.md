@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 28 BSB | Read the Bible Online"
+linkTitle: "28"
+description: "Read 1 Samuel 28 Online | Now in those days the Philistines gathered their forces for warfare against Israel. So Achish said to David, “You must understand that you and your men are to go out to battle with me...."
 weight: 28
 ---
 
-# Chapter 28
+# 1 Samuel 28 
 
 ## The Philistines Gather against Israel
 

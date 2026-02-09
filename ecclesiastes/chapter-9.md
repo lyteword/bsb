@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 9 BSB | Read the Bible Online"
+linkTitle: "9"
+description: "Read Ecclesiastes 9 Online | So I took all this to heart and concluded that the righteous and the wise, as well as their deeds, are in God’s hands. Man does not know what lies ahead, whether love or hate..."
 weight: 9
 ---
 
-# Chapter 9
+# Ecclesiastes 9 
 
 ## Death Comes to Good and Bad
 

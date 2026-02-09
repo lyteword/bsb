@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 5 BSB | Read the Bible Online"
+linkTitle: "5"
+description: "Read Ecclesiastes 5 Online | Guard your steps when you go to the house of God. Draw near to listen rather than to offer the sacrifice of fools, who do not know that they do wrong..."
 weight: 5
 ---
 
-# Chapter 5
+# Ecclesiastes 5 
 
 ## Approaching God with Awe
 

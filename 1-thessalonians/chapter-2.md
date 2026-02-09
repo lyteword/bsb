@@ -1,8 +1,11 @@
 ---
+title: "1 Thessalonians 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read 1 Thessalonians 2 Online | You yourselves know, brothers, that our visit to you was not in vain..."
 weight: 2
 ---
 
-# Chapter 2
+# 1 Thessalonians 2 
 
 ## Paul’s Ministry
 

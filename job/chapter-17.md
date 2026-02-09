@@ -1,8 +1,11 @@
 ---
+title: "Job 17 BSB | Read the Bible Online"
+linkTitle: "17"
+description: "Read Job 17 Online | “My spirit is broken; my days are extinguished; the grave awaits me..."
 weight: 17
 ---
 
-# Chapter 17
+# Job 17 
 
 ## Job Prepares for Death
 

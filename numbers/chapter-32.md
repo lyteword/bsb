@@ -1,8 +1,11 @@
 ---
+title: "Numbers 32 BSB | Read the Bible Online"
+linkTitle: "32"
+description: "Read Numbers 32 Online | Now the Reubenites and Gadites, who had very large herds and flocks, surveyed the lands of Jazer and Gilead, and they saw that the region was suitable for livestock..."
 weight: 32
 ---
 
-# Chapter 32
+# Numbers 32 
 
 ## The Tribes East of the Jordan
 

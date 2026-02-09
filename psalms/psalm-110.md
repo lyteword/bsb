@@ -1,8 +1,11 @@
 ---
+title: "Psalm 110 BSB | Read the Bible Online"
+linkTitle: "110"
+description: "Read Psalm 110 Online | The LORD said to my Lord: “Sit at My right hand until I make Your enemies a footstool for Your feet.”[^2377..."
 weight: 110
 ---
 
-# Psalm 110
+# Psalm 110 
 
 ## God’s Faithful Messiah
 

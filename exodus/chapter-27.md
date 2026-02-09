@@ -1,8 +1,11 @@
 ---
+title: "Exodus 27 BSB | Read the Bible Online"
+linkTitle: "27"
+description: "Read Exodus 27 Online | “You are to build an altar of acacia wood. The altar must be square, five cubits long, five cubits wide, and three cubits high.[^366..."
 weight: 27
 ---
 
-# Chapter 27
+# Exodus 27 
 
 ## The Bronze Altar
 

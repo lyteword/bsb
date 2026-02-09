@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 12 BSB | Read the Bible Online"
+linkTitle: "12"
+description: "Read Leviticus 12 Online | Then the LORD said to Moses..."
 weight: 12
 ---
 
-# Chapter 12
+# Leviticus 12 
 
 ## Purification after Childbirth
 

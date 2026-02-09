@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 7 BSB | Read the Bible Online"
+linkTitle: "7"
+description: "Read Zechariah 7 Online | In the fourth year of King Darius, the word of the LORD came to Zechariah on the fourth day of the ninth month, the month of Chislev.[^3499..."
 weight: 7
 ---
 
-# Chapter 7
+# Zechariah 7 
 
 ## A Call to Justice and Mercy
 

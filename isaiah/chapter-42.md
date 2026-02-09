@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 42 BSB | Read the Bible Online"
+linkTitle: "42"
+description: "Read Isaiah 42 Online | “Here is My Servant, whom I uphold, My Chosen One, in whom My soul delights. I will put My Spirit on Him, and He will bring justice to the nations..."
 weight: 42
 ---
 
-# Chapter 42
+# Isaiah 42 
 
 ## Here Is My Servant
 

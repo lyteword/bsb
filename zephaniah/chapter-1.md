@@ -1,8 +1,11 @@
 ---
+title: "Zephaniah 1 BSB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Zephaniah 1 Online | This is the word of the LORD that came to Zephaniah son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hezekiah, in the days of Josiah son of Amon king of Judah..."
 weight: 1
 ---
 
-# Chapter 1
+# Zephaniah 1 
 
 ## Zephaniah Prophesies Judgment on Judah
 

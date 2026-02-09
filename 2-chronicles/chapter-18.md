@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 18 BSB | Read the Bible Online"
+linkTitle: "18"
+description: "Read 2 Chronicles 18 Online | Now Jehoshaphat had an abundance of riches and honor, and he allied himself with Ahab by marriage..."
 weight: 18
 ---
 
-# Chapter 18
+# 2 Chronicles 18 
 
 ## Jehoshaphat Allies with Ahab
 

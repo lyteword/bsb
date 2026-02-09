@@ -1,8 +1,11 @@
 ---
+title: "Joshua 1 BSB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Joshua 1 Online | Now after the death of His servant Moses, the LORD spoke to Joshua son of Nun, Moses’ assistant, saying..."
 weight: 1
 ---
 
-# Chapter 1
+# Joshua 1 
 
 ## God Instructs Joshua
 

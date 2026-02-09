@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read 2 Corinthians 2 Online | So I made up my mind not to make another painful visit to you..."
 weight: 2
 ---
 
-# Chapter 2
+# 2 Corinthians 2 
 
 ## Reaffirm Your Love
 

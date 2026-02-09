@@ -1,8 +1,11 @@
 ---
+title: "Micah 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Micah 2 Online | Woe to those who devise iniquity and plot evil on their beds! At morning’s light they accomplish it because the power is in their hands..."
 weight: 2
 ---
 
-# Chapter 2
+# Micah 2 
 
 ## Woe to Oppressors
 

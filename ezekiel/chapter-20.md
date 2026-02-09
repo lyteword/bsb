@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 20 BSB | Read the Bible Online"
+linkTitle: "20"
+description: "Read Ezekiel 20 Online | In the seventh year, on the tenth day of the fifth month, some of the elders of Israel came to inquire of the LORD, and they sat down before me..."
 weight: 20
 ---
 
-# Chapter 20
+# Ezekiel 20 
 
 ## Israel’s Rebellion in Egypt
 

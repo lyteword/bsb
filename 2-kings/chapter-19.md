@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 19 BSB | Read the Bible Online"
+linkTitle: "19"
+description: "Read 2 Kings 19 Online | On hearing this report, King Hezekiah tore his clothes, put on sackcloth, and entered the house of the LORD..."
 weight: 19
 ---
 
-# Chapter 19
+# 2 Kings 19 
 
 ## Isaiah’s Message of Deliverance
 

@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 31 BSB | Read the Bible Online"
+linkTitle: "31"
+description: "Read 1 Samuel 31 Online | Now the Philistines fought against Israel, and the men of Israel fled before them, and many fell slain on Mount Gilboa..."
 weight: 31
 ---
 
-# Chapter 31
+# 1 Samuel 31 
 
 ## Saul’s Overthrow and Death
 

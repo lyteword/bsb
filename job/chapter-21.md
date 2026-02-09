@@ -1,8 +1,11 @@
 ---
+title: "Job 21 BSB | Read the Bible Online"
+linkTitle: "21"
+description: "Read Job 21 Online | Then Job answered..."
 weight: 21
 ---
 
-# Chapter 21
+# Job 21 
 
 ## Job: God Will Punish the Wicked
 

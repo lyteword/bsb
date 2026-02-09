@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 3 BSB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Ecclesiastes 3 Online | To everything there is a season, and a time for every purpose under heaven..."
 weight: 3
 ---
 
-# Chapter 3
+# Ecclesiastes 3 
 
 ## To Everything There Is a Season
 

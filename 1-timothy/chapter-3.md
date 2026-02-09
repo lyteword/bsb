@@ -1,8 +1,11 @@
 ---
+title: "1 Timothy 3 BSB | Read the Bible Online"
+linkTitle: "3"
+description: "Read 1 Timothy 3 Online | This is a trustworthy saying: If anyone aspires to be an overseer, he desires a noble task..."
 weight: 3
 ---
 
-# Chapter 3
+# 1 Timothy 3 
 
 ## Qualifications for Overseers
 

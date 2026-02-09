@@ -1,8 +1,11 @@
 ---
+title: "Amos 1 BSB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Amos 1 Online | These are the words of Amos, who was among the sheepherders [^3355] of Tekoa—what he saw concerning Israel two years [^3356] before the earthquake, in the days when Uzziah was king of Judah and Jeroboam son of Jehoash [^3357] was king of Israel..."
 weight: 1
 ---
 
-# Chapter 1
+# Amos 1 
 
 ## Judgment on Israel’s Neighbors
 

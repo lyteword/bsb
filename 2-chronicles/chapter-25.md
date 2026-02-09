@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 25 BSB | Read the Bible Online"
+linkTitle: "25"
+description: "Read 2 Chronicles 25 Online | Amaziah was twenty-five years old when he became king, and he reigned in Jerusalem twenty-nine years. His mother’s name was Jehoaddan; she was from Jerusalem..."
 weight: 25
 ---
 
-# Chapter 25
+# 2 Chronicles 25 
 
 ## Amaziah Reigns in Judah
 
