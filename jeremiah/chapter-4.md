@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 4 BSB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Jeremiah 4 Online | “If you will return, O Israel, return to Me,” declares the LORD. “If you will remove your detestable idols from My sight and no longer waver..."
 weight: 4
 ---
 
-# Chapter 4
+# Jeremiah 4 
 
 ## A Plea to Return
 

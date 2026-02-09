@@ -1,8 +1,11 @@
 ---
+title: "Psalm 35 BSB | Read the Bible Online"
+linkTitle: "35"
+description: "Read Psalm 35 Online | Contend with my opponents, O LORD; fight against those who fight against me..."
 weight: 35
 ---
 
-# Psalm 35
+# Psalm 35 
 
 ## Contend with My Opponents, O LORD
 

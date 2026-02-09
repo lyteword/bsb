@@ -1,8 +1,11 @@
 ---
+title: "Psalm 49 BSB | Read the Bible Online"
+linkTitle: "49"
+description: "Read Psalm 49 Online | Hear this, all you peoples; listen, all inhabitants of the world..."
 weight: 49
 ---
 
-# Psalm 49
+# Psalm 49 
 
 ## The Evanescence of Wealth
 

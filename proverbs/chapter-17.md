@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 17 BSB | Read the Bible Online"
+linkTitle: "17"
+description: "Read Proverbs 17 Online | Better a dry morsel in quietness than a house full of feasting [^2484] with strife..."
 weight: 17
 ---
 
-# Chapter 17
+# Proverbs 17 
 
 ## Better a Dry Morsel in Quietness
 

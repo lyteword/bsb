@@ -1,8 +1,11 @@
 ---
+title: "Psalm 51 BSB | Read the Bible Online"
+linkTitle: "51"
+description: "Read Psalm 51 Online | Have mercy on me,[^2256] O God, according to Your loving devotion; according to Your great compassion, blot out my transgressions..."
 weight: 51
 ---
 
-# Psalm 51
+# Psalm 51 
 
 ## Create in Me a Clean Heart, O God
 

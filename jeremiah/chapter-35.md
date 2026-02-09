@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 35 BSB | Read the Bible Online"
+linkTitle: "35"
+description: "Read Jeremiah 35 Online | This is the word that came to Jeremiah from the LORD in the days of Jehoiakim son of Josiah king of Judah..."
 weight: 35
 ---
 
-# Chapter 35
+# Jeremiah 35 
 
 ## The Obedience of the Rechabites
 

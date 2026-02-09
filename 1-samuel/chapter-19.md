@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 19 BSB | Read the Bible Online"
+linkTitle: "19"
+description: "Read 1 Samuel 19 Online | Then Saul ordered his son Jonathan and all his servants to kill David. But Jonathan delighted greatly in David..."
 weight: 19
 ---
 
-# Chapter 19
+# 1 Samuel 19 
 
 ## Saul Tries to Kill David
 

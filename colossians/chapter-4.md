@@ -1,8 +1,11 @@
 ---
+title: "Colossians 4 BSB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Colossians 4 Online | Masters, supply your slaves with what is right and fair, since you know that you also have a Master in heaven..."
 weight: 4
 ---
 
-# Chapter 4
+# Colossians 4 
 
 ## Prayerful Speech and Actions
 

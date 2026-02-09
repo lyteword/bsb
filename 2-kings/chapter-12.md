@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 12 BSB | Read the Bible Online"
+linkTitle: "12"
+description: "Read 2 Kings 12 Online | In the seventh year of Jehu, Joash [^1393] became king, and he reigned in Jerusalem forty years. His mother’s name was Zibiah; she was from Beersheba..."
 weight: 12
 ---
 
-# Chapter 12
+# 2 Kings 12 
 
 ## Joash Repairs the Temple
 

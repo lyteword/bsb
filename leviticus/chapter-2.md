@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Leviticus 2 Online | “When anyone brings a grain offering to the LORD, his offering must consist of fine flour. He is to pour olive oil on it, put frankincense on it..."
 weight: 2
 ---
 
-# Chapter 2
+# Leviticus 2 
 
 ## Laws for Grain Offerings
 

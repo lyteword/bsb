@@ -1,8 +1,11 @@
 ---
+title: "Psalm 52 BSB | Read the Bible Online"
+linkTitle: "52"
+description: "Read Psalm 52 Online | Why do you boast of evil, O mighty man? The loving devotion of God endures all day long..."
 weight: 52
 ---
 
-# Psalm 52
+# Psalm 52 
 
 ## Why Do You Boast of Evil?
 

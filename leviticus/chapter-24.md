@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 24 BSB | Read the Bible Online"
+linkTitle: "24"
+description: "Read Leviticus 24 Online | Then the LORD said to Moses..."
 weight: 24
 ---
 
-# Chapter 24
+# Leviticus 24 
 
 ## The Oil for the Lamps
 

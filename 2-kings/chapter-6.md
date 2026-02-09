@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 6 BSB | Read the Bible Online"
+linkTitle: "6"
+description: "Read 2 Kings 6 Online | Now the sons of the prophets said to Elisha, “Please take note that the place where we meet with you is too small for us..."
 weight: 6
 ---
 
-# Chapter 6
+# 2 Kings 6 
 
 ## The Axe Head Floats
 

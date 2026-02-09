@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 20 BSB | Read the Bible Online"
+linkTitle: "20"
+description: "Read 2 Kings 20 Online | In those days Hezekiah became mortally ill. The prophet Isaiah son of Amoz came to him and said, “This is what the LORD says: ‘Put your house in order, for you are about to die; you will not recover.’..."
 weight: 20
 ---
 
-# Chapter 20
+# 2 Kings 20 
 
 ## Hezekiah’s Illness and Recovery
 

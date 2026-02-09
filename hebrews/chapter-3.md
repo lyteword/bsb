@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 3 BSB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Hebrews 3 Online | Therefore, holy brothers, who share in the heavenly calling, set your focus on Jesus, the apostle and high priest whom we confess..."
 weight: 3
 ---
 
-# Chapter 3
+# Hebrews 3 
 
 ## Jesus Our Apostle and High Priest
 

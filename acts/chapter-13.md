@@ -1,8 +1,11 @@
 ---
+title: "Acts 13 BSB | Read the Bible Online"
+linkTitle: "13"
+description: "Read Acts 13 Online | Now in the church at Antioch there were prophets and teachers: Barnabas, Simeon called Niger, Lucius of Cyrene, Manaen (who had been brought up with Herod the tetrarch), and Saul..."
 weight: 13
 ---
 
-# Chapter 13
+# Acts 13 
 
 ## Paul’s First Missionary Journey Begins
 

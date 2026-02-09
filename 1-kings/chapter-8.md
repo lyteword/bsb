@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 8 BSB | Read the Bible Online"
+linkTitle: "8"
+description: "Read 1 Kings 8 Online | At that time Solomon assembled before him in Jerusalem the elders of Israel—all the tribal heads and family leaders of the Israelites—to bring up the ark of the covenant of the LORD from Zion, the City of David..."
 weight: 8
 ---
 
-# Chapter 8
+# 1 Kings 8 
 
 ## The Ark Enters the Temple
 

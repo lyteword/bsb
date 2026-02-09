@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 27 BSB | Read the Bible Online"
+linkTitle: "27"
+description: "Read Jeremiah 27 Online | At the beginning of the reign of Zedekiah [^2864] son of Josiah king of Judah, this word came to Jeremiah from the LORD.[^2865..."
 weight: 27
 ---
 
-# Chapter 27
+# Jeremiah 27 
 
 ## The Yoke of Nebuchadnezzar
 

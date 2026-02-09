@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 5 BSB | Read the Bible Online"
+linkTitle: "5"
+description: "Read Hebrews 5 Online | Every high priest is appointed from among men to represent them in matters relating to God, to offer gifts and sacrifices for sins..."
 weight: 5
 ---
 
-# Chapter 5
+# Hebrews 5 
 
 ## The Perfect High Priest
 

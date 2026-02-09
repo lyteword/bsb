@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 29 BSB | Read the Bible Online"
+linkTitle: "29"
+description: "Read Isaiah 29 Online | Woe to you, O Ariel,[^2657] the city of Ariel where David camped! Year upon year let your festivals recur..."
 weight: 29
 ---
 
-# Chapter 29
+# Isaiah 29 
 
 ## Woe to David’s City
 

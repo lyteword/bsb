@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 32 BSB | Read the Bible Online"
+linkTitle: "32"
+description: "Read Deuteronomy 32 Online | Give ear, O heavens, and I will speak; hear, O earth, the words of my mouth..."
 weight: 32
 ---
 
-# Chapter 32
+# Deuteronomy 32 
 
 ## The Song of Moses
 

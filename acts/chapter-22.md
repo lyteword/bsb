@@ -1,8 +1,11 @@
 ---
+title: "Acts 22 BSB | Read the Bible Online"
+linkTitle: "22"
+description: "Read Acts 22 Online | “Brothers and fathers, listen now to my defense before you...."
 weight: 22
 ---
 
-# Chapter 22
+# Acts 22 
 
 ## Paul’s Defense to the Crowd
 

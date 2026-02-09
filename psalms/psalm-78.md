@@ -1,8 +1,11 @@
 ---
+title: "Psalm 78 BSB | Read the Bible Online"
+linkTitle: "78"
+description: "Read Psalm 78 Online | Give ear, O my people, to my instruction; listen to the words of my mouth..."
 weight: 78
 ---
 
-# Psalm 78
+# Psalm 78 
 
 ## I Will Open My Mouth in Parables
 

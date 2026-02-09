@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 34 BSB | Read the Bible Online"
+linkTitle: "34"
+description: "Read Ezekiel 34 Online | Then the word of the LORD came to me, saying..."
 weight: 34
 ---
 
-# Chapter 34
+# Ezekiel 34 
 
 ## A Prophecy against Israel’s Shepherds
 

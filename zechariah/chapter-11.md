@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 11 BSB | Read the Bible Online"
+linkTitle: "11"
+description: "Read Zechariah 11 Online | Open your doors, O Lebanon, that the fire may consume your cedars..."
 weight: 11
 ---
 
-# Chapter 11
+# Zechariah 11 
 
 ## The Doomed Flock
 

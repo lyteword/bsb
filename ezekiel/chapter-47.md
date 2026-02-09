@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 47 BSB | Read the Bible Online"
+linkTitle: "47"
+description: "Read Ezekiel 47 Online | Then the man brought me back to the entrance of the temple, and I saw water flowing from under the threshold of the temple toward the east (for the temple faced east). The water was coming down from under the south side of the temple, south of the altar..."
 weight: 47
 ---
 
-# Chapter 47
+# Ezekiel 47 
 
 ## Waters from under the Temple
 

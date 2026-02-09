@@ -1,8 +1,11 @@
 ---
+title: "Zephaniah 3 BSB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Zephaniah 3 Online | Woe to the city of oppressors, rebellious and defiled..."
 weight: 3
 ---
 
-# Chapter 3
+# Zephaniah 3 
 
 ## Judgment on Jerusalem
 

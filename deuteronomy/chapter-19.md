@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 19 BSB | Read the Bible Online"
+linkTitle: "19"
+description: "Read Deuteronomy 19 Online | When the LORD your God has cut off the nations whose land He is giving you, and when you have driven them out and settled in their cities and houses..."
 weight: 19
 ---
 
-# Chapter 19
+# Deuteronomy 19 
 
 ## Cities of Refuge
 

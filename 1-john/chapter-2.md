@@ -1,8 +1,11 @@
 ---
+title: "1 John 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read 1 John 2 Online | My little children, I am writing these things to you so that you will not sin. But if anyone does sin, we have an advocate before the Father—Jesus Christ, the Righteous One..."
 weight: 2
 ---
 
-# Chapter 2
+# 1 John 2 
 
 ## Jesus Our Advocate
 

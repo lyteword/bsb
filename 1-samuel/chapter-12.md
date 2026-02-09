@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 12 BSB | Read the Bible Online"
+linkTitle: "12"
+description: "Read 1 Samuel 12 Online | Then Samuel said to all Israel, “I have listened to your voice in all that you have said to me, and I have set over you a king..."
 weight: 12
 ---
 
-# Chapter 12
+# 1 Samuel 12 
 
 ## Samuel’s Farewell Address
 

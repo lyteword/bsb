@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 8 BSB | Read the Bible Online"
+linkTitle: "8"
+description: "Read 1 Samuel 8 Online | When Samuel grew old, he appointed his sons as judges [^989] over Israel..."
 weight: 8
 ---
 
-# Chapter 8
+# 1 Samuel 8 
 
 ## Israel Demands a King
 

@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 4 BSB | Read the Bible Online"
+linkTitle: "4"
+description: "Read 1 Chronicles 4 Online | The descendants of Judah: Perez, Hezron, Carmi, Hur, and Shobal..."
 weight: 4
 ---
 
-# Chapter 4
+# 1 Chronicles 4 
 
 ## The Descendants of Judah
 

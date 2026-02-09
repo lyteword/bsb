@@ -1,8 +1,11 @@
 ---
+title: "Exodus 20 BSB | Read the Bible Online"
+linkTitle: "20"
+description: "Read Exodus 20 Online | And God spoke all these words..."
 weight: 20
 ---
 
-# Chapter 20
+# Exodus 20 
 
 ## The Ten Commandments
 

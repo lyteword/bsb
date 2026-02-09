@@ -1,8 +1,11 @@
 ---
+title: "Psalm 99 BSB | Read the Bible Online"
+linkTitle: "99"
+description: "Read Psalm 99 Online | The LORD reigns; let the nations tremble! He is enthroned above the cherubim; let the earth quake..."
 weight: 99
 ---
 
-# Psalm 99
+# Psalm 99 
 
 ## The LORD Reigns!
 

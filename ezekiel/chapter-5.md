@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 5 BSB | Read the Bible Online"
+linkTitle: "5"
+description: "Read Ezekiel 5 Online | “As for you, son of man, take a sharp sword, use it as a barber’s razor, and shave your head and beard. Then take a set of scales and divide the hair..."
 weight: 5
 ---
 
-# Chapter 5
+# Ezekiel 5 
 
 ## The Razor of Judgment
 

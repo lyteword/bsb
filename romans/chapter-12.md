@@ -1,8 +1,11 @@
 ---
+title: "Romans 12 BSB | Read the Bible Online"
+linkTitle: "12"
+description: "Read Romans 12 Online | Therefore I urge you, brothers, on account of God’s mercy, to offer your bodies as living sacrifices, holy and pleasing to God, which is your spiritual service of worship.[^4355..."
 weight: 12
 ---
 
-# Chapter 12
+# Romans 12 
 
 ## Living Sacrifices
 

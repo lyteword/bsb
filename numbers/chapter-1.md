@@ -1,8 +1,11 @@
 ---
+title: "Numbers 1 BSB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Numbers 1 Online | On the first day of the second month of the second year after the Israelites had come out of the land of Egypt, the LORD spoke to Moses in the Tent of Meeting in the Wilderness of Sinai. He said..."
 weight: 1
 ---
 
-# Chapter 1
+# Numbers 1 
 
 ## The First Census of Israel
 

@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 18 BSB | Read the Bible Online"
+linkTitle: "18"
+description: "Read 2 Samuel 18 Online | Then David reviewed his troops and appointed over them commanders of thousands and of hundreds..."
 weight: 18
 ---
 
-# Chapter 18
+# 2 Samuel 18 
 
 ## Absalom Killed
 

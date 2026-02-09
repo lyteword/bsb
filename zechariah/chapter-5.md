@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 5 BSB | Read the Bible Online"
+linkTitle: "5"
+description: "Read Zechariah 5 Online | Again I lifted up my eyes and saw before me a flying scroll..."
 weight: 5
 ---
 
-# Chapter 5
+# Zechariah 5 
 
 ## The Vision of the Flying Scroll
 

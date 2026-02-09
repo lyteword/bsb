@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read 2 Chronicles 2 Online | Now Solomon purposed to build a house for the Name of the LORD and a royal palace for himself..."
 weight: 2
 ---
 
-# Chapter 2
+# 2 Chronicles 2 
 
 ## Preparations for the Temple
 

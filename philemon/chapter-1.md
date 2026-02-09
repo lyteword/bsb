@@ -1,8 +1,11 @@
 ---
+title: "Philemon 1 BSB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Philemon 1 Online | Paul, a prisoner of Christ Jesus, and Timothy our brother, To Philemon our beloved fellow worker..."
 weight: 1
 ---
 
-# Chapter 1
+# Philemon 1 
 
 ## Greetings from Paul and Timothy
 

@@ -1,8 +1,11 @@
 ---
+title: "Daniel 10 BSB | Read the Bible Online"
+linkTitle: "10"
+description: "Read Daniel 10 Online | In the third year of Cyrus king of Persia, a message was revealed to Daniel, who was called Belteshazzar. The message was true, and it concerned a great conflict.[^3250] And the understanding of the message was given to him in a vision..."
 weight: 10
 ---
 
-# Chapter 10
+# Daniel 10 
 
 ## Daniel’s Vision by the Tigris
 

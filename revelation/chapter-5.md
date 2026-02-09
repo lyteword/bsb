@@ -1,8 +1,11 @@
 ---
+title: "Revelation 5 BSB | Read the Bible Online"
+linkTitle: "5"
+description: "Read Revelation 5 Online | Then I saw a scroll in the right hand of the One seated on the throne. It had writing on both sides and was sealed with seven seals..."
 weight: 5
 ---
 
-# Chapter 5
+# Revelation 5 
 
 ## The Lamb Takes the Scroll
 

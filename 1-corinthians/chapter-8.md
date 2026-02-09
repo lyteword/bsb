@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 8 BSB | Read the Bible Online"
+linkTitle: "8"
+description: "Read 1 Corinthians 8 Online | Now about food sacrificed to idols: We know that we all have knowledge. Knowledge puffs up, but love builds up..."
 weight: 8
 ---
 
-# Chapter 8
+# 1 Corinthians 8 
 
 ## Food Sacrificed to Idols
 

@@ -1,8 +1,11 @@
 ---
+title: "Romans 13 BSB | Read the Bible Online"
+linkTitle: "13"
+description: "Read Romans 13 Online | Everyone must submit himself to the governing authorities, for there is no authority except that which is from God. The authorities that exist have been appointed by God..."
 weight: 13
 ---
 
-# Chapter 13
+# Romans 13 
 
 ## Submission to Authorities
 

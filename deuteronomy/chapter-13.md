@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 13 BSB | Read the Bible Online"
+linkTitle: "13"
+description: "Read Deuteronomy 13 Online | If a prophet or dreamer of dreams arises among you and proclaims a sign or wonder to you..."
 weight: 13
 ---
 
-# Chapter 13
+# Deuteronomy 13 
 
 ## Idolaters to Be Put to Death
 

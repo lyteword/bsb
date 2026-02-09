@@ -1,8 +1,11 @@
 ---
+title: "Ezra 6 BSB | Read the Bible Online"
+linkTitle: "6"
+description: "Read Ezra 6 Online | Thus King Darius ordered a search of the archives stored in the treasury of Babylon..."
 weight: 6
 ---
 
-# Chapter 6
+# Ezra 6 
 
 ## The Decree of Darius
 

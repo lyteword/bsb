@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 32 BSB | Read the Bible Online"
+linkTitle: "32"
+description: "Read 2 Chronicles 32 Online | After all these acts of faithfulness, Sennacherib king of Assyria came and invaded Judah. He laid siege to the fortified cities, intending to conquer them for himself..."
 weight: 32
 ---
 
-# Chapter 32
+# 2 Chronicles 32 
 
 ## Sennacherib Invades Judah
 

@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 10 BSB | Read the Bible Online"
+linkTitle: "10"
+description: "Read Isaiah 10 Online | Woe to those who enact unjust statutes and issue oppressive decrees..."
 weight: 10
 ---
 
-# Chapter 10
+# Isaiah 10 
 
 ## Woe to Tyrants
 

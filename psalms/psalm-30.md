@@ -1,8 +1,11 @@
 ---
+title: "Psalm 30 BSB | Read the Bible Online"
+linkTitle: "30"
+description: "Read Psalm 30 Online | I will exalt You, O LORD, for You have lifted me up and have not allowed my foes to rejoice over me..."
 weight: 30
 ---
 
-# Psalm 30
+# Psalm 30 
 
 ## You Turned My Mourning into Dancing
 

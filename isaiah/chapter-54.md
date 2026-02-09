@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 54 BSB | Read the Bible Online"
+linkTitle: "54"
+description: "Read Isaiah 54 Online | “Shout for joy, O barren woman, who bears no children; break forth in song and cry aloud, you who have never travailed; because more are the children of the desolate woman than of her who has a husband,”[^2754] says the LORD..."
 weight: 54
 ---
 
-# Chapter 54
+# Isaiah 54 
 
 ## Future Blessings for Zion
 

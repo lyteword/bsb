@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Nehemiah 2 Online | Now in the month of Nisan,[^1947] in the twentieth year of King Artaxerxes, when wine was set before him, I took the wine and gave it to the king. I had never been sad in his presence..."
 weight: 2
 ---
 
-# Chapter 2
+# Nehemiah 2 
 
 ## Nehemiah Sent to Jerusalem
 

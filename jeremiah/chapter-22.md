@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 22 BSB | Read the Bible Online"
+linkTitle: "22"
+description: "Read Jeremiah 22 Online | This is what the LORD says: “Go down to the palace of the king of Judah and proclaim this message there..."
 weight: 22
 ---
 
-# Chapter 22
+# Jeremiah 22 
 
 ## A Warning to Judah’s Kings
 

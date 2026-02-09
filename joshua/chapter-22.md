@@ -1,8 +1,11 @@
 ---
+title: "Joshua 22 BSB | Read the Bible Online"
+linkTitle: "22"
+description: "Read Joshua 22 Online | Then Joshua summoned the Reubenites, the Gadites, and the half-tribe of Manasseh..."
 weight: 22
 ---
 
-# Chapter 22
+# Joshua 22 
 
 ## The Eastern Tribes Return Home
 

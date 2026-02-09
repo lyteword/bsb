@@ -1,8 +1,11 @@
 ---
+title: "Psalm 68 BSB | Read the Bible Online"
+linkTitle: "68"
+description: "Read Psalm 68 Online | God arises. His enemies are scattered, and those who hate Him flee His presence..."
 weight: 68
 ---
 
-# Psalm 68
+# Psalm 68 
 
 ## God’s Enemies Are Scattered
 

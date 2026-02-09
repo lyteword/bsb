@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 1 BSB | Read the Bible Online"
+linkTitle: "1"
+description: "Read 2 Chronicles 1 Online | Now Solomon son of David established himself securely over his kingdom, and the LORD his God was with him and highly exalted him..."
 weight: 1
 ---
 
-# Chapter 1
+# 2 Chronicles 1 
 
 ## Solomon’s Prayer for Wisdom
 

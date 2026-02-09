@@ -1,8 +1,11 @@
 ---
+title: "Matthew 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Matthew 2 Online | After Jesus was born in Bethlehem in Judea, during the time of King Herod, Magi from the east arrived in Jerusalem..."
 weight: 2
 ---
 
-# Chapter 2
+# Matthew 2 
 
 ## The Pilgrimage of the Magi
 

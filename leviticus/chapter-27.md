@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 27 BSB | Read the Bible Online"
+linkTitle: "27"
+description: "Read Leviticus 27 Online | Then the LORD said to Moses..."
 weight: 27
 ---
 
-# Chapter 27
+# Leviticus 27 
 
 ## Rules about Valuations
 

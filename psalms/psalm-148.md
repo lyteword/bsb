@@ -1,8 +1,11 @@
 ---
+title: "Psalm 148 BSB | Read the Bible Online"
+linkTitle: "148"
+description: "Read Psalm 148 Online | Hallelujah![^2433] Praise the LORD from the heavens; praise Him in the highest places.[^2434..."
 weight: 148
 ---
 
-# Psalm 148
+# Psalm 148 
 
 ## Praise the LORD from the Heavens
 

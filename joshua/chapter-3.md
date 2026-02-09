@@ -1,8 +1,11 @@
 ---
+title: "Joshua 3 BSB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Joshua 3 Online | Early the next morning Joshua got up and left Shittim [^786] with all the Israelites. They went as far as the Jordan, where they camped before crossing over..."
 weight: 3
 ---
 
-# Chapter 3
+# Joshua 3 
 
 ## Crossing the Jordan
 

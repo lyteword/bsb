@@ -1,8 +1,11 @@
 ---
+title: "Mark 4 BSB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Mark 4 Online | Once again Jesus began to teach beside the sea, and such a large crowd gathered around Him that He got into a boat and sat in it, while all the people crowded along the shore..."
 weight: 4
 ---
 
-# Chapter 4
+# Mark 4 
 
 ## The Parable of the Sower
 

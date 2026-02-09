@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 25 BSB | Read the Bible Online"
+linkTitle: "25"
+description: "Read 1 Chronicles 25 Online | Additionally, David and the commanders of the army set apart some of the sons of Asaph, Heman, and Jeduthun to prophesy with the accompaniment of lyres, harps, and cymbals. The following is the list of the men who performed this service..."
 weight: 25
 ---
 
-# Chapter 25
+# 1 Chronicles 25 
 
 ## Twenty-Four Divisions of Musicians
 

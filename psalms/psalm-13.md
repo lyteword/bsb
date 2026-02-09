@@ -1,8 +1,11 @@
 ---
+title: "Psalm 13 BSB | Read the Bible Online"
+linkTitle: "13"
+description: "Read Psalm 13 Online | How long, O LORD? Will You forget me forever? How long will You hide Your face from me..."
 weight: 13
 ---
 
-# Psalm 13
+# Psalm 13 
 
 ## How Long, O LORD?
 

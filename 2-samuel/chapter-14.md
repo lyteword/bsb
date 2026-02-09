@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 14 BSB | Read the Bible Online"
+linkTitle: "14"
+description: "Read 2 Samuel 14 Online | Now Joab son of Zeruiah perceived that the king’s heart longed for Absalom..."
 weight: 14
 ---
 
-# Chapter 14
+# 2 Samuel 14 
 
 ## Absalom’s Return to Jerusalem
 

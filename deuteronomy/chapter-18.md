@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 18 BSB | Read the Bible Online"
+linkTitle: "18"
+description: "Read Deuteronomy 18 Online | The Levitical priests—indeed the whole tribe of Levi—shall have no portion or inheritance with Israel. They are to eat the food offerings to the LORD; that is their inheritance..."
 weight: 18
 ---
 
-# Chapter 18
+# Deuteronomy 18 
 
 ## Provision for Priests and Levites
 

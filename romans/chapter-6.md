@@ -1,8 +1,11 @@
 ---
+title: "Romans 6 BSB | Read the Bible Online"
+linkTitle: "6"
+description: "Read Romans 6 Online | What then shall we say? Shall we continue in sin so that grace may increase..."
 weight: 6
 ---
 
-# Chapter 6
+# Romans 6 
 
 ## Dead to Sin, Alive to God
 

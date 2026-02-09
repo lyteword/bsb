@@ -1,8 +1,11 @@
 ---
+title: "Judges 16 BSB | Read the Bible Online"
+linkTitle: "16"
+description: "Read Judges 16 Online | One day Samson went to Gaza, where he saw a prostitute and went in to spend the night with her..."
 weight: 16
 ---
 
-# Chapter 16
+# Judges 16 
 
 ## Samson Escapes Gaza
 

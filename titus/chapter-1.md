@@ -1,8 +1,11 @@
 ---
+title: "Titus 1 BSB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Titus 1 Online | Paul, a servant of God and an apostle of Jesus Christ for the faith of God’s elect and their knowledge of the truth that leads to godliness..."
 weight: 1
 ---
 
-# Chapter 1
+# Titus 1 
 
 ## Paul’s Greeting to Titus
 

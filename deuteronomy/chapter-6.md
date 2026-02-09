@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 6 BSB | Read the Bible Online"
+linkTitle: "6"
+description: "Read Deuteronomy 6 Online | These are the commandments and statutes and ordinances that the LORD your God has instructed me to teach you to follow in the land that you are about to enter and possess..."
 weight: 6
 ---
 
-# Chapter 6
+# Deuteronomy 6 
 
 ## The Greatest Commandment
 

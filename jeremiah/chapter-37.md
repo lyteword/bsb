@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 37 BSB | Read the Bible Online"
+linkTitle: "37"
+description: "Read Jeremiah 37 Online | Nebuchadnezzar king of Babylon made Zedekiah son of Josiah the king of Judah, and he reigned in place of Coniah [^2902] son of Jehoiakim..."
 weight: 37
 ---
 
-# Chapter 37
+# Jeremiah 37 
 
 ## Jeremiah Warns Zedekiah
 

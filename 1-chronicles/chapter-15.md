@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 15 BSB | Read the Bible Online"
+linkTitle: "15"
+description: "Read 1 Chronicles 15 Online | David constructed buildings for himself in the City of David, and he prepared a place for the ark of God and pitched a tent for it..."
 weight: 15
 ---
 
-# Chapter 15
+# 1 Chronicles 15 
 
 ## Preparing to Move the Ark
 

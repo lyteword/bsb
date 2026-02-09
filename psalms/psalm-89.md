@@ -1,8 +1,11 @@
 ---
+title: "Psalm 89 BSB | Read the Bible Online"
+linkTitle: "89"
+description: "Read Psalm 89 Online | I will sing of the loving devotion of the LORD forever; with my mouth I will proclaim Your faithfulness to all generations..."
 weight: 89
 ---
 
-# Psalm 89
+# Psalm 89 
 
 ## I Will Sing of His Love Forever
 

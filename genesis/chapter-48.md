@@ -1,8 +1,11 @@
 ---
+title: "Genesis 48 BSB | Read the Bible Online"
+linkTitle: "48"
+description: "Read Genesis 48 Online | Some time later Joseph was told, “Your father is ill.” So he set out with his two sons, Manasseh and Ephraim..."
 weight: 48
 ---
 
-# Chapter 48
+# Genesis 48 
 
 ## Jacob Blesses Ephraim and Manasseh
 

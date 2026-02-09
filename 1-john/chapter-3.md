@@ -1,8 +1,11 @@
 ---
+title: "1 John 3 BSB | Read the Bible Online"
+linkTitle: "3"
+description: "Read 1 John 3 Online | Behold what manner of love the Father has given to us, that we should be called children of God. And that is what we are! The reason the world does not know us is that it did not know Him..."
 weight: 3
 ---
 
-# Chapter 3
+# 1 John 3 
 
 ## Children of God
 

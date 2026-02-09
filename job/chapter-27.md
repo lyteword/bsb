@@ -1,8 +1,11 @@
 ---
+title: "Job 27 BSB | Read the Bible Online"
+linkTitle: "27"
+description: "Read Job 27 Online | Job continued his discourse..."
 weight: 27
 ---
 
-# Chapter 27
+# Job 27 
 
 ## Job Affirms His Integrity
 

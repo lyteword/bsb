@@ -1,8 +1,11 @@
 ---
+title: "Job 15 BSB | Read the Bible Online"
+linkTitle: "15"
+description: "Read Job 15 Online | Then Eliphaz the Temanite replied..."
 weight: 15
 ---
 
-# Chapter 15
+# Job 15 
 
 ## Eliphaz: Job Does Not Fear God
 

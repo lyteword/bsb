@@ -1,8 +1,11 @@
 ---
+title: "Psalm 47 BSB | Read the Bible Online"
+linkTitle: "47"
+description: "Read Psalm 47 Online | Clap your hands, all you peoples; shout unto God with a voice of triumph..."
 weight: 47
 ---
 
-# Psalm 47
+# Psalm 47 
 
 ## Clap Your Hands, All You Peoples
 

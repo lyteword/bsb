@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read 2 Kings 2 Online | Shortly before the LORD took Elijah up to heaven in a whirlwind, Elijah and Elisha were on their way from Gilgal..."
 weight: 2
 ---
 
-# Chapter 2
+# 2 Kings 2 
 
 ## Elijah Taken Up to Heaven
 

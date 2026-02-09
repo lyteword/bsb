@@ -1,8 +1,11 @@
 ---
+title: "Numbers 8 BSB | Read the Bible Online"
+linkTitle: "8"
+description: "Read Numbers 8 Online | Then the LORD said to Moses..."
 weight: 8
 ---
 
-# Chapter 8
+# Numbers 8 
 
 ## The Lampstand
 

@@ -1,8 +1,11 @@
 ---
+title: "Song Of Solomon 1 BSB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Song Of Solomon 1 Online | This is Solomon’s Song of Songs.[^2541..."
 weight: 1
 ---
 
-# Chapter 1
+# Song Of Solomon 1 
 
 ## The Bride Confesses Her Love
 

@@ -1,8 +1,11 @@
 ---
+title: "Matthew 7 BSB | Read the Bible Online"
+linkTitle: "7"
+description: "Read Matthew 7 Online | “Do not judge, or you will be judged..."
 weight: 7
 ---
 
-# Chapter 7
+# Matthew 7 
 
 ## Judging Others
 

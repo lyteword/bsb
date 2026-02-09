@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 49 BSB | Read the Bible Online"
+linkTitle: "49"
+description: "Read Isaiah 49 Online | Listen to Me, O islands;[^2723] pay attention, O distant peoples: The LORD called Me from the womb; from the body of My mother He named Me..."
 weight: 49
 ---
 
-# Chapter 49
+# Isaiah 49 
 
 ## The Servant and Light to the Gentiles
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 102 BSB | Read the Bible Online"
+linkTitle: "102"
+description: "Read Psalm 102 Online | Hear my prayer, O LORD; let my cry for help come before You..."
 weight: 102
 ---
 
-# Psalm 102
+# Psalm 102 
 
 ## The Prayer of the Afflicted
 

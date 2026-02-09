@@ -1,8 +1,11 @@
 ---
+title: "Psalm 127 BSB | Read the Bible Online"
+linkTitle: "127"
+description: "Read Psalm 127 Online | Unless the LORD builds the house, its builders labor in vain; unless the LORD protects the city, its watchmen stand guard in vain..."
 weight: 127
 ---
 
-# Psalm 127
+# Psalm 127 
 
 ## Children Are a Heritage from the LORD
 

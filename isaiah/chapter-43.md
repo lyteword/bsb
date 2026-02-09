@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 43 BSB | Read the Bible Online"
+linkTitle: "43"
+description: "Read Isaiah 43 Online | But now, this is what the LORD says— He who created you, O Jacob, and He who formed you, O Israel: “Do not fear, for I have redeemed you; I have called you by your name; you are Mine..."
 weight: 43
 ---
 
-# Chapter 43
+# Isaiah 43 
 
 ## Israel’s Only Savior
 

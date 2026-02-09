@@ -1,8 +1,11 @@
 ---
+title: "Psalm 48 BSB | Read the Bible Online"
+linkTitle: "48"
+description: "Read Psalm 48 Online | Great is the LORD, and greatly to be praised in the city of our God, His holy mountain..."
 weight: 48
 ---
 
-# Psalm 48
+# Psalm 48 
 
 ## Broken Bondage
 

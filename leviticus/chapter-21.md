@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 21 BSB | Read the Bible Online"
+linkTitle: "21"
+description: "Read Leviticus 21 Online | Then the LORD said to Moses, “Speak to Aaron’s sons, the priests, and tell them that a priest is not to defile himself for a dead person among his people..."
 weight: 21
 ---
 
-# Chapter 21
+# Leviticus 21 
 
 ## Holiness Required of Priests
 

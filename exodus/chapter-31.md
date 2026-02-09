@@ -1,8 +1,11 @@
 ---
+title: "Exodus 31 BSB | Read the Bible Online"
+linkTitle: "31"
+description: "Read Exodus 31 Online | Then the LORD said to Moses..."
 weight: 31
 ---
 
-# Chapter 31
+# Exodus 31 
 
 ## Bezalel and Oholiab
 

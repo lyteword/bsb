@@ -1,8 +1,11 @@
 ---
+title: "Galatians 4 BSB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Galatians 4 Online | What I am saying is that as long as the heir is a child, he is no different from a slave, although he is the owner of everything..."
 weight: 4
 ---
 
-# Chapter 4
+# Galatians 4 
 
 ## Sons and Heirs
 

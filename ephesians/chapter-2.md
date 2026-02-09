@@ -1,8 +1,11 @@
 ---
+title: "Ephesians 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Ephesians 2 Online | And you were dead in your trespasses and sins..."
 weight: 2
 ---
 
-# Chapter 2
+# Ephesians 2 
 
 ## Alive with Christ
 

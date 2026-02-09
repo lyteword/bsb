@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Isaiah 2 Online | This is the message that was revealed to Isaiah son of Amoz concerning Judah and Jerusalem..."
 weight: 2
 ---
 
-# Chapter 2
+# Isaiah 2 
 
 ## The Mountain of the House of the LORD
 

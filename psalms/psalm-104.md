@@ -1,8 +1,11 @@
 ---
+title: "Psalm 104 BSB | Read the Bible Online"
+linkTitle: "104"
+description: "Read Psalm 104 Online | Bless the LORD, O my soul! O LORD my God, You are very great; You are clothed with splendor and majesty..."
 weight: 104
 ---
 
-# Psalm 104
+# Psalm 104 
 
 ## How Many Are Your Works, O LORD!
 

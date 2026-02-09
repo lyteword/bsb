@@ -1,8 +1,11 @@
 ---
+title: "Psalm 20 BSB | Read the Bible Online"
+linkTitle: "20"
+description: "Read Psalm 20 Online | May the LORD answer you in the day of trouble; may the name of the God of Jacob protect you..."
 weight: 20
 ---
 
-# Psalm 20
+# Psalm 20 
 
 ## The Day of Trouble
 

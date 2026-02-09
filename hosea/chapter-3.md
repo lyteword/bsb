@@ -1,8 +1,11 @@
 ---
+title: "Hosea 3 BSB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Hosea 3 Online | Then the LORD said to me, “Go show love to your wife again, though she is loved by another [^3284] and is an adulteress. Love her as the LORD loves the Israelites, though they turn to other gods and love to offer raisin cakes to idols.[^3285]..."
 weight: 3
 ---
 
-# Chapter 3
+# Hosea 3 
 
 ## Hosea Redeems His Wife
 

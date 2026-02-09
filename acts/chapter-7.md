@@ -1,8 +1,11 @@
 ---
+title: "Acts 7 BSB | Read the Bible Online"
+linkTitle: "7"
+description: "Read Acts 7 Online | Then the high priest asked Stephen, “Are these charges true?..."
 weight: 7
 ---
 
-# Chapter 7
+# Acts 7 
 
 ## Stephen’s Address: The Call of Abraham
 

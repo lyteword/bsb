@@ -1,8 +1,11 @@
 ---
+title: "Job 1 BSB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Job 1 Online | There was a man in the land of Uz whose name was Job. And this man was blameless and upright, fearing God and shunning evil..."
 weight: 1
 ---
 
-# Chapter 1
+# Job 1 
 
 ## Job’s Character and Wealth
 

@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 37 BSB | Read the Bible Online"
+linkTitle: "37"
+description: "Read Ezekiel 37 Online | The hand of the LORD was upon me, and He brought me out by His Spirit and set me down in the middle of the valley, and it was full of bones..."
 weight: 37
 ---
 
-# Chapter 37
+# Ezekiel 37 
 
 ## The Valley of Dry Bones
 

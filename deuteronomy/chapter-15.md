@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 15 BSB | Read the Bible Online"
+linkTitle: "15"
+description: "Read Deuteronomy 15 Online | At the end of every seven years you must cancel debts..."
 weight: 15
 ---
 
-# Chapter 15
+# Deuteronomy 15 
 
 ## The Seventh Year
 

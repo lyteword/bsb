@@ -1,8 +1,11 @@
 ---
+title: "Acts 14 BSB | Read the Bible Online"
+linkTitle: "14"
+description: "Read Acts 14 Online | At Iconium, Paul and Barnabas went as usual into the Jewish synagogue, where they spoke so well that a great number of Jews and Greeks believed..."
 weight: 14
 ---
 
-# Chapter 14
+# Acts 14 
 
 ## Paul and Barnabas at Iconium
 

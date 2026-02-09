@@ -1,8 +1,11 @@
 ---
+title: "Joshua 4 BSB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Joshua 4 Online | When the whole nation had finished crossing the Jordan, the LORD said to Joshua..."
 weight: 4
 ---
 
-# Chapter 4
+# Joshua 4 
 
 ## Twelve Stones from the Jordan
 

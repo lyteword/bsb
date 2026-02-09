@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 36 BSB | Read the Bible Online"
+linkTitle: "36"
+description: "Read Ezekiel 36 Online | “And you, son of man, prophesy to the mountains of Israel and say: O mountains of Israel, hear the word of the LORD..."
 weight: 36
 ---
 
-# Chapter 36
+# Ezekiel 36 
 
 ## A Prophecy to the Mountains of Israel
 

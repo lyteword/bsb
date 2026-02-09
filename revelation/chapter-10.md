@@ -1,8 +1,11 @@
 ---
+title: "Revelation 10 BSB | Read the Bible Online"
+linkTitle: "10"
+description: "Read Revelation 10 Online | Then I saw another mighty angel coming down from heaven, wrapped in a cloud, with a rainbow above his head. His face was like the sun, and his legs were like pillars of fire..."
 weight: 10
 ---
 
-# Chapter 10
+# Revelation 10 
 
 ## The Angel and the Small Scroll
 

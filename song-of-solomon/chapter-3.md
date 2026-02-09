@@ -1,8 +1,11 @@
 ---
+title: "Song Of Solomon 3 BSB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Song Of Solomon 3 Online | On my bed at night I sought the one I love; I sought him, but did not find him..."
 weight: 3
 ---
 
-# Chapter 3
+# Song Of Solomon 3 
 
 ## The Bride’s Dream
 

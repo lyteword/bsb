@@ -1,8 +1,11 @@
 ---
+title: "Psalm 128 BSB | Read the Bible Online"
+linkTitle: "128"
+description: "Read Psalm 128 Online | Blessed are all who fear the LORD, who walk in His ways..."
 weight: 128
 ---
 
-# Psalm 128
+# Psalm 128 
 
 ## The Blessed Fear of the LORD
 

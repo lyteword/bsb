@@ -1,8 +1,11 @@
 ---
+title: "Psalm 115 BSB | Read the Bible Online"
+linkTitle: "115"
+description: "Read Psalm 115 Online | Not to us, O LORD, not to us, but to Your name be the glory, because of Your loving devotion, because of Your faithfulness..."
 weight: 115
 ---
 
-# Psalm 115
+# Psalm 115 
 
 ## To Your Name Be the Glory
 

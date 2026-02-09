@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 19 BSB | Read the Bible Online"
+linkTitle: "19"
+description: "Read 2 Chronicles 19 Online | When Jehoshaphat king of Judah had returned safely to his home in Jerusalem..."
 weight: 19
 ---
 
-# Chapter 19
+# 2 Chronicles 19 
 
 ## Jehoshaphat Reproved by Jehu
 

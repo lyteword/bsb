@@ -1,8 +1,11 @@
 ---
+title: "1 Thessalonians 3 BSB | Read the Bible Online"
+linkTitle: "3"
+description: "Read 1 Thessalonians 3 Online | So when we could bear it no longer, we were willing to be left on our own in Athens..."
 weight: 3
 ---
 
-# Chapter 3
+# 1 Thessalonians 3 
 
 ## Timothy’s Visit
 

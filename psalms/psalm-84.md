@@ -1,8 +1,11 @@
 ---
+title: "Psalm 84 BSB | Read the Bible Online"
+linkTitle: "84"
+description: "Read Psalm 84 Online | How lovely is Your dwelling place, O LORD of Hosts..."
 weight: 84
 ---
 
-# Psalm 84
+# Psalm 84 
 
 ## Better Is One Day in Your Courts
 

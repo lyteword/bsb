@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 12 BSB | Read the Bible Online"
+linkTitle: "12"
+description: "Read Isaiah 12 Online | In that day you will say: “O LORD, I will praise You. Although You were angry with me, Your anger has turned away, and You have comforted me..."
 weight: 12
 ---
 
-# Chapter 12
+# Isaiah 12 
 
 ## Joyful Thanksgiving
 

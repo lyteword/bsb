@@ -1,8 +1,11 @@
 ---
+title: "Joshua 6 BSB | Read the Bible Online"
+linkTitle: "6"
+description: "Read Joshua 6 Online | Now Jericho was tightly shut up because of the Israelites. No one went out and no one came in..."
 weight: 6
 ---
 
-# Chapter 6
+# Joshua 6 
 
 ## The Walls of Jericho
 

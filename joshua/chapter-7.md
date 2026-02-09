@@ -1,8 +1,11 @@
 ---
+title: "Joshua 7 BSB | Read the Bible Online"
+linkTitle: "7"
+description: "Read Joshua 7 Online | The Israelites, however, acted unfaithfully regarding the things devoted to destruction.[^802] Achan [^803] son of Carmi, the son of Zabdi,[^804] the son of Zerah, of the tribe of Judah, took some of what was set apart. So the anger of the LORD burned against the Israelites..."
 weight: 7
 ---
 
-# Chapter 7
+# Joshua 7 
 
 ## The Defeat at Ai
 

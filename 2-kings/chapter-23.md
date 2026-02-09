@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 23 BSB | Read the Bible Online"
+linkTitle: "23"
+description: "Read 2 Kings 23 Online | Then the king summoned all the elders of Judah and Jerusalem..."
 weight: 23
 ---
 
-# Chapter 23
+# 2 Kings 23 
 
 ## Josiah Renews the Covenant
 

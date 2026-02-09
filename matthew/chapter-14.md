@@ -1,8 +1,11 @@
 ---
+title: "Matthew 14 BSB | Read the Bible Online"
+linkTitle: "14"
+description: "Read Matthew 14 Online | At that time Herod the tetrarch heard the reports about Jesus..."
 weight: 14
 ---
 
-# Chapter 14
+# Matthew 14 
 
 ## The Beheading of John
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 81 BSB | Read the Bible Online"
+linkTitle: "81"
+description: "Read Psalm 81 Online | Sing for joy to God our strength; make a joyful noise to the God of Jacob..."
 weight: 81
 ---
 
-# Psalm 81
+# Psalm 81 
 
 ## Sing for Joy to God Our Strength
 

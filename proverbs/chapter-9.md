@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 9 BSB | Read the Bible Online"
+linkTitle: "9"
+description: "Read Proverbs 9 Online | Wisdom has built her house; she has carved out [^2470] her seven pillars..."
 weight: 9
 ---
 
-# Chapter 9
+# Proverbs 9 
 
 ## The Way of Wisdom
 

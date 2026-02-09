@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 33 BSB | Read the Bible Online"
+linkTitle: "33"
+description: "Read 2 Chronicles 33 Online | Manasseh was twelve years old when he became king, and he reigned in Jerusalem fifty-five years..."
 weight: 33
 ---
 
-# Chapter 33
+# 2 Chronicles 33 
 
 ## Manasseh Reigns in Judah
 

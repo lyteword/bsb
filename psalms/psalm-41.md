@@ -1,8 +1,11 @@
 ---
+title: "Psalm 41 BSB | Read the Bible Online"
+linkTitle: "41"
+description: "Read Psalm 41 Online | Blessed is the one who cares for the poor; the LORD will deliver him in the day of trouble..."
 weight: 41
 ---
 
-# Psalm 41
+# Psalm 41 
 
 ## Victory over Betrayal
 

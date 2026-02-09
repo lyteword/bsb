@@ -1,8 +1,11 @@
 ---
+title: "1 Timothy 6 BSB | Read the Bible Online"
+linkTitle: "6"
+description: "Read 1 Timothy 6 Online | All who are under the yoke of slavery should regard their masters as fully worthy of honor, so that God’s name and our teaching will not be discredited..."
 weight: 6
 ---
 
-# Chapter 6
+# 1 Timothy 6 
 
 ## Serving with Honor
 

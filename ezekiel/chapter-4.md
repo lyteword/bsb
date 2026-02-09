@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 4 BSB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Ezekiel 4 Online | “Now you, son of man, take a brick, place it before you, and draw on it the city of Jerusalem..."
 weight: 4
 ---
 
-# Chapter 4
+# Ezekiel 4 
 
 ## A Sign of Jerusalem’s Siege
 

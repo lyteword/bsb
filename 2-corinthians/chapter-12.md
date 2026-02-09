@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 12 BSB | Read the Bible Online"
+linkTitle: "12"
+description: "Read 2 Corinthians 12 Online | I must go on boasting. Although there is nothing to gain, I will go on to visions and revelations from the Lord..."
 weight: 12
 ---
 
-# Chapter 12
+# 2 Corinthians 12 
 
 ## Paul’s Revelation
 

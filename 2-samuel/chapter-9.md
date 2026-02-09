@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 9 BSB | Read the Bible Online"
+linkTitle: "9"
+description: "Read 2 Samuel 9 Online | Then David asked, “Is there anyone left from the house of Saul to whom I can show kindness for the sake of Jonathan?..."
 weight: 9
 ---
 
-# Chapter 9
+# 2 Samuel 9 
 
 ## David and Mephibosheth
 

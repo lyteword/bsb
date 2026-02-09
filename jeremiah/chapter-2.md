@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Jeremiah 2 Online | Now the word of the LORD came to me, saying..."
 weight: 2
 ---
 
-# Chapter 2
+# Jeremiah 2 
 
 ## Israel Has Forsaken God
 

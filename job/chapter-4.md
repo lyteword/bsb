@@ -1,8 +1,11 @@
 ---
+title: "Job 4 BSB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Job 4 Online | Then Eliphaz the Temanite replied..."
 weight: 4
 ---
 
-# Chapter 4
+# Job 4 
 
 ## Eliphaz: The Innocent Prosper
 

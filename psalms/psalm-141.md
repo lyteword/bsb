@@ -1,8 +1,11 @@
 ---
+title: "Psalm 141 BSB | Read the Bible Online"
+linkTitle: "141"
+description: "Read Psalm 141 Online | I call upon You, O LORD; come quickly to me. Hear my voice when I call to You..."
 weight: 141
 ---
 
-# Psalm 141
+# Psalm 141 
 
 ## Come Quickly to Me
 

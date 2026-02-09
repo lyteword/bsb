@@ -1,8 +1,11 @@
 ---
+title: "Job 7 BSB | Read the Bible Online"
+linkTitle: "7"
+description: "Read Job 7 Online | “Is not man consigned to labor on earth? Are not his days like those of a hired hand..."
 weight: 7
 ---
 
-# Chapter 7
+# Job 7 
 
 ## Job Continues: Life Seems Futile
 

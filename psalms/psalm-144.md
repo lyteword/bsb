@@ -1,8 +1,11 @@
 ---
+title: "Psalm 144 BSB | Read the Bible Online"
+linkTitle: "144"
+description: "Read Psalm 144 Online | Blessed be the LORD, my Rock, who trains my hands for war, my fingers for battle..."
 weight: 144
 ---
 
-# Psalm 144
+# Psalm 144 
 
 ## Blessed Be the LORD, My Rock
 

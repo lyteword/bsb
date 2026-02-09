@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 4 BSB | Read the Bible Online"
+linkTitle: "4"
+description: "Read 1 Kings 4 Online | So King Solomon ruled over Israel..."
 weight: 4
 ---
 
-# Chapter 4
+# 1 Kings 4 
 
 ## Solomon’s Princes
 

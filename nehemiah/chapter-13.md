@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 13 BSB | Read the Bible Online"
+linkTitle: "13"
+description: "Read Nehemiah 13 Online | At that time the Book of Moses was read aloud in the hearing of the people, and in it they found the passage stating that no Ammonite or Moabite should ever enter the assembly of God,[^2031..."
 weight: 13
 ---
 
-# Chapter 13
+# Nehemiah 13 
 
 ## Foreigners Excluded
 

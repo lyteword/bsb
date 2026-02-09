@@ -1,8 +1,11 @@
 ---
+title: "Psalm 73 BSB | Read the Bible Online"
+linkTitle: "73"
+description: "Read Psalm 73 Online | Surely God is good to Israel, to those who are pure in heart..."
 weight: 73
 ---
 
-# Psalm 73
+# Psalm 73 
 
 ## Surely God Is Good to Israel
 

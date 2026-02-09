@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 15 BSB | Read the Bible Online"
+linkTitle: "15"
+description: "Read 1 Kings 15 Online | In the eighteenth year of the reign of Jeroboam son of Nebat, Abijam [^1316] became king of Judah..."
 weight: 15
 ---
 
-# Chapter 15
+# 1 Kings 15 
 
 ## Abijam Reigns in Judah
 

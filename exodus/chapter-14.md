@@ -1,8 +1,11 @@
 ---
+title: "Exodus 14 BSB | Read the Bible Online"
+linkTitle: "14"
+description: "Read Exodus 14 Online | Then the LORD said to Moses..."
 weight: 14
 ---
 
-# Chapter 14
+# Exodus 14 
 
 ## Pharaoh Pursues the Israelites
 

@@ -1,8 +1,11 @@
 ---
+title: "2 Timothy 3 BSB | Read the Bible Online"
+linkTitle: "3"
+description: "Read 2 Timothy 3 Online | But understand this: In the last days terrible times will come..."
 weight: 3
 ---
 
-# Chapter 3
+# 2 Timothy 3 
 
 ## Evil in the Last Days
 

@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 13 BSB | Read the Bible Online"
+linkTitle: "13"
+description: "Read 2 Samuel 13 Online | After some time, David’s son Amnon fell in love with Tamar, the beautiful sister of David’s son Absalom..."
 weight: 13
 ---
 
-# Chapter 13
+# 2 Samuel 13 
 
 ## Amnon and Tamar
 

@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 22 BSB | Read the Bible Online"
+linkTitle: "22"
+description: "Read Ezekiel 22 Online | Then the word of the LORD came to me, saying..."
 weight: 22
 ---
 
-# Chapter 22
+# Ezekiel 22 
 
 ## The Sins of Jerusalem
 

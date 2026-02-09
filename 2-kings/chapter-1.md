@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 1 BSB | Read the Bible Online"
+linkTitle: "1"
+description: "Read 2 Kings 1 Online | After the death of Ahab, Moab rebelled against Israel..."
 weight: 1
 ---
 
-# Chapter 1
+# 2 Kings 1 
 
 ## Elijah Denounces Ahaziah
 

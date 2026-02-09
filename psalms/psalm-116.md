@@ -1,8 +1,11 @@
 ---
+title: "Psalm 116 BSB | Read the Bible Online"
+linkTitle: "116"
+description: "Read Psalm 116 Online | I love the LORD, for He has heard my voice— my appeal for mercy..."
 weight: 116
 ---
 
-# Psalm 116
+# Psalm 116 
 
 ## The LORD Has Heard My Voice
 

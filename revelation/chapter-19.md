@@ -1,8 +1,11 @@
 ---
+title: "Revelation 19 BSB | Read the Bible Online"
+linkTitle: "19"
+description: "Read Revelation 19 Online | After this I heard a sound like the roar of a great multitude in heaven, shouting: “Hallelujah![^4837] Salvation and glory and power belong to our God..."
 weight: 19
 ---
 
-# Chapter 19
+# Revelation 19 
 
 ## Rejoicing in Heaven
 

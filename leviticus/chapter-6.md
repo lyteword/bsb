@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 6 BSB | Read the Bible Online"
+linkTitle: "6"
+description: "Read Leviticus 6 Online | And the LORD said to Moses..."
 weight: 6
 ---
 
-# Chapter 6
+# Leviticus 6 
 
 ## Sins Requiring a Guilt Offering
 

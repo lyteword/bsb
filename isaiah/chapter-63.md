@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 63 BSB | Read the Bible Online"
+linkTitle: "63"
+description: "Read Isaiah 63 Online | Who is this coming from Edom, from Bozrah with crimson-stained garments? Who is this robed in splendor, marching in the greatness of His strength? “It is I, proclaiming vindication,[^2783] mighty to save...."
 weight: 63
 ---
 
-# Chapter 63
+# Isaiah 63 
 
 ## God’s Vengeance on the Nations
 

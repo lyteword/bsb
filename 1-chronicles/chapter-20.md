@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 20 BSB | Read the Bible Online"
+linkTitle: "20"
+description: "Read 1 Chronicles 20 Online | In the spring,[^1634] at the time when kings march out to war, Joab led out the army and ravaged the land of the Ammonites. He came to Rabbah and besieged it, but David remained in Jerusalem. And Joab attacked Rabbah and demolished it..."
 weight: 20
 ---
 
-# Chapter 20
+# 1 Chronicles 20 
 
 ## The Capture of Rabbah
 

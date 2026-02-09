@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 27 BSB | Read the Bible Online"
+linkTitle: "27"
+description: "Read 1 Samuel 27 Online | David, however, said to himself, “One of these days now I will be swept away by the hand of Saul. There is nothing better for me than to escape to the land of the Philistines. Then Saul will stop searching for me all over Israel, and I will slip out of his hand...."
 weight: 27
 ---
 
-# Chapter 27
+# 1 Samuel 27 
 
 ## David and the Philistines
 

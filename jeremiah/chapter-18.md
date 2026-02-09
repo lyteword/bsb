@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 18 BSB | Read the Bible Online"
+linkTitle: "18"
+description: "Read Jeremiah 18 Online | This is the word that came to Jeremiah from the LORD..."
 weight: 18
 ---
 
-# Chapter 18
+# Jeremiah 18 
 
 ## The Potter and the Clay
 

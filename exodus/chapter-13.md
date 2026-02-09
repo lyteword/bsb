@@ -1,8 +1,11 @@
 ---
+title: "Exodus 13 BSB | Read the Bible Online"
+linkTitle: "13"
+description: "Read Exodus 13 Online | Then the LORD said to Moses..."
 weight: 13
 ---
 
-# Chapter 13
+# Exodus 13 
 
 ## The Dedication of the Firstborn
 

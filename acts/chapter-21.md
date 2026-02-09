@@ -1,8 +1,11 @@
 ---
+title: "Acts 21 BSB | Read the Bible Online"
+linkTitle: "21"
+description: "Read Acts 21 Online | After we had torn ourselves away from them, we sailed directly to Cos, and the next day on to Rhodes, and from there to Patara..."
 weight: 21
 ---
 
-# Chapter 21
+# Acts 21 
 
 ## Paul’s Journey to Jerusalem
 

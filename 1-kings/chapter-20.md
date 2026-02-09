@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 20 BSB | Read the Bible Online"
+linkTitle: "20"
+description: "Read 1 Kings 20 Online | Now Ben-hadad king of Aram assembled his entire army. Accompanied by thirty-two kings with their horses and chariots, he marched up, besieged Samaria, and waged war against it..."
 weight: 20
 ---
 
-# Chapter 20
+# 1 Kings 20 
 
 ## Ben-hadad Attacks Samaria
 

@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 10 BSB | Read the Bible Online"
+linkTitle: "10"
+description: "Read Leviticus 10 Online | Now Aaron’s sons Nadab and Abihu took their censers, put fire in them and added incense, and offered unauthorized [^458] fire before the LORD, contrary to His command..."
 weight: 10
 ---
 
-# Chapter 10
+# Leviticus 10 
 
 ## The Sin of Nadab and Abihu
 

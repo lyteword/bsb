@@ -1,8 +1,11 @@
 ---
+title: "Joshua 21 BSB | Read the Bible Online"
+linkTitle: "21"
+description: "Read Joshua 21 Online | Now the family heads of the Levites approached Eleazar the priest, Joshua son of Nun, and the heads of the other tribes of Israel..."
 weight: 21
 ---
 
-# Chapter 21
+# Joshua 21 
 
 ## Forty-Eight Cities for the Levites
 

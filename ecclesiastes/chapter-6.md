@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 6 BSB | Read the Bible Online"
+linkTitle: "6"
+description: "Read Ecclesiastes 6 Online | There is another evil I have seen under the sun, and it weighs heavily upon mankind..."
 weight: 6
 ---
 
-# Chapter 6
+# Ecclesiastes 6 
 
 ## The Futility of Life
 

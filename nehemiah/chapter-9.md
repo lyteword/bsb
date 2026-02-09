@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 9 BSB | Read the Bible Online"
+linkTitle: "9"
+description: "Read Nehemiah 9 Online | On the twenty-fourth day of the same month, the Israelites gathered together, fasting and wearing sackcloth, with dust on their heads..."
 weight: 9
 ---
 
-# Chapter 9
+# Nehemiah 9 
 
 ## The People Confess Their Sins
 

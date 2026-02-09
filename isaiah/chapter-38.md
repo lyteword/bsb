@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 38 BSB | Read the Bible Online"
+linkTitle: "38"
+description: "Read Isaiah 38 Online | In those days Hezekiah became mortally ill. The prophet Isaiah son of Amoz came to him and said, “This is what the LORD says: ‘Put your house in order, for you are about to die; you will not recover.’..."
 weight: 38
 ---
 
-# Chapter 38
+# Isaiah 38 
 
 ## Hezekiah’s Illness and Recovery
 

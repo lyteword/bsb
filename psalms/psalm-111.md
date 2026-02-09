@@ -1,8 +1,11 @@
 ---
+title: "Psalm 111 BSB | Read the Bible Online"
+linkTitle: "111"
+description: "Read Psalm 111 Online | Hallelujah! [^2379] I will give thanks to the LORD with all my heart in the council of the upright and in the assembly..."
 weight: 111
 ---
 
-# Psalm 111
+# Psalm 111 
 
 ## Majestic Is His Work
 

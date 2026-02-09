@@ -1,8 +1,11 @@
 ---
+title: "Job 22 BSB | Read the Bible Online"
+linkTitle: "22"
+description: "Read Job 22 Online | Then Eliphaz the Temanite replied..."
 weight: 22
 ---
 
-# Chapter 22
+# Job 22 
 
 ## Eliphaz: Can a Man Be of Use to God?
 

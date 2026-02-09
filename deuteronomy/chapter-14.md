@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 14 BSB | Read the Bible Online"
+linkTitle: "14"
+description: "Read Deuteronomy 14 Online | You are sons of the LORD your God; do not cut yourselves or shave your foreheads on behalf of the dead..."
 weight: 14
 ---
 
-# Chapter 14
+# Deuteronomy 14 
 
 ## Clean and Unclean Animals
 

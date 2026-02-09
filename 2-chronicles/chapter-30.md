@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 30 BSB | Read the Bible Online"
+linkTitle: "30"
+description: "Read 2 Chronicles 30 Online | Then Hezekiah sent word throughout all Israel and Judah, and he also wrote letters to Ephraim and Manasseh inviting them to come to the house of the LORD in Jerusalem to keep the Passover of the LORD, the God of Israel..."
 weight: 30
 ---
 
-# Chapter 30
+# 2 Chronicles 30 
 
 ## Hezekiah Proclaims a Passover
 

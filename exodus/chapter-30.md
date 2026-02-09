@@ -1,8 +1,11 @@
 ---
+title: "Exodus 30 BSB | Read the Bible Online"
+linkTitle: "30"
+description: "Read Exodus 30 Online | “You are also to make an altar of acacia wood for the burning of incense..."
 weight: 30
 ---
 
-# Chapter 30
+# Exodus 30 
 
 ## The Altar of Incense
 

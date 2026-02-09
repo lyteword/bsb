@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 8 BSB | Read the Bible Online"
+linkTitle: "8"
+description: "Read Leviticus 8 Online | Then the LORD said to Moses..."
 weight: 8
 ---
 
-# Chapter 8
+# Leviticus 8 
 
 ## Moses Consecrates Aaron and His Sons
 

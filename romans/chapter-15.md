@@ -1,8 +1,11 @@
 ---
+title: "Romans 15 BSB | Read the Bible Online"
+linkTitle: "15"
+description: "Read Romans 15 Online | We who are strong ought to bear with the shortcomings of the weak and not to please ourselves..."
 weight: 15
 ---
 
-# Chapter 15
+# Romans 15 
 
 ## Accept One Another
 

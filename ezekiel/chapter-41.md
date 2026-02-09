@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 41 BSB | Read the Bible Online"
+linkTitle: "41"
+description: "Read Ezekiel 41 Online | Then the man brought me into the outer sanctuary and measured the side pillars to be six cubits wide [^3136] on each side.[^3137..."
 weight: 41
 ---
 
-# Chapter 41
+# Ezekiel 41 
 
 ## Inside the Temple
 

@@ -1,8 +1,11 @@
 ---
+title: "Luke 6 BSB | Read the Bible Online"
+linkTitle: "6"
+description: "Read Luke 6 Online | One Sabbath [^3901] Jesus was passing through the grainfields, and His disciples began to pick the heads of grain, rub them in their hands, and eat them..."
 weight: 6
 ---
 
-# Chapter 6
+# Luke 6 
 
 ## The Lord of the Sabbath
 

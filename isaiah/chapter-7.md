@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 7 BSB | Read the Bible Online"
+linkTitle: "7"
+description: "Read Isaiah 7 Online | Now in the days that Ahaz son of Jotham, the son of Uzziah, was king of Judah, Rezin king of Aram [^2572] marched up to wage war against Jerusalem. He was accompanied by Pekah son of Remaliah the king of Israel, but he could not overpower the city..."
 weight: 7
 ---
 
-# Chapter 7
+# Isaiah 7 
 
 ## A Message to Ahaz
 

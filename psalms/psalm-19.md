@@ -1,8 +1,11 @@
 ---
+title: "Psalm 19 BSB | Read the Bible Online"
+linkTitle: "19"
+description: "Read Psalm 19 Online | The heavens declare the glory of God; the skies proclaim the work of His hands..."
 weight: 19
 ---
 
-# Psalm 19
+# Psalm 19 
 
 ## The Heavens Declare the Glory of God
 

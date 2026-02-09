@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 18 BSB | Read the Bible Online"
+linkTitle: "18"
+description: "Read 1 Kings 18 Online | After a long time, in the third year of the drought,[^1327] the word of the LORD came to Elijah: “Go and present yourself to Ahab, and I will send rain upon the face of the earth...."
 weight: 18
 ---
 
-# Chapter 18
+# 1 Kings 18 
 
 ## Elijah’s Message to Ahab
 

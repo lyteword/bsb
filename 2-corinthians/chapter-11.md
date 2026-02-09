@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 11 BSB | Read the Bible Online"
+linkTitle: "11"
+description: "Read 2 Corinthians 11 Online | I hope you will put up with a little of my foolishness, but you are already doing that..."
 weight: 11
 ---
 
-# Chapter 11
+# 2 Corinthians 11 
 
 ## Paul and the False Apostles
 

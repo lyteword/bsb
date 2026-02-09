@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 8 BSB | Read the Bible Online"
+linkTitle: "8"
+description: "Read 2 Samuel 8 Online | Some time later, David defeated the Philistines, subdued them, and took Metheg-ammah [^1091] from the hand of the Philistines..."
 weight: 8
 ---
 
-# Chapter 8
+# 2 Samuel 8 
 
 ## David’s Triumphs
 

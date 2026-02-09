@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 25 BSB | Read the Bible Online"
+linkTitle: "25"
+description: "Read Proverbs 25 Online | These are additional proverbs of Solomon, which were copied by the men of Hezekiah king of Judah..."
 weight: 25
 ---
 
-# Chapter 25
+# Proverbs 25 
 
 ## More Proverbs of Solomon
 

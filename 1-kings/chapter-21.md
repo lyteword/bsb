@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 21 BSB | Read the Bible Online"
+linkTitle: "21"
+description: "Read 1 Kings 21 Online | Some time after these events, Naboth the Jezreelite owned a vineyard in Jezreel next to the palace of Ahab king of Samaria..."
 weight: 21
 ---
 
-# Chapter 21
+# 1 Kings 21 
 
 ## Naboth’s Vineyard
 

@@ -1,8 +1,11 @@
 ---
+title: "Mark 9 BSB | Read the Bible Online"
+linkTitle: "9"
+description: "Read Mark 9 Online | Then Jesus said to them, “Truly I tell you, there are some standing here who will not taste death before they see the kingdom of God arrive with power...."
 weight: 9
 ---
 
-# Chapter 9
+# Mark 9 
 
 ## The Transfiguration
 

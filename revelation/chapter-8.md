@@ -1,8 +1,11 @@
 ---
+title: "Revelation 8 BSB | Read the Bible Online"
+linkTitle: "8"
+description: "Read Revelation 8 Online | When the Lamb opened the seventh seal, there was silence in heaven for about half an hour..."
 weight: 8
 ---
 
-# Chapter 8
+# Revelation 8 
 
 ## The Seventh Seal
 

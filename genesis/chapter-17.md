@@ -1,8 +1,11 @@
 ---
+title: "Genesis 17 BSB | Read the Bible Online"
+linkTitle: "17"
+description: "Read Genesis 17 Online | When Abram was ninety-nine years old, the LORD appeared to him and said, “I am God Almighty.[^79] Walk before Me and be blameless..."
 weight: 17
 ---
 
-# Chapter 17
+# Genesis 17 
 
 ## Abraham to Father Many Nations
 

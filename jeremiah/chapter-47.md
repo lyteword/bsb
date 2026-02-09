@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 47 BSB | Read the Bible Online"
+linkTitle: "47"
+description: "Read Jeremiah 47 Online | This is the word of the LORD that came to Jeremiah the prophet about the Philistines before Pharaoh struck down Gaza..."
 weight: 47
 ---
 
-# Chapter 47
+# Jeremiah 47 
 
 ## Judgment on the Philistines
 

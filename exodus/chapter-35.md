@@ -1,8 +1,11 @@
 ---
+title: "Exodus 35 BSB | Read the Bible Online"
+linkTitle: "35"
+description: "Read Exodus 35 Online | Then Moses assembled the whole congregation of Israel and said to them, “These are the things that the LORD has commanded you to do..."
 weight: 35
 ---
 
-# Chapter 35
+# Exodus 35 
 
 ## The Sabbath
 

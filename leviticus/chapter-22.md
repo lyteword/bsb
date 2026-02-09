@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 22 BSB | Read the Bible Online"
+linkTitle: "22"
+description: "Read Leviticus 22 Online | Then the LORD said to Moses..."
 weight: 22
 ---
 
-# Chapter 22
+# Leviticus 22 
 
 ## Restrictions against the Unclean
 

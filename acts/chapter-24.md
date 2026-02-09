@@ -1,8 +1,11 @@
 ---
+title: "Acts 24 BSB | Read the Bible Online"
+linkTitle: "24"
+description: "Read Acts 24 Online | Five days later the high priest Ananias came down with some elders and a lawyer [^4261] named Tertullus, who presented to the governor their case against Paul..."
 weight: 24
 ---
 
-# Chapter 24
+# Acts 24 
 
 ## Tertullus Prosecutes Paul
 

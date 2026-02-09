@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 3 BSB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Jeremiah 3 Online | “If a man divorces his wife and she leaves him to marry another, can he ever return to her? Would not such a land be completely defiled? But you have played the harlot with many lovers— and you would return to Me?” declares the LORD..."
 weight: 3
 ---
 
-# Chapter 3
+# Jeremiah 3 
 
 ## The Wages of the Harlot
 

@@ -1,8 +1,11 @@
 ---
+title: "Acts 17 BSB | Read the Bible Online"
+linkTitle: "17"
+description: "Read Acts 17 Online | When they had passed through Amphipolis and Apollonia, they came to Thessalonica, where there was a Jewish synagogue..."
 weight: 17
 ---
 
-# Chapter 17
+# Acts 17 
 
 ## The Uproar in Thessalonica
 

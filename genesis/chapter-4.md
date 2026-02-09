@@ -1,8 +1,11 @@
 ---
+title: "Genesis 4 BSB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Genesis 4 Online | And Adam had relations with his wife Eve, and she conceived and gave birth to Cain.[^18] “With the help of the LORD I have brought forth a man,” she said..."
 weight: 4
 ---
 
-# Chapter 4
+# Genesis 4 
 
 ## Cain and Abel
 

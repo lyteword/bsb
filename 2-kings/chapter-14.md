@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 14 BSB | Read the Bible Online"
+linkTitle: "14"
+description: "Read 2 Kings 14 Online | In the second year of the reign of Jehoash [^1399] son of Jehoahaz over Israel, Amaziah son of Joash became king of Judah..."
 weight: 14
 ---
 
-# Chapter 14
+# 2 Kings 14 
 
 ## Amaziah Reigns in Judah
 

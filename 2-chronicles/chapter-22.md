@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 22 BSB | Read the Bible Online"
+linkTitle: "22"
+description: "Read 2 Chronicles 22 Online | Then the people of Jerusalem made Ahaziah, the youngest son of Jehoram, king in his place, since the raiders who had come into the camp with the Arabs [^1795] had killed all the older sons. So Ahaziah son of Jehoram became king of Judah..."
 weight: 22
 ---
 
-# Chapter 22
+# 2 Chronicles 22 
 
 ## Ahaziah Reigns in Judah
 

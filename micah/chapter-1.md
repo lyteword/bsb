@@ -1,8 +1,11 @@
 ---
+title: "Micah 1 BSB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Micah 1 Online | This is the word of the LORD that came to Micah the Moreshite in the days of Jotham, Ahaz, and Hezekiah, kings of Judah—what he saw regarding Samaria and Jerusalem..."
 weight: 1
 ---
 
-# Chapter 1
+# Micah 1 
 
 ## Judgment to Come
 

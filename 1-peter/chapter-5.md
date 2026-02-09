@@ -1,8 +1,11 @@
 ---
+title: "1 Peter 5 BSB | Read the Bible Online"
+linkTitle: "5"
+description: "Read 1 Peter 5 Online | As a fellow elder, a witness of Christ’s sufferings, and a partaker of the glory to be revealed, I appeal to the elders [^4729] among you..."
 weight: 5
 ---
 
-# Chapter 5
+# 1 Peter 5 
 
 ## Instructions to Elders
 

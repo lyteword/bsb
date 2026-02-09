@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 14 BSB | Read the Bible Online"
+linkTitle: "14"
+description: "Read 1 Chronicles 14 Online | Now Hiram king of Tyre sent envoys to David, along with cedar logs, stonemasons, and carpenters, to build a palace for him..."
 weight: 14
 ---
 
-# Chapter 14
+# 1 Chronicles 14 
 
 ## David’s Family Grows
 

@@ -1,8 +1,11 @@
 ---
+title: "Judges 15 BSB | Read the Bible Online"
+linkTitle: "15"
+description: "Read Judges 15 Online | Later on, at the time of the wheat harvest, Samson took a young goat and went to visit his wife. “I want to go to my wife in her room,” he said. But her father would not let him enter..."
 weight: 15
 ---
 
-# Chapter 15
+# Judges 15 
 
 ## Samson’s Revenge
 

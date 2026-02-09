@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 23 BSB | Read the Bible Online"
+linkTitle: "23"
+description: "Read Isaiah 23 Online | This is the burden against Tyre: Wail, O ships of Tarshish,[^2636] for Tyre is laid waste, without house or harbor. Word has reached them from the land of Cyprus.[^2637..."
 weight: 23
 ---
 
-# Chapter 23
+# Isaiah 23 
 
 ## The Burden against Tyre
 

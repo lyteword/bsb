@@ -1,8 +1,11 @@
 ---
+title: "Luke 3 BSB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Luke 3 Online | In the fifteenth year of the reign of Tiberius Caesar, while Pontius Pilate was governor of Judea, Herod tetrarch of Galilee, his brother Philip tetrarch of Ituraea and Trachonitis, and Lysanias tetrarch of Abilene..."
 weight: 3
 ---
 
-# Chapter 3
+# Luke 3 
 
 ## The Mission of John the Baptist
 

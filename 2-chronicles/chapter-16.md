@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 16 BSB | Read the Bible Online"
+linkTitle: "16"
+description: "Read 2 Chronicles 16 Online | In the thirty-sixth year of Asa’s reign, Baasha king of Israel went up against Judah and fortified Ramah to prevent anyone from leaving or entering the territory of Asa king of Judah..."
 weight: 16
 ---
 
-# Chapter 16
+# 2 Chronicles 16 
 
 ## War between Asa and Baasha
 

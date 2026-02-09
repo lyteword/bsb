@@ -1,8 +1,11 @@
 ---
+title: "Job 18 BSB | Read the Bible Online"
+linkTitle: "18"
+description: "Read Job 18 Online | Then Bildad the Shuhite replied..."
 weight: 18
 ---
 
-# Chapter 18
+# Job 18 
 
 ## Bildad: God Punishes the Wicked
 

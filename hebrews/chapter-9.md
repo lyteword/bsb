@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 9 BSB | Read the Bible Online"
+linkTitle: "9"
+description: "Read Hebrews 9 Online | Now the first covenant [^4635] had regulations for worship and also an earthly sanctuary..."
 weight: 9
 ---
 
-# Chapter 9
+# Hebrews 9 
 
 ## The Earthly Tabernacle
 

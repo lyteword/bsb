@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 17 BSB | Read the Bible Online"
+linkTitle: "17"
+description: "Read Jeremiah 17 Online | “The sin of Judah is written with an iron stylus, engraved with a diamond point on the tablets of their hearts and on the horns of their altars..."
 weight: 17
 ---
 
-# Chapter 17
+# Jeremiah 17 
 
 ## The Sin and Punishment of Judah
 

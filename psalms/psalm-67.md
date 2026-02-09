@@ -1,8 +1,11 @@
 ---
+title: "Psalm 67 BSB | Read the Bible Online"
+linkTitle: "67"
+description: "Read Psalm 67 Online | May God be gracious to us and bless us, and cause His face to shine upon us, Selah..."
 weight: 67
 ---
 
-# Psalm 67
+# Psalm 67 
 
 ## May God Cause His Face to Shine upon Us
 

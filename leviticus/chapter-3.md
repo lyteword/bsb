@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 3 BSB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Leviticus 3 Online | “If one’s offering is a peace offering and he offers an animal from the herd, whether male or female, he must present it without blemish before the LORD..."
 weight: 3
 ---
 
-# Chapter 3
+# Leviticus 3 
 
 ## Laws for Peace Offerings
 

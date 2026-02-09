@@ -1,8 +1,11 @@
 ---
+title: "Psalm 143 BSB | Read the Bible Online"
+linkTitle: "143"
+description: "Read Psalm 143 Online | O LORD, hear my prayer. In Your faithfulness, give ear to my plea; in Your righteousness, answer me..."
 weight: 143
 ---
 
-# Psalm 143
+# Psalm 143 
 
 ## I Stretch Out My Hands to You
 

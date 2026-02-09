@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 7 BSB | Read the Bible Online"
+linkTitle: "7"
+description: "Read Nehemiah 7 Online | When the wall had been rebuilt and I had set the doors in place, the gatekeepers, singers, and Levites were appointed..."
 weight: 7
 ---
 
-# Chapter 7
+# Nehemiah 7 
 
 ## Securing the City
 

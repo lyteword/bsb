@@ -1,8 +1,11 @@
 ---
+title: "Colossians 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Colossians 2 Online | For I want you to know how much I am struggling for you and for those at Laodicea, and for all who have not met me face to face..."
 weight: 2
 ---
 
-# Chapter 2
+# Colossians 2 
 
 ## Absent in Body, Present in Spirit
 

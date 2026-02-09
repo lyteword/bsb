@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 36 BSB | Read the Bible Online"
+linkTitle: "36"
+description: "Read 2 Chronicles 36 Online | Then the people of the land took Jehoahaz son of Josiah and made him king in Jerusalem in place of his father..."
 weight: 36
 ---
 
-# Chapter 36
+# 2 Chronicles 36 
 
 ## Jehoahaz Succeeds Josiah
 

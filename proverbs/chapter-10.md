@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 10 BSB | Read the Bible Online"
+linkTitle: "10"
+description: "Read Proverbs 10 Online | The proverbs of Solomon: A wise son brings joy to his father, but a foolish son grief to his mother..."
 weight: 10
 ---
 
-# Chapter 10
+# Proverbs 10 
 
 ## Solomon’s Proverbs: The Wise Son
 

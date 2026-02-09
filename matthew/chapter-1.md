@@ -1,8 +1,11 @@
 ---
+title: "Matthew 1 BSB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Matthew 1 Online | This is the record of the genealogy of Jesus Christ, the son of David, the son of Abraham..."
 weight: 1
 ---
 
-# Chapter 1
+# Matthew 1 
 
 ## The Genealogy of Jesus
 

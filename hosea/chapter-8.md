@@ -1,8 +1,11 @@
 ---
+title: "Hosea 8 BSB | Read the Bible Online"
+linkTitle: "8"
+description: "Read Hosea 8 Online | Put the ram’s horn to your lips! An eagle looms over the house of the LORD, because the people have transgressed My covenant and rebelled against My law..."
 weight: 8
 ---
 
-# Chapter 8
+# Hosea 8 
 
 ## Israel Will Reap the Whirlwind
 

@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 24 BSB | Read the Bible Online"
+linkTitle: "24"
+description: "Read 2 Samuel 24 Online | Again the anger of the LORD burned against Israel, and He stirred up David against them, saying, “Go and take a census of Israel and Judah...."
 weight: 24
 ---
 
-# Chapter 24
+# 2 Samuel 24 
 
 ## David’s Military Census
 

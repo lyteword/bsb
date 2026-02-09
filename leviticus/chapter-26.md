@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 26 BSB | Read the Bible Online"
+linkTitle: "26"
+description: "Read Leviticus 26 Online | “You must not make idols for yourselves or set up a carved image or sacred pillar; you must not place a sculpted stone in your land to bow down to it. For I am the LORD your God..."
 weight: 26
 ---
 
-# Chapter 26
+# Leviticus 26 
 
 ## Additional Blessings of Obedience
 

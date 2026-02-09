@@ -1,8 +1,11 @@
 ---
+title: "Obadiah 1 BSB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Obadiah 1 Online | This is the vision of Obadiah: This is what the Lord GOD says about Edom— We have heard a message from the LORD; an envoy has been sent among the nations to say, “Rise up, and let us go to battle against her!”..."
 weight: 1
 ---
 
-# Chapter 1
+# Obadiah 1 
 
 ## The Destruction of Edom
 

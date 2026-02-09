@@ -1,8 +1,11 @@
 ---
+title: "John 3 BSB | Read the Bible Online"
+linkTitle: "3"
+description: "Read John 3 Online | Now there was a man of the Pharisees named Nicodemus, a leader of the Jews..."
 weight: 3
 ---
 
-# Chapter 3
+# John 3 
 
 ## Jesus and Nicodemus
 

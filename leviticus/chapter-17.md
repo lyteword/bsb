@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 17 BSB | Read the Bible Online"
+linkTitle: "17"
+description: "Read Leviticus 17 Online | Then the LORD said to Moses..."
 weight: 17
 ---
 
-# Chapter 17
+# Leviticus 17 
 
 ## The Place of Sacrifice
 

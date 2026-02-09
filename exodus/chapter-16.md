@@ -1,8 +1,11 @@
 ---
+title: "Exodus 16 BSB | Read the Bible Online"
+linkTitle: "16"
+description: "Read Exodus 16 Online | On the fifteenth day of the second month after they had left the land of Egypt, the whole congregation of Israel set out from Elim and came to the Desert of Sin,[^300] which is between Elim and Sinai..."
 weight: 16
 ---
 
-# Chapter 16
+# Exodus 16 
 
 ## Manna and Quail from Heaven
 

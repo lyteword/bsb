@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 22 BSB | Read the Bible Online"
+linkTitle: "22"
+description: "Read 1 Kings 22 Online | Then three years passed without war between Aram and Israel..."
 weight: 22
 ---
 
-# Chapter 22
+# 1 Kings 22 
 
 ## Ahab and the False Prophets
 

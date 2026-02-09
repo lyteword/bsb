@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 53 BSB | Read the Bible Online"
+linkTitle: "53"
+description: "Read Isaiah 53 Online | Who has believed our message? And to whom has the arm of the LORD been revealed?[^2743..."
 weight: 53
 ---
 
-# Chapter 53
+# Isaiah 53 
 
 ## The Suffering Servant
 

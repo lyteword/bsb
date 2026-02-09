@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 3 BSB | Read the Bible Online"
+linkTitle: "3"
+description: "Read 2 Kings 3 Online | In the eighteenth year of Jehoshaphat’s reign over Judah, Jehoram [^1353] son of Ahab became king of Israel, and he reigned in Samaria twelve years..."
 weight: 3
 ---
 
-# Chapter 3
+# 2 Kings 3 
 
 ## Moab’s Rebellion
 

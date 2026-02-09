@@ -1,8 +1,11 @@
 ---
+title: "John 17 BSB | Read the Bible Online"
+linkTitle: "17"
+description: "Read John 17 Online | When Jesus had spoken these things, He lifted up His eyes to heaven and said, “Father, the hour has come. Glorify Your Son, that Your Son may glorify You..."
 weight: 17
 ---
 
-# Chapter 17
+# John 17 
 
 ## Prayer for the Son
 

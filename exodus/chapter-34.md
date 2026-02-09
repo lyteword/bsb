@@ -1,8 +1,11 @@
 ---
+title: "Exodus 34 BSB | Read the Bible Online"
+linkTitle: "34"
+description: "Read Exodus 34 Online | Then the LORD said to Moses, “Chisel out two stone tablets like the originals, and I will write on them the words that were on the first tablets, which you broke..."
 weight: 34
 ---
 
-# Chapter 34
+# Exodus 34 
 
 ## New Stone Tablets
 

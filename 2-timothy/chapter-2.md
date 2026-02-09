@@ -1,8 +1,11 @@
 ---
+title: "2 Timothy 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read 2 Timothy 2 Online | You therefore, my child, be strong in the grace that is in Christ Jesus..."
 weight: 2
 ---
 
-# Chapter 2
+# 2 Timothy 2 
 
 ## Grace and Perseverance
 

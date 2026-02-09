@@ -1,8 +1,11 @@
 ---
+title: "Genesis 39 BSB | Read the Bible Online"
+linkTitle: "39"
+description: "Read Genesis 39 Online | Meanwhile, Joseph had been taken down to Egypt, where an Egyptian named Potiphar, an officer of Pharaoh and captain of the guard, bought him from the Ishmaelites who had taken him there..."
 weight: 39
 ---
 
-# Chapter 39
+# Genesis 39 
 
 ## Joseph and Potiphar’s Wife
 

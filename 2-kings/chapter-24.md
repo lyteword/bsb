@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 24 BSB | Read the Bible Online"
+linkTitle: "24"
+description: "Read 2 Kings 24 Online | During Jehoiakim’s reign, Nebuchadnezzar king of Babylon invaded. So Jehoiakim became his vassal for three years, until he turned and rebelled against Nebuchadnezzar..."
 weight: 24
 ---
 
-# Chapter 24
+# 2 Kings 24 
 
 ## Babylon Controls Jehoiakim
 

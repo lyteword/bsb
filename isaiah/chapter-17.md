@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 17 BSB | Read the Bible Online"
+linkTitle: "17"
+description: "Read Isaiah 17 Online | This is the burden against Damascus: “Behold, Damascus is no longer a city; it has become a heap of ruins..."
 weight: 17
 ---
 
-# Chapter 17
+# Isaiah 17 
 
 ## The Burden against Damascus
 

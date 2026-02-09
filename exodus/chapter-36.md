@@ -1,8 +1,11 @@
 ---
+title: "Exodus 36 BSB | Read the Bible Online"
+linkTitle: "36"
+description: "Read Exodus 36 Online | “So Bezalel, Oholiab, and every skilled person are to carry out everything commanded by the LORD, who has given them skill and ability to know how to perform all the work of constructing the sanctuary...."
 weight: 36
 ---
 
-# Chapter 36
+# Exodus 36 
 
 ## The People Bring More than Enough
 

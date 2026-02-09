@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 15 BSB | Read the Bible Online"
+linkTitle: "15"
+description: "Read Ezekiel 15 Online | Then the word of the LORD came to me, saying..."
 weight: 15
 ---
 
-# Chapter 15
+# Ezekiel 15 
 
 ## Jerusalem the Useless Vine
 

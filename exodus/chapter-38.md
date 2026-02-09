@@ -1,8 +1,11 @@
 ---
+title: "Exodus 38 BSB | Read the Bible Online"
+linkTitle: "38"
+description: "Read Exodus 38 Online | Bezalel constructed [^422] the altar of burnt offering from acacia wood. It was square, five cubits long, five cubits wide, and three cubits high.[^423..."
 weight: 38
 ---
 
-# Chapter 38
+# Exodus 38 
 
 ## The Bronze Altar
 

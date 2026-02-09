@@ -1,8 +1,11 @@
 ---
+title: "Exodus 32 BSB | Read the Bible Online"
+linkTitle: "32"
+description: "Read Exodus 32 Online | Now when the people saw that Moses was delayed in coming down from the mountain, they gathered around Aaron and said, “Come, make us gods who will go before us. As for this Moses who brought us up out of the land of Egypt, we do not know what has happened to him!”[^397..."
 weight: 32
 ---
 
-# Chapter 32
+# Exodus 32 
 
 ## The Golden Calf
 

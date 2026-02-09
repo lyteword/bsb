@@ -1,8 +1,11 @@
 ---
+title: "Psalm 34 BSB | Read the Bible Online"
+linkTitle: "34"
+description: "Read Psalm 34 Online | I will bless the LORD at all times; His praise will always be on my lips..."
 weight: 34
 ---
 
-# Psalm 34
+# Psalm 34 
 
 ## Taste and See That the LORD Is Good
 

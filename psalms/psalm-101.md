@@ -1,8 +1,11 @@
 ---
+title: "Psalm 101 BSB | Read the Bible Online"
+linkTitle: "101"
+description: "Read Psalm 101 Online | I will sing of Your loving devotion and justice; to You, O LORD, I will sing praises..."
 weight: 101
 ---
 
-# Psalm 101
+# Psalm 101 
 
 ## I Will Set No Worthless Thing before My Eyes
 

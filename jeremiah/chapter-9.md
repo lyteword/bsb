@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 9 BSB | Read the Bible Online"
+linkTitle: "9"
+description: "Read Jeremiah 9 Online | Oh, that my head were a spring of water, and my eyes a fountain of tears! I would weep day and night over the slain daughter of my people..."
 weight: 9
 ---
 
-# Chapter 9
+# Jeremiah 9 
 
 ## A Lament over Zion
 

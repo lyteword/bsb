@@ -1,8 +1,11 @@
 ---
+title: "Psalm 145 BSB | Read the Bible Online"
+linkTitle: "145"
+description: "Read Psalm 145 Online | I will exalt You, my God and King; I will bless Your name forever and ever..."
 weight: 145
 ---
 
-# Psalm 145
+# Psalm 145 
 
 ## I Will Exalt You, My God and King
 

@@ -1,8 +1,11 @@
 ---
+title: "Daniel 8 BSB | Read the Bible Online"
+linkTitle: "8"
+description: "Read Daniel 8 Online | In the third year of the reign of King Belshazzar, a vision appeared to me, Daniel, subsequent to the one that had appeared to me earlier..."
 weight: 8
 ---
 
-# Chapter 8
+# Daniel 8 
 
 ## Daniel’s Vision of the Ram and the Goat
 

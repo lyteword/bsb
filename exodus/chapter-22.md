@@ -1,8 +1,11 @@
 ---
+title: "Exodus 22 BSB | Read the Bible Online"
+linkTitle: "22"
+description: "Read Exodus 22 Online | “If a man steals an ox [^335] or a sheep and slaughters or sells it, he must repay five oxen for an ox and four sheep for a sheep..."
 weight: 22
 ---
 
-# Chapter 22
+# Exodus 22 
 
 ## Property Laws
 

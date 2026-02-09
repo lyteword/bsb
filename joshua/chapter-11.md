@@ -1,8 +1,11 @@
 ---
+title: "Joshua 11 BSB | Read the Bible Online"
+linkTitle: "11"
+description: "Read Joshua 11 Online | Now when Jabin king of Hazor heard about these things, he sent word to Jobab king of Madon; to the kings of Shimron and Achshaph..."
 weight: 11
 ---
 
-# Chapter 11
+# Joshua 11 
 
 ## Conquest of the Northern Cities
 

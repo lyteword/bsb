@@ -1,8 +1,11 @@
 ---
+title: "Luke 7 BSB | Read the Bible Online"
+linkTitle: "7"
+description: "Read Luke 7 Online | When Jesus had concluded His discourse in the hearing of the people, He went to Capernaum..."
 weight: 7
 ---
 
-# Chapter 7
+# Luke 7 
 
 ## The Faith of the Centurion
 

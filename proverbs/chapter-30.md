@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 30 BSB | Read the Bible Online"
+linkTitle: "30"
+description: "Read Proverbs 30 Online | These are the words of Agur son of Jakeh—the burden that this man declared to Ithiel: “I am weary, O God, and worn out.[^2518..."
 weight: 30
 ---
 
-# Chapter 30
+# Proverbs 30 
 
 ## The Words of Agur
 

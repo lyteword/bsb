@@ -1,8 +1,11 @@
 ---
+title: "Exodus 23 BSB | Read the Bible Online"
+linkTitle: "23"
+description: "Read Exodus 23 Online | “You shall not spread a false report. Do not join the wicked by being a malicious witness..."
 weight: 23
 ---
 
-# Chapter 23
+# Exodus 23 
 
 ## Justice and Mercy
 

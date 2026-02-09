@@ -1,8 +1,11 @@
 ---
+title: "Genesis 40 BSB | Read the Bible Online"
+linkTitle: "40"
+description: "Read Genesis 40 Online | Some time later, the king’s cupbearer and baker offended their master, the king of Egypt..."
 weight: 40
 ---
 
-# Chapter 40
+# Genesis 40 
 
 ## The Cupbearer and the Baker
 

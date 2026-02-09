@@ -1,8 +1,11 @@
 ---
+title: "Psalm 92 BSB | Read the Bible Online"
+linkTitle: "92"
+description: "Read Psalm 92 Online | It is good to praise the LORD, and to sing praises to Your name, O Most High..."
 weight: 92
 ---
 
-# Psalm 92
+# Psalm 92 
 
 ## How Great Are Your Works!
 

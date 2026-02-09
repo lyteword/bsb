@@ -1,8 +1,11 @@
 ---
+title: "Psalm 74 BSB | Read the Bible Online"
+linkTitle: "74"
+description: "Read Psalm 74 Online | Why have You rejected us forever, O God? Why does Your anger smolder against the sheep of Your pasture..."
 weight: 74
 ---
 
-# Psalm 74
+# Psalm 74 
 
 ## Why Have You Rejected Us Forever?
 

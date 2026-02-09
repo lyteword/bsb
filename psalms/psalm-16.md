@@ -1,8 +1,11 @@
 ---
+title: "Psalm 16 BSB | Read the Bible Online"
+linkTitle: "16"
+description: "Read Psalm 16 Online | Preserve me, O God, for in You I take refuge..."
 weight: 16
 ---
 
-# Psalm 16
+# Psalm 16 
 
 ## The Presence of the LORD
 

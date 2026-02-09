@@ -1,8 +1,11 @@
 ---
+title: "Romans 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Romans 2 Online | You, therefore, have no excuse, you who pass judgment on another. For on whatever grounds you judge the other, you are condemning yourself, because you who pass judgment do the same things..."
 weight: 2
 ---
 
-# Chapter 2
+# Romans 2 
 
 ## God’s Righteous Judgment
 

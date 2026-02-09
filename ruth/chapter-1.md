@@ -1,8 +1,11 @@
 ---
+title: "Ruth 1 BSB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Ruth 1 Online | In the days when the judges ruled, there was a famine in the land. And a certain man from Bethlehem in Judah, with his wife and two sons, went to reside in the land of Moab..."
 weight: 1
 ---
 
-# Chapter 1
+# Ruth 1 
 
 ## Naomi Becomes a Widow
 

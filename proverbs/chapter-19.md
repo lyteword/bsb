@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 19 BSB | Read the Bible Online"
+linkTitle: "19"
+description: "Read Proverbs 19 Online | Better a poor man who walks with integrity than a fool whose lips are perverse..."
 weight: 19
 ---
 
-# Chapter 19
+# Proverbs 19 
 
 ## The Man of Integrity
 

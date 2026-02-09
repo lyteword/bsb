@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 30 BSB | Read the Bible Online"
+linkTitle: "30"
+description: "Read Ezekiel 30 Online | Again the word of the LORD came to me, saying..."
 weight: 30
 ---
 
-# Chapter 30
+# Ezekiel 30 
 
 ## A Lament for Egypt
 

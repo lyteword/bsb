@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 18 BSB | Read the Bible Online"
+linkTitle: "18"
+description: "Read Ezekiel 18 Online | Then the word of the LORD came to me, saying..."
 weight: 18
 ---
 
-# Chapter 18
+# Ezekiel 18 
 
 ## The Soul Who Sins Will Die
 

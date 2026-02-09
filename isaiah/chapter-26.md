@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 26 BSB | Read the Bible Online"
+linkTitle: "26"
+description: "Read Isaiah 26 Online | In that day this song will be sung in the land of Judah: We have a strong city; salvation is established as its walls and ramparts..."
 weight: 26
 ---
 
-# Chapter 26
+# Isaiah 26 
 
 ## A Song of Salvation
 

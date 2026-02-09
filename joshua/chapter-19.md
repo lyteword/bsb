@@ -1,8 +1,11 @@
 ---
+title: "Joshua 19 BSB | Read the Bible Online"
+linkTitle: "19"
+description: "Read Joshua 19 Online | The second lot came out for the clans of the tribe of Simeon: Their inheritance lay within the territory of Judah..."
 weight: 19
 ---
 
-# Chapter 19
+# Joshua 19 
 
 ## Simeon’s Inheritance
 

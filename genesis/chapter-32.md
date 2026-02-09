@@ -1,8 +1,11 @@
 ---
+title: "Genesis 32 BSB | Read the Bible Online"
+linkTitle: "32"
+description: "Read Genesis 32 Online | Jacob also went on his way, and the angels of God met him..."
 weight: 32
 ---
 
-# Chapter 32
+# Genesis 32 
 
 ## Jacob Prepares to Meet Esau
 

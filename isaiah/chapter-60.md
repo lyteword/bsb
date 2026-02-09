@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 60 BSB | Read the Bible Online"
+linkTitle: "60"
+description: "Read Isaiah 60 Online | Arise, shine, for your light has come, and the glory of the LORD rises upon you..."
 weight: 60
 ---
 
-# Chapter 60
+# Isaiah 60 
 
 ## Future Glory for Zion
 

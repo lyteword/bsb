@@ -1,8 +1,11 @@
 ---
+title: "Amos 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Amos 2 Online | This is what the LORD says: “For three transgressions of Moab, even four, I will not revoke My judgment,[^3362] because he burned to lime the bones of Edom’s king..."
 weight: 2
 ---
 
-# Chapter 2
+# Amos 2 
 
 ## Judgment on Moab, Judah, and Israel
 

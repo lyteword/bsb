@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 10 BSB | Read the Bible Online"
+linkTitle: "10"
+description: "Read Ezekiel 10 Online | And I looked and saw above the expanse, above the heads of the cherubim, the likeness of a throne of sapphire..."
 weight: 10
 ---
 
-# Chapter 10
+# Ezekiel 10 
 
 ## God’s Glory Exits the Temple
 

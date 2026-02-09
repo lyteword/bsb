@@ -1,8 +1,11 @@
 ---
+title: "Psalm 60 BSB | Read the Bible Online"
+linkTitle: "60"
+description: "Read Psalm 60 Online | You have rejected us, O God; You have broken us; You have been angry; restore us..."
 weight: 60
 ---
 
-# Psalm 60
+# Psalm 60 
 
 ## Victory with God
 

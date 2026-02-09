@@ -1,8 +1,11 @@
 ---
+title: "3 John 1 BSB | Read the Bible Online"
+linkTitle: "1"
+description: "Read 3 John 1 Online | The elder, To the beloved Gaius, whom I love in the truth..."
 weight: 1
 ---
 
-# Chapter 1
+# 3 John 1 
 
 ## A Greeting from the Elder
 

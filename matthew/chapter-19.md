@@ -1,8 +1,11 @@
 ---
+title: "Matthew 19 BSB | Read the Bible Online"
+linkTitle: "19"
+description: "Read Matthew 19 Online | When Jesus had finished saying these things, He left Galilee and went into the region of Judea beyond the Jordan..."
 weight: 19
 ---
 
-# Chapter 19
+# Matthew 19 
 
 ## Teachings about Divorce
 

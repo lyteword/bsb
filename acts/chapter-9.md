@@ -1,8 +1,11 @@
 ---
+title: "Acts 9 BSB | Read the Bible Online"
+linkTitle: "9"
+description: "Read Acts 9 Online | Meanwhile, Saul was still breathing out murderous threats against the disciples of the Lord. He approached the high priest..."
 weight: 9
 ---
 
-# Chapter 9
+# Acts 9 
 
 ## The Road to Damascus
 

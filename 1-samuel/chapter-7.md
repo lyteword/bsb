@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 7 BSB | Read the Bible Online"
+linkTitle: "7"
+description: "Read 1 Samuel 7 Online | Then the men of Kiriath-jearim came for the ark of the LORD and took it into Abinadab’s house on the hill. And they consecrated his son Eleazar to guard the ark of the LORD..."
 weight: 7
 ---
 
-# Chapter 7
+# 1 Samuel 7 
 
 ## Samuel Subdues the Philistines
 

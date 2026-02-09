@@ -1,8 +1,11 @@
 ---
+title: "Ruth 2 BSB | Read the Bible Online"
+linkTitle: "2"
+description: "Read Ruth 2 Online | Now Naomi had a relative on her husband’s side, a prominent man of noble character from the clan of Elimelech, whose name was Boaz..."
 weight: 2
 ---
 
-# Chapter 2
+# Ruth 2 
 
 ## Boaz Meets Ruth
 

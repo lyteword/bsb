@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 21 BSB | Read the Bible Online"
+linkTitle: "21"
+description: "Read Isaiah 21 Online | This is the burden against the Desert by the Sea: Like whirlwinds sweeping through the Negev, an invader comes from the desert, from a land of terror..."
 weight: 21
 ---
 
-# Chapter 21
+# Isaiah 21 
 
 ## Babylon Is Fallen
 

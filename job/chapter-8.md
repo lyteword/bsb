@@ -1,8 +1,11 @@
 ---
+title: "Job 8 BSB | Read the Bible Online"
+linkTitle: "8"
+description: "Read Job 8 Online | Then Bildad the Shuhite replied..."
 weight: 8
 ---
 
-# Chapter 8
+# Job 8 
 
 ## Bildad: Job Should Repent
 

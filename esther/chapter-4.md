@@ -1,8 +1,11 @@
 ---
+title: "Esther 4 BSB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Esther 4 Online | When Mordecai learned of all that had happened, he tore his clothes, put on sackcloth and ashes, and went out into the middle of the city, wailing loudly and bitterly..."
 weight: 4
 ---
 
-# Chapter 4
+# Esther 4 
 
 ## Mordecai Appeals to Esther
 

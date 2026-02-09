@@ -1,8 +1,11 @@
 ---
+title: "Luke 16 BSB | Read the Bible Online"
+linkTitle: "16"
+description: "Read Luke 16 Online | Jesus also said to His disciples, “There was a rich man whose manager was accused of wasting his possessions..."
 weight: 16
 ---
 
-# Chapter 16
+# Luke 16 
 
 ## The Parable of the Shrewd Manager
 

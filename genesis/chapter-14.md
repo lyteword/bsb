@@ -1,8 +1,11 @@
 ---
+title: "Genesis 14 BSB | Read the Bible Online"
+linkTitle: "14"
+description: "Read Genesis 14 Online | In those days Amraphel king of Shinar,[^65] Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of Goiim..."
 weight: 14
 ---
 
-# Chapter 14
+# Genesis 14 
 
 ## The War of the Kings
 

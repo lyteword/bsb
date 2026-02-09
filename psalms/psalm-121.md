@@ -1,8 +1,11 @@
 ---
+title: "Psalm 121 BSB | Read the Bible Online"
+linkTitle: "121"
+description: "Read Psalm 121 Online | I lift up my eyes to the hills. From where does my help come..."
 weight: 121
 ---
 
-# Psalm 121
+# Psalm 121 
 
 ## I Lift Up My Eyes to the Hills
 

@@ -1,8 +1,11 @@
 ---
+title: "Acts 20 BSB | Read the Bible Online"
+linkTitle: "20"
+description: "Read Acts 20 Online | When the uproar had ended, Paul sent for the disciples. And after encouraging them, he said goodbye to them and left for Macedonia..."
 weight: 20
 ---
 
-# Chapter 20
+# Acts 20 
 
 ## Paul in Macedonia and Greece
 

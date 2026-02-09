@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 5 BSB | Read the Bible Online"
+linkTitle: "5"
+description: "Read Proverbs 5 Online | My son, pay attention to my wisdom; incline your ear to my insight..."
 weight: 5
 ---
 
-# Chapter 5
+# Proverbs 5 
 
 ## Avoiding Immorality
 

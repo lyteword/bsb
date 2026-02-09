@@ -1,8 +1,11 @@
 ---
+title: "Exodus 39 BSB | Read the Bible Online"
+linkTitle: "39"
+description: "Read Exodus 39 Online | From the blue, purple, and scarlet yarn they made specially woven garments for ministry in the sanctuary, as well as the holy garments for Aaron, just as the LORD had commanded Moses..."
 weight: 39
 ---
 
-# Chapter 39
+# Exodus 39 
 
 ## The Ephod
 

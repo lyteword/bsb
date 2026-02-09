@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 6 BSB | Read the Bible Online"
+linkTitle: "6"
+description: "Read 1 Corinthians 6 Online | If any of you has a grievance against another, how dare he go to law before the unrighteous instead of before the saints..."
 weight: 6
 ---
 
-# Chapter 6
+# 1 Corinthians 6 
 
 ## Lawsuits among Believers
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 12 BSB | Read the Bible Online"
+linkTitle: "12"
+description: "Read Psalm 12 Online | Help, O LORD, for the godly are no more; the faithful have vanished from among men..."
 weight: 12
 ---
 
-# Psalm 12
+# Psalm 12 
 
 ## The Godly Are No More
 

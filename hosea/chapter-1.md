@@ -1,8 +1,11 @@
 ---
+title: "Hosea 1 BSB | Read the Bible Online"
+linkTitle: "1"
+description: "Read Hosea 1 Online | This is the word of the LORD that came to Hosea son of Beeri in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and of Jeroboam son of Jehoash,[^3267] king of Israel..."
 weight: 1
 ---
 
-# Chapter 1
+# Hosea 1 
 
 ## Hosea’s Wife and Children
 

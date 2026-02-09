@@ -1,8 +1,11 @@
 ---
+title: "Psalm 72 BSB | Read the Bible Online"
+linkTitle: "72"
+description: "Read Psalm 72 Online | Endow the king with Your justice, O God, and the son of the king with Your righteousness..."
 weight: 72
 ---
 
-# Psalm 72
+# Psalm 72 
 
 ## Endow the King with Your Justice
 

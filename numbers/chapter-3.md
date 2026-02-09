@@ -1,8 +1,11 @@
 ---
+title: "Numbers 3 BSB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Numbers 3 Online | This is the account of Aaron and Moses at the time the LORD spoke with Moses on Mount Sinai..."
 weight: 3
 ---
 
-# Chapter 3
+# Numbers 3 
 
 ## The Sons of Aaron
 

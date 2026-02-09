@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 8 BSB | Read the Bible Online"
+linkTitle: "8"
+description: "Read Isaiah 8 Online | Then the LORD said to me, “Take a large scroll and write on it with an ordinary [^2580] stylus: Maher-shalal-hash-baz.[^2581..."
 weight: 8
 ---
 
-# Chapter 8
+# Isaiah 8 
 
 ## Assyrian Invasion Prophesied
 

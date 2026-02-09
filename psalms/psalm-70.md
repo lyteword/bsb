@@ -1,8 +1,11 @@
 ---
+title: "Psalm 70 BSB | Read the Bible Online"
+linkTitle: "70"
+description: "Read Psalm 70 Online | Make haste, O God, to deliver me! Hurry, O LORD, to help me..."
 weight: 70
 ---
 
-# Psalm 70
+# Psalm 70 
 
 ## Hurry, O LORD, to Help Me!
 

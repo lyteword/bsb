@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 31 BSB | Read the Bible Online"
+linkTitle: "31"
+description: "Read Deuteronomy 31 Online | When Moses had finished speaking [^749] these words to all Israel..."
 weight: 31
 ---
 
-# Chapter 31
+# Deuteronomy 31 
 
 ## Joshua to Succeed Moses
 

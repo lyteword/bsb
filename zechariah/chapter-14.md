@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 14 BSB | Read the Bible Online"
+linkTitle: "14"
+description: "Read Zechariah 14 Online | Behold, a day of the LORD is coming when your plunder will be divided in your presence..."
 weight: 14
 ---
 
-# Chapter 14
+# Zechariah 14 
 
 ## The Destroyers of Jerusalem Destroyed
 

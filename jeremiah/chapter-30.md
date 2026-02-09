@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 30 BSB | Read the Bible Online"
+linkTitle: "30"
+description: "Read Jeremiah 30 Online | This is the word that came to Jeremiah from the LORD..."
 weight: 30
 ---
 
-# Chapter 30
+# Jeremiah 30 
 
 ## The Restoration of Israel and Judah
 

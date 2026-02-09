@@ -1,8 +1,11 @@
 ---
+title: "Judges 6 BSB | Read the Bible Online"
+linkTitle: "6"
+description: "Read Judges 6 Online | Again the Israelites did evil in the sight of the LORD; so He delivered them into the hand of Midian for seven years..."
 weight: 6
 ---
 
-# Chapter 6
+# Judges 6 
 
 ## Midian Oppresses Israel
 

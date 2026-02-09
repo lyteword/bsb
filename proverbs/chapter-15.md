@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 15 BSB | Read the Bible Online"
+linkTitle: "15"
+description: "Read Proverbs 15 Online | A gentle answer turns away wrath, but a harsh word stirs up anger..."
 weight: 15
 ---
 
-# Chapter 15
+# Proverbs 15 
 
 ## A Gentle Answer Turns Away Wrath
 

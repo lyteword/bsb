@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 4 BSB | Read the Bible Online"
+linkTitle: "4"
+description: "Read 1 Corinthians 4 Online | So then, men ought to regard us as servants of Christ and stewards of the mysteries of God..."
 weight: 4
 ---
 
-# Chapter 4
+# 1 Corinthians 4 
 
 ## Servants of Christ
 

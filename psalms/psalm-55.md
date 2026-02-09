@@ -1,8 +1,11 @@
 ---
+title: "Psalm 55 BSB | Read the Bible Online"
+linkTitle: "55"
+description: "Read Psalm 55 Online | Listen to my prayer, O God, and do not ignore my plea..."
 weight: 55
 ---
 
-# Psalm 55
+# Psalm 55 
 
 ## Cast Your Burden upon the LORD
 

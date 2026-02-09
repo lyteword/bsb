@@ -1,8 +1,11 @@
 ---
+title: "Psalm 36 BSB | Read the Bible Online"
+linkTitle: "36"
+description: "Read Psalm 36 Online | An oracle is in my heart regarding the transgression of the wicked man: There is no fear of God before his eyes.[^2222..."
 weight: 36
 ---
 
-# Psalm 36
+# Psalm 36 
 
 ## The Transgression of the Wicked
 

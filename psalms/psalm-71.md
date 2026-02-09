@@ -1,8 +1,11 @@
 ---
+title: "Psalm 71 BSB | Read the Bible Online"
+linkTitle: "71"
+description: "Read Psalm 71 Online | In You, O LORD, I have taken refuge; let me never be put to shame..."
 weight: 71
 ---
 
-# Psalm 71
+# Psalm 71 
 
 ## Be My Rock of Refuge
 

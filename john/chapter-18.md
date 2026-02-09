@@ -1,8 +1,11 @@
 ---
+title: "John 18 BSB | Read the Bible Online"
+linkTitle: "18"
+description: "Read John 18 Online | After Jesus had spoken these words, He went out with His disciples across the Kidron Valley, where they entered a garden..."
 weight: 18
 ---
 
-# Chapter 18
+# John 18 
 
 ## The Betrayal of Jesus
 

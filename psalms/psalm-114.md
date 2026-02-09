@@ -1,8 +1,11 @@
 ---
+title: "Psalm 114 BSB | Read the Bible Online"
+linkTitle: "114"
+description: "Read Psalm 114 Online | When Israel departed from Egypt, the house of Jacob from a people of foreign tongue..."
 weight: 114
 ---
 
-# Psalm 114
+# Psalm 114 
 
 ## A Psalm of Exodus
 

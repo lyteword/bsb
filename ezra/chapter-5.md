@@ -1,8 +1,11 @@
 ---
+title: "Ezra 5 BSB | Read the Bible Online"
+linkTitle: "5"
+description: "Read Ezra 5 Online | Later, the prophets Haggai and Zechariah son of Iddo prophesied to the Jews in Judah and Jerusalem in the name of the God of Israel, who was over them..."
 weight: 5
 ---
 
-# Chapter 5
+# Ezra 5 
 
 ## Temple Rebuilding Resumes
 

@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 9 BSB | Read the Bible Online"
+linkTitle: "9"
+description: "Read Zechariah 9 Online | This is the burden of the word of the LORD against the land of Hadrach and Damascus its resting place— for the eyes of men and of all the tribes of Israel are upon the LORD [^3505]..."
 weight: 9
 ---
 
-# Chapter 9
+# Zechariah 9 
 
 ## The Burden against Israel’s Enemies
 

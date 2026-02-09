@@ -1,8 +1,11 @@
 ---
+title: "Numbers 7 BSB | Read the Bible Online"
+linkTitle: "7"
+description: "Read Numbers 7 Online | On the day Moses finished setting up the tabernacle, he anointed and consecrated it and all its furnishings, along with the altar and all its utensils..."
 weight: 7
 ---
 
-# Chapter 7
+# Numbers 7 
 
 ## Offerings of Dedication
 

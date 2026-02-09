@@ -1,8 +1,11 @@
 ---
+title: "Matthew 6 BSB | Read the Bible Online"
+linkTitle: "6"
+description: "Read Matthew 6 Online | “Be careful not to perform your righteous acts [^3584] before men to be seen by them. If you do, you will have no reward from your Father in heaven..."
 weight: 6
 ---
 
-# Chapter 6
+# Matthew 6 
 
 ## Giving to the Needy
 

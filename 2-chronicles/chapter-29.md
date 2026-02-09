@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 29 BSB | Read the Bible Online"
+linkTitle: "29"
+description: "Read 2 Chronicles 29 Online | Hezekiah was twenty-five years old when he became king, and he reigned in Jerusalem twenty-nine years. His mother’s name was Abijah,[^1836] the daughter of Zechariah..."
 weight: 29
 ---
 
-# Chapter 29
+# 2 Chronicles 29 
 
 ## Hezekiah Cleanses the Temple
 

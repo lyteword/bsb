@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 16 BSB | Read the Bible Online"
+linkTitle: "16"
+description: "Read Leviticus 16 Online | Now the LORD spoke to Moses after the death of two of Aaron’s sons when they approached the presence of the LORD..."
 weight: 16
 ---
 
-# Chapter 16
+# Leviticus 16 
 
 ## The Day of Atonement
 

@@ -1,8 +1,11 @@
 ---
+title: "Numbers 18 BSB | Read the Bible Online"
+linkTitle: "18"
+description: "Read Numbers 18 Online | So the LORD said to Aaron, “You and your sons and your father’s house must bear the iniquity involving the sanctuary. And you and your sons alone must bear the iniquity involving your priesthood..."
 weight: 18
 ---
 
-# Chapter 18
+# Numbers 18 
 
 ## Duties of Priests and Levites
 

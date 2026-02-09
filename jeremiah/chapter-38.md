@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 38 BSB | Read the Bible Online"
+linkTitle: "38"
+description: "Read Jeremiah 38 Online | Now Shephatiah son of Mattan, Gedaliah son of Pashhur, Jucal [^2906] son of Shelemiah, and Pashhur son of Malchijah heard that Jeremiah had been telling all the people..."
 weight: 38
 ---
 
-# Chapter 38
+# Jeremiah 38 
 
 ## Jeremiah Cast into the Cistern
 

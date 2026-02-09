@@ -1,8 +1,11 @@
 ---
+title: "Luke 9 BSB | Read the Bible Online"
+linkTitle: "9"
+description: "Read Luke 9 Online | Then Jesus called the Twelve [^3916] together and gave them power and authority over all demons, and power to cure diseases..."
 weight: 9
 ---
 
-# Chapter 9
+# Luke 9 
 
 ## The Ministry of the Twelve
 

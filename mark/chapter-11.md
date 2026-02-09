@@ -1,8 +1,11 @@
 ---
+title: "Mark 11 BSB | Read the Bible Online"
+linkTitle: "11"
+description: "Read Mark 11 Online | As they approached Jerusalem and came to Bethphage and Bethany at the Mount of Olives, Jesus sent out two of His disciples..."
 weight: 11
 ---
 
-# Chapter 11
+# Mark 11 
 
 ## The Triumphal Entry
 

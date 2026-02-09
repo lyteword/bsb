@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 33 BSB | Read the Bible Online"
+linkTitle: "33"
+description: "Read Isaiah 33 Online | Woe to you, O destroyer never destroyed, O traitor never betrayed! When you have finished destroying, you will be destroyed. When you have finished betraying, you will be betrayed..."
 weight: 33
 ---
 
-# Chapter 33
+# Isaiah 33 
 
 ## The LORD Is Exalted
 

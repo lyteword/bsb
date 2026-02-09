@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 18 BSB | Read the Bible Online"
+linkTitle: "18"
+description: "Read 1 Samuel 18 Online | After David had finished speaking with Saul, the souls of Jonathan and David were knit together, and Jonathan loved him as himself..."
 weight: 18
 ---
 
-# Chapter 18
+# 1 Samuel 18 
 
 ## Jonathan Befriends David
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 131 BSB | Read the Bible Online"
+linkTitle: "131"
+description: "Read Psalm 131 Online | My heart is not proud, O LORD, my eyes are not haughty. I do not aspire to great things or matters too lofty for me..."
 weight: 131
 ---
 
-# Psalm 131
+# Psalm 131 
 
 ## I Have Stilled My Soul
 

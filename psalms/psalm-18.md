@@ -1,8 +1,11 @@
 ---
+title: "Psalm 18 BSB | Read the Bible Online"
+linkTitle: "18"
+description: "Read Psalm 18 Online | I love You, O LORD, my strength..."
 weight: 18
 ---
 
-# Psalm 18
+# Psalm 18 
 
 ## The LORD Is My Rock
 

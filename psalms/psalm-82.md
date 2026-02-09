@@ -1,8 +1,11 @@
 ---
+title: "Psalm 82 BSB | Read the Bible Online"
+linkTitle: "82"
+description: "Read Psalm 82 Online | God presides in the divine assembly; He renders judgment among the gods..."
 weight: 82
 ---
 
-# Psalm 82
+# Psalm 82 
 
 ## God Presides in the Divine Assembly
 

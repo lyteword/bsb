@@ -1,8 +1,11 @@
 ---
+title: "Jonah 3 BSB | Read the Bible Online"
+linkTitle: "3"
+description: "Read Jonah 3 Online | Then the word of the LORD came to Jonah a second time..."
 weight: 3
 ---
 
-# Chapter 3
+# Jonah 3 
 
 ## The Ninevites Repent
 

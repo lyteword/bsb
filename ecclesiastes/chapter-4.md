@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 4 BSB | Read the Bible Online"
+linkTitle: "4"
+description: "Read Ecclesiastes 4 Online | Again I looked, and I considered all the oppression taking place under the sun. I saw the tears of the oppressed, and they had no comforter; the power lay in the hands of their oppressors, and there was no comforter..."
 weight: 4
 ---
 
-# Chapter 4
+# Ecclesiastes 4 
 
 ## The Evil of Oppression
 
