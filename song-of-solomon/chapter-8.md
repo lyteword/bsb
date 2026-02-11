@@ -17,23 +17,25 @@ weight: 8
 
 **⁴** O daughters of Jerusalem, I adjure you: Do not arouse or awaken love until the time is right.
 
-## The Friends
+### The Friends
 
 **⁵** Who is this coming up from the wilderness, leaning on her beloved?
 
-## The Bride I roused you under the apple tree; there your mother conceived you; there she travailed and brought you forth.
+### The Bride 
+
+I roused you under the apple tree; there your mother conceived you; there she travailed and brought you forth.
 
 **⁶** Set me as a seal over your heart, as a seal upon your arm. For love is as strong as death, its jealousy [^2555] as unrelenting as Sheol. Its sparks are fiery flames, the fiercest blaze of all.
 
 **⁷** Mighty waters cannot quench love; rivers cannot sweep it away. If a man were to give all the wealth of his house for love, his offer would be utterly scorned.
 
-## The Friends
+### The Friends
 
 **⁸** We have a little sister, and her breasts are not yet grown. What shall we do for our sister on the day she is spoken for?
 
 **⁹** If she is a wall, we will build a tower of silver upon her. If she is a door, we will enclose her with panels of cedar.
 
-## The Bride
+### The Bride
 
 **¹⁰** I am a wall, and my breasts are like towers. So I have become in his eyes like one who brings peace.
 
@@ -41,11 +43,11 @@ weight: 8
 
 **¹²** But my own vineyard is mine to give; the thousand shekels are for you, O Solomon, and two hundred are for those who tend its fruit.
 
-## The Bridegroom
+### The Bridegroom
 
 **¹³** You who dwell in the gardens, my companions are listening for your voice. Let me hear it!
 
-## The Bride
+### The Bride
 
 **¹⁴** Come away, my beloved, and be like a gazelle or a young stag on the mountains of spices.
 

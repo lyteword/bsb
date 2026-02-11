@@ -9,13 +9,15 @@ weight: 5
 
 ## The Bride and Her Beloved
 
-## The Bridegroom
+### The Bridegroom
 
 **¹** I have come to my garden, my sister, my bride; I have gathered my myrrh with my spice. I have eaten my honeycomb with my honey; I have drunk my wine with my milk.
 
-## The Friends Eat, O friends, and drink; drink freely, O beloved.
+### The Friends 
 
-## The Bride
+Eat, O friends, and drink; drink freely, O beloved.
+
+### The Bride
 
 **²** I sleep, but my heart is awake. A sound! My beloved is knocking: “Open to me, my sister, my darling, my dove, my flawless one. My head is drenched with dew, my hair with the dampness of the night.”
 
@@ -31,11 +33,11 @@ weight: 5
 
 **⁸** O daughters of Jerusalem, I adjure you, if you find my beloved, tell him I am sick with love.
 
-## The Friends
+### The Friends
 
 **⁹** How is your beloved better than others, O most beautiful among women? How is your beloved better than another, that you charge us so?
 
-## The Bride
+### The Bride
 
 **¹⁰** My beloved is dazzling and ruddy, outstanding among ten thousand.
 

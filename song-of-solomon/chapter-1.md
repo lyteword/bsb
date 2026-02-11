@@ -13,7 +13,7 @@ weight: 1
 
 **¹** This is Solomon’s Song of Songs.[^2541]
 
-## The Bride
+### The Bride
 
 **²** Let him kiss me with the kisses of his mouth! For your love is more delightful than wine.
 
@@ -21,9 +21,13 @@ weight: 1
 
 **⁴** Take me away with you—let us hurry! May the king bring me to his chambers.
 
-## The Friends We will rejoice and delight in you; we will praise your love more than wine.
+### The Friends 
 
-## The Bride It is only right that they adore you.
+We will rejoice and delight in you; we will praise your love more than wine.
+
+### The Bride 
+
+It is only right that they adore you.
 
 **⁵** I am dark, yet lovely, O daughters of Jerusalem, like the tents of Kedar, like the curtains of Solomon.
 
@@ -31,21 +35,21 @@ weight: 1
 
 **⁷** Tell me, O one I love, where do you pasture your sheep? Where do you rest them at midday? Why should I be like a veiled woman beside the flocks of your companions?
 
-## The Friends
+### The Friends
 
 **⁸** If you do not know, O fairest of women, follow the tracks of the flock, and graze your young goats near the tents of the shepherds.
 
-## The Bridegroom
+### The Bridegroom
 
 **⁹** I compare you, my darling, to a mare among Pharaoh’s chariots.
 
 **¹⁰** Your cheeks are beautiful with ornaments, your neck with strings of jewels.
 
-## The Friends
+### The Friends
 
 **¹¹** We will make you ornaments of gold, studded with beads of silver.
 
-## The Bride
+### The Bride
 
 **¹²** While the king was at his table, my perfume spread its fragrance.
 
@@ -53,15 +57,15 @@ weight: 1
 
 **¹⁴** My beloved is to me a cluster of henna blossoms in the vineyards of En-gedi.
 
-## The Bridegroom
+### The Bridegroom
 
 **¹⁵** How beautiful you are, my darling! Oh, how very beautiful! Your eyes are like doves.
 
-## The Bride
+### The Bride
 
 **¹⁶** How handsome you are, my beloved! Oh, how delightful! The soft grass is our bed.
 
-## The Bridegroom
+### The Bridegroom
 
 **¹⁷** The beams of our house are cedars; our rafters are fragrant firs.
 

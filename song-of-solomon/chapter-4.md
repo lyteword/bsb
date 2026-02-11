@@ -9,7 +9,7 @@ weight: 4
 
 ## Solomon Admires His Bride
 
-## The Bridegroom
+### The Bridegroom
 
 **¹** How beautiful you are, my darling— how very beautiful! Your eyes are like doves behind your veil. Your hair is like a flock of goats streaming down Mount Gilead.
 
@@ -41,7 +41,7 @@ weight: 4
 
 **¹⁵** You are a garden spring, a well of fresh water [^2548] flowing down from Lebanon.
 
-## The Bride
+### The Bride
 
 **¹⁶** Awake, O north wind, and come, O south wind. Breathe on my garden and spread the fragrance of its spices. Let my beloved come into his garden and taste its choicest fruits.
 
