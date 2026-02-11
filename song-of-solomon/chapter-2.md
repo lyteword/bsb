@@ -9,15 +9,15 @@ weight: 2
 
 ## The Bride’s Admiration
 
-## The Bride
+### The Bride
 
 **¹** I am a rose of Sharon,[^2542] a lily of the valley.
 
-## The Bridegroom
+### The Bridegroom
 
 **²** Like a lily among the thorns is my darling among the maidens.
 
-## The Bride
+### The Bride
 
 **³** Like an apple tree among the trees of the forest is my beloved among the young men. I delight to sit in his shade, and his fruit is sweet to my taste.
 
@@ -41,15 +41,15 @@ weight: 2
 
 **¹³** The fig tree ripens its figs; the blossoming vines spread their fragrance. Arise, come away, my darling; come away with me, my beautiful one.”
 
-## The Bridegroom
+### The Bridegroom
 
 **¹⁴** O my dove in the clefts of the rock, in the crevices of the cliff, let me see your face, let me hear your voice; for your voice is sweet, and your countenance is lovely.
 
-## The Friends
+### The Friends
 
 **¹⁵** Catch for us the foxes— the little foxes that ruin the vineyards— for our vineyards are in bloom.
 
-## The Bride
+### The Bride
 
 **¹⁶** My beloved is mine and I am his; he pastures his flock among the lilies.
 
