@@ -1,7 +1,8 @@
 ---
 title: "Exodus 10 BSB | Read the Bible Online"
 linkTitle: "10"
-description: "Read Exodus 10 Online | Then the LORD said to Moses, “Go to Pharaoh, for I have hardened [^275] his heart and the hearts of his officials, that I may perform these miraculous signs of Mine among them..."
+description: >
+  Read Exodus 10 Online | Then the LORD said to Moses, “Go to Pharaoh, for I have hardened his heart and the hearts of his officials, that I may perform these miraculous signs of Mine among them...
 weight: 10
 ---
 

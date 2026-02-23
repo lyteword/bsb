@@ -1,7 +1,8 @@
 ---
 title: "Hebrews 4 BSB | Read the Bible Online"
 linkTitle: "4"
-description: "Read Hebrews 4 Online | Therefore, while the promise of entering His rest still stands, let us be careful that none of you be deemed to have fallen short of it..."
+description: >
+  Read Hebrews 4 Online | Therefore, while the promise of entering His rest still stands, let us be careful that none of you be deemed to have fallen short of it...
 weight: 4
 ---
 

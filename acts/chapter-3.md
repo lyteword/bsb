@@ -1,7 +1,8 @@
 ---
 title: "Acts 3 BSB | Read the Bible Online"
 linkTitle: "3"
-description: "Read Acts 3 Online | One afternoon Peter and John were going up to the temple at the hour of prayer, the ninth hour.[^4144..."
+description: >
+  Read Acts 3 Online | One afternoon Peter and John were going up to the temple at the hour of prayer, the ninth hour.[^4144...
 weight: 3
 ---
 

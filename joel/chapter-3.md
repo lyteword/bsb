@@ -1,7 +1,8 @@
 ---
 title: "Joel 3 BSB | Read the Bible Online"
 linkTitle: "3"
-description: "Read Joel 3 Online | “Yes, in those days and at that time, when I restore Judah and Jerusalem from captivity,[^3348..."
+description: >
+  Read Joel 3 Online | “Yes, in those days and at that time, when I restore Judah and Jerusalem from captivity,[^3348...
 weight: 3
 ---
 

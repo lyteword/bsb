@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 44 BSB | Read the Bible Online"
 linkTitle: "44"
-description: "Read Jeremiah 44 Online | This is the word that came to Jeremiah concerning all the Jews living in the land of Egypt [^2925]—in Migdol, Tahpanhes, and Memphis [^2926]—and in the land of Pathros:[^2927..."
+description: >
+  Read Jeremiah 44 Online | This is the word that came to Jeremiah concerning all the Jews living in the land of Egypt —in Migdol, Tahpanhes, and Memphis —and in the land of Pathros:[^2927...
 weight: 44
 ---
 

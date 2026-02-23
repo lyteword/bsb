@@ -1,7 +1,8 @@
 ---
 title: "Amos 7 BSB | Read the Bible Online"
 linkTitle: "7"
-description: "Read Amos 7 Online | This is what the Lord GOD showed me: He was preparing swarms of locusts just after the king’s harvest, as the late spring crop was coming up.[^3380..."
+description: >
+  Read Amos 7 Online | This is what the Lord GOD showed me: He was preparing swarms of locusts just after the king’s harvest, as the late spring crop was coming up.[^3380...
 weight: 7
 ---
 

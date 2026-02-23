@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 35 BSB | Read the Bible Online"
 linkTitle: "35"
-description: "Read Jeremiah 35 Online | This is the word that came to Jeremiah from the LORD in the days of Jehoiakim son of Josiah king of Judah..."
+description: >
+  Read Jeremiah 35 Online | This is the word that came to Jeremiah from the LORD in the days of Jehoiakim son of Josiah king of Judah...
 weight: 35
 ---
 

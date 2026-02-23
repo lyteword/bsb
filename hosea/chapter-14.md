@@ -1,7 +1,8 @@
 ---
 title: "Hosea 14 BSB | Read the Bible Online"
 linkTitle: "14"
-description: "Read Hosea 14 Online | Return, O Israel, to the LORD your God, for you have stumbled by your iniquity..."
+description: >
+  Read Hosea 14 Online | Return, O Israel, to the LORD your God, for you have stumbled by your iniquity...
 weight: 14
 ---
 

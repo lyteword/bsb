@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 35 BSB | Read the Bible Online"
 linkTitle: "35"
-description: "Read 2 Chronicles 35 Online | Then Josiah kept the Passover to the LORD in Jerusalem, and the Passover lamb was slaughtered on the fourteenth day of the first month..."
+description: >
+  Read 2 Chronicles 35 Online | Then Josiah kept the Passover to the LORD in Jerusalem, and the Passover lamb was slaughtered on the fourteenth day of the first month...
 weight: 35
 ---
 

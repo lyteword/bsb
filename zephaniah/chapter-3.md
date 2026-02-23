@@ -1,7 +1,8 @@
 ---
 title: "Zephaniah 3 BSB | Read the Bible Online"
 linkTitle: "3"
-description: "Read Zephaniah 3 Online | Woe to the city of oppressors, rebellious and defiled..."
+description: >
+  Read Zephaniah 3 Online | Woe to the city of oppressors, rebellious and defiled...
 weight: 3
 ---
 

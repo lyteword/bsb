@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 45 BSB | Read the Bible Online"
 linkTitle: "45"
-description: "Read Jeremiah 45 Online | This is the word that Jeremiah the prophet spoke to Baruch son of Neriah when he wrote these words on a scroll at the dictation of Jeremiah in the fourth year of Jehoiakim son of Josiah, king of Judah..."
+description: >
+  Read Jeremiah 45 Online | This is the word that Jeremiah the prophet spoke to Baruch son of Neriah when he wrote these words on a scroll at the dictation of Jeremiah in the fourth year of Jehoiakim son of Josiah, king of Judah...
 weight: 45
 ---
 

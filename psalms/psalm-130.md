@@ -1,7 +1,8 @@
 ---
 title: "Psalm 130 BSB | Read the Bible Online"
 linkTitle: "130"
-description: "Read Psalm 130 Online | Out of the depths I cry to You, O LORD..."
+description: >
+  Read Psalm 130 Online | Out of the depths I cry to You, O LORD...
 weight: 130
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Numbers 2 BSB | Read the Bible Online"
 linkTitle: "2"
-description: "Read Numbers 2 Online | Then the LORD said to Moses and Aaron..."
+description: >
+  Read Numbers 2 Online | Then the LORD said to Moses and Aaron...
 weight: 2
 ---
 

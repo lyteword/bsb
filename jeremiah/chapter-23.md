@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 23 BSB | Read the Bible Online"
 linkTitle: "23"
-description: "Read Jeremiah 23 Online | “Woe to the shepherds who destroy and scatter the sheep of My pasture!” declares the LORD..."
+description: >
+  Read Jeremiah 23 Online | “Woe to the shepherds who destroy and scatter the sheep of My pasture!” declares the LORD...
 weight: 23
 ---
 

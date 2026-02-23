@@ -1,7 +1,8 @@
 ---
 title: "Amos 4 BSB | Read the Bible Online"
 linkTitle: "4"
-description: "Read Amos 4 Online | Hear this word, you cows of Bashan on Mount Samaria, you women who oppress the poor and crush the needy, who say to your husbands, “Bring us more to drink...."
+description: >
+  Read Amos 4 Online | Hear this word, you cows of Bashan on Mount Samaria, you women who oppress the poor and crush the needy, who say to your husbands, “Bring us more to drink....
 weight: 4
 ---
 

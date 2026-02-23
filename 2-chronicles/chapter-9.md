@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 9 BSB | Read the Bible Online"
 linkTitle: "9"
-description: "Read 2 Chronicles 9 Online | Now when the queen of Sheba heard about the fame of Solomon, she came to test him with difficult questions. She arrived in Jerusalem with a very large caravan—with camels bearing spices, gold in abundance, and precious stones. And she came to Solomon and spoke with him about all that was on her mind..."
+description: >
+  Read 2 Chronicles 9 Online | Now when the queen of Sheba heard about the fame of Solomon, she came to test him with difficult questions. She arrived in Jerusalem with a very large caravan—with camels bearing spices, gold in abundance, and precious stones. And she came to Solomon and spoke with him about all that was on her mind...
 weight: 9
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "1 Corinthians 15 BSB | Read the Bible Online"
 linkTitle: "15"
-description: "Read 1 Corinthians 15 Online | Now, brothers, I want to remind you of the gospel I preached to you, which you received, and in which you stand firm..."
+description: >
+  Read 1 Corinthians 15 Online | Now, brothers, I want to remind you of the gospel I preached to you, which you received, and in which you stand firm...
 weight: 15
 ---
 

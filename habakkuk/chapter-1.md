@@ -1,7 +1,8 @@
 ---
 title: "Habakkuk 1 BSB | Read the Bible Online"
 linkTitle: "1"
-description: "Read Habakkuk 1 Online | This is the burden that Habakkuk the prophet received in a vision..."
+description: >
+  Read Habakkuk 1 Online | This is the burden that Habakkuk the prophet received in a vision...
 weight: 1
 ---
 

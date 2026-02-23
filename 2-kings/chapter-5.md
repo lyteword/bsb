@@ -1,7 +1,8 @@
 ---
 title: "2 Kings 5 BSB | Read the Bible Online"
 linkTitle: "5"
-description: "Read 2 Kings 5 Online | Now Naaman, the commander of the army of the king of Aram, was a great man in his master’s sight and highly regarded, for through him the LORD had given victory to Aram. And he was a mighty man of valor, but he was a leper.[^1359..."
+description: >
+  Read 2 Kings 5 Online | Now Naaman, the commander of the army of the king of Aram, was a great man in his master’s sight and highly regarded, for through him the LORD had given victory to Aram. And he was a mighty man of valor, but he was a leper.[^1359...
 weight: 5
 ---
 

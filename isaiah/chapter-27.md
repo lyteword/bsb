@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 27 BSB | Read the Bible Online"
 linkTitle: "27"
-description: "Read Isaiah 27 Online | In that day the LORD will take His sharp, great, and mighty sword, and bring judgment on Leviathan the fleeing serpent [^2647]—Leviathan the coiling serpent—and He will slay the dragon of the sea..."
+description: >
+  Read Isaiah 27 Online | In that day the LORD will take His sharp, great, and mighty sword, and bring judgment on Leviathan the fleeing serpent —Leviathan the coiling serpent—and He will slay the dragon of the sea...
 weight: 27
 ---
 

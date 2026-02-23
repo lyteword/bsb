@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 23 BSB | Read the Bible Online"
 linkTitle: "23"
-description: "Read Deuteronomy 23 Online | No man with crushed or severed genitals may enter the assembly of the LORD..."
+description: >
+  Read Deuteronomy 23 Online | No man with crushed or severed genitals may enter the assembly of the LORD...
 weight: 23
 ---
 

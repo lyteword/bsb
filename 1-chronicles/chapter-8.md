@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 8 BSB | Read the Bible Online"
 linkTitle: "8"
-description: "Read 1 Chronicles 8 Online | Benjamin was the father of Bela his firstborn, Ashbel the second, Aharah the third..."
+description: >
+  Read 1 Chronicles 8 Online | Benjamin was the father of Bela his firstborn, Ashbel the second, Aharah the third...
 weight: 8
 ---
 

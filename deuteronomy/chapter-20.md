@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 20 BSB | Read the Bible Online"
 linkTitle: "20"
-description: "Read Deuteronomy 20 Online | When you go out to war against your enemies and see horses, chariots, and an army larger than yours, do not be afraid of them; for the LORD your God, who brought you out of the land of Egypt, is with you..."
+description: >
+  Read Deuteronomy 20 Online | When you go out to war against your enemies and see horses, chariots, and an army larger than yours, do not be afraid of them; for the LORD your God, who brought you out of the land of Egypt, is with you...
 weight: 20
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 20 BSB | Read the Bible Online"
 linkTitle: "20"
-description: "Read Isaiah 20 Online | Before the year that the chief commander, sent by Sargon king of Assyria, came to Ashdod and attacked and captured it..."
+description: >
+  Read Isaiah 20 Online | Before the year that the chief commander, sent by Sargon king of Assyria, came to Ashdod and attacked and captured it...
 weight: 20
 ---
 

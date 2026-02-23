@@ -1,7 +1,8 @@
 ---
 title: "Joshua 16 BSB | Read the Bible Online"
 linkTitle: "16"
-description: "Read Joshua 16 Online | The allotment for the descendants of Joseph extended from the Jordan at Jericho to the waters of Jericho on the east, through the wilderness that goes up from Jericho into the hill country of Bethel..."
+description: >
+  Read Joshua 16 Online | The allotment for the descendants of Joseph extended from the Jordan at Jericho to the waters of Jericho on the east, through the wilderness that goes up from Jericho into the hill country of Bethel...
 weight: 16
 ---
 

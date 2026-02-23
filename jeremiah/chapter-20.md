@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 20 BSB | Read the Bible Online"
 linkTitle: "20"
-description: "Read Jeremiah 20 Online | When Pashhur the priest, the son of Immer and the chief official in the house of the LORD, heard Jeremiah prophesying these things..."
+description: >
+  Read Jeremiah 20 Online | When Pashhur the priest, the son of Immer and the chief official in the house of the LORD, heard Jeremiah prophesying these things...
 weight: 20
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 83 BSB | Read the Bible Online"
 linkTitle: "83"
-description: "Read Psalm 83 Online | O God, be not silent; be not speechless;[^2325] be not still, O God..."
+description: >
+  Read Psalm 83 Online | O God, be not silent; be not speechless; be not still, O God...
 weight: 83
 ---
 

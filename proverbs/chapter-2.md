@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 2 BSB | Read the Bible Online"
 linkTitle: "2"
-description: "Read Proverbs 2 Online | My son, if you accept my words and hide my commandments within you..."
+description: >
+  Read Proverbs 2 Online | My son, if you accept my words and hide my commandments within you...
 weight: 2
 ---
 

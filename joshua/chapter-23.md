@@ -1,7 +1,8 @@
 ---
 title: "Joshua 23 BSB | Read the Bible Online"
 linkTitle: "23"
-description: "Read Joshua 23 Online | A long time after the LORD had given Israel rest from all the enemies around them, when Joshua was old and well along in years..."
+description: >
+  Read Joshua 23 Online | A long time after the LORD had given Israel rest from all the enemies around them, when Joshua was old and well along in years...
 weight: 23
 ---
 

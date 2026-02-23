@@ -1,7 +1,8 @@
 ---
 title: "Luke 1 BSB | Read the Bible Online"
 linkTitle: "1"
-description: "Read Luke 1 Online | Many have undertaken to compose an account of the things that have been fulfilled among us..."
+description: >
+  Read Luke 1 Online | Many have undertaken to compose an account of the things that have been fulfilled among us...
 weight: 1
 ---
 

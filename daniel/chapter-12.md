@@ -1,7 +1,8 @@
 ---
 title: "Daniel 12 BSB | Read the Bible Online"
 linkTitle: "12"
-description: "Read Daniel 12 Online | “At that time Michael, the great prince who stands watch over your people, will rise up. There will be a time of distress, the likes of which will not have occurred from the beginning of nations until that time. But at that time your people—everyone whose name is found written in the book—will be delivered..."
+description: >
+  Read Daniel 12 Online | “At that time Michael, the great prince who stands watch over your people, will rise up. There will be a time of distress, the likes of which will not have occurred from the beginning of nations until that time. But at that time your people—everyone whose name is found written in the book—will be delivered...
 weight: 12
 ---
 

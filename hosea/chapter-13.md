@@ -1,7 +1,8 @@
 ---
 title: "Hosea 13 BSB | Read the Bible Online"
 linkTitle: "13"
-description: "Read Hosea 13 Online | When Ephraim [^3329] spoke, there was trembling; he was exalted in Israel. But he incurred guilt through Baal, and he died..."
+description: >
+  Read Hosea 13 Online | When Ephraim spoke, there was trembling; he was exalted in Israel. But he incurred guilt through Baal, and he died...
 weight: 13
 ---
 

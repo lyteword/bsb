@@ -1,7 +1,8 @@
 ---
 title: "Exodus 1 BSB | Read the Bible Online"
 linkTitle: "1"
-description: "Read Exodus 1 Online | These are the names of the sons of Israel who went to Egypt with Jacob, each with his family..."
+description: >
+  Read Exodus 1 Online | These are the names of the sons of Israel who went to Egypt with Jacob, each with his family...
 weight: 1
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Job 37 BSB | Read the Bible Online"
 linkTitle: "37"
-description: "Read Job 37 Online | “At this my heart also pounds and leaps from its place..."
+description: >
+  Read Job 37 Online | “At this my heart also pounds and leaps from its place...
 weight: 37
 ---
 

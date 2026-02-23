@@ -1,7 +1,8 @@
 ---
 title: "Ezra 9 BSB | Read the Bible Online"
 linkTitle: "9"
-description: "Read Ezra 9 Online | After these things had been accomplished, the leaders approached me and said, “The people of Israel, including the priests and Levites, have not kept themselves separate from the surrounding peoples whose abominations are like those of the Canaanites, Hittites, Perizzites, Jebusites, Ammonites, Moabites, Egyptians, and Amorites..."
+description: >
+  Read Ezra 9 Online | After these things had been accomplished, the leaders approached me and said, “The people of Israel, including the priests and Levites, have not kept themselves separate from the surrounding peoples whose abominations are like those of the Canaanites, Hittites, Perizzites, Jebusites, Ammonites, Moabites, Egyptians, and Amorites...
 weight: 9
 ---
 

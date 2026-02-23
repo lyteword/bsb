@@ -1,7 +1,8 @@
 ---
 title: "Psalm 44 BSB | Read the Bible Online"
 linkTitle: "44"
-description: "Read Psalm 44 Online | We have heard with our ears, O God; our fathers have told us the work You did in their days, in the days of old..."
+description: >
+  Read Psalm 44 Online | We have heard with our ears, O God; our fathers have told us the work You did in their days, in the days of old...
 weight: 44
 ---
 

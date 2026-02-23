@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 15 BSB | Read the Bible Online"
 linkTitle: "15"
-description: "Read Jeremiah 15 Online | Then the LORD said to me: “Even if Moses and Samuel should stand before Me, My heart would not go out to this people. Send them from My presence, and let them go..."
+description: >
+  Read Jeremiah 15 Online | Then the LORD said to me: “Even if Moses and Samuel should stand before Me, My heart would not go out to this people. Send them from My presence, and let them go...
 weight: 15
 ---
 

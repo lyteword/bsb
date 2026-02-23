@@ -1,7 +1,8 @@
 ---
 title: "1 Kings 6 BSB | Read the Bible Online"
 linkTitle: "6"
-description: "Read 1 Kings 6 Online | In the four hundred and eightieth [^1227] year after the Israelites had come out of the land of Egypt, in the fourth year of Solomon’s reign over Israel, in the month of Ziv,[^1228] the second month, he began to build the house of the LORD..."
+description: >
+  Read 1 Kings 6 Online | In the four hundred and eightieth year after the Israelites had come out of the land of Egypt, in the fourth year of Solomon’s reign over Israel, in the month of Ziv, the second month, he began to build the house of the LORD...
 weight: 6
 ---
 

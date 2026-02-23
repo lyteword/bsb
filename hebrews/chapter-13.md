@@ -1,7 +1,8 @@
 ---
 title: "Hebrews 13 BSB | Read the Bible Online"
 linkTitle: "13"
-description: "Read Hebrews 13 Online | Continue in brotherly love..."
+description: >
+  Read Hebrews 13 Online | Continue in brotherly love...
 weight: 13
 ---
 

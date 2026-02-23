@@ -1,7 +1,8 @@
 ---
 title: "Titus 2 BSB | Read the Bible Online"
 linkTitle: "2"
-description: "Read Titus 2 Online | But as for you, speak the things that are consistent with sound doctrine..."
+description: >
+  Read Titus 2 Online | But as for you, speak the things that are consistent with sound doctrine...
 weight: 2
 ---
 

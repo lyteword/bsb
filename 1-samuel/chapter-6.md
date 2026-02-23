@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 6 BSB | Read the Bible Online"
 linkTitle: "6"
-description: "Read 1 Samuel 6 Online | When the ark of the LORD had been in the land of the Philistines seven months..."
+description: >
+  Read 1 Samuel 6 Online | When the ark of the LORD had been in the land of the Philistines seven months...
 weight: 6
 ---
 

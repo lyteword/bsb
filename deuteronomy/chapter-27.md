@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 27 BSB | Read the Bible Online"
 linkTitle: "27"
-description: "Read Deuteronomy 27 Online | Then Moses and the elders of Israel commanded the people: “Keep all the commandments I am giving you today..."
+description: >
+  Read Deuteronomy 27 Online | Then Moses and the elders of Israel commanded the people: “Keep all the commandments I am giving you today...
 weight: 27
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "John 20 BSB | Read the Bible Online"
 linkTitle: "20"
-description: "Read John 20 Online | Early on the first day of the week,[^4117] while it was still dark, Mary Magdalene went to the tomb and saw that the stone had been removed from the entrance..."
+description: >
+  Read John 20 Online | Early on the first day of the week, while it was still dark, Mary Magdalene went to the tomb and saw that the stone had been removed from the entrance...
 weight: 20
 ---
 

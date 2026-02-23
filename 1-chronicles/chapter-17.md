@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 17 BSB | Read the Bible Online"
 linkTitle: "17"
-description: "Read 1 Chronicles 17 Online | After David had settled into his palace, he said to Nathan the prophet, “Here I am, living in a house of cedar, while the ark of the covenant of the LORD is under a tent...."
+description: >
+  Read 1 Chronicles 17 Online | After David had settled into his palace, he said to Nathan the prophet, “Here I am, living in a house of cedar, while the ark of the covenant of the LORD is under a tent....
 weight: 17
 ---
 

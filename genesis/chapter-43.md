@@ -1,7 +1,8 @@
 ---
 title: "Genesis 43 BSB | Read the Bible Online"
 linkTitle: "43"
-description: "Read Genesis 43 Online | Now the famine was still severe in the land..."
+description: >
+  Read Genesis 43 Online | Now the famine was still severe in the land...
 weight: 43
 ---
 

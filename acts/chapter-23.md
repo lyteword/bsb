@@ -1,7 +1,8 @@
 ---
 title: "Acts 23 BSB | Read the Bible Online"
 linkTitle: "23"
-description: "Read Acts 23 Online | Paul looked directly at the Sanhedrin [^4257] and said, “Brothers, I have conducted myself before God in all good conscience to this day...."
+description: >
+  Read Acts 23 Online | Paul looked directly at the Sanhedrin and said, “Brothers, I have conducted myself before God in all good conscience to this day....
 weight: 23
 ---
 

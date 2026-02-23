@@ -1,7 +1,8 @@
 ---
 title: "Ecclesiastes 7 BSB | Read the Bible Online"
 linkTitle: "7"
-description: "Read Ecclesiastes 7 Online | A good name is better than fine perfume, and one’s day of death is better than his day of birth..."
+description: >
+  Read Ecclesiastes 7 Online | A good name is better than fine perfume, and one’s day of death is better than his day of birth...
 weight: 7
 ---
 

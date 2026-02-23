@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 46 BSB | Read the Bible Online"
 linkTitle: "46"
-description: "Read Jeremiah 46 Online | This is the word of the LORD about the nations—the word that came to Jeremiah the prophet..."
+description: >
+  Read Jeremiah 46 Online | This is the word of the LORD about the nations—the word that came to Jeremiah the prophet...
 weight: 46
 ---
 

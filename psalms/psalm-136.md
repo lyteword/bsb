@@ -1,7 +1,8 @@
 ---
 title: "Psalm 136 BSB | Read the Bible Online"
 linkTitle: "136"
-description: "Read Psalm 136 Online | Give thanks to the LORD, for He is good. His loving devotion endures forever..."
+description: >
+  Read Psalm 136 Online | Give thanks to the LORD, for He is good. His loving devotion endures forever...
 weight: 136
 ---
 

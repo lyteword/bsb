@@ -1,7 +1,8 @@
 ---
 title: "1 Kings 16 BSB | Read the Bible Online"
 linkTitle: "16"
-description: "Read 1 Kings 16 Online | Then the word of the LORD came to Jehu son of Hanani against Baasha, saying..."
+description: >
+  Read 1 Kings 16 Online | Then the word of the LORD came to Jehu son of Hanani against Baasha, saying...
 weight: 16
 ---
 

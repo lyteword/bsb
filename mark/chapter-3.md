@@ -1,7 +1,8 @@
 ---
 title: "Mark 3 BSB | Read the Bible Online"
 linkTitle: "3"
-description: "Read Mark 3 Online | Once again Jesus entered the synagogue, and a man with a withered hand was there..."
+description: >
+  Read Mark 3 Online | Once again Jesus entered the synagogue, and a man with a withered hand was there...
 weight: 3
 ---
 

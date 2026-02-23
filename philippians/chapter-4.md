@@ -1,7 +1,8 @@
 ---
 title: "Philippians 4 BSB | Read the Bible Online"
 linkTitle: "4"
-description: "Read Philippians 4 Online | Therefore, my brothers, whom I love and long for, my joy and crown, that is how you must stand firm in the Lord, my beloved..."
+description: >
+  Read Philippians 4 Online | Therefore, my brothers, whom I love and long for, my joy and crown, that is how you must stand firm in the Lord, my beloved...
 weight: 4
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 14 BSB | Read the Bible Online"
 linkTitle: "14"
-description: "Read Ezekiel 14 Online | Then some of the elders of Israel came and sat down before me..."
+description: >
+  Read Ezekiel 14 Online | Then some of the elders of Israel came and sat down before me...
 weight: 14
 ---
 

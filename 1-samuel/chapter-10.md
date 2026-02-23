@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 10 BSB | Read the Bible Online"
 linkTitle: "10"
-description: "Read 1 Samuel 10 Online | Then Samuel took a flask of oil, poured it on Saul’s head, kissed him, and said, “Has not the LORD anointed you ruler over His inheritance?[^992..."
+description: >
+  Read 1 Samuel 10 Online | Then Samuel took a flask of oil, poured it on Saul’s head, kissed him, and said, “Has not the LORD anointed you ruler over His inheritance?[^992...
 weight: 10
 ---
 

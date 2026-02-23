@@ -1,7 +1,8 @@
 ---
 title: "1 Kings 11 BSB | Read the Bible Online"
 linkTitle: "11"
-description: "Read 1 Kings 11 Online | King Solomon, however, loved many foreign women along with the daughter of Pharaoh—women of Moab, Ammon, Edom, and Sidon, as well as Hittite women..."
+description: >
+  Read 1 Kings 11 Online | King Solomon, however, loved many foreign women along with the daughter of Pharaoh—women of Moab, Ammon, Edom, and Sidon, as well as Hittite women...
 weight: 11
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 29 BSB | Read the Bible Online"
 linkTitle: "29"
-description: "Read 1 Samuel 29 Online | Now the Philistines brought all their forces together at Aphek, while Israel camped by the spring in Jezreel..."
+description: >
+  Read 1 Samuel 29 Online | Now the Philistines brought all their forces together at Aphek, while Israel camped by the spring in Jezreel...
 weight: 29
 ---
 

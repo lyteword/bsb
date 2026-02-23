@@ -1,7 +1,8 @@
 ---
 title: "2 Corinthians 4 BSB | Read the Bible Online"
 linkTitle: "4"
-description: "Read 2 Corinthians 4 Online | Therefore, since God in His mercy has given us this ministry,[^4452] we do not lose heart..."
+description: >
+  Read 2 Corinthians 4 Online | Therefore, since God in His mercy has given us this ministry, we do not lose heart...
 weight: 4
 ---
 

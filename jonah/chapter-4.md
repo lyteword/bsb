@@ -1,7 +1,8 @@
 ---
 title: "Jonah 4 BSB | Read the Bible Online"
 linkTitle: "4"
-description: "Read Jonah 4 Online | Jonah, however, was greatly displeased, and he became angry.[^3403..."
+description: >
+  Read Jonah 4 Online | Jonah, however, was greatly displeased, and he became angry.[^3403...
 weight: 4
 ---
 

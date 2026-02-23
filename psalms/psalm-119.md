@@ -1,7 +1,8 @@
 ---
 title: "Psalm 119 BSB | Read the Bible Online"
 linkTitle: "119"
-description: "Read Psalm 119 Online | Blessed [^2398] are those whose way is blameless, who walk in the Law of the LORD..."
+description: >
+  Read Psalm 119 Online | Blessed are those whose way is blameless, who walk in the Law of the LORD...
 weight: 119
 ---
 

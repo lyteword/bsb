@@ -1,7 +1,8 @@
 ---
 title: "Hebrews 1 BSB | Read the Bible Online"
 linkTitle: "1"
-description: "Read Hebrews 1 Online | On many past occasions and in many different ways, God spoke to our fathers through the prophets..."
+description: >
+  Read Hebrews 1 Online | On many past occasions and in many different ways, God spoke to our fathers through the prophets...
 weight: 1
 ---
 

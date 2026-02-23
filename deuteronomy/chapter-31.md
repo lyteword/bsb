@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 31 BSB | Read the Bible Online"
 linkTitle: "31"
-description: "Read Deuteronomy 31 Online | When Moses had finished speaking [^749] these words to all Israel..."
+description: >
+  Read Deuteronomy 31 Online | When Moses had finished speaking these words to all Israel...
 weight: 31
 ---
 

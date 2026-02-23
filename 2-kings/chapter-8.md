@@ -1,7 +1,8 @@
 ---
 title: "2 Kings 8 BSB | Read the Bible Online"
 linkTitle: "8"
-description: "Read 2 Kings 8 Online | Now Elisha had said to the woman whose son he had restored to life, “Arise, you and your household; go and live as a foreigner wherever you can. For the LORD has decreed that a seven-year famine will come to the land...."
+description: >
+  Read 2 Kings 8 Online | Now Elisha had said to the woman whose son he had restored to life, “Arise, you and your household; go and live as a foreigner wherever you can. For the LORD has decreed that a seven-year famine will come to the land....
 weight: 8
 ---
 

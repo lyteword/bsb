@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 9 BSB | Read the Bible Online"
 linkTitle: "9"
-description: "Read 1 Chronicles 9 Online | So all Israel was recorded in the genealogies written in the Book of the Kings of Israel. But Judah was exiled to Babylon because of their unfaithfulness..."
+description: >
+  Read 1 Chronicles 9 Online | So all Israel was recorded in the genealogies written in the Book of the Kings of Israel. But Judah was exiled to Babylon because of their unfaithfulness...
 weight: 9
 ---
 

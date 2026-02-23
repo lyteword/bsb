@@ -1,7 +1,8 @@
 ---
 title: "Psalm 85 BSB | Read the Bible Online"
 linkTitle: "85"
-description: "Read Psalm 85 Online | You showed favor to Your land, O LORD; You restored Jacob from captivity.[^2329..."
+description: >
+  Read Psalm 85 Online | You showed favor to Your land, O LORD; You restored Jacob from captivity.[^2329...
 weight: 85
 ---
 

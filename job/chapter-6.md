@@ -1,7 +1,8 @@
 ---
 title: "Job 6 BSB | Read the Bible Online"
 linkTitle: "6"
-description: "Read Job 6 Online | Then Job replied..."
+description: >
+  Read Job 6 Online | Then Job replied...
 weight: 6
 ---
 

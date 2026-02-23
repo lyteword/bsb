@@ -1,7 +1,8 @@
 ---
 title: "Psalm 8 BSB | Read the Bible Online"
 linkTitle: "8"
-description: "Read Psalm 8 Online | O LORD, our Lord, how majestic is Your name in all the earth! You have set Your glory above the heavens..."
+description: >
+  Read Psalm 8 Online | O LORD, our Lord, how majestic is Your name in all the earth! You have set Your glory above the heavens...
 weight: 8
 ---
 

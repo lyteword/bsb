@@ -1,7 +1,8 @@
 ---
 title: "Ruth 4 BSB | Read the Bible Online"
 linkTitle: "4"
-description: "Read Ruth 4 Online | Meanwhile, Boaz went to the gate and sat down there. Soon the kinsman-redeemer [^954] of whom he had spoken came along, and Boaz said, “Come over here, my friend, and sit down.” So he went over and sat down..."
+description: >
+  Read Ruth 4 Online | Meanwhile, Boaz went to the gate and sat down there. Soon the kinsman-redeemer of whom he had spoken came along, and Boaz said, “Come over here, my friend, and sit down.” So he went over and sat down...
 weight: 4
 ---
 

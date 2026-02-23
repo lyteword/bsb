@@ -1,7 +1,8 @@
 ---
 title: "Hebrews 12 BSB | Read the Bible Online"
 linkTitle: "12"
-description: "Read Hebrews 12 Online | Therefore, since we are surrounded by such a great cloud of witnesses, let us throw off every encumbrance and the sin that so easily entangles, and let us run with endurance the race set out for us..."
+description: >
+  Read Hebrews 12 Online | Therefore, since we are surrounded by such a great cloud of witnesses, let us throw off every encumbrance and the sin that so easily entangles, and let us run with endurance the race set out for us...
 weight: 12
 ---
 

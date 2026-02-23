@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 49 BSB | Read the Bible Online"
 linkTitle: "49"
-description: "Read Jeremiah 49 Online | Concerning the Ammonites, this is what the LORD says: “Has Israel no sons? Is he without heir? Why then has Milcom [^2947] taken possession of Gad? Why have his people settled in their cities..."
+description: >
+  Read Jeremiah 49 Online | Concerning the Ammonites, this is what the LORD says: “Has Israel no sons? Is he without heir? Why then has Milcom taken possession of Gad? Why have his people settled in their cities...
 weight: 49
 ---
 

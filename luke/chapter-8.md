@@ -1,7 +1,8 @@
 ---
 title: "Luke 8 BSB | Read the Bible Online"
 linkTitle: "8"
-description: "Read Luke 8 Online | Soon afterward, Jesus traveled from one town and village to another, preaching and proclaiming the good news of the kingdom of God. The Twelve were with Him..."
+description: >
+  Read Luke 8 Online | Soon afterward, Jesus traveled from one town and village to another, preaching and proclaiming the good news of the kingdom of God. The Twelve were with Him...
 weight: 8
 ---
 

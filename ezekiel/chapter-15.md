@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 15 BSB | Read the Bible Online"
 linkTitle: "15"
-description: "Read Ezekiel 15 Online | Then the word of the LORD came to me, saying..."
+description: >
+  Read Ezekiel 15 Online | Then the word of the LORD came to me, saying...
 weight: 15
 ---
 

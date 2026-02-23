@@ -1,7 +1,8 @@
 ---
 title: "Psalm 14 BSB | Read the Bible Online"
 linkTitle: "14"
-description: "Read Psalm 14 Online | The fool [^2164] says in his heart, “There is no God.” They are corrupt; their acts are vile. There is no one who does good..."
+description: >
+  Read Psalm 14 Online | The fool says in his heart, “There is no God.” They are corrupt; their acts are vile. There is no one who does good...
 weight: 14
 ---
 

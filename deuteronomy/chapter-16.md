@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 16 BSB | Read the Bible Online"
 linkTitle: "16"
-description: "Read Deuteronomy 16 Online | Observe the month of Abib [^699] and celebrate the Passover to the LORD your God, because in the month of Abib the LORD your God brought you out of Egypt by night..."
+description: >
+  Read Deuteronomy 16 Online | Observe the month of Abib and celebrate the Passover to the LORD your God, because in the month of Abib the LORD your God brought you out of Egypt by night...
 weight: 16
 ---
 

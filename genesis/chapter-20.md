@@ -1,7 +1,8 @@
 ---
 title: "Genesis 20 BSB | Read the Bible Online"
 linkTitle: "20"
-description: "Read Genesis 20 Online | Now Abraham journeyed from there to the region of the Negev and settled between Kadesh and Shur. While he was staying in Gerar..."
+description: >
+  Read Genesis 20 Online | Now Abraham journeyed from there to the region of the Negev and settled between Kadesh and Shur. While he was staying in Gerar...
 weight: 20
 ---
 

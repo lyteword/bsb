@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 18 BSB | Read the Bible Online"
 linkTitle: "18"
-description: "Read Jeremiah 18 Online | This is the word that came to Jeremiah from the LORD..."
+description: >
+  Read Jeremiah 18 Online | This is the word that came to Jeremiah from the LORD...
 weight: 18
 ---
 

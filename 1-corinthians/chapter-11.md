@@ -1,7 +1,8 @@
 ---
 title: "1 Corinthians 11 BSB | Read the Bible Online"
 linkTitle: "11"
-description: "Read 1 Corinthians 11 Online | You are to imitate me, just as I imitate Christ..."
+description: >
+  Read 1 Corinthians 11 Online | You are to imitate me, just as I imitate Christ...
 weight: 11
 ---
 

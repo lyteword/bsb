@@ -1,7 +1,8 @@
 ---
 title: "Revelation 2 BSB | Read the Bible Online"
 linkTitle: "2"
-description: "Read Revelation 2 Online | “To the angel of the church in Ephesus write: These are the words of Him who holds the seven stars in His right hand and walks among the seven golden lampstands..."
+description: >
+  Read Revelation 2 Online | “To the angel of the church in Ephesus write: These are the words of Him who holds the seven stars in His right hand and walks among the seven golden lampstands...
 weight: 2
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 40 BSB | Read the Bible Online"
 linkTitle: "40"
-description: "Read Isaiah 40 Online | “Comfort, comfort My people,” says your God..."
+description: >
+  Read Isaiah 40 Online | “Comfort, comfort My people,” says your God...
 weight: 40
 ---
 

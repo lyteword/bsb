@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 27 BSB | Read the Bible Online"
 linkTitle: "27"
-description: "Read 1 Chronicles 27 Online | This is the list of the Israelites—the heads of families, the commanders of thousands and of hundreds, and their officers who served the king in every matter concerning the divisions on rotating military duty each month throughout the year. There were 24,000 men in each division..."
+description: >
+  Read 1 Chronicles 27 Online | This is the list of the Israelites—the heads of families, the commanders of thousands and of hundreds, and their officers who served the king in every matter concerning the divisions on rotating military duty each month throughout the year. There were 24,000 men in each division...
 weight: 27
 ---
 

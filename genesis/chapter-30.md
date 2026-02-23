@@ -1,7 +1,8 @@
 ---
 title: "Genesis 30 BSB | Read the Bible Online"
 linkTitle: "30"
-description: "Read Genesis 30 Online | When Rachel saw that she was not bearing any children for Jacob, she envied her sister. “Give me children, or I will die!” she said to Jacob..."
+description: >
+  Read Genesis 30 Online | When Rachel saw that she was not bearing any children for Jacob, she envied her sister. “Give me children, or I will die!” she said to Jacob...
 weight: 30
 ---
 

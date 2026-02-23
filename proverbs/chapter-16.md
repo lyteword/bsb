@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 16 BSB | Read the Bible Online"
 linkTitle: "16"
-description: "Read Proverbs 16 Online | The plans of the heart belong to man, but the reply of the tongue is from the LORD..."
+description: >
+  Read Proverbs 16 Online | The plans of the heart belong to man, but the reply of the tongue is from the LORD...
 weight: 16
 ---
 

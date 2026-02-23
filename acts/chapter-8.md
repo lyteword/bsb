@@ -1,7 +1,8 @@
 ---
 title: "Acts 8 BSB | Read the Bible Online"
 linkTitle: "8"
-description: "Read Acts 8 Online | And Saul was there, giving approval to Stephen’s death. On that day a great persecution broke out against the church in Jerusalem, and all except the apostles were scattered throughout Judea and Samaria..."
+description: >
+  Read Acts 8 Online | And Saul was there, giving approval to Stephen’s death. On that day a great persecution broke out against the church in Jerusalem, and all except the apostles were scattered throughout Judea and Samaria...
 weight: 8
 ---
 

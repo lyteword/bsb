@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 3 BSB | Read the Bible Online"
 linkTitle: "3"
-description: "Read 1 Samuel 3 Online | And the boy Samuel ministered to the LORD before Eli. Now in those days the word of the LORD was rare, and visions were scarce..."
+description: >
+  Read 1 Samuel 3 Online | And the boy Samuel ministered to the LORD before Eli. Now in those days the word of the LORD was rare, and visions were scarce...
 weight: 3
 ---
 

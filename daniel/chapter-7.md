@@ -1,7 +1,8 @@
 ---
 title: "Daniel 7 BSB | Read the Bible Online"
 linkTitle: "7"
-description: "Read Daniel 7 Online | In the first year of the reign of Belshazzar over Babylon, Daniel had a dream, and visions passed through his mind as he lay on his bed. He wrote down the dream, and this is the summary of his account..."
+description: >
+  Read Daniel 7 Online | In the first year of the reign of Belshazzar over Babylon, Daniel had a dream, and visions passed through his mind as he lay on his bed. He wrote down the dream, and this is the summary of his account...
 weight: 7
 ---
 

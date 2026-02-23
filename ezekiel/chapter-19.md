@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 19 BSB | Read the Bible Online"
 linkTitle: "19"
-description: "Read Ezekiel 19 Online | “As for you, take up a lament for the princes of Israel..."
+description: >
+  Read Ezekiel 19 Online | “As for you, take up a lament for the princes of Israel...
 weight: 19
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "2 Corinthians 10 BSB | Read the Bible Online"
 linkTitle: "10"
-description: "Read 2 Corinthians 10 Online | Now by the mildness and gentleness of Christ, I appeal to you—I, Paul, who am humble when face to face with you, but bold when away..."
+description: >
+  Read 2 Corinthians 10 Online | Now by the mildness and gentleness of Christ, I appeal to you—I, Paul, who am humble when face to face with you, but bold when away...
 weight: 10
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 7 BSB | Read the Bible Online"
 linkTitle: "7"
-description: "Read Deuteronomy 7 Online | When the LORD your God brings you into the land that you are entering to possess, and He drives out before you many nations—the Hittites, Girgashites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites, seven nations larger and stronger than you..."
+description: >
+  Read Deuteronomy 7 Online | When the LORD your God brings you into the land that you are entering to possess, and He drives out before you many nations—the Hittites, Girgashites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites, seven nations larger and stronger than you...
 weight: 7
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 25 BSB | Read the Bible Online"
 linkTitle: "25"
-description: "Read Psalm 25 Online | To You, O LORD, I lift up my soul..."
+description: >
+  Read Psalm 25 Online | To You, O LORD, I lift up my soul...
 weight: 25
 ---
 

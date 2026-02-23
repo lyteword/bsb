@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 23 BSB | Read the Bible Online"
 linkTitle: "23"
-description: "Read Proverbs 23 Online | When you sit down to dine with a ruler, consider carefully what is set before you,[^2499..."
+description: >
+  Read Proverbs 23 Online | When you sit down to dine with a ruler, consider carefully what is set before you,[^2499...
 weight: 23
 ---
 

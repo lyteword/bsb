@@ -1,7 +1,8 @@
 ---
 title: "Romans 8 BSB | Read the Bible Online"
 linkTitle: "8"
-description: "Read Romans 8 Online | Therefore, there is now no condemnation for those who are in Christ Jesus.[^4311..."
+description: >
+  Read Romans 8 Online | Therefore, there is now no condemnation for those who are in Christ Jesus.[^4311...
 weight: 8
 ---
 

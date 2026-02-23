@@ -1,7 +1,8 @@
 ---
 title: "Revelation 12 BSB | Read the Bible Online"
 linkTitle: "12"
-description: "Read Revelation 12 Online | And a great sign appeared in heaven: a woman clothed in the sun, with the moon under her feet and a crown of twelve stars on her head..."
+description: >
+  Read Revelation 12 Online | And a great sign appeared in heaven: a woman clothed in the sun, with the moon under her feet and a crown of twelve stars on her head...
 weight: 12
 ---
 

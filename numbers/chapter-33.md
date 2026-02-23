@@ -1,7 +1,8 @@
 ---
 title: "Numbers 33 BSB | Read the Bible Online"
 linkTitle: "33"
-description: "Read Numbers 33 Online | These are the journeys of the Israelites when they came out of the land of Egypt by their divisions under the leadership of Moses and Aaron..."
+description: >
+  Read Numbers 33 Online | These are the journeys of the Israelites when they came out of the land of Egypt by their divisions under the leadership of Moses and Aaron...
 weight: 33
 ---
 

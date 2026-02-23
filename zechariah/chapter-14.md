@@ -1,7 +1,8 @@
 ---
 title: "Zechariah 14 BSB | Read the Bible Online"
 linkTitle: "14"
-description: "Read Zechariah 14 Online | Behold, a day of the LORD is coming when your plunder will be divided in your presence..."
+description: >
+  Read Zechariah 14 Online | Behold, a day of the LORD is coming when your plunder will be divided in your presence...
 weight: 14
 ---
 

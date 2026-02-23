@@ -1,7 +1,8 @@
 ---
 title: "Job 18 BSB | Read the Bible Online"
 linkTitle: "18"
-description: "Read Job 18 Online | Then Bildad the Shuhite replied..."
+description: >
+  Read Job 18 Online | Then Bildad the Shuhite replied...
 weight: 18
 ---
 

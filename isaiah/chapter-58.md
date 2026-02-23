@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 58 BSB | Read the Bible Online"
 linkTitle: "58"
-description: "Read Isaiah 58 Online | “Cry aloud, do not hold back! Raise your voice like a ram’s horn. Declare to My people their transgression and to the house of Jacob their sins..."
+description: >
+  Read Isaiah 58 Online | “Cry aloud, do not hold back! Raise your voice like a ram’s horn. Declare to My people their transgression and to the house of Jacob their sins...
 weight: 58
 ---
 

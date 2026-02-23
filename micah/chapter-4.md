@@ -1,7 +1,8 @@
 ---
 title: "Micah 4 BSB | Read the Bible Online"
 linkTitle: "4"
-description: "Read Micah 4 Online | In the last days the mountain of the house of the LORD will be established as the chief of the mountains; it will be raised above the hills, and the peoples will stream to it..."
+description: >
+  Read Micah 4 Online | In the last days the mountain of the house of the LORD will be established as the chief of the mountains; it will be raised above the hills, and the peoples will stream to it...
 weight: 4
 ---
 

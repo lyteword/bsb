@@ -1,7 +1,8 @@
 ---
 title: "2 Corinthians 7 BSB | Read the Bible Online"
 linkTitle: "7"
-description: "Read 2 Corinthians 7 Online | Therefore, beloved, since we have these promises, let us cleanse ourselves from everything that defiles body and spirit, perfecting holiness in the fear of God..."
+description: >
+  Read 2 Corinthians 7 Online | Therefore, beloved, since we have these promises, let us cleanse ourselves from everything that defiles body and spirit, perfecting holiness in the fear of God...
 weight: 7
 ---
 

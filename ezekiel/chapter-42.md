@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 42 BSB | Read the Bible Online"
 linkTitle: "42"
-description: "Read Ezekiel 42 Online | Then the man led me out northward into the outer court, and he brought me to the group of chambers opposite the temple courtyard and the outer wall on the north side..."
+description: >
+  Read Ezekiel 42 Online | Then the man led me out northward into the outer court, and he brought me to the group of chambers opposite the temple courtyard and the outer wall on the north side...
 weight: 42
 ---
 

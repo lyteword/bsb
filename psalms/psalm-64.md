@@ -1,7 +1,8 @@
 ---
 title: "Psalm 64 BSB | Read the Bible Online"
 linkTitle: "64"
-description: "Read Psalm 64 Online | Hear, O God, my voice of complaint; preserve my life from dread of the enemy..."
+description: >
+  Read Psalm 64 Online | Hear, O God, my voice of complaint; preserve my life from dread of the enemy...
 weight: 64
 ---
 

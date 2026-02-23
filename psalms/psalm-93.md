@@ -1,7 +1,8 @@
 ---
 title: "Psalm 93 BSB | Read the Bible Online"
 linkTitle: "93"
-description: "Read Psalm 93 Online | The LORD reigns! He is robed in majesty; the LORD has clothed and armed Himself with strength. The world indeed is firmly established; it cannot be moved..."
+description: >
+  Read Psalm 93 Online | The LORD reigns! He is robed in majesty; the LORD has clothed and armed Himself with strength. The world indeed is firmly established; it cannot be moved...
 weight: 93
 ---
 

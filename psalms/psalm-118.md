@@ -1,7 +1,8 @@
 ---
 title: "Psalm 118 BSB | Read the Bible Online"
 linkTitle: "118"
-description: "Read Psalm 118 Online | Give thanks to the LORD, for He is good; His loving devotion endures forever..."
+description: >
+  Read Psalm 118 Online | Give thanks to the LORD, for He is good; His loving devotion endures forever...
 weight: 118
 ---
 

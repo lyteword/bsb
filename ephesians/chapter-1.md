@@ -1,7 +1,8 @@
 ---
 title: "Ephesians 1 BSB | Read the Bible Online"
 linkTitle: "1"
-description: "Read Ephesians 1 Online | Paul, an apostle of Christ Jesus by the will of God, To the saints in Ephesus,[^4499] the faithful in Christ Jesus..."
+description: >
+  Read Ephesians 1 Online | Paul, an apostle of Christ Jesus by the will of God, To the saints in Ephesus, the faithful in Christ Jesus...
 weight: 1
 ---
 

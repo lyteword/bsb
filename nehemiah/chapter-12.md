@@ -1,7 +1,8 @@
 ---
 title: "Nehemiah 12 BSB | Read the Bible Online"
 linkTitle: "12"
-description: "Read Nehemiah 12 Online | Now these are the priests and Levites who went up with Zerubbabel son of Shealtiel and with Jeshua: Seraiah, Jeremiah, Ezra..."
+description: >
+  Read Nehemiah 12 Online | Now these are the priests and Levites who went up with Zerubbabel son of Shealtiel and with Jeshua: Seraiah, Jeremiah, Ezra...
 weight: 12
 ---
 

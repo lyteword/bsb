@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 16 BSB | Read the Bible Online"
 linkTitle: "16"
-description: "Read 1 Samuel 16 Online | Now the LORD said to Samuel, “How long are you going to mourn for Saul, since I have rejected him as king over Israel? Fill your horn with oil and go. I am sending you to Jesse of Bethlehem, for I have selected from his sons a king for Myself...."
+description: >
+  Read 1 Samuel 16 Online | Now the LORD said to Samuel, “How long are you going to mourn for Saul, since I have rejected him as king over Israel? Fill your horn with oil and go. I am sending you to Jesse of Bethlehem, for I have selected from his sons a king for Myself....
 weight: 16
 ---
 

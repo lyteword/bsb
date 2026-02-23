@@ -1,7 +1,8 @@
 ---
 title: "Job 30 BSB | Read the Bible Online"
 linkTitle: "30"
-description: "Read Job 30 Online | “But now they mock me, men younger than I am, whose fathers I would have refused to put with my sheep dogs..."
+description: >
+  Read Job 30 Online | “But now they mock me, men younger than I am, whose fathers I would have refused to put with my sheep dogs...
 weight: 30
 ---
 

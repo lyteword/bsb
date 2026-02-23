@@ -1,7 +1,8 @@
 ---
 title: "Matthew 12 BSB | Read the Bible Online"
 linkTitle: "12"
-description: "Read Matthew 12 Online | At that time Jesus went through the grainfields on the Sabbath. His disciples were hungry and began to pick the heads of grain and eat them..."
+description: >
+  Read Matthew 12 Online | At that time Jesus went through the grainfields on the Sabbath. His disciples were hungry and began to pick the heads of grain and eat them...
 weight: 12
 ---
 

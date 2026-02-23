@@ -1,7 +1,8 @@
 ---
 title: "Matthew 10 BSB | Read the Bible Online"
 linkTitle: "10"
-description: "Read Matthew 10 Online | And calling His twelve disciples to Him, Jesus gave them authority over unclean spirits, so that they could drive them out and heal every disease and sickness..."
+description: >
+  Read Matthew 10 Online | And calling His twelve disciples to Him, Jesus gave them authority over unclean spirits, so that they could drive them out and heal every disease and sickness...
 weight: 10
 ---
 

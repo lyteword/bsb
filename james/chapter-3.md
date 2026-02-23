@@ -1,7 +1,8 @@
 ---
 title: "James 3 BSB | Read the Bible Online"
 linkTitle: "3"
-description: "Read James 3 Online | Not many of you should become teachers, my brothers, because you know that we who teach will be judged more strictly..."
+description: >
+  Read James 3 Online | Not many of you should become teachers, my brothers, because you know that we who teach will be judged more strictly...
 weight: 3
 ---
 

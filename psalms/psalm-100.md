@@ -1,7 +1,8 @@
 ---
 title: "Psalm 100 BSB | Read the Bible Online"
 linkTitle: "100"
-description: "Read Psalm 100 Online | Make a joyful noise to the LORD, all the earth..."
+description: >
+  Read Psalm 100 Online | Make a joyful noise to the LORD, all the earth...
 weight: 100
 ---
 

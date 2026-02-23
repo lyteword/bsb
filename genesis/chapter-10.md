@@ -1,7 +1,8 @@
 ---
 title: "Genesis 10 BSB | Read the Bible Online"
 linkTitle: "10"
-description: "Read Genesis 10 Online | This is the account of Noah’s sons Shem, Ham, and Japheth, who also had sons after the flood..."
+description: >
+  Read Genesis 10 Online | This is the account of Noah’s sons Shem, Ham, and Japheth, who also had sons after the flood...
 weight: 10
 ---
 

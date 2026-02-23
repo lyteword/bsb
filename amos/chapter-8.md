@@ -1,7 +1,8 @@
 ---
 title: "Amos 8 BSB | Read the Bible Online"
 linkTitle: "8"
-description: "Read Amos 8 Online | This is what the Lord GOD showed me: I saw a basket of summer fruit.[^3384..."
+description: >
+  Read Amos 8 Online | This is what the Lord GOD showed me: I saw a basket of summer fruit.[^3384...
 weight: 8
 ---
 

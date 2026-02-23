@@ -1,7 +1,8 @@
 ---
 title: "Psalm 50 BSB | Read the Bible Online"
 linkTitle: "50"
-description: "Read Psalm 50 Online | The Mighty One, God the LORD, speaks and summons the earth from where the sun rises to where it sets..."
+description: >
+  Read Psalm 50 Online | The Mighty One, God the LORD, speaks and summons the earth from where the sun rises to where it sets...
 weight: 50
 ---
 

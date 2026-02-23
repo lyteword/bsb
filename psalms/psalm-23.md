@@ -1,7 +1,8 @@
 ---
 title: "Psalm 23 BSB | Read the Bible Online"
 linkTitle: "23"
-description: "Read Psalm 23 Online | The LORD is my shepherd;[^2190] I shall not want..."
+description: >
+  Read Psalm 23 Online | The LORD is my shepherd; I shall not want...
 weight: 23
 ---
 

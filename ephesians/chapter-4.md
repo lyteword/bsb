@@ -1,7 +1,8 @@
 ---
 title: "Ephesians 4 BSB | Read the Bible Online"
 linkTitle: "4"
-description: "Read Ephesians 4 Online | As a prisoner in the Lord, then, I urge you to walk in a manner worthy of the calling you have received..."
+description: >
+  Read Ephesians 4 Online | As a prisoner in the Lord, then, I urge you to walk in a manner worthy of the calling you have received...
 weight: 4
 ---
 

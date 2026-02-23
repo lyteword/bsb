@@ -1,7 +1,8 @@
 ---
 title: "Genesis 38 BSB | Read the Bible Online"
 linkTitle: "38"
-description: "Read Genesis 38 Online | About that time, Judah left his brothers and settled near a man named Hirah, an Adullamite..."
+description: >
+  Read Genesis 38 Online | About that time, Judah left his brothers and settled near a man named Hirah, an Adullamite...
 weight: 38
 ---
 

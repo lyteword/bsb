@@ -1,7 +1,8 @@
 ---
 title: "2 Peter 2 BSB | Read the Bible Online"
 linkTitle: "2"
-description: "Read 2 Peter 2 Online | Now there were also false prophets among the people, just as there will be false teachers among you. They will secretly introduce destructive heresies, even denying the Master who bought them—bringing swift destruction on themselves..."
+description: >
+  Read 2 Peter 2 Online | Now there were also false prophets among the people, just as there will be false teachers among you. They will secretly introduce destructive heresies, even denying the Master who bought them—bringing swift destruction on themselves...
 weight: 2
 ---
 

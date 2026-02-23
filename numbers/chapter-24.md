@@ -1,7 +1,8 @@
 ---
 title: "Numbers 24 BSB | Read the Bible Online"
 linkTitle: "24"
-description: "Read Numbers 24 Online | And when Balaam saw that it pleased the LORD to bless Israel, he did not seek omens as on previous occasions, but he turned his face toward the wilderness..."
+description: >
+  Read Numbers 24 Online | And when Balaam saw that it pleased the LORD to bless Israel, he did not seek omens as on previous occasions, but he turned his face toward the wilderness...
 weight: 24
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "1 Corinthians 3 BSB | Read the Bible Online"
 linkTitle: "3"
-description: "Read 1 Corinthians 3 Online | Brothers, I could not address you as spiritual, but as worldly—as infants in Christ..."
+description: >
+  Read 1 Corinthians 3 Online | Brothers, I could not address you as spiritual, but as worldly—as infants in Christ...
 weight: 3
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Amos 6 BSB | Read the Bible Online"
 linkTitle: "6"
-description: "Read Amos 6 Online | Woe to those at ease in Zion and those secure on Mount Samaria, the distinguished ones of the foremost nation, to whom the house of Israel comes..."
+description: >
+  Read Amos 6 Online | Woe to those at ease in Zion and those secure on Mount Samaria, the distinguished ones of the foremost nation, to whom the house of Israel comes...
 weight: 6
 ---
 

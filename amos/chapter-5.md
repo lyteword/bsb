@@ -1,7 +1,8 @@
 ---
 title: "Amos 5 BSB | Read the Bible Online"
 linkTitle: "5"
-description: "Read Amos 5 Online | Hear this word, O house of Israel, this lamentation I take up against you..."
+description: >
+  Read Amos 5 Online | Hear this word, O house of Israel, this lamentation I take up against you...
 weight: 5
 ---
 

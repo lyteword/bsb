@@ -1,7 +1,8 @@
 ---
 title: "Psalm 146 BSB | Read the Bible Online"
 linkTitle: "146"
-description: "Read Psalm 146 Online | Hallelujah! [^2429] Praise the LORD, O my soul..."
+description: >
+  Read Psalm 146 Online | Hallelujah! Praise the LORD, O my soul...
 weight: 146
 ---
 

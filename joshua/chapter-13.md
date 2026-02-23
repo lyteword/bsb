@@ -1,7 +1,8 @@
 ---
 title: "Joshua 13 BSB | Read the Bible Online"
 linkTitle: "13"
-description: "Read Joshua 13 Online | Now Joshua was old and well along in years, and the LORD said to him, “You are old and well along in years, but very much of the land remains to be possessed..."
+description: >
+  Read Joshua 13 Online | Now Joshua was old and well along in years, and the LORD said to him, “You are old and well along in years, but very much of the land remains to be possessed...
 weight: 13
 ---
 

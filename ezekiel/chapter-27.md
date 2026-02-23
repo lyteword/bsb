@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 27 BSB | Read the Bible Online"
 linkTitle: "27"
-description: "Read Ezekiel 27 Online | Then the word of the LORD came to me, saying..."
+description: >
+  Read Ezekiel 27 Online | Then the word of the LORD came to me, saying...
 weight: 27
 ---
 

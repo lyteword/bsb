@@ -1,7 +1,8 @@
 ---
 title: "Lamentations 3 BSB | Read the Bible Online"
 linkTitle: "3"
-description: "Read Lamentations 3 Online | I [^2987] am the man who has seen affliction under the rod of God’s wrath..."
+description: >
+  Read Lamentations 3 Online | I am the man who has seen affliction under the rod of God’s wrath...
 weight: 3
 ---
 

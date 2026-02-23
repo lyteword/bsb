@@ -1,7 +1,8 @@
 ---
 title: "2 Kings 25 BSB | Read the Bible Online"
 linkTitle: "25"
-description: "Read 2 Kings 25 Online | So in the ninth year of Zedekiah’s reign, on the tenth day of the tenth month, Nebuchadnezzar king of Babylon marched against Jerusalem with his entire army. They encamped outside the city and built [^1455] a siege wall all around it..."
+description: >
+  Read 2 Kings 25 Online | So in the ninth year of Zedekiah’s reign, on the tenth day of the tenth month, Nebuchadnezzar king of Babylon marched against Jerusalem with his entire army. They encamped outside the city and built a siege wall all around it...
 weight: 25
 ---
 

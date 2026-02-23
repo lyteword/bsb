@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 39 BSB | Read the Bible Online"
 linkTitle: "39"
-description: "Read Ezekiel 39 Online | “As for you, O son of man, prophesy against Gog and declare that this is what the Lord GOD says: Behold, I am against you, O Gog, chief prince of Meshech and Tubal.[^3104..."
+description: >
+  Read Ezekiel 39 Online | “As for you, O son of man, prophesy against Gog and declare that this is what the Lord GOD says: Behold, I am against you, O Gog, chief prince of Meshech and Tubal.[^3104...
 weight: 39
 ---
 

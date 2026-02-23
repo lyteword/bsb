@@ -1,7 +1,8 @@
 ---
 title: "Ecclesiastes 8 BSB | Read the Bible Online"
 linkTitle: "8"
-description: "Read Ecclesiastes 8 Online | Who is like the wise man? Who knows the interpretation of a matter? A man’s wisdom brightens his face, and the sternness of his face is changed..."
+description: >
+  Read Ecclesiastes 8 Online | Who is like the wise man? Who knows the interpretation of a matter? A man’s wisdom brightens his face, and the sternness of his face is changed...
 weight: 8
 ---
 

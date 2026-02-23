@@ -1,7 +1,8 @@
 ---
 title: "Esther 3 BSB | Read the Bible Online"
 linkTitle: "3"
-description: "Read Esther 3 Online | After these events, King Xerxes honored Haman son of Hammedatha, the Agagite, elevating him to a position above all the princes who were with him..."
+description: >
+  Read Esther 3 Online | After these events, King Xerxes honored Haman son of Hammedatha, the Agagite, elevating him to a position above all the princes who were with him...
 weight: 3
 ---
 

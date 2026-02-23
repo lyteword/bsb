@@ -1,7 +1,8 @@
 ---
 title: "Psalm 38 BSB | Read the Bible Online"
 linkTitle: "38"
-description: "Read Psalm 38 Online | O LORD, do not rebuke me in Your anger or discipline me in Your wrath..."
+description: >
+  Read Psalm 38 Online | O LORD, do not rebuke me in Your anger or discipline me in Your wrath...
 weight: 38
 ---
 

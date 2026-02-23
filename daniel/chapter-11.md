@@ -1,7 +1,8 @@
 ---
 title: "Daniel 11 BSB | Read the Bible Online"
 linkTitle: "11"
-description: "Read Daniel 11 Online | “And I, in the first year of Darius the Mede, stood up to strengthen and protect him..."
+description: >
+  Read Daniel 11 Online | “And I, in the first year of Darius the Mede, stood up to strengthen and protect him...
 weight: 11
 ---
 

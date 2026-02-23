@@ -1,7 +1,8 @@
 ---
 title: "Luke 7 BSB | Read the Bible Online"
 linkTitle: "7"
-description: "Read Luke 7 Online | When Jesus had concluded His discourse in the hearing of the people, He went to Capernaum..."
+description: >
+  Read Luke 7 Online | When Jesus had concluded His discourse in the hearing of the people, He went to Capernaum...
 weight: 7
 ---
 

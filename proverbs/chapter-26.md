@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 26 BSB | Read the Bible Online"
 linkTitle: "26"
-description: "Read Proverbs 26 Online | Like snow in summer and rain at harvest, honor does not befit a fool..."
+description: >
+  Read Proverbs 26 Online | Like snow in summer and rain at harvest, honor does not befit a fool...
 weight: 26
 ---
 

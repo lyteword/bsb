@@ -1,7 +1,8 @@
 ---
 title: "Psalm 80 BSB | Read the Bible Online"
 linkTitle: "80"
-description: "Read Psalm 80 Online | Hear us, O Shepherd of Israel, who leads Joseph like a flock; You who sit enthroned between the cherubim, shine forth..."
+description: >
+  Read Psalm 80 Online | Hear us, O Shepherd of Israel, who leads Joseph like a flock; You who sit enthroned between the cherubim, shine forth...
 weight: 80
 ---
 

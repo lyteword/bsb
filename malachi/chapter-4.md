@@ -1,7 +1,8 @@
 ---
 title: "Malachi 4 BSB | Read the Bible Online"
 linkTitle: "4"
-description: "Read Malachi 4 Online | “For behold, the day is coming, burning like a furnace, when all the arrogant and every evildoer will be stubble; the day is coming when I will set them ablaze,” says the LORD of Hosts. “Not a root or branch will be left to them...."
+description: >
+  Read Malachi 4 Online | “For behold, the day is coming, burning like a furnace, when all the arrogant and every evildoer will be stubble; the day is coming when I will set them ablaze,” says the LORD of Hosts. “Not a root or branch will be left to them....
 weight: 4
 ---
 

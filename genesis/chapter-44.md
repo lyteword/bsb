@@ -1,7 +1,8 @@
 ---
 title: "Genesis 44 BSB | Read the Bible Online"
 linkTitle: "44"
-description: "Read Genesis 44 Online | Then Joseph instructed his steward: “Fill the men’s sacks with as much food as they can carry, and put each one’s silver in the mouth of his sack..."
+description: >
+  Read Genesis 44 Online | Then Joseph instructed his steward: “Fill the men’s sacks with as much food as they can carry, and put each one’s silver in the mouth of his sack...
 weight: 44
 ---
 

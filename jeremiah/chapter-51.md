@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 51 BSB | Read the Bible Online"
 linkTitle: "51"
-description: "Read Jeremiah 51 Online | This is what the LORD says: “Behold, I will stir up against Babylon and against the people of Leb-kamai [^2963] the spirit of a destroyer..."
+description: >
+  Read Jeremiah 51 Online | This is what the LORD says: “Behold, I will stir up against Babylon and against the people of Leb-kamai the spirit of a destroyer...
 weight: 51
 ---
 

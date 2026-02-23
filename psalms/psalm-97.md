@@ -1,7 +1,8 @@
 ---
 title: "Psalm 97 BSB | Read the Bible Online"
 linkTitle: "97"
-description: "Read Psalm 97 Online | The LORD reigns, let the earth rejoice; let the distant shores be glad..."
+description: >
+  Read Psalm 97 Online | The LORD reigns, let the earth rejoice; let the distant shores be glad...
 weight: 97
 ---
 

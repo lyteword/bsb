@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 6 BSB | Read the Bible Online"
 linkTitle: "6"
-description: "Read Isaiah 6 Online | In the year that King Uzziah died, I saw the Lord seated on a throne, high and exalted; and the train of His robe [^2569] filled the temple..."
+description: >
+  Read Isaiah 6 Online | In the year that King Uzziah died, I saw the Lord seated on a throne, high and exalted; and the train of His robe filled the temple...
 weight: 6
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 19 BSB | Read the Bible Online"
 linkTitle: "19"
-description: "Read Jeremiah 19 Online | This is what the LORD says: “Go and buy a clay jar from a potter. Take some of the elders of the people and leaders of the priests..."
+description: >
+  Read Jeremiah 19 Online | This is what the LORD says: “Go and buy a clay jar from a potter. Take some of the elders of the people and leaders of the priests...
 weight: 19
 ---
 

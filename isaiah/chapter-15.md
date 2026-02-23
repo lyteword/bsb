@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 15 BSB | Read the Bible Online"
 linkTitle: "15"
-description: "Read Isaiah 15 Online | This is the burden against Moab: Ar in Moab is ruined, destroyed in a night! Kir in Moab is devastated, destroyed in a night..."
+description: >
+  Read Isaiah 15 Online | This is the burden against Moab: Ar in Moab is ruined, destroyed in a night! Kir in Moab is devastated, destroyed in a night...
 weight: 15
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Zechariah 8 BSB | Read the Bible Online"
 linkTitle: "8"
-description: "Read Zechariah 8 Online | Again the word of the LORD of Hosts came to me, saying..."
+description: >
+  Read Zechariah 8 Online | Again the word of the LORD of Hosts came to me, saying...
 weight: 8
 ---
 

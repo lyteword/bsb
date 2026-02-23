@@ -1,7 +1,8 @@
 ---
 title: "Psalm 109 BSB | Read the Bible Online"
 linkTitle: "109"
-description: "Read Psalm 109 Online | O God of my praise, be not silent..."
+description: >
+  Read Psalm 109 Online | O God of my praise, be not silent...
 weight: 109
 ---
 

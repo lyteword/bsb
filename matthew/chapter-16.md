@@ -1,7 +1,8 @@
 ---
 title: "Matthew 16 BSB | Read the Bible Online"
 linkTitle: "16"
-description: "Read Matthew 16 Online | Then the Pharisees and Sadducees came and tested Jesus by asking Him to show them a sign from heaven..."
+description: >
+  Read Matthew 16 Online | Then the Pharisees and Sadducees came and tested Jesus by asking Him to show them a sign from heaven...
 weight: 16
 ---
 

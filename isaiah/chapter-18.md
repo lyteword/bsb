@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 18 BSB | Read the Bible Online"
 linkTitle: "18"
-description: "Read Isaiah 18 Online | Woe to the land of whirring wings,[^2624] along the rivers of Cush,[^2625..."
+description: >
+  Read Isaiah 18 Online | Woe to the land of whirring wings, along the rivers of Cush,[^2625...
 weight: 18
 ---
 

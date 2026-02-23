@@ -1,7 +1,8 @@
 ---
 title: "Zechariah 4 BSB | Read the Bible Online"
 linkTitle: "4"
-description: "Read Zechariah 4 Online | Then the angel who was speaking with me returned and woke me, as a man is awakened from his sleep..."
+description: >
+  Read Zechariah 4 Online | Then the angel who was speaking with me returned and woke me, as a man is awakened from his sleep...
 weight: 4
 ---
 

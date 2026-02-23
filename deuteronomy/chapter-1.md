@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 1 BSB | Read the Bible Online"
 linkTitle: "1"
-description: "Read Deuteronomy 1 Online | These are the words that Moses spoke to all Israel in the wilderness east of the Jordan—in the Arabah opposite Suph—between Paran and Tophel, Laban, Hazeroth, and Dizahab..."
+description: >
+  Read Deuteronomy 1 Online | These are the words that Moses spoke to all Israel in the wilderness east of the Jordan—in the Arabah opposite Suph—between Paran and Tophel, Laban, Hazeroth, and Dizahab...
 weight: 1
 ---
 

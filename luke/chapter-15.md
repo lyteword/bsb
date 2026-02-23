@@ -1,7 +1,8 @@
 ---
 title: "Luke 15 BSB | Read the Bible Online"
 linkTitle: "15"
-description: "Read Luke 15 Online | Now all the tax collectors and sinners were gathering around to listen to Jesus..."
+description: >
+  Read Luke 15 Online | Now all the tax collectors and sinners were gathering around to listen to Jesus...
 weight: 15
 ---
 

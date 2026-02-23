@@ -1,7 +1,8 @@
 ---
 title: "Galatians 3 BSB | Read the Bible Online"
 linkTitle: "3"
-description: "Read Galatians 3 Online | O foolish Galatians! Who has bewitched you? Before your very eyes Jesus Christ was clearly portrayed as crucified..."
+description: >
+  Read Galatians 3 Online | O foolish Galatians! Who has bewitched you? Before your very eyes Jesus Christ was clearly portrayed as crucified...
 weight: 3
 ---
 

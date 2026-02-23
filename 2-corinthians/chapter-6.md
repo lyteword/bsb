@@ -1,7 +1,8 @@
 ---
 title: "2 Corinthians 6 BSB | Read the Bible Online"
 linkTitle: "6"
-description: "Read 2 Corinthians 6 Online | As God’s fellow workers,[^4459] then, we urge you not to receive God’s grace in vain..."
+description: >
+  Read 2 Corinthians 6 Online | As God’s fellow workers, then, we urge you not to receive God’s grace in vain...
 weight: 6
 ---
 

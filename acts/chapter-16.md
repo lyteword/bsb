@@ -1,7 +1,8 @@
 ---
 title: "Acts 16 BSB | Read the Bible Online"
 linkTitle: "16"
-description: "Read Acts 16 Online | Paul came to Derbe and then to Lystra, where he found a disciple named Timothy, the son of a believing Jewish woman and a Greek father..."
+description: >
+  Read Acts 16 Online | Paul came to Derbe and then to Lystra, where he found a disciple named Timothy, the son of a believing Jewish woman and a Greek father...
 weight: 16
 ---
 

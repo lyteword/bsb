@@ -1,7 +1,8 @@
 ---
 title: "Psalm 45 BSB | Read the Bible Online"
 linkTitle: "45"
-description: "Read Psalm 45 Online | My heart is stirred by a noble theme as I recite my verses to the king;[^2241] my tongue is the pen of a skillful writer..."
+description: >
+  Read Psalm 45 Online | My heart is stirred by a noble theme as I recite my verses to the king; my tongue is the pen of a skillful writer...
 weight: 45
 ---
 

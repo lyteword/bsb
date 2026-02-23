@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 30 BSB | Read the Bible Online"
 linkTitle: "30"
-description: "Read Isaiah 30 Online | “Woe to the rebellious children,” declares the LORD, “to those who carry out a plan that is not Mine, who form an alliance, but against My will, heaping up sin upon sin..."
+description: >
+  Read Isaiah 30 Online | “Woe to the rebellious children,” declares the LORD, “to those who carry out a plan that is not Mine, who form an alliance, but against My will, heaping up sin upon sin...
 weight: 30
 ---
 

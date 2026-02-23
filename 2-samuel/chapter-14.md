@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 14 BSB | Read the Bible Online"
 linkTitle: "14"
-description: "Read 2 Samuel 14 Online | Now Joab son of Zeruiah perceived that the king’s heart longed for Absalom..."
+description: >
+  Read 2 Samuel 14 Online | Now Joab son of Zeruiah perceived that the king’s heart longed for Absalom...
 weight: 14
 ---
 

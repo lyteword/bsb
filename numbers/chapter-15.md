@@ -1,7 +1,8 @@
 ---
 title: "Numbers 15 BSB | Read the Bible Online"
 linkTitle: "15"
-description: "Read Numbers 15 Online | Then the LORD said to Moses..."
+description: >
+  Read Numbers 15 Online | Then the LORD said to Moses...
 weight: 15
 ---
 

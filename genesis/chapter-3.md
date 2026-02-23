@@ -1,7 +1,8 @@
 ---
 title: "Genesis 3 BSB | Read the Bible Online"
 linkTitle: "3"
-description: "Read Genesis 3 Online | Now the serpent [^13] was more crafty than any beast of the field that the LORD God had made. And he said to the woman, “Did God really say, ‘You must not eat from any tree in the garden?’..."
+description: >
+  Read Genesis 3 Online | Now the serpent was more crafty than any beast of the field that the LORD God had made. And he said to the woman, “Did God really say, ‘You must not eat from any tree in the garden?’...
 weight: 3
 ---
 

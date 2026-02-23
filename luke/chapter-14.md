@@ -1,7 +1,8 @@
 ---
 title: "Luke 14 BSB | Read the Bible Online"
 linkTitle: "14"
-description: "Read Luke 14 Online | One Sabbath, Jesus went to eat in the home of a leading Pharisee, and those in attendance were watching Him closely..."
+description: >
+  Read Luke 14 Online | One Sabbath, Jesus went to eat in the home of a leading Pharisee, and those in attendance were watching Him closely...
 weight: 14
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 14 BSB | Read the Bible Online"
 linkTitle: "14"
-description: "Read 1 Samuel 14 Online | One day Jonathan son of Saul said to the young man bearing his armor, “Come, let us cross over to the Philistine outpost on the other side.” But Jonathan did not tell his father..."
+description: >
+  Read 1 Samuel 14 Online | One day Jonathan son of Saul said to the young man bearing his armor, “Come, let us cross over to the Philistine outpost on the other side.” But Jonathan did not tell his father...
 weight: 14
 ---
 

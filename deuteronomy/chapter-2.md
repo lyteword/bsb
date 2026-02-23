@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 2 BSB | Read the Bible Online"
 linkTitle: "2"
-description: "Read Deuteronomy 2 Online | Then we turned back and headed for the wilderness by way of the Red Sea,[^650] as the LORD had instructed me, and for many days we wandered around Mount Seir..."
+description: >
+  Read Deuteronomy 2 Online | Then we turned back and headed for the wilderness by way of the Red Sea, as the LORD had instructed me, and for many days we wandered around Mount Seir...
 weight: 2
 ---
 

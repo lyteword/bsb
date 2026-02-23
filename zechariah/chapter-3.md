@@ -1,7 +1,8 @@
 ---
 title: "Zechariah 3 BSB | Read the Bible Online"
 linkTitle: "3"
-description: "Read Zechariah 3 Online | Then the angel showed me Joshua the high priest standing before the angel [^3480] of the LORD, with Satan [^3481] standing at his right hand to accuse him..."
+description: >
+  Read Zechariah 3 Online | Then the angel showed me Joshua the high priest standing before the angel of the LORD, with Satan standing at his right hand to accuse him...
 weight: 3
 ---
 

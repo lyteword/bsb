@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 31 BSB | Read the Bible Online"
 linkTitle: "31"
-description: "Read Ezekiel 31 Online | In the eleventh year, on the first day of the third month, the word of the LORD came to me, saying..."
+description: >
+  Read Ezekiel 31 Online | In the eleventh year, on the first day of the third month, the word of the LORD came to me, saying...
 weight: 31
 ---
 

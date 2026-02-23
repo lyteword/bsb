@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 34 BSB | Read the Bible Online"
 linkTitle: "34"
-description: "Read Deuteronomy 34 Online | Then Moses went up from the plains of Moab to Mount Nebo, to the top of Pisgah, which faces Jericho. And the LORD showed him the whole land—from Gilead as far as Dan..."
+description: >
+  Read Deuteronomy 34 Online | Then Moses went up from the plains of Moab to Mount Nebo, to the top of Pisgah, which faces Jericho. And the LORD showed him the whole land—from Gilead as far as Dan...
 weight: 34
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 112 BSB | Read the Bible Online"
 linkTitle: "112"
-description: "Read Psalm 112 Online | Hallelujah![^2380] Blessed is the man who fears the LORD, who greatly delights in His commandments..."
+description: >
+  Read Psalm 112 Online | Hallelujah! Blessed is the man who fears the LORD, who greatly delights in His commandments...
 weight: 112
 ---
 

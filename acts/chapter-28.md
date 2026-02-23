@@ -1,7 +1,8 @@
 ---
 title: "Acts 28 BSB | Read the Bible Online"
 linkTitle: "28"
-description: "Read Acts 28 Online | Once we were safely ashore, we learned that the island was called Malta..."
+description: >
+  Read Acts 28 Online | Once we were safely ashore, we learned that the island was called Malta...
 weight: 28
 ---
 

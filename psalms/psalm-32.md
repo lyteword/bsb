@@ -1,7 +1,8 @@
 ---
 title: "Psalm 32 BSB | Read the Bible Online"
 linkTitle: "32"
-description: "Read Psalm 32 Online | Blessed is he whose transgressions are forgiven, whose sins are covered.[^2210..."
+description: >
+  Read Psalm 32 Online | Blessed is he whose transgressions are forgiven, whose sins are covered.[^2210...
 weight: 32
 ---
 

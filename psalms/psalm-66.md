@@ -1,7 +1,8 @@
 ---
 title: "Psalm 66 BSB | Read the Bible Online"
 linkTitle: "66"
-description: "Read Psalm 66 Online | Make a joyful noise to God, all the earth..."
+description: >
+  Read Psalm 66 Online | Make a joyful noise to God, all the earth...
 weight: 66
 ---
 

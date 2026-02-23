@@ -1,7 +1,8 @@
 ---
 title: "Ezra 8 BSB | Read the Bible Online"
 linkTitle: "8"
-description: "Read Ezra 8 Online | These are the family heads and genealogical records of those who returned with me from Babylon during the reign of King Artaxerxes..."
+description: >
+  Read Ezra 8 Online | These are the family heads and genealogical records of those who returned with me from Babylon during the reign of King Artaxerxes...
 weight: 8
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 17 BSB | Read the Bible Online"
 linkTitle: "17"
-description: "Read 2 Samuel 17 Online | Furthermore, Ahithophel said to Absalom, “Let me choose twelve thousand men and set out tonight in pursuit of David..."
+description: >
+  Read 2 Samuel 17 Online | Furthermore, Ahithophel said to Absalom, “Let me choose twelve thousand men and set out tonight in pursuit of David...
 weight: 17
 ---
 

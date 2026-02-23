@@ -1,7 +1,8 @@
 ---
 title: "Numbers 13 BSB | Read the Bible Online"
 linkTitle: "13"
-description: "Read Numbers 13 Online | And the LORD said to Moses..."
+description: >
+  Read Numbers 13 Online | And the LORD said to Moses...
 weight: 13
 ---
 

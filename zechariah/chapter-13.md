@@ -1,7 +1,8 @@
 ---
 title: "Zechariah 13 BSB | Read the Bible Online"
 linkTitle: "13"
-description: "Read Zechariah 13 Online | “On that day a fountain will be opened to the house of David and the people of Jerusalem, to cleanse them from sin and impurity..."
+description: >
+  Read Zechariah 13 Online | “On that day a fountain will be opened to the house of David and the people of Jerusalem, to cleanse them from sin and impurity...
 weight: 13
 ---
 

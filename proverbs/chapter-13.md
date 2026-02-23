@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 13 BSB | Read the Bible Online"
 linkTitle: "13"
-description: "Read Proverbs 13 Online | A wise son heeds his father’s discipline, but a mocker does not listen to rebuke..."
+description: >
+  Read Proverbs 13 Online | A wise son heeds his father’s discipline, but a mocker does not listen to rebuke...
 weight: 13
 ---
 

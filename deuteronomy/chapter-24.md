@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 24 BSB | Read the Bible Online"
 linkTitle: "24"
-description: "Read Deuteronomy 24 Online | If a man marries a woman, but she becomes displeasing to him because he finds some indecency in her, he may write her a certificate of divorce,[^726] hand it to her, and send her away from his house..."
+description: >
+  Read Deuteronomy 24 Online | If a man marries a woman, but she becomes displeasing to him because he finds some indecency in her, he may write her a certificate of divorce, hand it to her, and send her away from his house...
 weight: 24
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Job 41 BSB | Read the Bible Online"
 linkTitle: "41"
-description: "Read Job 41 Online | “Can you pull in Leviathan with a hook or tie down his tongue with a rope..."
+description: >
+  Read Job 41 Online | “Can you pull in Leviathan with a hook or tie down his tongue with a rope...
 weight: 41
 ---
 

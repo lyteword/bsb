@@ -1,7 +1,8 @@
 ---
 title: "Hebrews 10 BSB | Read the Bible Online"
 linkTitle: "10"
-description: "Read Hebrews 10 Online | For the law is only a shadow of the good things to come, not the realities themselves. It can never, by the same sacrifices offered year after year, make perfect those who draw near to worship..."
+description: >
+  Read Hebrews 10 Online | For the law is only a shadow of the good things to come, not the realities themselves. It can never, by the same sacrifices offered year after year, make perfect those who draw near to worship...
 weight: 10
 ---
 

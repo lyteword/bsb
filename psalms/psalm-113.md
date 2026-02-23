@@ -1,7 +1,8 @@
 ---
 title: "Psalm 113 BSB | Read the Bible Online"
 linkTitle: "113"
-description: "Read Psalm 113 Online | Hallelujah![^2382] Give praise, O servants of the LORD; praise the name of the LORD..."
+description: >
+  Read Psalm 113 Online | Hallelujah! Give praise, O servants of the LORD; praise the name of the LORD...
 weight: 113
 ---
 

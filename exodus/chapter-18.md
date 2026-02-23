@@ -1,7 +1,8 @@
 ---
 title: "Exodus 18 BSB | Read the Bible Online"
 linkTitle: "18"
-description: "Read Exodus 18 Online | Now Moses’ father-in-law Jethro,[^313] the priest of Midian, heard about all that God had done for Moses and His people Israel, and how the LORD had brought Israel out of Egypt..."
+description: >
+  Read Exodus 18 Online | Now Moses’ father-in-law Jethro, the priest of Midian, heard about all that God had done for Moses and His people Israel, and how the LORD had brought Israel out of Egypt...
 weight: 18
 ---
 

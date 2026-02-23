@@ -1,7 +1,8 @@
 ---
 title: "Luke 5 BSB | Read the Bible Online"
 linkTitle: "5"
-description: "Read Luke 5 Online | On one occasion, while Jesus was standing by the Lake of Gennesaret [^3898] with the crowd pressing in on Him to hear the word of God..."
+description: >
+  Read Luke 5 Online | On one occasion, while Jesus was standing by the Lake of Gennesaret with the crowd pressing in on Him to hear the word of God...
 weight: 5
 ---
 

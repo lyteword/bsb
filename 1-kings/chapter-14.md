@@ -1,7 +1,8 @@
 ---
 title: "1 Kings 14 BSB | Read the Bible Online"
 linkTitle: "14"
-description: "Read 1 Kings 14 Online | At that time Abijah son of Jeroboam became ill..."
+description: >
+  Read 1 Kings 14 Online | At that time Abijah son of Jeroboam became ill...
 weight: 14
 ---
 

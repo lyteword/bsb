@@ -1,7 +1,8 @@
 ---
 title: "Zechariah 10 BSB | Read the Bible Online"
 linkTitle: "10"
-description: "Read Zechariah 10 Online | Ask the LORD for rain in springtime; the LORD makes the storm clouds, and He will give everyone showers of rain and crops in the field..."
+description: >
+  Read Zechariah 10 Online | Ask the LORD for rain in springtime; the LORD makes the storm clouds, and He will give everyone showers of rain and crops in the field...
 weight: 10
 ---
 

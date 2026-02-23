@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 28 BSB | Read the Bible Online"
 linkTitle: "28"
-description: "Read Jeremiah 28 Online | In the fifth month of that same year, the fourth year, near the beginning of the reign of King Zedekiah of Judah, the prophet Hananiah son of Azzur, who was from Gibeon, said to me in the house of the LORD in the presence of the priests and all the people..."
+description: >
+  Read Jeremiah 28 Online | In the fifth month of that same year, the fourth year, near the beginning of the reign of King Zedekiah of Judah, the prophet Hananiah son of Azzur, who was from Gibeon, said to me in the house of the LORD in the presence of the priests and all the people...
 weight: 28
 ---
 

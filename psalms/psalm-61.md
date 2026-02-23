@@ -1,7 +1,8 @@
 ---
 title: "Psalm 61 BSB | Read the Bible Online"
 linkTitle: "61"
-description: "Read Psalm 61 Online | Hear my cry, O God; attend to my prayer..."
+description: >
+  Read Psalm 61 Online | Hear my cry, O God; attend to my prayer...
 weight: 61
 ---
 

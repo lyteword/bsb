@@ -1,7 +1,8 @@
 ---
 title: "Exodus 24 BSB | Read the Bible Online"
 linkTitle: "24"
-description: "Read Exodus 24 Online | Then the LORD said to Moses, “Come up to the LORD—you and Aaron, Nadab and Abihu, and seventy of Israel’s elders—and you are to worship at a distance..."
+description: >
+  Read Exodus 24 Online | Then the LORD said to Moses, “Come up to the LORD—you and Aaron, Nadab and Abihu, and seventy of Israel’s elders—and you are to worship at a distance...
 weight: 24
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "1 Kings 22 BSB | Read the Bible Online"
 linkTitle: "22"
-description: "Read 1 Kings 22 Online | Then three years passed without war between Aram and Israel..."
+description: >
+  Read 1 Kings 22 Online | Then three years passed without war between Aram and Israel...
 weight: 22
 ---
 

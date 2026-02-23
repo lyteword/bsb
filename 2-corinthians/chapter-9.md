@@ -1,7 +1,8 @@
 ---
 title: "2 Corinthians 9 BSB | Read the Bible Online"
 linkTitle: "9"
-description: "Read 2 Corinthians 9 Online | Now about the service to the saints, there is no need for me to write to you..."
+description: >
+  Read 2 Corinthians 9 Online | Now about the service to the saints, there is no need for me to write to you...
 weight: 9
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 50 BSB | Read the Bible Online"
 linkTitle: "50"
-description: "Read Jeremiah 50 Online | This is the word that the LORD spoke through Jeremiah the prophet concerning Babylon and the land of the Chaldeans:[^2956..."
+description: >
+  Read Jeremiah 50 Online | This is the word that the LORD spoke through Jeremiah the prophet concerning Babylon and the land of the Chaldeans:[^2956...
 weight: 50
 ---
 

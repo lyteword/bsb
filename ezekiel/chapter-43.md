@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 43 BSB | Read the Bible Online"
 linkTitle: "43"
-description: "Read Ezekiel 43 Online | Then the man brought me back to the gate that faces east..."
+description: >
+  Read Ezekiel 43 Online | Then the man brought me back to the gate that faces east...
 weight: 43
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 23 BSB | Read the Bible Online"
 linkTitle: "23"
-description: "Read 2 Chronicles 23 Online | Then in the seventh year, Jehoiada strengthened himself and made a covenant with the commanders of hundreds—with Azariah son of Jeroham, Ishmael son of Jehohanan, Azariah son of Obed, Maaseiah son of Adaiah, and Elishaphat son of Zichri..."
+description: >
+  Read 2 Chronicles 23 Online | Then in the seventh year, Jehoiada strengthened himself and made a covenant with the commanders of hundreds—with Azariah son of Jeroham, Ishmael son of Jehohanan, Azariah son of Obed, Maaseiah son of Adaiah, and Elishaphat son of Zichri...
 weight: 23
 ---
 

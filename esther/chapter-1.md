@@ -1,7 +1,8 @@
 ---
 title: "Esther 1 BSB | Read the Bible Online"
 linkTitle: "1"
-description: "Read Esther 1 Online | This is what happened in the days of Xerxes,[^2033] who reigned over 127 provinces from India to Cush.[^2034..."
+description: >
+  Read Esther 1 Online | This is what happened in the days of Xerxes, who reigned over 127 provinces from India to Cush.[^2034...
 weight: 1
 ---
 

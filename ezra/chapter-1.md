@@ -1,7 +1,8 @@
 ---
 title: "Ezra 1 BSB | Read the Bible Online"
 linkTitle: "1"
-description: "Read Ezra 1 Online | In the first year of Cyrus king of Persia, to fulfill the word of the LORD spoken through Jeremiah, the LORD stirred the spirit of Cyrus king of Persia to send a proclamation throughout his kingdom and to put it in writing as follows..."
+description: >
+  Read Ezra 1 Online | In the first year of Cyrus king of Persia, to fulfill the word of the LORD spoken through Jeremiah, the LORD stirred the spirit of Cyrus king of Persia to send a proclamation throughout his kingdom and to put it in writing as follows...
 weight: 1
 ---
 

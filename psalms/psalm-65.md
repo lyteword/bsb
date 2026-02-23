@@ -1,7 +1,8 @@
 ---
 title: "Psalm 65 BSB | Read the Bible Online"
 linkTitle: "65"
-description: "Read Psalm 65 Online | Praise awaits You, O God, in Zion; to You our vows will be fulfilled..."
+description: >
+  Read Psalm 65 Online | Praise awaits You, O God, in Zion; to You our vows will be fulfilled...
 weight: 65
 ---
 

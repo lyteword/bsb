@@ -1,7 +1,8 @@
 ---
 title: "Psalm 21 BSB | Read the Bible Online"
 linkTitle: "21"
-description: "Read Psalm 21 Online | O LORD, the king rejoices in Your strength. How greatly he exults in Your salvation..."
+description: >
+  Read Psalm 21 Online | O LORD, the king rejoices in Your strength. How greatly he exults in Your salvation...
 weight: 21
 ---
 

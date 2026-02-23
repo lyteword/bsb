@@ -1,7 +1,8 @@
 ---
 title: "Acts 10 BSB | Read the Bible Online"
 linkTitle: "10"
-description: "Read Acts 10 Online | At Caesarea there was a man named Cornelius, a centurion in what was called the Italian Regiment..."
+description: >
+  Read Acts 10 Online | At Caesarea there was a man named Cornelius, a centurion in what was called the Italian Regiment...
 weight: 10
 ---
 

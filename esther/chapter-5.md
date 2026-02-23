@@ -1,7 +1,8 @@
 ---
 title: "Esther 5 BSB | Read the Bible Online"
 linkTitle: "5"
-description: "Read Esther 5 Online | On the third day, Esther put on her royal robes and stood in the inner court of the palace across from the king’s quarters. The king was sitting on his royal throne in the royal courtroom, facing the entrance..."
+description: >
+  Read Esther 5 Online | On the third day, Esther put on her royal robes and stood in the inner court of the palace across from the king’s quarters. The king was sitting on his royal throne in the royal courtroom, facing the entrance...
 weight: 5
 ---
 

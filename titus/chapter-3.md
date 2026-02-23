@@ -1,7 +1,8 @@
 ---
 title: "Titus 3 BSB | Read the Bible Online"
 linkTitle: "3"
-description: "Read Titus 3 Online | Remind the believers to submit to rulers and authorities, to be obedient and ready for every good work..."
+description: >
+  Read Titus 3 Online | Remind the believers to submit to rulers and authorities, to be obedient and ready for every good work...
 weight: 3
 ---
 

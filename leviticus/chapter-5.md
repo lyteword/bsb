@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 5 BSB | Read the Bible Online"
 linkTitle: "5"
-description: "Read Leviticus 5 Online | “If someone sins by failing to testify when he hears a public charge about something he has witnessed, whether he has seen it or learned of it, he shall bear the iniquity..."
+description: >
+  Read Leviticus 5 Online | “If someone sins by failing to testify when he hears a public charge about something he has witnessed, whether he has seen it or learned of it, he shall bear the iniquity...
 weight: 5
 ---
 

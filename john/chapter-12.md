@@ -1,7 +1,8 @@
 ---
 title: "John 12 BSB | Read the Bible Online"
 linkTitle: "12"
-description: "Read John 12 Online | Six days before the Passover, Jesus came to Bethany, the hometown of Lazarus, whom He had raised from the dead..."
+description: >
+  Read John 12 Online | Six days before the Passover, Jesus came to Bethany, the hometown of Lazarus, whom He had raised from the dead...
 weight: 12
 ---
 

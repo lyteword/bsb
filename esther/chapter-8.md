@@ -1,7 +1,8 @@
 ---
 title: "Esther 8 BSB | Read the Bible Online"
 linkTitle: "8"
-description: "Read Esther 8 Online | That same day King Xerxes awarded Queen Esther the estate of Haman, the enemy of the Jews. And Mordecai entered the king’s presence because Esther had revealed his relation to her..."
+description: >
+  Read Esther 8 Online | That same day King Xerxes awarded Queen Esther the estate of Haman, the enemy of the Jews. And Mordecai entered the king’s presence because Esther had revealed his relation to her...
 weight: 8
 ---
 

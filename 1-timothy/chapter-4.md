@@ -1,7 +1,8 @@
 ---
 title: "1 Timothy 4 BSB | Read the Bible Online"
 linkTitle: "4"
-description: "Read 1 Timothy 4 Online | Now the Spirit expressly states that in later times some will abandon the faith to follow deceitful spirits and the teachings of demons..."
+description: >
+  Read 1 Timothy 4 Online | Now the Spirit expressly states that in later times some will abandon the faith to follow deceitful spirits and the teachings of demons...
 weight: 4
 ---
 

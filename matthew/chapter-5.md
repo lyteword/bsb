@@ -1,7 +1,8 @@
 ---
 title: "Matthew 5 BSB | Read the Bible Online"
 linkTitle: "5"
-description: "Read Matthew 5 Online | When Jesus saw the crowds, He went up on the mountain and sat down. His disciples came to Him..."
+description: >
+  Read Matthew 5 Online | When Jesus saw the crowds, He went up on the mountain and sat down. His disciples came to Him...
 weight: 5
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Luke 23 BSB | Read the Bible Online"
 linkTitle: "23"
-description: "Read Luke 23 Online | Then the whole council rose and led Jesus away to Pilate..."
+description: >
+  Read Luke 23 Online | Then the whole council rose and led Jesus away to Pilate...
 weight: 23
 ---
 

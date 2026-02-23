@@ -1,7 +1,8 @@
 ---
 title: "Psalm 107 BSB | Read the Bible Online"
 linkTitle: "107"
-description: "Read Psalm 107 Online | Give thanks to the LORD, for He is good; His loving devotion endures forever..."
+description: >
+  Read Psalm 107 Online | Give thanks to the LORD, for He is good; His loving devotion endures forever...
 weight: 107
 ---
 

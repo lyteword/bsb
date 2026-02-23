@@ -1,7 +1,8 @@
 ---
 title: "Romans 5 BSB | Read the Bible Online"
 linkTitle: "5"
-description: "Read Romans 5 Online | Therefore, since we have been justified through faith, we have [^4307] peace with God through our Lord Jesus Christ..."
+description: >
+  Read Romans 5 Online | Therefore, since we have been justified through faith, we have peace with God through our Lord Jesus Christ...
 weight: 5
 ---
 

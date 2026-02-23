@@ -1,7 +1,8 @@
 ---
 title: "Genesis 21 BSB | Read the Bible Online"
 linkTitle: "21"
-description: "Read Genesis 21 Online | Now the LORD attended to Sarah as He had said, and the LORD did for Sarah what He had promised..."
+description: >
+  Read Genesis 21 Online | Now the LORD attended to Sarah as He had said, and the LORD did for Sarah what He had promised...
 weight: 21
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 17 BSB | Read the Bible Online"
 linkTitle: "17"
-description: "Read 2 Chronicles 17 Online | Asa’s son Jehoshaphat reigned in his place, and he strengthened himself against Israel..."
+description: >
+  Read 2 Chronicles 17 Online | Asa’s son Jehoshaphat reigned in his place, and he strengthened himself against Israel...
 weight: 17
 ---
 

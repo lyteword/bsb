@@ -1,7 +1,8 @@
 ---
 title: "Psalm 79 BSB | Read the Bible Online"
 linkTitle: "79"
-description: "Read Psalm 79 Online | The nations, O God, have invaded Your inheritance; they have defiled Your holy temple and reduced Jerusalem to rubble..."
+description: >
+  Read Psalm 79 Online | The nations, O God, have invaded Your inheritance; they have defiled Your holy temple and reduced Jerusalem to rubble...
 weight: 79
 ---
 

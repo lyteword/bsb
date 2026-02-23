@@ -1,7 +1,8 @@
 ---
 title: "Mark 2 BSB | Read the Bible Online"
 linkTitle: "2"
-description: "Read Mark 2 Online | A few days later Jesus went back to Capernaum. And when the people heard that He was home..."
+description: >
+  Read Mark 2 Online | A few days later Jesus went back to Capernaum. And when the people heard that He was home...
 weight: 2
 ---
 

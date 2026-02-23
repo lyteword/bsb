@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 7 BSB | Read the Bible Online"
 linkTitle: "7"
-description: "Read 2 Samuel 7 Online | After the king had settled into his palace and the LORD had given him rest from all his enemies around him..."
+description: >
+  Read 2 Samuel 7 Online | After the king had settled into his palace and the LORD had given him rest from all his enemies around him...
 weight: 7
 ---
 

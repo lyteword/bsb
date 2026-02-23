@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 55 BSB | Read the Bible Online"
 linkTitle: "55"
-description: "Read Isaiah 55 Online | “Come, all you who are thirsty, come to the waters; and you without money, come, buy, and eat! Come, buy wine and milk without money and without cost..."
+description: >
+  Read Isaiah 55 Online | “Come, all you who are thirsty, come to the waters; and you without money, come, buy, and eat! Come, buy wine and milk without money and without cost...
 weight: 55
 ---
 

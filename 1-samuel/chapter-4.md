@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 4 BSB | Read the Bible Online"
 linkTitle: "4"
-description: "Read 1 Samuel 4 Online | Thus the word of Samuel came to all Israel. Now the Israelites went out to meet the Philistines in battle and camped at Ebenezer, while the Philistines camped at Aphek..."
+description: >
+  Read 1 Samuel 4 Online | Thus the word of Samuel came to all Israel. Now the Israelites went out to meet the Philistines in battle and camped at Ebenezer, while the Philistines camped at Aphek...
 weight: 4
 ---
 

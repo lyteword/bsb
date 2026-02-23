@@ -1,7 +1,8 @@
 ---
 title: "Acts 19 BSB | Read the Bible Online"
 linkTitle: "19"
-description: "Read Acts 19 Online | While Apollos was at Corinth, Paul passed through the interior [^4233] and came to Ephesus. There he found some disciples..."
+description: >
+  Read Acts 19 Online | While Apollos was at Corinth, Paul passed through the interior and came to Ephesus. There he found some disciples...
 weight: 19
 ---
 

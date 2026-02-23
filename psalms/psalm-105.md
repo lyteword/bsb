@@ -1,7 +1,8 @@
 ---
 title: "Psalm 105 BSB | Read the Bible Online"
 linkTitle: "105"
-description: "Read Psalm 105 Online | Give thanks to the LORD, call upon His name; make known His deeds among the nations..."
+description: >
+  Read Psalm 105 Online | Give thanks to the LORD, call upon His name; make known His deeds among the nations...
 weight: 105
 ---
 

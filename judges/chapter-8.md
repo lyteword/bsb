@@ -1,7 +1,8 @@
 ---
 title: "Judges 8 BSB | Read the Bible Online"
 linkTitle: "8"
-description: "Read Judges 8 Online | Then the men of Ephraim said to Gideon, “Why have you done this to us? Why did you fail to call us when you went to fight against Midian?” And they contended with him violently..."
+description: >
+  Read Judges 8 Online | Then the men of Ephraim said to Gideon, “Why have you done this to us? Why did you fail to call us when you went to fight against Midian?” And they contended with him violently...
 weight: 8
 ---
 

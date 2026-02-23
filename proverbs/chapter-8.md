@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 8 BSB | Read the Bible Online"
 linkTitle: "8"
-description: "Read Proverbs 8 Online | Does not wisdom call out, and understanding raise her voice..."
+description: >
+  Read Proverbs 8 Online | Does not wisdom call out, and understanding raise her voice...
 weight: 8
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 20 BSB | Read the Bible Online"
 linkTitle: "20"
-description: "Read Leviticus 20 Online | Then the LORD said to Moses..."
+description: >
+  Read Leviticus 20 Online | Then the LORD said to Moses...
 weight: 20
 ---
 

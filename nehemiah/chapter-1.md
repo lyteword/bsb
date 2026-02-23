@@ -1,7 +1,8 @@
 ---
 title: "Nehemiah 1 BSB | Read the Bible Online"
 linkTitle: "1"
-description: "Read Nehemiah 1 Online | These are the words of Nehemiah son of Hacaliah: In the month of Chislev,[^1942] in the twentieth year, while I was in the citadel of Susa..."
+description: >
+  Read Nehemiah 1 Online | These are the words of Nehemiah son of Hacaliah: In the month of Chislev, in the twentieth year, while I was in the citadel of Susa...
 weight: 1
 ---
 

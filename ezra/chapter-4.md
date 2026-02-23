@@ -1,7 +1,8 @@
 ---
 title: "Ezra 4 BSB | Read the Bible Online"
 linkTitle: "4"
-description: "Read Ezra 4 Online | When the enemies of Judah and Benjamin heard that the exiles were building a temple for the LORD, the God of Israel..."
+description: >
+  Read Ezra 4 Online | When the enemies of Judah and Benjamin heard that the exiles were building a temple for the LORD, the God of Israel...
 weight: 4
 ---
 

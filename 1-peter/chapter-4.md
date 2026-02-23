@@ -1,7 +1,8 @@
 ---
 title: "1 Peter 4 BSB | Read the Bible Online"
 linkTitle: "4"
-description: "Read 1 Peter 4 Online | Therefore, since Christ suffered [^4723] in His body, arm yourselves with the same resolve, because anyone who has suffered in his body is done with sin..."
+description: >
+  Read 1 Peter 4 Online | Therefore, since Christ suffered in His body, arm yourselves with the same resolve, because anyone who has suffered in his body is done with sin...
 weight: 4
 ---
 

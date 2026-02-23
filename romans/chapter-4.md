@@ -1,7 +1,8 @@
 ---
 title: "Romans 4 BSB | Read the Bible Online"
 linkTitle: "4"
-description: "Read Romans 4 Online | What then shall we say that Abraham, our forefather according to the flesh, has discovered..."
+description: >
+  Read Romans 4 Online | What then shall we say that Abraham, our forefather according to the flesh, has discovered...
 weight: 4
 ---
 

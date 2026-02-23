@@ -1,7 +1,8 @@
 ---
 title: "Numbers 36 BSB | Read the Bible Online"
 linkTitle: "36"
-description: "Read Numbers 36 Online | Now the family heads of the clan of Gilead son of Machir son of Manasseh, one of the clans of Joseph, approached Moses and the leaders who were the heads of the Israelite families and addressed them..."
+description: >
+  Read Numbers 36 Online | Now the family heads of the clan of Gilead son of Machir son of Manasseh, one of the clans of Joseph, approached Moses and the leaders who were the heads of the Israelite families and addressed them...
 weight: 36
 ---
 

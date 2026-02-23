@@ -1,7 +1,8 @@
 ---
 title: "2 Timothy 3 BSB | Read the Bible Online"
 linkTitle: "3"
-description: "Read 2 Timothy 3 Online | But understand this: In the last days terrible times will come..."
+description: >
+  Read 2 Timothy 3 Online | But understand this: In the last days terrible times will come...
 weight: 3
 ---
 

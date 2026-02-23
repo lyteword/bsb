@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 37 BSB | Read the Bible Online"
 linkTitle: "37"
-description: "Read Isaiah 37 Online | On hearing this report, King Hezekiah tore his clothes, put on sackcloth, and entered the house of the LORD..."
+description: >
+  Read Isaiah 37 Online | On hearing this report, King Hezekiah tore his clothes, put on sackcloth, and entered the house of the LORD...
 weight: 37
 ---
 

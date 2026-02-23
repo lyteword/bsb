@@ -1,7 +1,8 @@
 ---
 title: "Philippians 2 BSB | Read the Bible Online"
 linkTitle: "2"
-description: "Read Philippians 2 Online | Therefore if you have any encouragement in Christ, if any comfort from His love, if any fellowship with the Spirit, if any affection and compassion..."
+description: >
+  Read Philippians 2 Online | Therefore if you have any encouragement in Christ, if any comfort from His love, if any fellowship with the Spirit, if any affection and compassion...
 weight: 2
 ---
 

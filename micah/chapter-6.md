@@ -1,7 +1,8 @@
 ---
 title: "Micah 6 BSB | Read the Bible Online"
 linkTitle: "6"
-description: "Read Micah 6 Online | Hear now what the LORD says: “Arise, plead your case before the mountains, and let the hills hear your voice..."
+description: >
+  Read Micah 6 Online | Hear now what the LORD says: “Arise, plead your case before the mountains, and let the hills hear your voice...
 weight: 6
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 48 BSB | Read the Bible Online"
 linkTitle: "48"
-description: "Read Jeremiah 48 Online | Concerning Moab, this is what the LORD of Hosts, the God of Israel, says: “Woe to Nebo, for it will be devastated. Kiriathaim will be captured and disgraced; the fortress will be shattered and dismantled..."
+description: >
+  Read Jeremiah 48 Online | Concerning Moab, this is what the LORD of Hosts, the God of Israel, says: “Woe to Nebo, for it will be devastated. Kiriathaim will be captured and disgraced; the fortress will be shattered and dismantled...
 weight: 48
 ---
 

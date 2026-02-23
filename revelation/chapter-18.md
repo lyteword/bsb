@@ -1,7 +1,8 @@
 ---
 title: "Revelation 18 BSB | Read the Bible Online"
 linkTitle: "18"
-description: "Read Revelation 18 Online | After this I saw another angel descending from heaven with great authority, and the earth was illuminated by his glory..."
+description: >
+  Read Revelation 18 Online | After this I saw another angel descending from heaven with great authority, and the earth was illuminated by his glory...
 weight: 18
 ---
 

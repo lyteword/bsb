@@ -1,7 +1,8 @@
 ---
 title: "Matthew 28 BSB | Read the Bible Online"
 linkTitle: "28"
-description: "Read Matthew 28 Online | After the Sabbath, at dawn on the first day of the week,[^3732] Mary Magdalene and the other Mary went to see the tomb..."
+description: >
+  Read Matthew 28 Online | After the Sabbath, at dawn on the first day of the week, Mary Magdalene and the other Mary went to see the tomb...
 weight: 28
 ---
 

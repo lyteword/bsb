@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 1 BSB | Read the Bible Online"
 linkTitle: "1"
-description: "Read Ezekiel 1 Online | In the thirtieth year, on the fifth day of the fourth month, while I was among the exiles by the River Kebar, the heavens opened and I saw visions of God.[^2995..."
+description: >
+  Read Ezekiel 1 Online | In the thirtieth year, on the fifth day of the fourth month, while I was among the exiles by the River Kebar, the heavens opened and I saw visions of God.[^2995...
 weight: 1
 ---
 

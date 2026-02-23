@@ -1,7 +1,8 @@
 ---
 title: "Ecclesiastes 11 BSB | Read the Bible Online"
 linkTitle: "11"
-description: "Read Ecclesiastes 11 Online | Cast your bread upon the waters, for after many days you will find it again..."
+description: >
+  Read Ecclesiastes 11 Online | Cast your bread upon the waters, for after many days you will find it again...
 weight: 11
 ---
 

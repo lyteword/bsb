@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 9 BSB | Read the Bible Online"
 linkTitle: "9"
-description: "Read Deuteronomy 9 Online | Hear, O Israel: Today you are about to cross the Jordan to go in and dispossess nations greater and stronger than you, with large cities fortified to the heavens..."
+description: >
+  Read Deuteronomy 9 Online | Hear, O Israel: Today you are about to cross the Jordan to go in and dispossess nations greater and stronger than you, with large cities fortified to the heavens...
 weight: 9
 ---
 

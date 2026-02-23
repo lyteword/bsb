@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 8 BSB | Read the Bible Online"
 linkTitle: "8"
-description: "Read Jeremiah 8 Online | “At that time,” declares the LORD, “the bones of the kings of Judah, the bones of the officials, the bones of the priests, the bones of the prophets, and the bones of the people of Jerusalem will be removed from their graves..."
+description: >
+  Read Jeremiah 8 Online | “At that time,” declares the LORD, “the bones of the kings of Judah, the bones of the officials, the bones of the priests, the bones of the prophets, and the bones of the people of Jerusalem will be removed from their graves...
 weight: 8
 ---
 

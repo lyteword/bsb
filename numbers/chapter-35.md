@@ -1,7 +1,8 @@
 ---
 title: "Numbers 35 BSB | Read the Bible Online"
 linkTitle: "35"
-description: "Read Numbers 35 Online | Again the LORD spoke to Moses on the plains of Moab by the Jordan across from Jericho..."
+description: >
+  Read Numbers 35 Online | Again the LORD spoke to Moses on the plains of Moab by the Jordan across from Jericho...
 weight: 35
 ---
 

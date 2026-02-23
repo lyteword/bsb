@@ -1,7 +1,8 @@
 ---
 title: "Mark 5 BSB | Read the Bible Online"
 linkTitle: "5"
-description: "Read Mark 5 Online | On the other side of the sea, they arrived in the region of the Gerasenes.[^3761..."
+description: >
+  Read Mark 5 Online | On the other side of the sea, they arrived in the region of the Gerasenes.[^3761...
 weight: 5
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Nehemiah 9 BSB | Read the Bible Online"
 linkTitle: "9"
-description: "Read Nehemiah 9 Online | On the twenty-fourth day of the same month, the Israelites gathered together, fasting and wearing sackcloth, with dust on their heads..."
+description: >
+  Read Nehemiah 9 Online | On the twenty-fourth day of the same month, the Israelites gathered together, fasting and wearing sackcloth, with dust on their heads...
 weight: 9
 ---
 

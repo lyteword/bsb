@@ -1,7 +1,8 @@
 ---
 title: "Luke 10 BSB | Read the Bible Online"
 linkTitle: "10"
-description: "Read Luke 10 Online | After this, the Lord appointed seventy-two [^3922] others and sent them two by two ahead of Him to every town and place He was about to visit..."
+description: >
+  Read Luke 10 Online | After this, the Lord appointed seventy-two others and sent them two by two ahead of Him to every town and place He was about to visit...
 weight: 10
 ---
 

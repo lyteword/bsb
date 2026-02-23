@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 3 BSB | Read the Bible Online"
 linkTitle: "3"
-description: "Read Isaiah 3 Online | For behold, the Lord GOD of Hosts is about to remove from Jerusalem and Judah both supply [^2561] and support: the whole supply of food and water..."
+description: >
+  Read Isaiah 3 Online | For behold, the Lord GOD of Hosts is about to remove from Jerusalem and Judah both supply and support: the whole supply of food and water...
 weight: 3
 ---
 

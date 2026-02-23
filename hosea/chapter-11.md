@@ -1,7 +1,8 @@
 ---
 title: "Hosea 11 BSB | Read the Bible Online"
 linkTitle: "11"
-description: "Read Hosea 11 Online | When Israel was a child, I loved him, and out of Egypt I called My son.[^3320..."
+description: >
+  Read Hosea 11 Online | When Israel was a child, I loved him, and out of Egypt I called My son.[^3320...
 weight: 11
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Joshua 17 BSB | Read the Bible Online"
 linkTitle: "17"
-description: "Read Joshua 17 Online | Now this was the allotment for the tribe of Manasseh as Joseph’s firstborn son, namely for Machir the firstborn of Manasseh and father of the Gileadites, who had received Gilead and Bashan because Machir was a man of war..."
+description: >
+  Read Joshua 17 Online | Now this was the allotment for the tribe of Manasseh as Joseph’s firstborn son, namely for Machir the firstborn of Manasseh and father of the Gileadites, who had received Gilead and Bashan because Machir was a man of war...
 weight: 17
 ---
 

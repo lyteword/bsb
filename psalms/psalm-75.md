@@ -1,7 +1,8 @@
 ---
 title: "Psalm 75 BSB | Read the Bible Online"
 linkTitle: "75"
-description: "Read Psalm 75 Online | We give thanks to You, O God; we give thanks, for Your Name is near. The people declare Your wondrous works..."
+description: >
+  Read Psalm 75 Online | We give thanks to You, O God; we give thanks, for Your Name is near. The people declare Your wondrous works...
 weight: 75
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Lamentations 2 BSB | Read the Bible Online"
 linkTitle: "2"
-description: "Read Lamentations 2 Online | How [^2982] the Lord has covered the Daughter of Zion with the cloud of His anger! He has cast the glory of Israel from heaven to earth. He has abandoned His footstool in the day of His anger..."
+description: >
+  Read Lamentations 2 Online | How the Lord has covered the Daughter of Zion with the cloud of His anger! He has cast the glory of Israel from heaven to earth. He has abandoned His footstool in the day of His anger...
 weight: 2
 ---
 

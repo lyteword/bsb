@@ -1,7 +1,8 @@
 ---
 title: "Song Of Solomon 8 BSB | Read the Bible Online"
 linkTitle: "8"
-description: "Read Song Of Solomon 8 Online | O that you were to me like a brother who nursed at my mother’s breasts! If I found you outdoors, I would kiss you, and no one would despise me..."
+description: >
+  Read Song Of Solomon 8 Online | O that you were to me like a brother who nursed at my mother’s breasts! If I found you outdoors, I would kiss you, and no one would despise me...
 weight: 8
 ---
 

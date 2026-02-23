@@ -1,7 +1,8 @@
 ---
 title: "Romans 3 BSB | Read the Bible Online"
 linkTitle: "3"
-description: "Read Romans 3 Online | What, then, is the advantage of being a Jew? Or what is the value of circumcision..."
+description: >
+  Read Romans 3 Online | What, then, is the advantage of being a Jew? Or what is the value of circumcision...
 weight: 3
 ---
 

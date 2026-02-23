@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 24 BSB | Read the Bible Online"
 linkTitle: "24"
-description: "Read 1 Chronicles 24 Online | These were the divisions of the descendants of Aaron. The sons of Aaron were Nadab, Abihu, Eleazar, and Ithamar..."
+description: >
+  Read 1 Chronicles 24 Online | These were the divisions of the descendants of Aaron. The sons of Aaron were Nadab, Abihu, Eleazar, and Ithamar...
 weight: 24
 ---
 

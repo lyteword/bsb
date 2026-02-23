@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 31 BSB | Read the Bible Online"
 linkTitle: "31"
-description: "Read 2 Chronicles 31 Online | When all this had ended, the Israelites in attendance went out to the cities of Judah and broke up the sacred pillars, chopped down the Asherah poles, and tore down the high places and altars throughout Judah and Benjamin, as well as in Ephraim and Manasseh, until they had utterly destroyed them all. Then all the Israelites returned to their cities, each to his own property..."
+description: >
+  Read 2 Chronicles 31 Online | When all this had ended, the Israelites in attendance went out to the cities of Judah and broke up the sacred pillars, chopped down the Asherah poles, and tore down the high places and altars throughout Judah and Benjamin, as well as in Ephraim and Manasseh, until they had utterly destroyed them all. Then all the Israelites returned to their cities, each to his own property...
 weight: 31
 ---
 

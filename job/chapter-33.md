@@ -1,7 +1,8 @@
 ---
 title: "Job 33 BSB | Read the Bible Online"
 linkTitle: "33"
-description: "Read Job 33 Online | “But now, O Job, hear my speech, and listen to all my words..."
+description: >
+  Read Job 33 Online | “But now, O Job, hear my speech, and listen to all my words...
 weight: 33
 ---
 

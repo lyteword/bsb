@@ -1,7 +1,8 @@
 ---
 title: "Job 36 BSB | Read the Bible Online"
 linkTitle: "36"
-description: "Read Job 36 Online | And Elihu continued..."
+description: >
+  Read Job 36 Online | And Elihu continued...
 weight: 36
 ---
 

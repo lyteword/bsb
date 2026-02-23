@@ -1,7 +1,8 @@
 ---
 title: "Genesis 5 BSB | Read the Bible Online"
 linkTitle: "5"
-description: "Read Genesis 5 Online | This is the book of the generations of Adam. In the day that God created man, He made him in His own likeness..."
+description: >
+  Read Genesis 5 Online | This is the book of the generations of Adam. In the day that God created man, He made him in His own likeness...
 weight: 5
 ---
 

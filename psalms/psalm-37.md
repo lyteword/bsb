@@ -1,7 +1,8 @@
 ---
 title: "Psalm 37 BSB | Read the Bible Online"
 linkTitle: "37"
-description: "Read Psalm 37 Online | Do not fret over those who do evil; do not envy those who do wrong..."
+description: >
+  Read Psalm 37 Online | Do not fret over those who do evil; do not envy those who do wrong...
 weight: 37
 ---
 

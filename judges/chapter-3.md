@@ -1,7 +1,8 @@
 ---
 title: "Judges 3 BSB | Read the Bible Online"
 linkTitle: "3"
-description: "Read Judges 3 Online | These are the nations that the LORD left to test all the Israelites who had not known any of the wars in Canaan..."
+description: >
+  Read Judges 3 Online | These are the nations that the LORD left to test all the Israelites who had not known any of the wars in Canaan...
 weight: 3
 ---
 

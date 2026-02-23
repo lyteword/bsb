@@ -1,7 +1,8 @@
 ---
 title: "Job 40 BSB | Read the Bible Online"
 linkTitle: "40"
-description: "Read Job 40 Online | And the LORD said to Job..."
+description: >
+  Read Job 40 Online | And the LORD said to Job...
 weight: 40
 ---
 

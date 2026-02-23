@@ -1,7 +1,8 @@
 ---
 title: "John 21 BSB | Read the Bible Online"
 linkTitle: "21"
-description: "Read John 21 Online | Later, by the Sea of Tiberias,[^4122] Jesus again revealed Himself to the disciples. He made Himself known in this way..."
+description: >
+  Read John 21 Online | Later, by the Sea of Tiberias, Jesus again revealed Himself to the disciples. He made Himself known in this way...
 weight: 21
 ---
 

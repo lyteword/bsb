@@ -1,7 +1,8 @@
 ---
 title: "Ezra 2 BSB | Read the Bible Online"
 linkTitle: "2"
-description: "Read Ezra 2 Online | Now these are the people of the province who came up from the captivity of the exiles carried away to Babylon by Nebuchadnezzar its king. They returned to Jerusalem and Judah, each to his own town..."
+description: >
+  Read Ezra 2 Online | Now these are the people of the province who came up from the captivity of the exiles carried away to Babylon by Nebuchadnezzar its king. They returned to Jerusalem and Judah, each to his own town...
 weight: 2
 ---
 

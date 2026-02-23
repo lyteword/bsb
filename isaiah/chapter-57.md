@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 57 BSB | Read the Bible Online"
 linkTitle: "57"
-description: "Read Isaiah 57 Online | The righteous perish, and no one takes it to heart; devout men are taken away, while no one considers that the righteous are taken away from the presence of evil..."
+description: >
+  Read Isaiah 57 Online | The righteous perish, and no one takes it to heart; devout men are taken away, while no one considers that the righteous are taken away from the presence of evil...
 weight: 57
 ---
 

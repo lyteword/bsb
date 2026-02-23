@@ -1,7 +1,8 @@
 ---
 title: "Matthew 20 BSB | Read the Bible Online"
 linkTitle: "20"
-description: "Read Matthew 20 Online | “For the kingdom of heaven is like a landowner who went out early in the morning to hire workers for his vineyard..."
+description: >
+  Read Matthew 20 Online | “For the kingdom of heaven is like a landowner who went out early in the morning to hire workers for his vineyard...
 weight: 20
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 69 BSB | Read the Bible Online"
 linkTitle: "69"
-description: "Read Psalm 69 Online | Save me, O God, for the waters are up to my neck..."
+description: >
+  Read Psalm 69 Online | Save me, O God, for the waters are up to my neck...
 weight: 69
 ---
 

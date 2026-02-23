@@ -1,7 +1,8 @@
 ---
 title: "Judges 17 BSB | Read the Bible Online"
 linkTitle: "17"
-description: "Read Judges 17 Online | Now a man named Micah from the hill country of Ephraim..."
+description: >
+  Read Judges 17 Online | Now a man named Micah from the hill country of Ephraim...
 weight: 17
 ---
 

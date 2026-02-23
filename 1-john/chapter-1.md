@@ -1,7 +1,8 @@
 ---
 title: "1 John 1 BSB | Read the Bible Online"
 linkTitle: "1"
-description: "Read 1 John 1 Online | That which was from the beginning, which we have heard, which we have seen with our own eyes, which we have gazed upon and touched with our own hands—this is the Word of life..."
+description: >
+  Read 1 John 1 Online | That which was from the beginning, which we have heard, which we have seen with our own eyes, which we have gazed upon and touched with our own hands—this is the Word of life...
 weight: 1
 ---
 

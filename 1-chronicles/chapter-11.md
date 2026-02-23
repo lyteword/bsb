@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 11 BSB | Read the Bible Online"
 linkTitle: "11"
-description: "Read 1 Chronicles 11 Online | Then all Israel came together to David at Hebron and said, “Here we are, your own flesh and blood..."
+description: >
+  Read 1 Chronicles 11 Online | Then all Israel came together to David at Hebron and said, “Here we are, your own flesh and blood...
 weight: 11
 ---
 

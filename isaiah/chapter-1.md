@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 1 BSB | Read the Bible Online"
 linkTitle: "1"
-description: "Read Isaiah 1 Online | This is the vision concerning Judah and Jerusalem that Isaiah son of Amoz saw during the reigns of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah..."
+description: >
+  Read Isaiah 1 Online | This is the vision concerning Judah and Jerusalem that Isaiah son of Amoz saw during the reigns of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah...
 weight: 1
 ---
 

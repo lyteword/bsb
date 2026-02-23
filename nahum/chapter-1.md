@@ -1,7 +1,8 @@
 ---
 title: "Nahum 1 BSB | Read the Bible Online"
 linkTitle: "1"
-description: "Read Nahum 1 Online | This is the burden against Nineveh, the book of the vision of Nahum the Elkoshite..."
+description: >
+  Read Nahum 1 Online | This is the burden against Nineveh, the book of the vision of Nahum the Elkoshite...
 weight: 1
 ---
 

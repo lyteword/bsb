@@ -1,7 +1,8 @@
 ---
 title: "Nehemiah 11 BSB | Read the Bible Online"
 linkTitle: "11"
-description: "Read Nehemiah 11 Online | Now the leaders of the people settled in Jerusalem, and the rest of the people cast lots to bring one out of ten to live in the holy city of Jerusalem, while the remaining nine [^2003] were to dwell in their own towns..."
+description: >
+  Read Nehemiah 11 Online | Now the leaders of the people settled in Jerusalem, and the rest of the people cast lots to bring one out of ten to live in the holy city of Jerusalem, while the remaining nine were to dwell in their own towns...
 weight: 11
 ---
 

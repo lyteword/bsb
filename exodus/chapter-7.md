@@ -1,7 +1,8 @@
 ---
 title: "Exodus 7 BSB | Read the Bible Online"
 linkTitle: "7"
-description: "Read Exodus 7 Online | The LORD answered Moses, “See, I have made you like God to Pharaoh, and your brother Aaron will be your prophet..."
+description: >
+  Read Exodus 7 Online | The LORD answered Moses, “See, I have made you like God to Pharaoh, and your brother Aaron will be your prophet...
 weight: 7
 ---
 

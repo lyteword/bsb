@@ -1,7 +1,8 @@
 ---
 title: "Exodus 5 BSB | Read the Bible Online"
 linkTitle: "5"
-description: "Read Exodus 5 Online | After that, Moses and Aaron went to Pharaoh and said, “This is what the LORD, the God of Israel, says: ‘Let My people go, so that they may hold a feast to Me in the wilderness.’..."
+description: >
+  Read Exodus 5 Online | After that, Moses and Aaron went to Pharaoh and said, “This is what the LORD, the God of Israel, says: ‘Let My people go, so that they may hold a feast to Me in the wilderness.’...
 weight: 5
 ---
 

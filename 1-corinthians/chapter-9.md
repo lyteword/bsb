@@ -1,7 +1,8 @@
 ---
 title: "1 Corinthians 9 BSB | Read the Bible Online"
 linkTitle: "9"
-description: "Read 1 Corinthians 9 Online | Am I not free? Am I not an apostle? Have I not seen Jesus our Lord? Are you yourselves not my workmanship in the Lord..."
+description: >
+  Read 1 Corinthians 9 Online | Am I not free? Am I not an apostle? Have I not seen Jesus our Lord? Are you yourselves not my workmanship in the Lord...
 weight: 9
 ---
 

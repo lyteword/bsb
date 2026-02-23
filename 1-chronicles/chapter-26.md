@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 26 BSB | Read the Bible Online"
 linkTitle: "26"
-description: "Read 1 Chronicles 26 Online | These were the divisions of the gatekeepers: From the Korahites: Meshelemiah son of Kore, one of the sons of Asaph..."
+description: >
+  Read 1 Chronicles 26 Online | These were the divisions of the gatekeepers: From the Korahites: Meshelemiah son of Kore, one of the sons of Asaph...
 weight: 26
 ---
 

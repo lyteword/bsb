@@ -1,7 +1,8 @@
 ---
 title: "Revelation 9 BSB | Read the Bible Online"
 linkTitle: "9"
-description: "Read Revelation 9 Online | Then the fifth angel sounded his trumpet, and I saw a star that had fallen from heaven to earth, and it was given the key to the pit of the Abyss..."
+description: >
+  Read Revelation 9 Online | Then the fifth angel sounded his trumpet, and I saw a star that had fallen from heaven to earth, and it was given the key to the pit of the Abyss...
 weight: 9
 ---
 

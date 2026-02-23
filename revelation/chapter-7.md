@@ -1,7 +1,8 @@
 ---
 title: "Revelation 7 BSB | Read the Bible Online"
 linkTitle: "7"
-description: "Read Revelation 7 Online | After this I saw four angels standing at the four corners of the earth, holding back its four winds so that no wind would blow on land or sea or on any tree..."
+description: >
+  Read Revelation 7 Online | After this I saw four angels standing at the four corners of the earth, holding back its four winds so that no wind would blow on land or sea or on any tree...
 weight: 7
 ---
 

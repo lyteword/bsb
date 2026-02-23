@@ -1,7 +1,8 @@
 ---
 title: "Luke 12 BSB | Read the Bible Online"
 linkTitle: "12"
-description: "Read Luke 12 Online | In the meantime, a crowd of many thousands had gathered, so that they were trampling one another. Jesus began to speak first to His disciples: “Beware of the leaven of the Pharisees, which is hypocrisy..."
+description: >
+  Read Luke 12 Online | In the meantime, a crowd of many thousands had gathered, so that they were trampling one another. Jesus began to speak first to His disciples: “Beware of the leaven of the Pharisees, which is hypocrisy...
 weight: 12
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Job 19 BSB | Read the Bible Online"
 linkTitle: "19"
-description: "Read Job 19 Online | Then Job answered..."
+description: >
+  Read Job 19 Online | Then Job answered...
 weight: 19
 ---
 

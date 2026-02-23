@@ -1,7 +1,8 @@
 ---
 title: "Psalm 103 BSB | Read the Bible Online"
 linkTitle: "103"
-description: "Read Psalm 103 Online | Bless the LORD, O my soul; all that is within me, bless His holy name..."
+description: >
+  Read Psalm 103 Online | Bless the LORD, O my soul; all that is within me, bless His holy name...
 weight: 103
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Luke 13 BSB | Read the Bible Online"
 linkTitle: "13"
-description: "Read Luke 13 Online | At that time some of those present told Jesus about the Galileans whose blood Pilate had mixed with their sacrifices..."
+description: >
+  Read Luke 13 Online | At that time some of those present told Jesus about the Galileans whose blood Pilate had mixed with their sacrifices...
 weight: 13
 ---
 
