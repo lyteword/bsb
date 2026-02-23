@@ -1,7 +1,8 @@
 ---
 title: "Psalm 2 BSB | Read the Bible Online"
 linkTitle: "2"
-description: "Read Psalm 2 Online | Why do the nations rage [^2140] and the peoples plot in vain..."
+description: >
+  Read Psalm 2 Online | Why do the nations rage and the peoples plot in vain...
 weight: 2
 ---
 

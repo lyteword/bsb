@@ -1,7 +1,8 @@
 ---
 title: "1 Peter 3 BSB | Read the Bible Online"
 linkTitle: "3"
-description: "Read 1 Peter 3 Online | Wives, in the same way, submit yourselves to your husbands, so that even if they refuse to believe the word, they will be won over without words by the behavior of their wives..."
+description: >
+  Read 1 Peter 3 Online | Wives, in the same way, submit yourselves to your husbands, so that even if they refuse to believe the word, they will be won over without words by the behavior of their wives...
 weight: 3
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 23 BSB | Read the Bible Online"
 linkTitle: "23"
-description: "Read 1 Samuel 23 Online | Now it was reported to David, “Look, the Philistines are fighting against Keilah and looting the threshing floors...."
+description: >
+  Read 1 Samuel 23 Online | Now it was reported to David, “Look, the Philistines are fighting against Keilah and looting the threshing floors....
 weight: 23
 ---
 

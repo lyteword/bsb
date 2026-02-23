@@ -1,7 +1,8 @@
 ---
 title: "Philippians 1 BSB | Read the Bible Online"
 linkTitle: "1"
-description: "Read Philippians 1 Online | Paul and Timothy, servants of Christ Jesus, To all the saints in Christ Jesus at Philippi, together with the overseers and deacons..."
+description: >
+  Read Philippians 1 Online | Paul and Timothy, servants of Christ Jesus, To all the saints in Christ Jesus at Philippi, together with the overseers and deacons...
 weight: 1
 ---
 

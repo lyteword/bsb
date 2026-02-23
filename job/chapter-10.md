@@ -1,7 +1,8 @@
 ---
 title: "Job 10 BSB | Read the Bible Online"
 linkTitle: "10"
-description: "Read Job 10 Online | “I loathe my own life; I will express my complaint and speak in the bitterness of my soul..."
+description: >
+  Read Job 10 Online | “I loathe my own life; I will express my complaint and speak in the bitterness of my soul...
 weight: 10
 ---
 

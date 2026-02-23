@@ -1,7 +1,8 @@
 ---
 title: "Psalm 140 BSB | Read the Bible Online"
 linkTitle: "140"
-description: "Read Psalm 140 Online | Rescue me, O LORD, from evil men. Protect me from men of violence..."
+description: >
+  Read Psalm 140 Online | Rescue me, O LORD, from evil men. Protect me from men of violence...
 weight: 140
 ---
 

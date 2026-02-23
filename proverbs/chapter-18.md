@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 18 BSB | Read the Bible Online"
 linkTitle: "18"
-description: "Read Proverbs 18 Online | He who isolates himself pursues selfish desires; he rebels against all sound judgment..."
+description: >
+  Read Proverbs 18 Online | He who isolates himself pursues selfish desires; he rebels against all sound judgment...
 weight: 18
 ---
 

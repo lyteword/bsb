@@ -1,7 +1,8 @@
 ---
 title: "Job 7 BSB | Read the Bible Online"
 linkTitle: "7"
-description: "Read Job 7 Online | “Is not man consigned to labor on earth? Are not his days like those of a hired hand..."
+description: >
+  Read Job 7 Online | “Is not man consigned to labor on earth? Are not his days like those of a hired hand...
 weight: 7
 ---
 

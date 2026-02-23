@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 4 BSB | Read the Bible Online"
 linkTitle: "4"
-description: "Read Proverbs 4 Online | Listen, my sons, to a father’s instruction; pay attention and gain understanding..."
+description: >
+  Read Proverbs 4 Online | Listen, my sons, to a father’s instruction; pay attention and gain understanding...
 weight: 4
 ---
 

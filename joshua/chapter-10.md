@@ -1,7 +1,8 @@
 ---
 title: "Joshua 10 BSB | Read the Bible Online"
 linkTitle: "10"
-description: "Read Joshua 10 Online | Now Adoni-zedek king of Jerusalem heard that Joshua had captured Ai and devoted it to destruction [^819]—doing to Ai and its king as he had done to Jericho and its king—and that the people of Gibeon had made peace with Israel and were living near them..."
+description: >
+  Read Joshua 10 Online | Now Adoni-zedek king of Jerusalem heard that Joshua had captured Ai and devoted it to destruction —doing to Ai and its king as he had done to Jericho and its king—and that the people of Gibeon had made peace with Israel and were living near them...
 weight: 10
 ---
 

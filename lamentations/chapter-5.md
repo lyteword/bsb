@@ -1,7 +1,8 @@
 ---
 title: "Lamentations 5 BSB | Read the Bible Online"
 linkTitle: "5"
-description: "Read Lamentations 5 Online | Remember, O LORD, what has happened to us. Look and see our disgrace..."
+description: >
+  Read Lamentations 5 Online | Remember, O LORD, what has happened to us. Look and see our disgrace...
 weight: 5
 ---
 

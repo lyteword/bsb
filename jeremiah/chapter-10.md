@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 10 BSB | Read the Bible Online"
 linkTitle: "10"
-description: "Read Jeremiah 10 Online | Hear the word that the LORD speaks to you, O house of Israel..."
+description: >
+  Read Jeremiah 10 Online | Hear the word that the LORD speaks to you, O house of Israel...
 weight: 10
 ---
 

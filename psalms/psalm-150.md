@@ -1,7 +1,8 @@
 ---
 title: "Psalm 150 BSB | Read the Bible Online"
 linkTitle: "150"
-description: "Read Psalm 150 Online | Hallelujah![^2436] Praise God in His sanctuary. Praise Him in His mighty heavens.[^2437..."
+description: >
+  Read Psalm 150 Online | Hallelujah! Praise God in His sanctuary. Praise Him in His mighty heavens.[^2437...
 weight: 150
 ---
 

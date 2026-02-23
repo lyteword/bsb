@@ -1,7 +1,8 @@
 ---
 title: "Hosea 6 BSB | Read the Bible Online"
 linkTitle: "6"
-description: "Read Hosea 6 Online | Come, let us return to the LORD. For He has torn us to pieces, but He will heal us; He has wounded us, but He will bind up our wounds..."
+description: >
+  Read Hosea 6 Online | Come, let us return to the LORD. For He has torn us to pieces, but He will heal us; He has wounded us, but He will bind up our wounds...
 weight: 6
 ---
 

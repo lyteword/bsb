@@ -1,7 +1,8 @@
 ---
 title: "Ezra 10 BSB | Read the Bible Online"
 linkTitle: "10"
-description: "Read Ezra 10 Online | While Ezra prayed and made this confession, weeping and falling facedown before the house of God, a very large assembly of Israelites—men, women, and children—gathered around him, and the people wept bitterly as well..."
+description: >
+  Read Ezra 10 Online | While Ezra prayed and made this confession, weeping and falling facedown before the house of God, a very large assembly of Israelites—men, women, and children—gathered around him, and the people wept bitterly as well...
 weight: 10
 ---
 

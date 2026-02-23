@@ -1,7 +1,8 @@
 ---
 title: "Numbers 30 BSB | Read the Bible Online"
 linkTitle: "30"
-description: "Read Numbers 30 Online | Then Moses said to the heads of the tribes of Israel, “This is what the LORD has commanded..."
+description: >
+  Read Numbers 30 Online | Then Moses said to the heads of the tribes of Israel, “This is what the LORD has commanded...
 weight: 30
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "John 16 BSB | Read the Bible Online"
 linkTitle: "16"
-description: "Read John 16 Online | “I have told you these things so that you will not fall away..."
+description: >
+  Read John 16 Online | “I have told you these things so that you will not fall away...
 weight: 16
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Romans 10 BSB | Read the Bible Online"
 linkTitle: "10"
-description: "Read Romans 10 Online | Brothers, my heart’s desire and prayer to God for the Israelites is for their salvation..."
+description: >
+  Read Romans 10 Online | Brothers, my heart’s desire and prayer to God for the Israelites is for their salvation...
 weight: 10
 ---
 

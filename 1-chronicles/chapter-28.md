@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 28 BSB | Read the Bible Online"
 linkTitle: "28"
-description: "Read 1 Chronicles 28 Online | Now David summoned all the leaders of Israel to Jerusalem: the leaders of the tribes, the leaders of the divisions in the king’s service, the commanders of thousands and of hundreds, and the officials in charge of all the property and cattle of the king and his sons, along with the court officials and mighty men—every mighty man of valor..."
+description: >
+  Read 1 Chronicles 28 Online | Now David summoned all the leaders of Israel to Jerusalem: the leaders of the tribes, the leaders of the divisions in the king’s service, the commanders of thousands and of hundreds, and the officials in charge of all the property and cattle of the king and his sons, along with the court officials and mighty men—every mighty man of valor...
 weight: 28
 ---
 

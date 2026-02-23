@@ -1,7 +1,8 @@
 ---
 title: "Matthew 15 BSB | Read the Bible Online"
 linkTitle: "15"
-description: "Read Matthew 15 Online | Then some Pharisees and scribes came to Jesus from Jerusalem and asked..."
+description: >
+  Read Matthew 15 Online | Then some Pharisees and scribes came to Jesus from Jerusalem and asked...
 weight: 15
 ---
 

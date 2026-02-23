@@ -1,7 +1,8 @@
 ---
 title: "Joshua 15 BSB | Read the Bible Online"
 linkTitle: "15"
-description: "Read Joshua 15 Online | Now the allotment for the clans of the tribe of Judah extended to the border of Edom, to the Wilderness of Zin at the extreme southern boundary..."
+description: >
+  Read Joshua 15 Online | Now the allotment for the clans of the tribe of Judah extended to the border of Edom, to the Wilderness of Zin at the extreme southern boundary...
 weight: 15
 ---
 

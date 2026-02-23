@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 62 BSB | Read the Bible Online"
 linkTitle: "62"
-description: "Read Isaiah 62 Online | For Zion’s sake I will not keep silent, and for Jerusalem’s sake I will not keep still, until her righteousness shines like a bright light, her salvation like a blazing torch..."
+description: >
+  Read Isaiah 62 Online | For Zion’s sake I will not keep silent, and for Jerusalem’s sake I will not keep still, until her righteousness shines like a bright light, her salvation like a blazing torch...
 weight: 62
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "1 Timothy 1 BSB | Read the Bible Online"
 linkTitle: "1"
-description: "Read 1 Timothy 1 Online | Paul, an apostle of Christ Jesus by the command of God our Savior and of Christ Jesus our hope..."
+description: >
+  Read 1 Timothy 1 Online | Paul, an apostle of Christ Jesus by the command of God our Savior and of Christ Jesus our hope...
 weight: 1
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Luke 19 BSB | Read the Bible Online"
 linkTitle: "19"
-description: "Read Luke 19 Online | Then Jesus entered Jericho and was passing through..."
+description: >
+  Read Luke 19 Online | Then Jesus entered Jericho and was passing through...
 weight: 19
 ---
 

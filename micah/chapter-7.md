@@ -1,7 +1,8 @@
 ---
 title: "Micah 7 BSB | Read the Bible Online"
 linkTitle: "7"
-description: "Read Micah 7 Online | Woe is me! For I am like one gathering summer fruit at the gleaning of the vineyard; there is no cluster to eat, no early fig that I crave..."
+description: >
+  Read Micah 7 Online | Woe is me! For I am like one gathering summer fruit at the gleaning of the vineyard; there is no cluster to eat, no early fig that I crave...
 weight: 7
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "1 Corinthians 2 BSB | Read the Bible Online"
 linkTitle: "2"
-description: "Read 1 Corinthians 2 Online | When I came to you, brothers, I did not come with eloquence or wisdom as I proclaimed to you the testimony about God..."
+description: >
+  Read 1 Corinthians 2 Online | When I came to you, brothers, I did not come with eloquence or wisdom as I proclaimed to you the testimony about God...
 weight: 2
 ---
 

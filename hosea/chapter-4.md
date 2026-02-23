@@ -1,7 +1,8 @@
 ---
 title: "Hosea 4 BSB | Read the Bible Online"
 linkTitle: "4"
-description: "Read Hosea 4 Online | Hear the word of the LORD, O children of Israel, for the LORD has a case against the people of the land: “There is no truth, no loving devotion, and no knowledge of God in the land..."
+description: >
+  Read Hosea 4 Online | Hear the word of the LORD, O children of Israel, for the LORD has a case against the people of the land: “There is no truth, no loving devotion, and no knowledge of God in the land...
 weight: 4
 ---
 

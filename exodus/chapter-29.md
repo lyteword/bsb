@@ -1,7 +1,8 @@
 ---
 title: "Exodus 29 BSB | Read the Bible Online"
 linkTitle: "29"
-description: "Read Exodus 29 Online | “Now this is what you are to do to consecrate Aaron and his sons to serve Me as priests: Take a young bull and two rams without blemish..."
+description: >
+  Read Exodus 29 Online | “Now this is what you are to do to consecrate Aaron and his sons to serve Me as priests: Take a young bull and two rams without blemish...
 weight: 29
 ---
 

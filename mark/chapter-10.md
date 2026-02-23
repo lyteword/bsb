@@ -1,7 +1,8 @@
 ---
 title: "Mark 10 BSB | Read the Bible Online"
 linkTitle: "10"
-description: "Read Mark 10 Online | Then Jesus left that place and went into the region of Judea, beyond the Jordan. Again the crowds came to Him and He taught them, as was His custom..."
+description: >
+  Read Mark 10 Online | Then Jesus left that place and went into the region of Judea, beyond the Jordan. Again the crowds came to Him and He taught them, as was His custom...
 weight: 10
 ---
 

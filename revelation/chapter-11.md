@@ -1,7 +1,8 @@
 ---
 title: "Revelation 11 BSB | Read the Bible Online"
 linkTitle: "11"
-description: "Read Revelation 11 Online | Then I was given a measuring rod like a staff and was told, “Go and measure the temple of God and the altar, and count the number of worshipers there..."
+description: >
+  Read Revelation 11 Online | Then I was given a measuring rod like a staff and was told, “Go and measure the temple of God and the altar, and count the number of worshipers there...
 weight: 11
 ---
 

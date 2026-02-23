@@ -1,7 +1,8 @@
 ---
 title: "Amos 3 BSB | Read the Bible Online"
 linkTitle: "3"
-description: "Read Amos 3 Online | Hear this word that the LORD has spoken against you, O children of Israel, against the whole family that I brought up out of the land of Egypt..."
+description: >
+  Read Amos 3 Online | Hear this word that the LORD has spoken against you, O children of Israel, against the whole family that I brought up out of the land of Egypt...
 weight: 3
 ---
 

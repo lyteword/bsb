@@ -1,7 +1,8 @@
 ---
 title: "Job 28 BSB | Read the Bible Online"
 linkTitle: "28"
-description: "Read Job 28 Online | “Surely there is a mine for silver and a place where gold is refined..."
+description: >
+  Read Job 28 Online | “Surely there is a mine for silver and a place where gold is refined...
 weight: 28
 ---
 

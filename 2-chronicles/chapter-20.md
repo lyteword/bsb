@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 20 BSB | Read the Bible Online"
 linkTitle: "20"
-description: "Read 2 Chronicles 20 Online | After this, the Moabites and Ammonites, together with some of the Meunites,[^1782] came to make war against Jehoshaphat..."
+description: >
+  Read 2 Chronicles 20 Online | After this, the Moabites and Ammonites, together with some of the Meunites, came to make war against Jehoshaphat...
 weight: 20
 ---
 

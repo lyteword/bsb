@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 1 BSB | Read the Bible Online"
 linkTitle: "1"
-description: "Read Proverbs 1 Online | These are the proverbs of Solomon son of David, king of Israel..."
+description: >
+  Read Proverbs 1 Online | These are the proverbs of Solomon son of David, king of Israel...
 weight: 1
 ---
 

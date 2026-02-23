@@ -1,7 +1,8 @@
 ---
 title: "Numbers 17 BSB | Read the Bible Online"
 linkTitle: "17"
-description: "Read Numbers 17 Online | And the LORD said to Moses..."
+description: >
+  Read Numbers 17 Online | And the LORD said to Moses...
 weight: 17
 ---
 

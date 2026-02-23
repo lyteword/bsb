@@ -1,7 +1,8 @@
 ---
 title: "Job 13 BSB | Read the Bible Online"
 linkTitle: "13"
-description: "Read Job 13 Online | “Indeed, my eyes have seen all this; my ears have heard and understood..."
+description: >
+  Read Job 13 Online | “Indeed, my eyes have seen all this; my ears have heard and understood...
 weight: 13
 ---
 

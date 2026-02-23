@@ -1,7 +1,8 @@
 ---
 title: "John 9 BSB | Read the Bible Online"
 linkTitle: "9"
-description: "Read John 9 Online | Now as Jesus was passing by, He saw a man blind from birth..."
+description: >
+  Read John 9 Online | Now as Jesus was passing by, He saw a man blind from birth...
 weight: 9
 ---
 

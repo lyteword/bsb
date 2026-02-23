@@ -1,7 +1,8 @@
 ---
 title: "Numbers 21 BSB | Read the Bible Online"
 linkTitle: "21"
-description: "Read Numbers 21 Online | When the Canaanite king of Arad, who lived in the Negev, heard that Israel was coming along the road to Atharim, he attacked Israel and captured some prisoners..."
+description: >
+  Read Numbers 21 Online | When the Canaanite king of Arad, who lived in the Negev, heard that Israel was coming along the road to Atharim, he attacked Israel and captured some prisoners...
 weight: 21
 ---
 

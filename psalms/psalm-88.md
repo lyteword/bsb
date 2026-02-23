@@ -1,7 +1,8 @@
 ---
 title: "Psalm 88 BSB | Read the Bible Online"
 linkTitle: "88"
-description: "Read Psalm 88 Online | O LORD, the God of my salvation, day and night I cry out before You..."
+description: >
+  Read Psalm 88 Online | O LORD, the God of my salvation, day and night I cry out before You...
 weight: 88
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Genesis 27 BSB | Read the Bible Online"
 linkTitle: "27"
-description: "Read Genesis 27 Online | When Isaac was old and his eyes were so weak that he could no longer see, he called his older son Esau and said to him, “My son.” “Here I am,” Esau replied..."
+description: >
+  Read Genesis 27 Online | When Isaac was old and his eyes were so weak that he could no longer see, he called his older son Esau and said to him, “My son.” “Here I am,” Esau replied...
 weight: 27
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 29 BSB | Read the Bible Online"
 linkTitle: "29"
-description: "Read Ezekiel 29 Online | In the tenth year, on the twelfth day of the tenth month, the word of the LORD came to me, saying..."
+description: >
+  Read Ezekiel 29 Online | In the tenth year, on the twelfth day of the tenth month, the word of the LORD came to me, saying...
 weight: 29
 ---
 

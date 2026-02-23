@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 28 BSB | Read the Bible Online"
 linkTitle: "28"
-description: "Read Isaiah 28 Online | Woe to the majestic crown of Ephraim’s [^2651] drunkards, to the fading flower of his glorious splendor, set on the summit above the fertile valley, the pride of those overcome by wine..."
+description: >
+  Read Isaiah 28 Online | Woe to the majestic crown of Ephraim’s drunkards, to the fading flower of his glorious splendor, set on the summit above the fertile valley, the pride of those overcome by wine...
 weight: 28
 ---
 

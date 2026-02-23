@@ -1,7 +1,8 @@
 ---
 title: "Galatians 2 BSB | Read the Bible Online"
 linkTitle: "2"
-description: "Read Galatians 2 Online | Fourteen years later I went up again to Jerusalem, accompanied by Barnabas. I took Titus along also..."
+description: >
+  Read Galatians 2 Online | Fourteen years later I went up again to Jerusalem, accompanied by Barnabas. I took Titus along also...
 weight: 2
 ---
 

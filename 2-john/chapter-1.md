@@ -1,7 +1,8 @@
 ---
 title: "2 John 1 BSB | Read the Bible Online"
 linkTitle: "1"
-description: "Read 2 John 1 Online | The elder, To the chosen lady and her children, whom I love in the truth—and not I alone, but also all who know the truth..."
+description: >
+  Read 2 John 1 Online | The elder, To the chosen lady and her children, whom I love in the truth—and not I alone, but also all who know the truth...
 weight: 1
 ---
 

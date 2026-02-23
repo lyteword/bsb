@@ -1,7 +1,8 @@
 ---
 title: "Psalm 7 BSB | Read the Bible Online"
 linkTitle: "7"
-description: "Read Psalm 7 Online | O LORD my God, I take refuge in You; save me and deliver me from all my pursuers..."
+description: >
+  Read Psalm 7 Online | O LORD my God, I take refuge in You; save me and deliver me from all my pursuers...
 weight: 7
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Hosea 2 BSB | Read the Bible Online"
 linkTitle: "2"
-description: "Read Hosea 2 Online | “Say of your brothers, ‘My people,’[^3273] and of your sisters, ‘My loved one.’[^3274..."
+description: >
+  Read Hosea 2 Online | “Say of your brothers, ‘My people,’ and of your sisters, ‘My loved one.’[^3274...
 weight: 2
 ---
 

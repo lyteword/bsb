@@ -1,7 +1,8 @@
 ---
 title: "Joshua 5 BSB | Read the Bible Online"
 linkTitle: "5"
-description: "Read Joshua 5 Online | Now when all the Amorite kings west of the Jordan and all the Canaanite kings along the coast [^792] heard how the LORD had dried up the waters of the Jordan before the Israelites until they had crossed over,[^793] their hearts melted and their spirits failed for fear of the Israelites..."
+description: >
+  Read Joshua 5 Online | Now when all the Amorite kings west of the Jordan and all the Canaanite kings along the coast heard how the LORD had dried up the waters of the Jordan before the Israelites until they had crossed over, their hearts melted and their spirits failed for fear of the Israelites...
 weight: 5
 ---
 

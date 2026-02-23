@@ -1,7 +1,8 @@
 ---
 title: "Psalm 57 BSB | Read the Bible Online"
 linkTitle: "57"
-description: "Read Psalm 57 Online | Have mercy on me, O God, have mercy, for in You my soul takes refuge. In the shadow of Your wings I will take shelter until the danger has passed..."
+description: >
+  Read Psalm 57 Online | Have mercy on me, O God, have mercy, for in You my soul takes refuge. In the shadow of Your wings I will take shelter until the danger has passed...
 weight: 57
 ---
 

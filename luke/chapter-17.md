@@ -1,7 +1,8 @@
 ---
 title: "Luke 17 BSB | Read the Bible Online"
 linkTitle: "17"
-description: "Read Luke 17 Online | Jesus said to His disciples, “It is inevitable that stumbling blocks will come, but woe to the one through whom they come..."
+description: >
+  Read Luke 17 Online | Jesus said to His disciples, “It is inevitable that stumbling blocks will come, but woe to the one through whom they come...
 weight: 17
 ---
 

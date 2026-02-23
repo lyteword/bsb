@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 20 BSB | Read the Bible Online"
 linkTitle: "20"
-description: "Read 2 Samuel 20 Online | Now a worthless man named Sheba son of Bichri, a Benjamite, happened to be there, and he blew the ram’s horn and shouted: “We have no share in David, no inheritance in Jesse’s son. Every man to his tent, O Israel!..."
+description: >
+  Read 2 Samuel 20 Online | Now a worthless man named Sheba son of Bichri, a Benjamite, happened to be there, and he blew the ram’s horn and shouted: “We have no share in David, no inheritance in Jesse’s son. Every man to his tent, O Israel!...
 weight: 20
 ---
 

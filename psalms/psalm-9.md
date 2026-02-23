@@ -1,7 +1,8 @@
 ---
 title: "Psalm 9 BSB | Read the Bible Online"
 linkTitle: "9"
-description: "Read Psalm 9 Online | I will give thanks to the LORD with all my heart; I will recount all Your wonders..."
+description: >
+  Read Psalm 9 Online | I will give thanks to the LORD with all my heart; I will recount all Your wonders...
 weight: 9
 ---
 

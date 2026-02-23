@@ -1,7 +1,8 @@
 ---
 title: "Psalm 98 BSB | Read the Bible Online"
 linkTitle: "98"
-description: "Read Psalm 98 Online | Sing to the LORD a new song, for He has done wonders; His right hand and holy arm have gained Him the victory..."
+description: >
+  Read Psalm 98 Online | Sing to the LORD a new song, for He has done wonders; His right hand and holy arm have gained Him the victory...
 weight: 98
 ---
 

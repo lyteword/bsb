@@ -1,7 +1,8 @@
 ---
 title: "Psalm 94 BSB | Read the Bible Online"
 linkTitle: "94"
-description: "Read Psalm 94 Online | O LORD, God of vengeance, O God of vengeance, shine forth..."
+description: >
+  Read Psalm 94 Online | O LORD, God of vengeance, O God of vengeance, shine forth...
 weight: 94
 ---
 

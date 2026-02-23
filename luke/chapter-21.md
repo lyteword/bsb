@@ -1,7 +1,8 @@
 ---
 title: "Luke 21 BSB | Read the Bible Online"
 linkTitle: "21"
-description: "Read Luke 21 Online | Then Jesus looked up and saw the rich putting their gifts into the treasury..."
+description: >
+  Read Luke 21 Online | Then Jesus looked up and saw the rich putting their gifts into the treasury...
 weight: 21
 ---
 

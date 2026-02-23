@@ -1,7 +1,8 @@
 ---
 title: "Romans 9 BSB | Read the Bible Online"
 linkTitle: "9"
-description: "Read Romans 9 Online | I speak the truth in Christ; I am not lying, as confirmed by my conscience in the Holy Spirit..."
+description: >
+  Read Romans 9 Online | I speak the truth in Christ; I am not lying, as confirmed by my conscience in the Holy Spirit...
 weight: 9
 ---
 

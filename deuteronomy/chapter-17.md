@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 17 BSB | Read the Bible Online"
 linkTitle: "17"
-description: "Read Deuteronomy 17 Online | You shall not sacrifice to the LORD your God an ox or a sheep with any defect or serious flaw, for that is detestable to the LORD your God..."
+description: >
+  Read Deuteronomy 17 Online | You shall not sacrifice to the LORD your God an ox or a sheep with any defect or serious flaw, for that is detestable to the LORD your God...
 weight: 17
 ---
 

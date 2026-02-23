@@ -1,7 +1,8 @@
 ---
 title: "Nehemiah 10 BSB | Read the Bible Online"
 linkTitle: "10"
-description: "Read Nehemiah 10 Online | Now these were the ones who sealed the document: Nehemiah the governor, son of Hacaliah, and also Zedekiah..."
+description: >
+  Read Nehemiah 10 Online | Now these were the ones who sealed the document: Nehemiah the governor, son of Hacaliah, and also Zedekiah...
 weight: 10
 ---
 

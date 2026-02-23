@@ -1,7 +1,8 @@
 ---
 title: "Daniel 5 BSB | Read the Bible Online"
 linkTitle: "5"
-description: "Read Daniel 5 Online | Later, [^3224] King Belshazzar held a great feast for a thousand of his nobles, and he drank wine with them..."
+description: >
+  Read Daniel 5 Online | Later, King Belshazzar held a great feast for a thousand of his nobles, and he drank wine with them...
 weight: 5
 ---
 

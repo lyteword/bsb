@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 11 BSB | Read the Bible Online"
 linkTitle: "11"
-description: "Read 1 Samuel 11 Online | Then Nahash [^998] the Ammonite came up and laid siege to Jabesh-gilead. All the men of Jabesh said to him, “Make a treaty [^999] with us, and we will serve you...."
+description: >
+  Read 1 Samuel 11 Online | Then Nahash the Ammonite came up and laid siege to Jabesh-gilead. All the men of Jabesh said to him, “Make a treaty with us, and we will serve you....
 weight: 11
 ---
 

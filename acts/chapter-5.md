@@ -1,7 +1,8 @@
 ---
 title: "Acts 5 BSB | Read the Bible Online"
 linkTitle: "5"
-description: "Read Acts 5 Online | Now a man named Ananias, together with his wife Sapphira, also sold a piece of property..."
+description: >
+  Read Acts 5 Online | Now a man named Ananias, together with his wife Sapphira, also sold a piece of property...
 weight: 5
 ---
 

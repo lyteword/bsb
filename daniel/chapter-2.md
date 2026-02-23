@@ -1,7 +1,8 @@
 ---
 title: "Daniel 2 BSB | Read the Bible Online"
 linkTitle: "2"
-description: "Read Daniel 2 Online | In the second year of his reign, Nebuchadnezzar had dreams that troubled his spirit, and sleep escaped him..."
+description: >
+  Read Daniel 2 Online | In the second year of his reign, Nebuchadnezzar had dreams that troubled his spirit, and sleep escaped him...
 weight: 2
 ---
 

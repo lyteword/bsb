@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 21 BSB | Read the Bible Online"
 linkTitle: "21"
-description: "Read 2 Samuel 21 Online | During the reign of David there was a famine for three successive years, and David sought the face of the LORD. And the LORD said, “It is because of the blood shed by Saul and his family, because he killed the Gibeonites...."
+description: >
+  Read 2 Samuel 21 Online | During the reign of David there was a famine for three successive years, and David sought the face of the LORD. And the LORD said, “It is because of the blood shed by Saul and his family, because he killed the Gibeonites....
 weight: 21
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 24 BSB | Read the Bible Online"
 linkTitle: "24"
-description: "Read Proverbs 24 Online | Do not envy wicked men or desire their company..."
+description: >
+  Read Proverbs 24 Online | Do not envy wicked men or desire their company...
 weight: 24
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Romans 1 BSB | Read the Bible Online"
 linkTitle: "1"
-description: "Read Romans 1 Online | Paul, a servant of Christ Jesus, called to be an apostle, and set apart for the gospel of God..."
+description: >
+  Read Romans 1 Online | Paul, a servant of Christ Jesus, called to be an apostle, and set apart for the gospel of God...
 weight: 1
 ---
 

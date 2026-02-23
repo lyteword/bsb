@@ -1,7 +1,8 @@
 ---
 title: "Galatians 6 BSB | Read the Bible Online"
 linkTitle: "6"
-description: "Read Galatians 6 Online | Brothers, if someone is caught in a trespass, you who are spiritual should restore him with a spirit of gentleness. But watch yourself, or you also may be tempted..."
+description: >
+  Read Galatians 6 Online | Brothers, if someone is caught in a trespass, you who are spiritual should restore him with a spirit of gentleness. But watch yourself, or you also may be tempted...
 weight: 6
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Genesis 42 BSB | Read the Bible Online"
 linkTitle: "42"
-description: "Read Genesis 42 Online | When Jacob learned that there was grain in Egypt, he said to his sons, “Why are you staring at one another?..."
+description: >
+  Read Genesis 42 Online | When Jacob learned that there was grain in Egypt, he said to his sons, “Why are you staring at one another?...
 weight: 42
 ---
 

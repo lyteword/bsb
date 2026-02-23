@@ -1,7 +1,8 @@
 ---
 title: "Daniel 6 BSB | Read the Bible Online"
 linkTitle: "6"
-description: "Read Daniel 6 Online | Now it pleased Darius to appoint 120 satraps to rule throughout the kingdom..."
+description: >
+  Read Daniel 6 Online | Now it pleased Darius to appoint 120 satraps to rule throughout the kingdom...
 weight: 6
 ---
 

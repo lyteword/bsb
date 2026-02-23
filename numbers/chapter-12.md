@@ -1,7 +1,8 @@
 ---
 title: "Numbers 12 BSB | Read the Bible Online"
 linkTitle: "12"
-description: "Read Numbers 12 Online | Then Miriam and Aaron criticized Moses because of the Cushite woman he had married, for he had taken a Cushite wife..."
+description: >
+  Read Numbers 12 Online | Then Miriam and Aaron criticized Moses because of the Cushite woman he had married, for he had taken a Cushite wife...
 weight: 12
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "1 Kings 17 BSB | Read the Bible Online"
 linkTitle: "17"
-description: "Read 1 Kings 17 Online | Now Elijah the Tishbite, who was among the settlers of Gilead,[^1325] said to Ahab, “As surely as the LORD, the God of Israel, lives, before whom I stand, there will be neither dew nor rain in these years except at my word!..."
+description: >
+  Read 1 Kings 17 Online | Now Elijah the Tishbite, who was among the settlers of Gilead, said to Ahab, “As surely as the LORD, the God of Israel, lives, before whom I stand, there will be neither dew nor rain in these years except at my word!...
 weight: 17
 ---
 

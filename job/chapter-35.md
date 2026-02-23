@@ -1,7 +1,8 @@
 ---
 title: "Job 35 BSB | Read the Bible Online"
 linkTitle: "35"
-description: "Read Job 35 Online | And Elihu went on to say..."
+description: >
+  Read Job 35 Online | And Elihu went on to say...
 weight: 35
 ---
 

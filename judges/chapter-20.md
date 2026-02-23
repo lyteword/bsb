@@ -1,7 +1,8 @@
 ---
 title: "Judges 20 BSB | Read the Bible Online"
 linkTitle: "20"
-description: "Read Judges 20 Online | Then all the Israelites from Dan to Beersheba and from the land of Gilead came out, and the congregation assembled as one man before the LORD at Mizpah..."
+description: >
+  Read Judges 20 Online | Then all the Israelites from Dan to Beersheba and from the land of Gilead came out, and the congregation assembled as one man before the LORD at Mizpah...
 weight: 20
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Numbers 14 BSB | Read the Bible Online"
 linkTitle: "14"
-description: "Read Numbers 14 Online | Then the whole congregation lifted up their voices and cried out, and that night the people wept..."
+description: >
+  Read Numbers 14 Online | Then the whole congregation lifted up their voices and cried out, and that night the people wept...
 weight: 14
 ---
 

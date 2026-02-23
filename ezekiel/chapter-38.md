@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 38 BSB | Read the Bible Online"
 linkTitle: "38"
-description: "Read Ezekiel 38 Online | And the word of the LORD came to me, saying..."
+description: >
+  Read Ezekiel 38 Online | And the word of the LORD came to me, saying...
 weight: 38
 ---
 

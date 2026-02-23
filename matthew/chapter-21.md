@@ -1,7 +1,8 @@
 ---
 title: "Matthew 21 BSB | Read the Bible Online"
 linkTitle: "21"
-description: "Read Matthew 21 Online | As they approached Jerusalem and came to Bethphage on the Mount of Olives, Jesus sent out two disciples..."
+description: >
+  Read Matthew 21 Online | As they approached Jerusalem and came to Bethphage on the Mount of Olives, Jesus sent out two disciples...
 weight: 21
 ---
 

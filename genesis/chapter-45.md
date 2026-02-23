@@ -1,7 +1,8 @@
 ---
 title: "Genesis 45 BSB | Read the Bible Online"
 linkTitle: "45"
-description: "Read Genesis 45 Online | Then Joseph could no longer control himself before all his attendants, and he cried out, “Send everyone away from me!” So none of them were with Joseph when he made himself known to his brothers..."
+description: >
+  Read Genesis 45 Online | Then Joseph could no longer control himself before all his attendants, and he cried out, “Send everyone away from me!” So none of them were with Joseph when he made himself known to his brothers...
 weight: 45
 ---
 

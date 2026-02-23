@@ -1,7 +1,8 @@
 ---
 title: "Joshua 9 BSB | Read the Bible Online"
 linkTitle: "9"
-description: "Read Joshua 9 Online | Now when news of this reached all the kings west of the Jordan—those in the hill country, the foothills,[^815] and all along the coast of the Great Sea [^816] toward Lebanon (the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites)..."
+description: >
+  Read Joshua 9 Online | Now when news of this reached all the kings west of the Jordan—those in the hill country, the foothills, and all along the coast of the Great Sea toward Lebanon (the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites)...
 weight: 9
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Exodus 15 BSB | Read the Bible Online"
 linkTitle: "15"
-description: "Read Exodus 15 Online | Then Moses and the Israelites sang this song to the LORD: “I will sing to the LORD, for He is highly exalted. The horse and rider He has thrown into the sea..."
+description: >
+  Read Exodus 15 Online | Then Moses and the Israelites sang this song to the LORD: “I will sing to the LORD, for He is highly exalted. The horse and rider He has thrown into the sea...
 weight: 15
 ---
 

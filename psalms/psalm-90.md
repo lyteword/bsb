@@ -1,7 +1,8 @@
 ---
 title: "Psalm 90 BSB | Read the Bible Online"
 linkTitle: "90"
-description: "Read Psalm 90 Online | Lord, You have been our dwelling place through all generations..."
+description: >
+  Read Psalm 90 Online | Lord, You have been our dwelling place through all generations...
 weight: 90
 ---
 

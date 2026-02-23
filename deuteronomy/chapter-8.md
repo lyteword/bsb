@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 8 BSB | Read the Bible Online"
 linkTitle: "8"
-description: "Read Deuteronomy 8 Online | You must carefully follow every commandment I am giving you today, so that you may live and multiply, and enter and possess the land that the LORD swore to give your fathers..."
+description: >
+  Read Deuteronomy 8 Online | You must carefully follow every commandment I am giving you today, so that you may live and multiply, and enter and possess the land that the LORD swore to give your fathers...
 weight: 8
 ---
 

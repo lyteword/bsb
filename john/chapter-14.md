@@ -1,7 +1,8 @@
 ---
 title: "John 14 BSB | Read the Bible Online"
 linkTitle: "14"
-description: "Read John 14 Online | “Do not let your hearts be troubled. You believe in God;[^4090] believe in Me as well..."
+description: >
+  Read John 14 Online | “Do not let your hearts be troubled. You believe in God; believe in Me as well...
 weight: 14
 ---
 

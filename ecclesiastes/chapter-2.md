@@ -1,7 +1,8 @@
 ---
 title: "Ecclesiastes 2 BSB | Read the Bible Online"
 linkTitle: "2"
-description: "Read Ecclesiastes 2 Online | I said to myself, “Come now, I will test you with pleasure; enjoy what is good!” But it proved to be futile..."
+description: >
+  Read Ecclesiastes 2 Online | I said to myself, “Come now, I will test you with pleasure; enjoy what is good!” But it proved to be futile...
 weight: 2
 ---
 

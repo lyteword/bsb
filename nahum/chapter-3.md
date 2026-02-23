@@ -1,7 +1,8 @@
 ---
 title: "Nahum 3 BSB | Read the Bible Online"
 linkTitle: "3"
-description: "Read Nahum 3 Online | Woe to the city of blood, full of lies, full of plunder, never without prey..."
+description: >
+  Read Nahum 3 Online | Woe to the city of blood, full of lies, full of plunder, never without prey...
 weight: 3
 ---
 

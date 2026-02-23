@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 15 BSB | Read the Bible Online"
 linkTitle: "15"
-description: "Read 2 Samuel 15 Online | Some time later, Absalom provided for himself a chariot with horses and fifty men to run ahead of him..."
+description: >
+  Read 2 Samuel 15 Online | Some time later, Absalom provided for himself a chariot with horses and fifty men to run ahead of him...
 weight: 15
 ---
 

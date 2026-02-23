@@ -1,7 +1,8 @@
 ---
 title: "Numbers 4 BSB | Read the Bible Online"
 linkTitle: "4"
-description: "Read Numbers 4 Online | Then the LORD said to Moses and Aaron..."
+description: >
+  Read Numbers 4 Online | Then the LORD said to Moses and Aaron...
 weight: 4
 ---
 

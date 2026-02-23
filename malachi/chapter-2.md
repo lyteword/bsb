@@ -1,7 +1,8 @@
 ---
 title: "Malachi 2 BSB | Read the Bible Online"
 linkTitle: "2"
-description: "Read Malachi 2 Online | “And now this decree is for you, O priests..."
+description: >
+  Read Malachi 2 Online | “And now this decree is for you, O priests...
 weight: 2
 ---
 

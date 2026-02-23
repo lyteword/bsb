@@ -1,7 +1,8 @@
 ---
 title: "Psalm 62 BSB | Read the Bible Online"
 linkTitle: "62"
-description: "Read Psalm 62 Online | In God alone my soul finds rest; my salvation comes from Him..."
+description: >
+  Read Psalm 62 Online | In God alone my soul finds rest; my salvation comes from Him...
 weight: 62
 ---
 

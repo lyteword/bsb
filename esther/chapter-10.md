@@ -1,7 +1,8 @@
 ---
 title: "Esther 10 BSB | Read the Bible Online"
 linkTitle: "10"
-description: "Read Esther 10 Online | Now King Xerxes imposed tribute throughout the land, even to its farthest shores..."
+description: >
+  Read Esther 10 Online | Now King Xerxes imposed tribute throughout the land, even to its farthest shores...
 weight: 10
 ---
 

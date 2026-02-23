@@ -1,7 +1,8 @@
 ---
 title: "John 10 BSB | Read the Bible Online"
 linkTitle: "10"
-description: "Read John 10 Online | “Truly, truly, I tell you, whoever does not enter the sheepfold by the gate, but climbs in some other way, is a thief and a robber..."
+description: >
+  Read John 10 Online | “Truly, truly, I tell you, whoever does not enter the sheepfold by the gate, but climbs in some other way, is a thief and a robber...
 weight: 10
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Judges 18 BSB | Read the Bible Online"
 linkTitle: "18"
-description: "Read Judges 18 Online | In those days there was no king in Israel, and the tribe of the Danites was looking for territory to occupy. For up to that time they had not come into an inheritance among the tribes of Israel..."
+description: >
+  Read Judges 18 Online | In those days there was no king in Israel, and the tribe of the Danites was looking for territory to occupy. For up to that time they had not come into an inheritance among the tribes of Israel...
 weight: 18
 ---
 

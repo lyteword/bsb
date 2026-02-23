@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 31 BSB | Read the Bible Online"
 linkTitle: "31"
-description: "Read Proverbs 31 Online | These are the words of King Lemuel—the burden that his mother taught him..."
+description: >
+  Read Proverbs 31 Online | These are the words of King Lemuel—the burden that his mother taught him...
 weight: 31
 ---
 

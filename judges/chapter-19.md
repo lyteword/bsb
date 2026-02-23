@@ -1,7 +1,8 @@
 ---
 title: "Judges 19 BSB | Read the Bible Online"
 linkTitle: "19"
-description: "Read Judges 19 Online | Now in those days, when there was no king in Israel, a Levite who lived in the remote hill country of Ephraim took for himself a concubine from Bethlehem in Judah..."
+description: >
+  Read Judges 19 Online | Now in those days, when there was no king in Israel, a Levite who lived in the remote hill country of Ephraim took for himself a concubine from Bethlehem in Judah...
 weight: 19
 ---
 

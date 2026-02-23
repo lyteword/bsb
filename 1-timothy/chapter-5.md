@@ -1,7 +1,8 @@
 ---
 title: "1 Timothy 5 BSB | Read the Bible Online"
 linkTitle: "5"
-description: "Read 1 Timothy 5 Online | Do not rebuke an older man, but appeal to him as to a father. Treat younger men as brothers..."
+description: >
+  Read 1 Timothy 5 Online | Do not rebuke an older man, but appeal to him as to a father. Treat younger men as brothers...
 weight: 5
 ---
 

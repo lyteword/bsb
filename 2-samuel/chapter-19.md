@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 19 BSB | Read the Bible Online"
 linkTitle: "19"
-description: "Read 2 Samuel 19 Online | Then it was reported to Joab, “The king is weeping and mourning over Absalom...."
+description: >
+  Read 2 Samuel 19 Online | Then it was reported to Joab, “The king is weeping and mourning over Absalom....
 weight: 19
 ---
 

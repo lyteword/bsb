@@ -1,7 +1,8 @@
 ---
 title: "Malachi 1 BSB | Read the Bible Online"
 linkTitle: "1"
-description: "Read Malachi 1 Online | This is the burden of the word of the LORD to Israel through Malachi:[^3530..."
+description: >
+  Read Malachi 1 Online | This is the burden of the word of the LORD to Israel through Malachi:[^3530...
 weight: 1
 ---
 

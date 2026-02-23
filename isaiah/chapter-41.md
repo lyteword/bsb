@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 41 BSB | Read the Bible Online"
 linkTitle: "41"
-description: "Read Isaiah 41 Online | “Be silent before Me, O islands,[^2700] and let the peoples renew their strength. Let them come forward and testify; let us together draw near for judgment..."
+description: >
+  Read Isaiah 41 Online | “Be silent before Me, O islands, and let the peoples renew their strength. Let them come forward and testify; let us together draw near for judgment...
 weight: 41
 ---
 

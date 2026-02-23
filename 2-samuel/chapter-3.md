@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 3 BSB | Read the Bible Online"
 linkTitle: "3"
-description: "Read 2 Samuel 3 Online | Now the war between the house of Saul and the house of David was protracted. And David grew stronger and stronger, while the house of Saul grew weaker and weaker..."
+description: >
+  Read 2 Samuel 3 Online | Now the war between the house of Saul and the house of David was protracted. And David grew stronger and stronger, while the house of Saul grew weaker and weaker...
 weight: 3
 ---
 

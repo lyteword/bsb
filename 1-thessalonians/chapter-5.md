@@ -1,7 +1,8 @@
 ---
 title: "1 Thessalonians 5 BSB | Read the Bible Online"
 linkTitle: "5"
-description: "Read 1 Thessalonians 5 Online | Now about the times and seasons, brothers, we do not need to write to you..."
+description: >
+  Read 1 Thessalonians 5 Online | Now about the times and seasons, brothers, we do not need to write to you...
 weight: 5
 ---
 

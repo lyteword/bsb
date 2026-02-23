@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 65 BSB | Read the Bible Online"
 linkTitle: "65"
-description: "Read Isaiah 65 Online | “I revealed Myself to those who did not ask for Me; I was found by those who did not seek Me.[^2788] To a nation that did not call My name, I said, ‘Here I am! Here I am!..."
+description: >
+  Read Isaiah 65 Online | “I revealed Myself to those who did not ask for Me; I was found by those who did not seek Me. To a nation that did not call My name, I said, ‘Here I am! Here I am!...
 weight: 65
 ---
 

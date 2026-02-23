@@ -1,7 +1,8 @@
 ---
 title: "Acts 2 BSB | Read the Bible Online"
 linkTitle: "2"
-description: "Read Acts 2 Online | When the day of Pentecost [^4132] came, they were all together in one place..."
+description: >
+  Read Acts 2 Online | When the day of Pentecost came, they were all together in one place...
 weight: 2
 ---
 

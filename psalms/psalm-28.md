@@ -1,7 +1,8 @@
 ---
 title: "Psalm 28 BSB | Read the Bible Online"
 linkTitle: "28"
-description: "Read Psalm 28 Online | To You, O LORD, I call; be not deaf to me, O my Rock. For if You remain silent, I will be like those descending to the Pit..."
+description: >
+  Read Psalm 28 Online | To You, O LORD, I call; be not deaf to me, O my Rock. For if You remain silent, I will be like those descending to the Pit...
 weight: 28
 ---
 

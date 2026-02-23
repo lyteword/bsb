@@ -1,7 +1,8 @@
 ---
 title: "Psalm 76 BSB | Read the Bible Online"
 linkTitle: "76"
-description: "Read Psalm 76 Online | God is known in Judah; His name is great in Israel..."
+description: >
+  Read Psalm 76 Online | God is known in Judah; His name is great in Israel...
 weight: 76
 ---
 

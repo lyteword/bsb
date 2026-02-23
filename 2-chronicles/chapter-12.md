@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 12 BSB | Read the Bible Online"
 linkTitle: "12"
-description: "Read 2 Chronicles 12 Online | After Rehoboam had established his sovereignty and royal power, he and all Israel [^1763] with him forsook the Law of the LORD..."
+description: >
+  Read 2 Chronicles 12 Online | After Rehoboam had established his sovereignty and royal power, he and all Israel with him forsook the Law of the LORD...
 weight: 12
 ---
 

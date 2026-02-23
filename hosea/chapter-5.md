@@ -1,7 +1,8 @@
 ---
 title: "Hosea 5 BSB | Read the Bible Online"
 linkTitle: "5"
-description: "Read Hosea 5 Online | “Hear this, O priests! Take heed, O house of Israel! Give ear, O royal house! For this judgment is against you because you have been a snare at Mizpah, a net spread out on Tabor..."
+description: >
+  Read Hosea 5 Online | “Hear this, O priests! Take heed, O house of Israel! Give ear, O royal house! For this judgment is against you because you have been a snare at Mizpah, a net spread out on Tabor...
 weight: 5
 ---
 

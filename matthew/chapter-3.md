@@ -1,7 +1,8 @@
 ---
 title: "Matthew 3 BSB | Read the Bible Online"
 linkTitle: "3"
-description: "Read Matthew 3 Online | In those days John the Baptist came, preaching in the wilderness of Judea..."
+description: >
+  Read Matthew 3 Online | In those days John the Baptist came, preaching in the wilderness of Judea...
 weight: 3
 ---
 

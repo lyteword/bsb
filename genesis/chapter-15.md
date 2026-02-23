@@ -1,7 +1,8 @@
 ---
 title: "Genesis 15 BSB | Read the Bible Online"
 linkTitle: "15"
-description: "Read Genesis 15 Online | After these events, the word of the LORD came to Abram in a vision: “Do not be afraid, Abram. I am your shield, your very great reward...."
+description: >
+  Read Genesis 15 Online | After these events, the word of the LORD came to Abram in a vision: “Do not be afraid, Abram. I am your shield, your very great reward....
 weight: 15
 ---
 

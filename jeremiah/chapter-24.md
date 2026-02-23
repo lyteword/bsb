@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 24 BSB | Read the Bible Online"
 linkTitle: "24"
-description: "Read Jeremiah 24 Online | After Nebuchadnezzar king of Babylon had carried away Jeconiah [^2851] son of Jehoiakim king of Judah, as well as the officials of Judah and the craftsmen and metalsmiths from Jerusalem, and had brought them to Babylon,[^2852] the LORD showed me two baskets of figs placed in front of the temple of the LORD..."
+description: >
+  Read Jeremiah 24 Online | After Nebuchadnezzar king of Babylon had carried away Jeconiah son of Jehoiakim king of Judah, as well as the officials of Judah and the craftsmen and metalsmiths from Jerusalem, and had brought them to Babylon, the LORD showed me two baskets of figs placed in front of the temple of the LORD...
 weight: 24
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 56 BSB | Read the Bible Online"
 linkTitle: "56"
-description: "Read Psalm 56 Online | Be merciful to me, O God, for men are hounding me; all day they press their attack..."
+description: >
+  Read Psalm 56 Online | Be merciful to me, O God, for men are hounding me; all day they press their attack...
 weight: 56
 ---
 

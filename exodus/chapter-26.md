@@ -1,7 +1,8 @@
 ---
 title: "Exodus 26 BSB | Read the Bible Online"
 linkTitle: "26"
-description: "Read Exodus 26 Online | “You are to construct the tabernacle itself with ten curtains of finely spun linen, each with blue, purple, and scarlet yarn, and cherubim skillfully worked into them..."
+description: >
+  Read Exodus 26 Online | “You are to construct the tabernacle itself with ten curtains of finely spun linen, each with blue, purple, and scarlet yarn, and cherubim skillfully worked into them...
 weight: 26
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 50 BSB | Read the Bible Online"
 linkTitle: "50"
-description: "Read Isaiah 50 Online | This is what the LORD says: “Where is your mother’s certificate of divorce with which I sent her away? Or to which of My creditors did I sell you? Look, you were sold for your iniquities, and for your transgressions your mother was sent away..."
+description: >
+  Read Isaiah 50 Online | This is what the LORD says: “Where is your mother’s certificate of divorce with which I sent her away? Or to which of My creditors did I sell you? Look, you were sold for your iniquities, and for your transgressions your mother was sent away...
 weight: 50
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 11 BSB | Read the Bible Online"
 linkTitle: "11"
-description: "Read Proverbs 11 Online | Dishonest scales are an abomination to the LORD, but an accurate weight is His delight..."
+description: >
+  Read Proverbs 11 Online | Dishonest scales are an abomination to the LORD, but an accurate weight is His delight...
 weight: 11
 ---
 

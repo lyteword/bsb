@@ -1,7 +1,8 @@
 ---
 title: "Colossians 3 BSB | Read the Bible Online"
 linkTitle: "3"
-description: "Read Colossians 3 Online | Therefore, since you have been raised with Christ, strive for the things above, where Christ is seated at the right hand of God..."
+description: >
+  Read Colossians 3 Online | Therefore, since you have been raised with Christ, strive for the things above, where Christ is seated at the right hand of God...
 weight: 3
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "2 Corinthians 8 BSB | Read the Bible Online"
 linkTitle: "8"
-description: "Read 2 Corinthians 8 Online | Now, brothers, we want you to know about the grace that God has given the churches of Macedonia..."
+description: >
+  Read 2 Corinthians 8 Online | Now, brothers, we want you to know about the grace that God has given the churches of Macedonia...
 weight: 8
 ---
 

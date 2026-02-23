@@ -1,7 +1,8 @@
 ---
 title: "Matthew 23 BSB | Read the Bible Online"
 linkTitle: "23"
-description: "Read Matthew 23 Online | Then Jesus spoke to the crowds and to His disciples..."
+description: >
+  Read Matthew 23 Online | Then Jesus spoke to the crowds and to His disciples...
 weight: 23
 ---
 

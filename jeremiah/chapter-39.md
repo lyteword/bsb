@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 39 BSB | Read the Bible Online"
 linkTitle: "39"
-description: "Read Jeremiah 39 Online | In the ninth year of Zedekiah king of Judah, in the tenth month, Nebuchadnezzar king of Babylon marched against Jerusalem with his entire army and laid siege to the city..."
+description: >
+  Read Jeremiah 39 Online | In the ninth year of Zedekiah king of Judah, in the tenth month, Nebuchadnezzar king of Babylon marched against Jerusalem with his entire army and laid siege to the city...
 weight: 39
 ---
 

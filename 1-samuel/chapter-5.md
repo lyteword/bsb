@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 5 BSB | Read the Bible Online"
 linkTitle: "5"
-description: "Read 1 Samuel 5 Online | After the Philistines had captured the ark of God, they took it from Ebenezer to Ashdod..."
+description: >
+  Read 1 Samuel 5 Online | After the Philistines had captured the ark of God, they took it from Ebenezer to Ashdod...
 weight: 5
 ---
 

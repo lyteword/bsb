@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 46 BSB | Read the Bible Online"
 linkTitle: "46"
-description: "Read Ezekiel 46 Online | “This is what the Lord GOD says: ‘The gate of the inner court that faces east must be kept shut during the six days of work, but on the Sabbath day and on the day of the New Moon it shall be opened..."
+description: >
+  Read Ezekiel 46 Online | “This is what the Lord GOD says: ‘The gate of the inner court that faces east must be kept shut during the six days of work, but on the Sabbath day and on the day of the New Moon it shall be opened...
 weight: 46
 ---
 

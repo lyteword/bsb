@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 9 BSB | Read the Bible Online"
 linkTitle: "9"
-description: "Read Leviticus 9 Online | On the eighth day Moses summoned Aaron and his sons and the elders of Israel..."
+description: >
+  Read Leviticus 9 Online | On the eighth day Moses summoned Aaron and his sons and the elders of Israel...
 weight: 9
 ---
 

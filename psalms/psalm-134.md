@@ -1,7 +1,8 @@
 ---
 title: "Psalm 134 BSB | Read the Bible Online"
 linkTitle: "134"
-description: "Read Psalm 134 Online | Come, bless the LORD, all you servants of the LORD who serve by night in the house of the LORD..."
+description: >
+  Read Psalm 134 Online | Come, bless the LORD, all you servants of the LORD who serve by night in the house of the LORD...
 weight: 134
 ---
 

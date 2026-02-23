@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 52 BSB | Read the Bible Online"
 linkTitle: "52"
-description: "Read Isaiah 52 Online | Awake, awake, clothe yourself with strength, O Zion! Put on your garments of splendor, O Jerusalem, holy city! For the uncircumcised and unclean will no longer enter you..."
+description: >
+  Read Isaiah 52 Online | Awake, awake, clothe yourself with strength, O Zion! Put on your garments of splendor, O Jerusalem, holy city! For the uncircumcised and unclean will no longer enter you...
 weight: 52
 ---
 

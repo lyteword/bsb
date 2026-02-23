@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 22 BSB | Read the Bible Online"
 linkTitle: "22"
-description: "Read Deuteronomy 22 Online | If you see your brother’s ox or sheep straying, you must not ignore it;[^718] be sure to return it to your brother..."
+description: >
+  Read Deuteronomy 22 Online | If you see your brother’s ox or sheep straying, you must not ignore it; be sure to return it to your brother...
 weight: 22
 ---
 

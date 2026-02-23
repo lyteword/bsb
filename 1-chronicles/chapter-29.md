@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 29 BSB | Read the Bible Online"
 linkTitle: "29"
-description: "Read 1 Chronicles 29 Online | Then King David said to the whole assembly, “My son Solomon, the one whom God has chosen, is young and inexperienced. The task is great because this palace is not for man, but for the LORD God..."
+description: >
+  Read 1 Chronicles 29 Online | Then King David said to the whole assembly, “My son Solomon, the one whom God has chosen, is young and inexperienced. The task is great because this palace is not for man, but for the LORD God...
 weight: 29
 ---
 

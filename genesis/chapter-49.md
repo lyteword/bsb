@@ -1,7 +1,8 @@
 ---
 title: "Genesis 49 BSB | Read the Bible Online"
 linkTitle: "49"
-description: "Read Genesis 49 Online | Then Jacob called for his sons and said, “Gather around so that I can tell you what will happen to you in the days to come..."
+description: >
+  Read Genesis 49 Online | Then Jacob called for his sons and said, “Gather around so that I can tell you what will happen to you in the days to come...
 weight: 49
 ---
 

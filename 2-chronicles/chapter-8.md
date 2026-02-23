@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 8 BSB | Read the Bible Online"
 linkTitle: "8"
-description: "Read 2 Chronicles 8 Online | Now at the end of the twenty years during which Solomon had built the house of the LORD and his own palace..."
+description: >
+  Read 2 Chronicles 8 Online | Now at the end of the twenty years during which Solomon had built the house of the LORD and his own palace...
 weight: 8
 ---
 

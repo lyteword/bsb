@@ -1,7 +1,8 @@
 ---
 title: "John 11 BSB | Read the Bible Online"
 linkTitle: "11"
-description: "Read John 11 Online | At this time a man named Lazarus was sick. He lived in Bethany, the village of Mary and her sister Martha..."
+description: >
+  Read John 11 Online | At this time a man named Lazarus was sick. He lived in Bethany, the village of Mary and her sister Martha...
 weight: 11
 ---
 

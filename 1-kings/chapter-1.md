@@ -1,7 +1,8 @@
 ---
 title: "1 Kings 1 BSB | Read the Bible Online"
 linkTitle: "1"
-description: "Read 1 Kings 1 Online | Now King David was old and well along in years, and though they covered him with blankets, he could not keep warm..."
+description: >
+  Read 1 Kings 1 Online | Now King David was old and well along in years, and though they covered him with blankets, he could not keep warm...
 weight: 1
 ---
 

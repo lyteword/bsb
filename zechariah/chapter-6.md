@@ -1,7 +1,8 @@
 ---
 title: "Zechariah 6 BSB | Read the Bible Online"
 linkTitle: "6"
-description: "Read Zechariah 6 Online | And again I lifted up my eyes and saw four chariots coming out from between two mountains—mountains of bronze..."
+description: >
+  Read Zechariah 6 Online | And again I lifted up my eyes and saw four chariots coming out from between two mountains—mountains of bronze...
 weight: 6
 ---
 

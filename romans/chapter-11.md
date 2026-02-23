@@ -1,7 +1,8 @@
 ---
 title: "Romans 11 BSB | Read the Bible Online"
 linkTitle: "11"
-description: "Read Romans 11 Online | I ask then, did God reject His people? Certainly not! I am an Israelite myself, a descendant of Abraham, from the tribe of Benjamin..."
+description: >
+  Read Romans 11 Online | I ask then, did God reject His people? Certainly not! I am an Israelite myself, a descendant of Abraham, from the tribe of Benjamin...
 weight: 11
 ---
 

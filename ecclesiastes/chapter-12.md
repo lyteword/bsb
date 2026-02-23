@@ -1,7 +1,8 @@
 ---
 title: "Ecclesiastes 12 BSB | Read the Bible Online"
 linkTitle: "12"
-description: "Read Ecclesiastes 12 Online | Remember your Creator in the days of your youth, before the days of adversity come and the years approach of which you will say, “I find no pleasure in them,..."
+description: >
+  Read Ecclesiastes 12 Online | Remember your Creator in the days of your youth, before the days of adversity come and the years approach of which you will say, “I find no pleasure in them,...
 weight: 12
 ---
 

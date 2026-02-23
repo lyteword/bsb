@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 12 BSB | Read the Bible Online"
 linkTitle: "12"
-description: "Read 2 Samuel 12 Online | Then the LORD sent Nathan to David, and when he arrived, he said, “There were two men in a certain city, one rich and the other poor..."
+description: >
+  Read 2 Samuel 12 Online | Then the LORD sent Nathan to David, and when he arrived, he said, “There were two men in a certain city, one rich and the other poor...
 weight: 12
 ---
 

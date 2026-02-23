@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 46 BSB | Read the Bible Online"
 linkTitle: "46"
-description: "Read Isaiah 46 Online | Bel crouches; Nebo cowers. Their idols weigh down beasts and cattle. The images you carry are burdensome, a load to the weary animal..."
+description: >
+  Read Isaiah 46 Online | Bel crouches; Nebo cowers. Their idols weigh down beasts and cattle. The images you carry are burdensome, a load to the weary animal...
 weight: 46
 ---
 

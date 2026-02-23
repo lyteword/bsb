@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 26 BSB | Read the Bible Online"
 linkTitle: "26"
-description: "Read Ezekiel 26 Online | In the eleventh month of the twelfth year,[^3056] on the first day of the month, the word of the LORD came to me, saying..."
+description: >
+  Read Ezekiel 26 Online | In the eleventh month of the twelfth year, on the first day of the month, the word of the LORD came to me, saying...
 weight: 26
 ---
 

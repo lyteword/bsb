@@ -1,7 +1,8 @@
 ---
 title: "Hosea 7 BSB | Read the Bible Online"
 linkTitle: "7"
-description: "Read Hosea 7 Online | When I heal Israel, the iniquity of Ephraim [^3305] will be exposed, as well as the crimes of Samaria. For they practice deceit and thieves break in; bandits raid in the streets..."
+description: >
+  Read Hosea 7 Online | When I heal Israel, the iniquity of Ephraim will be exposed, as well as the crimes of Samaria. For they practice deceit and thieves break in; bandits raid in the streets...
 weight: 7
 ---
 

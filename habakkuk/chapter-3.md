@@ -1,7 +1,8 @@
 ---
 title: "Habakkuk 3 BSB | Read the Bible Online"
 linkTitle: "3"
-description: "Read Habakkuk 3 Online | This is a prayer of Habakkuk the prophet, according to Shigionoth:[^3449..."
+description: >
+  Read Habakkuk 3 Online | This is a prayer of Habakkuk the prophet, according to Shigionoth:[^3449...
 weight: 3
 ---
 

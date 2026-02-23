@@ -1,7 +1,8 @@
 ---
 title: "Revelation 22 BSB | Read the Bible Online"
 linkTitle: "22"
-description: "Read Revelation 22 Online | Then the angel showed me a river of the water of life, as clear as crystal, flowing from the throne of God and of the Lamb..."
+description: >
+  Read Revelation 22 Online | Then the angel showed me a river of the water of life, as clear as crystal, flowing from the throne of God and of the Lamb...
 weight: 22
 ---
 

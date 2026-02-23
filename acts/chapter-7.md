@@ -1,7 +1,8 @@
 ---
 title: "Acts 7 BSB | Read the Bible Online"
 linkTitle: "7"
-description: "Read Acts 7 Online | Then the high priest asked Stephen, “Are these charges true?..."
+description: >
+  Read Acts 7 Online | Then the high priest asked Stephen, “Are these charges true?...
 weight: 7
 ---
 

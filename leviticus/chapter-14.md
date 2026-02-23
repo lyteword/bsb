@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 14 BSB | Read the Bible Online"
 linkTitle: "14"
-description: "Read Leviticus 14 Online | Then the LORD said to Moses..."
+description: >
+  Read Leviticus 14 Online | Then the LORD said to Moses...
 weight: 14
 ---
 

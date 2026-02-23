@@ -1,7 +1,8 @@
 ---
 title: "Luke 18 BSB | Read the Bible Online"
 linkTitle: "18"
-description: "Read Luke 18 Online | Then Jesus told them a parable about their need to pray at all times and not lose heart..."
+description: >
+  Read Luke 18 Online | Then Jesus told them a parable about their need to pray at all times and not lose heart...
 weight: 18
 ---
 

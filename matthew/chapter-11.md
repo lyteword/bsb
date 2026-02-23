@@ -1,7 +1,8 @@
 ---
 title: "Matthew 11 BSB | Read the Bible Online"
 linkTitle: "11"
-description: "Read Matthew 11 Online | After Jesus had finished instructing His twelve disciples, He went on from there to teach and preach in their cities.[^3611..."
+description: >
+  Read Matthew 11 Online | After Jesus had finished instructing His twelve disciples, He went on from there to teach and preach in their cities.[^3611...
 weight: 11
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Numbers 31 BSB | Read the Bible Online"
 linkTitle: "31"
-description: "Read Numbers 31 Online | And the LORD said to Moses..."
+description: >
+  Read Numbers 31 Online | And the LORD said to Moses...
 weight: 31
 ---
 

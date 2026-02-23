@@ -1,7 +1,8 @@
 ---
 title: "Matthew 22 BSB | Read the Bible Online"
 linkTitle: "22"
-description: "Read Matthew 22 Online | Once again, Jesus spoke to them in parables..."
+description: >
+  Read Matthew 22 Online | Once again, Jesus spoke to them in parables...
 weight: 22
 ---
 

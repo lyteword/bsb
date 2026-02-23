@@ -1,7 +1,8 @@
 ---
 title: "Psalm 54 BSB | Read the Bible Online"
 linkTitle: "54"
-description: "Read Psalm 54 Online | Save me, O God, by Your name, and vindicate me by Your might..."
+description: >
+  Read Psalm 54 Online | Save me, O God, by Your name, and vindicate me by Your might...
 weight: 54
 ---
 

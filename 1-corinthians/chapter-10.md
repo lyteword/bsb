@@ -1,7 +1,8 @@
 ---
 title: "1 Corinthians 10 BSB | Read the Bible Online"
 linkTitle: "10"
-description: "Read 1 Corinthians 10 Online | I do not want you to be unaware, brothers, that our forefathers were all under the cloud, and that they all passed through the sea..."
+description: >
+  Read 1 Corinthians 10 Online | I do not want you to be unaware, brothers, that our forefathers were all under the cloud, and that they all passed through the sea...
 weight: 10
 ---
 

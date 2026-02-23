@@ -1,7 +1,8 @@
 ---
 title: "Job 24 BSB | Read the Bible Online"
 linkTitle: "24"
-description: "Read Job 24 Online | “Why does the Almighty not reserve times for judgment? Why may those who know Him never see His days..."
+description: >
+  Read Job 24 Online | “Why does the Almighty not reserve times for judgment? Why may those who know Him never see His days...
 weight: 24
 ---
 

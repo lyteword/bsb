@@ -1,7 +1,8 @@
 ---
 title: "Esther 6 BSB | Read the Bible Online"
 linkTitle: "6"
-description: "Read Esther 6 Online | That night sleep escaped the king; so he ordered the Book of Records, the Chronicles,[^2049] to be brought in and read to him..."
+description: >
+  Read Esther 6 Online | That night sleep escaped the king; so he ordered the Book of Records, the Chronicles, to be brought in and read to him...
 weight: 6
 ---
 

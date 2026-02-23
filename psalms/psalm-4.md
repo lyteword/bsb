@@ -1,7 +1,8 @@
 ---
 title: "Psalm 4 BSB | Read the Bible Online"
 linkTitle: "4"
-description: "Read Psalm 4 Online | Answer me when I call, O God of my righteousness! You have relieved my distress; show me grace and hear my prayer..."
+description: >
+  Read Psalm 4 Online | Answer me when I call, O God of my righteousness! You have relieved my distress; show me grace and hear my prayer...
 weight: 4
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 91 BSB | Read the Bible Online"
 linkTitle: "91"
-description: "Read Psalm 91 Online | He who dwells in the shelter of the Most High will abide in the shadow of the Almighty.[^2340..."
+description: >
+  Read Psalm 91 Online | He who dwells in the shelter of the Most High will abide in the shadow of the Almighty.[^2340...
 weight: 91
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Matthew 8 BSB | Read the Bible Online"
 linkTitle: "8"
-description: "Read Matthew 8 Online | When Jesus came down from the mountain, large crowds followed Him..."
+description: >
+  Read Matthew 8 Online | When Jesus came down from the mountain, large crowds followed Him...
 weight: 8
 ---
 

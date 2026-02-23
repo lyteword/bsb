@@ -1,7 +1,8 @@
 ---
 title: "Judges 12 BSB | Read the Bible Online"
 linkTitle: "12"
-description: "Read Judges 12 Online | Then the men of Ephraim assembled and crossed the Jordan to Zaphon. They said to Jephthah, “Why have you crossed over to fight the Ammonites without calling us to go with you? We will burn your house down with you inside!..."
+description: >
+  Read Judges 12 Online | Then the men of Ephraim assembled and crossed the Jordan to Zaphon. They said to Jephthah, “Why have you crossed over to fight the Ammonites without calling us to go with you? We will burn your house down with you inside!...
 weight: 12
 ---
 

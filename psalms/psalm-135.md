@@ -1,7 +1,8 @@
 ---
 title: "Psalm 135 BSB | Read the Bible Online"
 linkTitle: "135"
-description: "Read Psalm 135 Online | Hallelujah![^2412] Praise the name of the LORD. Give praise, O servants of the LORD..."
+description: >
+  Read Psalm 135 Online | Hallelujah! Praise the name of the LORD. Give praise, O servants of the LORD...
 weight: 135
 ---
 

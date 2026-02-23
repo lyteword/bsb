@@ -1,7 +1,8 @@
 ---
 title: "Matthew 27 BSB | Read the Bible Online"
 linkTitle: "27"
-description: "Read Matthew 27 Online | When morning came, all the chief priests and elders of the people conspired against Jesus to put Him to death..."
+description: >
+  Read Matthew 27 Online | When morning came, all the chief priests and elders of the people conspired against Jesus to put Him to death...
 weight: 27
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 4 BSB | Read the Bible Online"
 linkTitle: "4"
-description: "Read 2 Samuel 4 Online | Now when Ish-bosheth son of Saul heard that Abner had died in Hebron, he lost courage, and all Israel was dismayed..."
+description: >
+  Read 2 Samuel 4 Online | Now when Ish-bosheth son of Saul heard that Abner had died in Hebron, he lost courage, and all Israel was dismayed...
 weight: 4
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 16 BSB | Read the Bible Online"
 linkTitle: "16"
-description: "Read Psalm 16 Online | Preserve me, O God, for in You I take refuge..."
+description: >
+  Read Psalm 16 Online | Preserve me, O God, for in You I take refuge...
 weight: 16
 ---
 

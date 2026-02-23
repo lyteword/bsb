@@ -1,7 +1,8 @@
 ---
 title: "Exodus 31 BSB | Read the Bible Online"
 linkTitle: "31"
-description: "Read Exodus 31 Online | Then the LORD said to Moses..."
+description: >
+  Read Exodus 31 Online | Then the LORD said to Moses...
 weight: 31
 ---
 

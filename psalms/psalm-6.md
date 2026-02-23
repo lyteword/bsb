@@ -1,7 +1,8 @@
 ---
 title: "Psalm 6 BSB | Read the Bible Online"
 linkTitle: "6"
-description: "Read Psalm 6 Online | O LORD, do not rebuke me in Your anger or discipline me in Your wrath..."
+description: >
+  Read Psalm 6 Online | O LORD, do not rebuke me in Your anger or discipline me in Your wrath...
 weight: 6
 ---
 

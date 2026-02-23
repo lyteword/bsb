@@ -1,7 +1,8 @@
 ---
 title: "Matthew 17 BSB | Read the Bible Online"
 linkTitle: "17"
-description: "Read Matthew 17 Online | After six days Jesus took with Him Peter, James, and John the brother of James, and led them up a high mountain by themselves..."
+description: >
+  Read Matthew 17 Online | After six days Jesus took with Him Peter, James, and John the brother of James, and led them up a high mountain by themselves...
 weight: 17
 ---
 

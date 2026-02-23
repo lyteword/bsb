@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 29 BSB | Read the Bible Online"
 linkTitle: "29"
-description: "Read Proverbs 29 Online | A man who remains stiff-necked after much reproof will suddenly be shattered beyond recovery..."
+description: >
+  Read Proverbs 29 Online | A man who remains stiff-necked after much reproof will suddenly be shattered beyond recovery...
 weight: 29
 ---
 

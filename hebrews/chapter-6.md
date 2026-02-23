@@ -1,7 +1,8 @@
 ---
 title: "Hebrews 6 BSB | Read the Bible Online"
 linkTitle: "6"
-description: "Read Hebrews 6 Online | Therefore let us leave the elementary teachings about Christ and go on to maturity, not laying again the foundation of repentance from dead works,[^4625] and of faith in God..."
+description: >
+  Read Hebrews 6 Online | Therefore let us leave the elementary teachings about Christ and go on to maturity, not laying again the foundation of repentance from dead works, and of faith in God...
 weight: 6
 ---
 

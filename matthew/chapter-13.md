@@ -1,7 +1,8 @@
 ---
 title: "Matthew 13 BSB | Read the Bible Online"
 linkTitle: "13"
-description: "Read Matthew 13 Online | That same day Jesus went out of the house and sat by the sea..."
+description: >
+  Read Matthew 13 Online | That same day Jesus went out of the house and sat by the sea...
 weight: 13
 ---
 

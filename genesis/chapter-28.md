@@ -1,7 +1,8 @@
 ---
 title: "Genesis 28 BSB | Read the Bible Online"
 linkTitle: "28"
-description: "Read Genesis 28 Online | So Isaac called for Jacob and blessed him. “Do not take a wife from the Canaanite women,” he commanded..."
+description: >
+  Read Genesis 28 Online | So Isaac called for Jacob and blessed him. “Do not take a wife from the Canaanite women,” he commanded...
 weight: 28
 ---
 

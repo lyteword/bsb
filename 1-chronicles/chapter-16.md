@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 16 BSB | Read the Bible Online"
 linkTitle: "16"
-description: "Read 1 Chronicles 16 Online | So they brought the ark of God and placed it inside the tent that David had pitched for it. And they presented burnt offerings and peace offerings before God..."
+description: >
+  Read 1 Chronicles 16 Online | So they brought the ark of God and placed it inside the tent that David had pitched for it. And they presented burnt offerings and peace offerings before God...
 weight: 16
 ---
 

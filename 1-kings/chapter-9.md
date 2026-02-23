@@ -1,7 +1,8 @@
 ---
 title: "1 Kings 9 BSB | Read the Bible Online"
 linkTitle: "9"
-description: "Read 1 Kings 9 Online | Now when Solomon had finished building the house of the LORD and the royal palace, and had achieved all that he had desired to do..."
+description: >
+  Read 1 Kings 9 Online | Now when Solomon had finished building the house of the LORD and the royal palace, and had achieved all that he had desired to do...
 weight: 9
 ---
 

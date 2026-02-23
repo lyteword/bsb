@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 32 BSB | Read the Bible Online"
 linkTitle: "32"
-description: "Read Isaiah 32 Online | Behold, a king will reign in righteousness, and princes will rule with justice..."
+description: >
+  Read Isaiah 32 Online | Behold, a king will reign in righteousness, and princes will rule with justice...
 weight: 32
 ---
 

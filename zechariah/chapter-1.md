@@ -1,7 +1,8 @@
 ---
 title: "Zechariah 1 BSB | Read the Bible Online"
 linkTitle: "1"
-description: "Read Zechariah 1 Online | In the eighth month of the second year of Darius, the word of the LORD came to the prophet Zechariah son of Berechiah, the son of Iddo, saying..."
+description: >
+  Read Zechariah 1 Online | In the eighth month of the second year of Darius, the word of the LORD came to the prophet Zechariah son of Berechiah, the son of Iddo, saying...
 weight: 1
 ---
 

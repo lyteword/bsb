@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 13 BSB | Read the Bible Online"
 linkTitle: "13"
-description: "Read Deuteronomy 13 Online | If a prophet or dreamer of dreams arises among you and proclaims a sign or wonder to you..."
+description: >
+  Read Deuteronomy 13 Online | If a prophet or dreamer of dreams arises among you and proclaims a sign or wonder to you...
 weight: 13
 ---
 

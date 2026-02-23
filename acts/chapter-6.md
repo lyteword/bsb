@@ -1,7 +1,8 @@
 ---
 title: "Acts 6 BSB | Read the Bible Online"
 linkTitle: "6"
-description: "Read Acts 6 Online | In those days when the disciples were increasing in number, the Grecian Jews among them began to grumble against the Hebraic Jews [^4160] because their widows were being overlooked in the daily distribution of food..."
+description: >
+  Read Acts 6 Online | In those days when the disciples were increasing in number, the Grecian Jews among them began to grumble against the Hebraic Jews because their widows were being overlooked in the daily distribution of food...
 weight: 6
 ---
 

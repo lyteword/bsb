@@ -1,7 +1,8 @@
 ---
 title: "1 Corinthians 14 BSB | Read the Bible Online"
 linkTitle: "14"
-description: "Read 1 Corinthians 14 Online | Earnestly pursue love and eagerly desire spiritual gifts, especially the gift of prophecy..."
+description: >
+  Read 1 Corinthians 14 Online | Earnestly pursue love and eagerly desire spiritual gifts, especially the gift of prophecy...
 weight: 14
 ---
 

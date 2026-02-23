@@ -1,7 +1,8 @@
 ---
 title: "Job 11 BSB | Read the Bible Online"
 linkTitle: "11"
-description: "Read Job 11 Online | Then Zophar the Naamathite replied..."
+description: >
+  Read Job 11 Online | Then Zophar the Naamathite replied...
 weight: 11
 ---
 

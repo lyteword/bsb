@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 29 BSB | Read the Bible Online"
 linkTitle: "29"
-description: "Read Deuteronomy 29 Online | These are the words of the covenant that the LORD commanded Moses to make with the Israelites in the land of Moab, in addition to the covenant He had made with them at Horeb.[^739..."
+description: >
+  Read Deuteronomy 29 Online | These are the words of the covenant that the LORD commanded Moses to make with the Israelites in the land of Moab, in addition to the covenant He had made with them at Horeb.[^739...
 weight: 29
 ---
 

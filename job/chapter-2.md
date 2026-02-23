@@ -1,7 +1,8 @@
 ---
 title: "Job 2 BSB | Read the Bible Online"
 linkTitle: "2"
-description: "Read Job 2 Online | On another day the sons of God came to present themselves before the LORD, and Satan [^2058] also came with them to present himself before Him..."
+description: >
+  Read Job 2 Online | On another day the sons of God came to present themselves before the LORD, and Satan also came with them to present himself before Him...
 weight: 2
 ---
 

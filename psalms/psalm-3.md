@@ -1,7 +1,8 @@
 ---
 title: "Psalm 3 BSB | Read the Bible Online"
 linkTitle: "3"
-description: "Read Psalm 3 Online | O LORD, how my foes have increased! How many rise up against me..."
+description: >
+  Read Psalm 3 Online | O LORD, how my foes have increased! How many rise up against me...
 weight: 3
 ---
 

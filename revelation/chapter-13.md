@@ -1,7 +1,8 @@
 ---
 title: "Revelation 13 BSB | Read the Bible Online"
 linkTitle: "13"
-description: "Read Revelation 13 Online | Then I saw a beast with ten horns and seven heads rising out of the sea. There were ten royal crowns on its horns and blasphemous names on its heads..."
+description: >
+  Read Revelation 13 Online | Then I saw a beast with ten horns and seven heads rising out of the sea. There were ten royal crowns on its horns and blasphemous names on its heads...
 weight: 13
 ---
 

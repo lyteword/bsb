@@ -1,7 +1,8 @@
 ---
 title: "Song Of Solomon 2 BSB | Read the Bible Online"
 linkTitle: "2"
-description: "Read Song Of Solomon 2 Online | I am a rose of Sharon,[^2542] a lily of the valley..."
+description: >
+  Read Song Of Solomon 2 Online | I am a rose of Sharon, a lily of the valley...
 weight: 2
 ---
 

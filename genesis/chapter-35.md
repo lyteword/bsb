@@ -1,7 +1,8 @@
 ---
 title: "Genesis 35 BSB | Read the Bible Online"
 linkTitle: "35"
-description: "Read Genesis 35 Online | Then God said to Jacob, “Arise, go up to Bethel, and settle there. Build an altar there to the God who appeared to you when you fled from your brother Esau...."
+description: >
+  Read Genesis 35 Online | Then God said to Jacob, “Arise, go up to Bethel, and settle there. Build an altar there to the God who appeared to you when you fled from your brother Esau....
 weight: 35
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "1 Corinthians 12 BSB | Read the Bible Online"
 linkTitle: "12"
-description: "Read 1 Corinthians 12 Online | Now about spiritual gifts, brothers, I do not want you to be uninformed..."
+description: >
+  Read 1 Corinthians 12 Online | Now about spiritual gifts, brothers, I do not want you to be uninformed...
 weight: 12
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 61 BSB | Read the Bible Online"
 linkTitle: "61"
-description: "Read Isaiah 61 Online | The Spirit of the Lord GOD is on Me, because the LORD has anointed Me to preach good news to the poor. He has sent Me to bind up the brokenhearted, to proclaim liberty to the captives and freedom to the prisoners,[^2777..."
+description: >
+  Read Isaiah 61 Online | The Spirit of the Lord GOD is on Me, because the LORD has anointed Me to preach good news to the poor. He has sent Me to bind up the brokenhearted, to proclaim liberty to the captives and freedom to the prisoners,[^2777...
 weight: 61
 ---
 

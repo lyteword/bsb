@@ -1,7 +1,8 @@
 ---
 title: "Genesis 12 BSB | Read the Bible Online"
 linkTitle: "12"
-description: "Read Genesis 12 Online | Then the LORD said to Abram, “Leave your country, your kindred, and your father’s household, and go to the land I will show you.[^59..."
+description: >
+  Read Genesis 12 Online | Then the LORD said to Abram, “Leave your country, your kindred, and your father’s household, and go to the land I will show you.[^59...
 weight: 12
 ---
 

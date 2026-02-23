@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 3 BSB | Read the Bible Online"
 linkTitle: "3"
-description: "Read 2 Chronicles 3 Online | Then Solomon began to build the house of the LORD in Jerusalem on Mount Moriah, where the LORD had appeared [^1709] to his father David. This was the place that David had prepared on the threshing floor of Ornan [^1710] the Jebusite..."
+description: >
+  Read 2 Chronicles 3 Online | Then Solomon began to build the house of the LORD in Jerusalem on Mount Moriah, where the LORD had appeared to his father David. This was the place that David had prepared on the threshing floor of Ornan the Jebusite...
 weight: 3
 ---
 

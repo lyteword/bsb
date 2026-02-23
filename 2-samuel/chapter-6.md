@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 6 BSB | Read the Bible Online"
 linkTitle: "6"
-description: "Read 2 Samuel 6 Online | David again assembled the chosen men of Israel, thirty thousand in all..."
+description: >
+  Read 2 Samuel 6 Online | David again assembled the chosen men of Israel, thirty thousand in all...
 weight: 6
 ---
 

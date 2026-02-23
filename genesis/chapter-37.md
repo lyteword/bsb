@@ -1,7 +1,8 @@
 ---
 title: "Genesis 37 BSB | Read the Bible Online"
 linkTitle: "37"
-description: "Read Genesis 37 Online | Now Jacob lived in the land where his father had resided, the land of Canaan..."
+description: >
+  Read Genesis 37 Online | Now Jacob lived in the land where his father had resided, the land of Canaan...
 weight: 37
 ---
 

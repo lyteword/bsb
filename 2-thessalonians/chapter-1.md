@@ -1,7 +1,8 @@
 ---
 title: "2 Thessalonians 1 BSB | Read the Bible Online"
 linkTitle: "1"
-description: "Read 2 Thessalonians 1 Online | Paul, Silvanus,[^4550] and Timothy, To the church of the Thessalonians in God our Father and the Lord Jesus Christ..."
+description: >
+  Read 2 Thessalonians 1 Online | Paul, Silvanus, and Timothy, To the church of the Thessalonians in God our Father and the Lord Jesus Christ...
 weight: 1
 ---
 

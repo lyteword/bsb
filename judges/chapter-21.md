@@ -1,7 +1,8 @@
 ---
 title: "Judges 21 BSB | Read the Bible Online"
 linkTitle: "21"
-description: "Read Judges 21 Online | Now the men of Israel had sworn an oath at Mizpah, saying, “Not one of us will give his daughter in marriage to a Benjamite...."
+description: >
+  Read Judges 21 Online | Now the men of Israel had sworn an oath at Mizpah, saying, “Not one of us will give his daughter in marriage to a Benjamite....
 weight: 21
 ---
 

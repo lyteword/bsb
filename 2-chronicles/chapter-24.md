@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 24 BSB | Read the Bible Online"
 linkTitle: "24"
-description: "Read 2 Chronicles 24 Online | Joash was seven years old when he became king, and he reigned in Jerusalem forty years. His mother’s name was Zibiah; she was from Beersheba..."
+description: >
+  Read 2 Chronicles 24 Online | Joash was seven years old when he became king, and he reigned in Jerusalem forty years. His mother’s name was Zibiah; she was from Beersheba...
 weight: 24
 ---
 

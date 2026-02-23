@@ -1,7 +1,8 @@
 ---
 title: "Numbers 22 BSB | Read the Bible Online"
 linkTitle: "22"
-description: "Read Numbers 22 Online | Then the Israelites traveled on and camped in the plains of Moab near the Jordan, across from Jericho..."
+description: >
+  Read Numbers 22 Online | Then the Israelites traveled on and camped in the plains of Moab near the Jordan, across from Jericho...
 weight: 22
 ---
 

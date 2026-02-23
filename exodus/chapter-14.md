@@ -1,7 +1,8 @@
 ---
 title: "Exodus 14 BSB | Read the Bible Online"
 linkTitle: "14"
-description: "Read Exodus 14 Online | Then the LORD said to Moses..."
+description: >
+  Read Exodus 14 Online | Then the LORD said to Moses...
 weight: 14
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Numbers 10 BSB | Read the Bible Online"
 linkTitle: "10"
-description: "Read Numbers 10 Online | Then the LORD said to Moses..."
+description: >
+  Read Numbers 10 Online | Then the LORD said to Moses...
 weight: 10
 ---
 

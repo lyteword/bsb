@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 21 BSB | Read the Bible Online"
 linkTitle: "21"
-description: "Read 1 Chronicles 21 Online | Then Satan [^1641] rose up against Israel and incited David to take a census of Israel..."
+description: >
+  Read 1 Chronicles 21 Online | Then Satan rose up against Israel and incited David to take a census of Israel...
 weight: 21
 ---
 

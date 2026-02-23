@@ -1,7 +1,8 @@
 ---
 title: "1 Kings 13 BSB | Read the Bible Online"
 linkTitle: "13"
-description: "Read 1 Kings 13 Online | Suddenly, as Jeroboam was standing beside the altar to burn incense, there came a man of God from Judah to Bethel by the word of the LORD..."
+description: >
+  Read 1 Kings 13 Online | Suddenly, as Jeroboam was standing beside the altar to burn incense, there came a man of God from Judah to Bethel by the word of the LORD...
 weight: 13
 ---
 

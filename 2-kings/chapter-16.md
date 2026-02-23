@@ -1,7 +1,8 @@
 ---
 title: "2 Kings 16 BSB | Read the Bible Online"
 linkTitle: "16"
-description: "Read 2 Kings 16 Online | In the seventeenth year of Pekah son of Remaliah, Ahaz son of Jotham became king of Judah..."
+description: >
+  Read 2 Kings 16 Online | In the seventeenth year of Pekah son of Remaliah, Ahaz son of Jotham became king of Judah...
 weight: 16
 ---
 

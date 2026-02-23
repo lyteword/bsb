@@ -1,7 +1,8 @@
 ---
 title: "Genesis 24 BSB | Read the Bible Online"
 linkTitle: "24"
-description: "Read Genesis 24 Online | By now Abraham was old and well along in years, and the LORD had blessed him in every way..."
+description: >
+  Read Genesis 24 Online | By now Abraham was old and well along in years, and the LORD had blessed him in every way...
 weight: 24
 ---
 

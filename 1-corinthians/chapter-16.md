@@ -1,7 +1,8 @@
 ---
 title: "1 Corinthians 16 BSB | Read the Bible Online"
 linkTitle: "16"
-description: "Read 1 Corinthians 16 Online | Now about the collection for the saints, you are to do as I directed the churches of Galatia..."
+description: >
+  Read 1 Corinthians 16 Online | Now about the collection for the saints, you are to do as I directed the churches of Galatia...
 weight: 16
 ---
 

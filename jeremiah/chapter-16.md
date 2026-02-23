@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 16 BSB | Read the Bible Online"
 linkTitle: "16"
-description: "Read Jeremiah 16 Online | Then the word of the LORD came to me, saying..."
+description: >
+  Read Jeremiah 16 Online | Then the word of the LORD came to me, saying...
 weight: 16
 ---
 

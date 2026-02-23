@@ -1,7 +1,8 @@
 ---
 title: "Matthew 18 BSB | Read the Bible Online"
 linkTitle: "18"
-description: "Read Matthew 18 Online | At that time the disciples came to Jesus and asked, “Who then is the greatest in the kingdom of heaven?..."
+description: >
+  Read Matthew 18 Online | At that time the disciples came to Jesus and asked, “Who then is the greatest in the kingdom of heaven?...
 weight: 18
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 124 BSB | Read the Bible Online"
 linkTitle: "124"
-description: "Read Psalm 124 Online | If the LORD had not been on our side— let Israel now declare..."
+description: >
+  Read Psalm 124 Online | If the LORD had not been on our side— let Israel now declare...
 weight: 124
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 34 BSB | Read the Bible Online"
 linkTitle: "34"
-description: "Read Jeremiah 34 Online | This is the word that came to Jeremiah from the LORD when Nebuchadnezzar king of Babylon, all his army, all the earthly kingdoms under his control, and all the other nations were fighting against Jerusalem and all its surrounding cities..."
+description: >
+  Read Jeremiah 34 Online | This is the word that came to Jeremiah from the LORD when Nebuchadnezzar king of Babylon, all his army, all the earthly kingdoms under his control, and all the other nations were fighting against Jerusalem and all its surrounding cities...
 weight: 34
 ---
 

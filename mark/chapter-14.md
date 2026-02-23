@@ -1,7 +1,8 @@
 ---
 title: "Mark 14 BSB | Read the Bible Online"
 linkTitle: "14"
-description: "Read Mark 14 Online | Now the Passover and the Feast of Unleavened Bread [^3833] were two days away, and the chief priests and scribes were looking for a covert way to arrest Jesus and kill Him..."
+description: >
+  Read Mark 14 Online | Now the Passover and the Feast of Unleavened Bread were two days away, and the chief priests and scribes were looking for a covert way to arrest Jesus and kill Him...
 weight: 14
 ---
 

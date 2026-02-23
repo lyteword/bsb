@@ -1,7 +1,8 @@
 ---
 title: "Judges 14 BSB | Read the Bible Online"
 linkTitle: "14"
-description: "Read Judges 14 Online | One day Samson went down to Timnah, where he saw a young Philistine woman..."
+description: >
+  Read Judges 14 Online | One day Samson went down to Timnah, where he saw a young Philistine woman...
 weight: 14
 ---
 

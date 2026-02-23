@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 23 BSB | Read the Bible Online"
 linkTitle: "23"
-description: "Read 1 Chronicles 23 Online | When David was old and full of years, he installed his son Solomon as king over Israel..."
+description: >
+  Read 1 Chronicles 23 Online | When David was old and full of years, he installed his son Solomon as king over Israel...
 weight: 23
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "1 Peter 2 BSB | Read the Bible Online"
 linkTitle: "2"
-description: "Read 1 Peter 2 Online | Rid yourselves, therefore, of all malice, deceit, hypocrisy, envy, and slander..."
+description: >
+  Read 1 Peter 2 Online | Rid yourselves, therefore, of all malice, deceit, hypocrisy, envy, and slander...
 weight: 2
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Genesis 19 BSB | Read the Bible Online"
 linkTitle: "19"
-description: "Read Genesis 19 Online | Now the two angels arrived at Sodom in the evening, and Lot was sitting in the gateway of the city. When Lot saw them, he got up to meet them, bowed facedown..."
+description: >
+  Read Genesis 19 Online | Now the two angels arrived at Sodom in the evening, and Lot was sitting in the gateway of the city. When Lot saw them, he got up to meet them, bowed facedown...
 weight: 19
 ---
 

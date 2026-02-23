@@ -1,7 +1,8 @@
 ---
 title: "2 Kings 4 BSB | Read the Bible Online"
 linkTitle: "4"
-description: "Read 2 Kings 4 Online | Now the wife of one of the sons of the prophets cried out to Elisha, “Your servant, my husband, is dead, and you know that your servant feared the LORD. And now his creditor is coming to take my two children as his slaves!..."
+description: >
+  Read 2 Kings 4 Online | Now the wife of one of the sons of the prophets cried out to Elisha, “Your servant, my husband, is dead, and you know that your servant feared the LORD. And now his creditor is coming to take my two children as his slaves!...
 weight: 4
 ---
 

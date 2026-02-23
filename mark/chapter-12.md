@@ -1,7 +1,8 @@
 ---
 title: "Mark 12 BSB | Read the Bible Online"
 linkTitle: "12"
-description: "Read Mark 12 Online | Then Jesus began to speak to them in parables: “A man planted a vineyard. He put a wall around it, dug a wine vat, and built a watchtower. Then he rented it out to some tenants and went away on a journey..."
+description: >
+  Read Mark 12 Online | Then Jesus began to speak to them in parables: “A man planted a vineyard. He put a wall around it, dug a wine vat, and built a watchtower. Then he rented it out to some tenants and went away on a journey...
 weight: 12
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "2 Kings 11 BSB | Read the Bible Online"
 linkTitle: "11"
-description: "Read 2 Kings 11 Online | When Athaliah the mother of Ahaziah saw that her son was dead, she proceeded to annihilate all the royal heirs..."
+description: >
+  Read 2 Kings 11 Online | When Athaliah the mother of Ahaziah saw that her son was dead, she proceeded to annihilate all the royal heirs...
 weight: 11
 ---
 

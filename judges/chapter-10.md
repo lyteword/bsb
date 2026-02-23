@@ -1,7 +1,8 @@
 ---
 title: "Judges 10 BSB | Read the Bible Online"
 linkTitle: "10"
-description: "Read Judges 10 Online | After the time of Abimelech, a man of Issachar, Tola son of Puah, the son of Dodo, rose up to save Israel. He lived in Shamir, in the hill country of Ephraim..."
+description: >
+  Read Judges 10 Online | After the time of Abimelech, a man of Issachar, Tola son of Puah, the son of Dodo, rose up to save Israel. He lived in Shamir, in the hill country of Ephraim...
 weight: 10
 ---
 

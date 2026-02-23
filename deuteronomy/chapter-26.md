@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 26 BSB | Read the Bible Online"
 linkTitle: "26"
-description: "Read Deuteronomy 26 Online | When you enter the land that the LORD your God is giving you as an inheritance, and you take possession of it and settle in it..."
+description: >
+  Read Deuteronomy 26 Online | When you enter the land that the LORD your God is giving you as an inheritance, and you take possession of it and settle in it...
 weight: 26
 ---
 

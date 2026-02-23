@@ -1,7 +1,8 @@
 ---
 title: "2 Kings 7 BSB | Read the Bible Online"
 linkTitle: "7"
-description: "Read 2 Kings 7 Online | Then Elisha said, “Hear the word of the LORD! This is what the LORD says: ‘About this time tomorrow at the gate of Samaria, a seah of fine flour [^1367] will sell for a shekel,[^1368] and two seahs of barley [^1369] will sell for a shekel.’..."
+description: >
+  Read 2 Kings 7 Online | Then Elisha said, “Hear the word of the LORD! This is what the LORD says: ‘About this time tomorrow at the gate of Samaria, a seah of fine flour will sell for a shekel, and two seahs of barley will sell for a shekel.’...
 weight: 7
 ---
 

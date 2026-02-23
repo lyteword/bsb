@@ -1,7 +1,8 @@
 ---
 title: "James 1 BSB | Read the Bible Online"
 linkTitle: "1"
-description: "Read James 1 Online | James, a servant of God and of the Lord Jesus Christ, To the twelve tribes of the Dispersion:[^4677] Greetings..."
+description: >
+  Read James 1 Online | James, a servant of God and of the Lord Jesus Christ, To the twelve tribes of the Dispersion: Greetings...
 weight: 1
 ---
 

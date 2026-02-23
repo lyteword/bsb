@@ -1,7 +1,8 @@
 ---
 title: "Psalm 133 BSB | Read the Bible Online"
 linkTitle: "133"
-description: "Read Psalm 133 Online | Behold, how good and pleasant it is when brothers live together in harmony..."
+description: >
+  Read Psalm 133 Online | Behold, how good and pleasant it is when brothers live together in harmony...
 weight: 133
 ---
 

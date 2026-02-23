@@ -1,7 +1,8 @@
 ---
 title: "Psalm 149 BSB | Read the Bible Online"
 linkTitle: "149"
-description: "Read Psalm 149 Online | Hallelujah![^2435] Sing to the LORD a new song— His praise in the assembly of the godly..."
+description: >
+  Read Psalm 149 Online | Hallelujah! Sing to the LORD a new song— His praise in the assembly of the godly...
 weight: 149
 ---
 

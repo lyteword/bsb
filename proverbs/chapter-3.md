@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 3 BSB | Read the Bible Online"
 linkTitle: "3"
-description: "Read Proverbs 3 Online | My son, do not forget my teaching, but let your heart keep my commandments..."
+description: >
+  Read Proverbs 3 Online | My son, do not forget my teaching, but let your heart keep my commandments...
 weight: 3
 ---
 

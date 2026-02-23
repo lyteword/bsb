@@ -1,7 +1,8 @@
 ---
 title: "1 Corinthians 7 BSB | Read the Bible Online"
 linkTitle: "7"
-description: "Read 1 Corinthians 7 Online | Now for the matters you wrote about: It is good to abstain from sexual relations.[^4405..."
+description: >
+  Read 1 Corinthians 7 Online | Now for the matters you wrote about: It is good to abstain from sexual relations.[^4405...
 weight: 7
 ---
 

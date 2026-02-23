@@ -1,7 +1,8 @@
 ---
 title: "Joshua 12 BSB | Read the Bible Online"
 linkTitle: "12"
-description: "Read Joshua 12 Online | Now these are the kings of the land whom the Israelites struck down and whose lands they took beyond the Jordan to the east, from the Arnon Valley to Mount Hermon, including all the Arabah eastward..."
+description: >
+  Read Joshua 12 Online | Now these are the kings of the land whom the Israelites struck down and whose lands they took beyond the Jordan to the east, from the Arnon Valley to Mount Hermon, including all the Arabah eastward...
 weight: 12
 ---
 

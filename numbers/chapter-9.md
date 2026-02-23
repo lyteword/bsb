@@ -1,7 +1,8 @@
 ---
 title: "Numbers 9 BSB | Read the Bible Online"
 linkTitle: "9"
-description: "Read Numbers 9 Online | In the first month of the second year after Israel had come out of the land of Egypt, the LORD spoke to Moses in the Wilderness of Sinai..."
+description: >
+  Read Numbers 9 Online | In the first month of the second year after Israel had come out of the land of Egypt, the LORD spoke to Moses in the Wilderness of Sinai...
 weight: 9
 ---
 

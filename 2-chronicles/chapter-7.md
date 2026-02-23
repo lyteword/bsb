@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 7 BSB | Read the Bible Online"
 linkTitle: "7"
-description: "Read 2 Chronicles 7 Online | When Solomon had finished praying, fire came down from heaven and consumed the burnt offering and the sacrifices, and the glory of the LORD filled the temple..."
+description: >
+  Read 2 Chronicles 7 Online | When Solomon had finished praying, fire came down from heaven and consumed the burnt offering and the sacrifices, and the glory of the LORD filled the temple...
 weight: 7
 ---
 

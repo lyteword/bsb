@@ -1,7 +1,8 @@
 ---
 title: "Esther 7 BSB | Read the Bible Online"
 linkTitle: "7"
-description: "Read Esther 7 Online | So the king and Haman went to dine with Esther the queen..."
+description: >
+  Read Esther 7 Online | So the king and Haman went to dine with Esther the queen...
 weight: 7
 ---
 

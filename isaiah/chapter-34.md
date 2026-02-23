@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 34 BSB | Read the Bible Online"
 linkTitle: "34"
-description: "Read Isaiah 34 Online | Come near, O nations, to listen; pay attention, O peoples. Let the earth hear, and all that fills it, the world and all that springs from it..."
+description: >
+  Read Isaiah 34 Online | Come near, O nations, to listen; pay attention, O peoples. Let the earth hear, and all that fills it, the world and all that springs from it...
 weight: 34
 ---
 

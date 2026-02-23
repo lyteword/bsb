@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 14 BSB | Read the Bible Online"
 linkTitle: "14"
-description: "Read Isaiah 14 Online | For the LORD will have compassion on Jacob; once again He will choose Israel and settle them in their own land. The foreigner will join them and unite with the house of Jacob..."
+description: >
+  Read Isaiah 14 Online | For the LORD will have compassion on Jacob; once again He will choose Israel and settle them in their own land. The foreigner will join them and unite with the house of Jacob...
 weight: 14
 ---
 

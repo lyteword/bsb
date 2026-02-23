@@ -1,7 +1,8 @@
 ---
 title: "Job 15 BSB | Read the Bible Online"
 linkTitle: "15"
-description: "Read Job 15 Online | Then Eliphaz the Temanite replied..."
+description: >
+  Read Job 15 Online | Then Eliphaz the Temanite replied...
 weight: 15
 ---
 

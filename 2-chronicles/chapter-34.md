@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 34 BSB | Read the Bible Online"
 linkTitle: "34"
-description: "Read 2 Chronicles 34 Online | Josiah was eight years old when he became king, and he reigned in Jerusalem thirty-one years..."
+description: >
+  Read 2 Chronicles 34 Online | Josiah was eight years old when he became king, and he reigned in Jerusalem thirty-one years...
 weight: 34
 ---
 

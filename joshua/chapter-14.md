@@ -1,7 +1,8 @@
 ---
 title: "Joshua 14 BSB | Read the Bible Online"
 linkTitle: "14"
-description: "Read Joshua 14 Online | Now these are the portions that the Israelites inherited in the land of Canaan, as distributed by Eleazar the priest, Joshua son of Nun, and the heads of the families of the tribes of Israel..."
+description: >
+  Read Joshua 14 Online | Now these are the portions that the Israelites inherited in the land of Canaan, as distributed by Eleazar the priest, Joshua son of Nun, and the heads of the families of the tribes of Israel...
 weight: 14
 ---
 

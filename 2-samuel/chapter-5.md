@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 5 BSB | Read the Bible Online"
 linkTitle: "5"
-description: "Read 2 Samuel 5 Online | Then all the tribes of Israel came to David at Hebron and said, “Here we are, your own flesh and blood..."
+description: >
+  Read 2 Samuel 5 Online | Then all the tribes of Israel came to David at Hebron and said, “Here we are, your own flesh and blood...
 weight: 5
 ---
 

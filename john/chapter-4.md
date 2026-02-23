@@ -1,7 +1,8 @@
 ---
 title: "John 4 BSB | Read the Bible Online"
 linkTitle: "4"
-description: "Read John 4 Online | When Jesus realized that the Pharisees were aware He [^4031] was gaining and baptizing more disciples than John..."
+description: >
+  Read John 4 Online | When Jesus realized that the Pharisees were aware He was gaining and baptizing more disciples than John...
 weight: 4
 ---
 

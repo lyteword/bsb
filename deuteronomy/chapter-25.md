@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 25 BSB | Read the Bible Online"
 linkTitle: "25"
-description: "Read Deuteronomy 25 Online | If there is a dispute between men, they are to go to court to be judged, so that the innocent may be acquitted and the guilty condemned..."
+description: >
+  Read Deuteronomy 25 Online | If there is a dispute between men, they are to go to court to be judged, so that the innocent may be acquitted and the guilty condemned...
 weight: 25
 ---
 

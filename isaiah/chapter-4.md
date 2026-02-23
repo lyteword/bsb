@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 4 BSB | Read the Bible Online"
 linkTitle: "4"
-description: "Read Isaiah 4 Online | In that day seven women will take hold of one man and say, “We will eat our own bread and provide our own clothes. Just let us be called by your name. Take away our disgrace!..."
+description: >
+  Read Isaiah 4 Online | In that day seven women will take hold of one man and say, “We will eat our own bread and provide our own clothes. Just let us be called by your name. Take away our disgrace!...
 weight: 4
 ---
 

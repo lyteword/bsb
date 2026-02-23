@@ -1,7 +1,8 @@
 ---
 title: "Ezra 3 BSB | Read the Bible Online"
 linkTitle: "3"
-description: "Read Ezra 3 Online | By the seventh month, the Israelites had settled in their towns, and the people assembled as one man in Jerusalem..."
+description: >
+  Read Ezra 3 Online | By the seventh month, the Israelites had settled in their towns, and the people assembled as one man in Jerusalem...
 weight: 3
 ---
 

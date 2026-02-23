@@ -1,7 +1,8 @@
 ---
 title: "Genesis 26 BSB | Read the Bible Online"
 linkTitle: "26"
-description: "Read Genesis 26 Online | Now there was another famine in the land, subsequent to the one that had occurred in Abraham’s time. And Isaac went to Abimelech king of the Philistines at Gerar..."
+description: >
+  Read Genesis 26 Online | Now there was another famine in the land, subsequent to the one that had occurred in Abraham’s time. And Isaac went to Abimelech king of the Philistines at Gerar...
 weight: 26
 ---
 

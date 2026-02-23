@@ -1,7 +1,8 @@
 ---
 title: "Psalm 142 BSB | Read the Bible Online"
 linkTitle: "142"
-description: "Read Psalm 142 Online | I cry aloud to the LORD; I lift my voice to the LORD for mercy..."
+description: >
+  Read Psalm 142 Online | I cry aloud to the LORD; I lift my voice to the LORD for mercy...
 weight: 142
 ---
 

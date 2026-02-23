@@ -1,7 +1,8 @@
 ---
 title: "Psalm 43 BSB | Read the Bible Online"
 linkTitle: "43"
-description: "Read Psalm 43 Online | Vindicate me, O God, and plead my case against an ungodly nation; deliver me from deceitful and unjust men..."
+description: >
+  Read Psalm 43 Online | Vindicate me, O God, and plead my case against an ungodly nation; deliver me from deceitful and unjust men...
 weight: 43
 ---
 

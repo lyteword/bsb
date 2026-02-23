@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 4 BSB | Read the Bible Online"
 linkTitle: "4"
-description: "Read Deuteronomy 4 Online | Hear now, O Israel, the statutes and ordinances I am teaching you to follow, so that you may live and may enter and take possession of the land that the LORD, the God of your fathers, is giving you..."
+description: >
+  Read Deuteronomy 4 Online | Hear now, O Israel, the statutes and ordinances I am teaching you to follow, so that you may live and may enter and take possession of the land that the LORD, the God of your fathers, is giving you...
 weight: 4
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Numbers 11 BSB | Read the Bible Online"
 linkTitle: "11"
-description: "Read Numbers 11 Online | Soon the people began to complain about their hardship in the hearing of the LORD, and when He heard them, His anger was kindled, and fire from the LORD blazed among them and consumed the outskirts of the camp..."
+description: >
+  Read Numbers 11 Online | Soon the people began to complain about their hardship in the hearing of the LORD, and when He heard them, His anger was kindled, and fire from the LORD blazed among them and consumed the outskirts of the camp...
 weight: 11
 ---
 

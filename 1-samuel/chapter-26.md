@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 26 BSB | Read the Bible Online"
 linkTitle: "26"
-description: "Read 1 Samuel 26 Online | Then the Ziphites came to Saul at Gibeah and said, “Is not David hiding on the hill of Hachilah, opposite Jeshimon?..."
+description: >
+  Read 1 Samuel 26 Online | Then the Ziphites came to Saul at Gibeah and said, “Is not David hiding on the hill of Hachilah, opposite Jeshimon?...
 weight: 26
 ---
 

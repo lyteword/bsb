@@ -1,7 +1,8 @@
 ---
 title: "Joshua 2 BSB | Read the Bible Online"
 linkTitle: "2"
-description: "Read Joshua 2 Online | Then Joshua son of Nun secretly sent two spies from Shittim,[^783] saying, “Go, inspect the land, especially Jericho.” So they went and entered the house of a prostitute named Rahab and stayed there..."
+description: >
+  Read Joshua 2 Online | Then Joshua son of Nun secretly sent two spies from Shittim, saying, “Go, inspect the land, especially Jericho.” So they went and entered the house of a prostitute named Rahab and stayed there...
 weight: 2
 ---
 

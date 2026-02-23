@@ -1,7 +1,8 @@
 ---
 title: "Genesis 34 BSB | Read the Bible Online"
 linkTitle: "34"
-description: "Read Genesis 34 Online | Now Dinah, the daughter Leah had borne to Jacob, went out to visit the daughters of the land..."
+description: >
+  Read Genesis 34 Online | Now Dinah, the daughter Leah had borne to Jacob, went out to visit the daughters of the land...
 weight: 34
 ---
 
