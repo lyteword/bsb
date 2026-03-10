@@ -1,11 +1,17 @@
 ---
-title: Berean Standard Bible
-linkTitle: BSB
+title: "Berean Standard Bible (BSB) | Read the Bible Online"
+linkTitle: "BSB"
+description: >
+  A modern English translation designed to balance accuracy to the Hebrew and Greek with clear, readable language.
 sidebar:
   exclude: true
 cascade:
   toc: true
 ---
+
+The Berean Standard Bible (BSB) aims to provide a bridge between technical precision and everyday fluency. Developed through a collaboration by the Bible Hub team and Discovery Bible, the project uses the expertise of a diverse group of scholars and editors to ensure a rigorous yet approachable text. It stands as a modern translation designed to balance accuracy to the Hebrew and Greek with clear, readable language, allowing both the reader and student to engage deeply with the scriptures without the clutter of archaic phrasing.
+
+What truly sets the BSB apart is its commitment to transparency and accessibility. Named after the Bereans in the Book of Acts—who were commended for examining the Scriptures daily. The Berean Standard Bible was officially released into the public domain in early 2023. By removing the restrictive licensing and copyright barriers common to modern translations, the BSB team has ensured that the text can be freely shared, adapted, and integrated into new technologies, truly making the Word available to all.
 
 ## The Old Testament
 
