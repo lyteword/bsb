@@ -7,7 +7,10 @@ sidebar:
   exclude: true
 cascade:
   toc: true
+layout: single-section
 ---
+
+# Berean Standard Bible
 
 The Berean Standard Bible (BSB) aims to provide a bridge between technical precision and everyday fluency. Developed through a collaboration by the Bible Hub team and Discovery Bible, the project uses the expertise of a diverse group of scholars and editors to ensure a rigorous yet approachable text. It stands as a modern translation designed to balance accuracy to the Hebrew and Greek with clear, readable language, allowing both the reader and student to engage deeply with the scriptures without the clutter of archaic phrasing.
 
