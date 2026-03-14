@@ -1,7 +1,13 @@
 ---
-title: Philippians
+title: "Philippians BSB | Read the Bible Online"
+linkTitle: "Philippians"
 weight: 50
+description: >
+  Read Philippians from the Berean Standard Bible (BSB) Online
+layout: single-section
 ---
+
+# Philippians
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

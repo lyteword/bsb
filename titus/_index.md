@@ -1,7 +1,13 @@
 ---
-title: Titus
+title: "Titus BSB | Read the Bible Online"
+linkTitle: "Titus"
 weight: 56
+description: >
+  Read Titus from the Berean Standard Bible (BSB) Online
+layout: single-section
 ---
+
+# Titus
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

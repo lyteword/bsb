@@ -1,7 +1,13 @@
 ---
-title: Haggai
+title: "Haggai BSB | Read the Bible Online"
+linkTitle: "Haggai"
 weight: 37
+description: >
+  Read Haggai from the Berean Standard Bible (BSB) Online
+layout: single-section
 ---
+
+# Haggai
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}
