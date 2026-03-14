@@ -1,7 +1,13 @@
 ---
-title: Nehemiah
+title: "Nehemiah BSB | Read the Bible Online"
+linkTitle: "Nehemiah"
 weight: 16
+description: >
+  Read Nehemiah from the Berean Standard Bible (BSB) Online
+layout: single-section
 ---
+
+# Nehemiah
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

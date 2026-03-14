@@ -1,7 +1,13 @@
 ---
-title: Proverbs
+title: "Proverbs BSB | Read the Bible Online"
+linkTitle: "Proverbs"
 weight: 20
+description: >
+  Read Proverbs from the Berean Standard Bible (BSB) Online
+layout: single-section
 ---
+
+# Proverbs
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

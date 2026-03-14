@@ -1,7 +1,13 @@
 ---
-title: Joel
+title: "Joel BSB | Read the Bible Online"
+linkTitle: "Joel"
 weight: 29
+description: >
+  Read Joel from the Berean Standard Bible (BSB) Online
+layout: single-section
 ---
+
+# Joel
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

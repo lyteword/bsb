@@ -1,7 +1,13 @@
 ---
-title: Romans
+title: "Romans BSB | Read the Bible Online"
+linkTitle: "Romans"
 weight: 45
+description: >
+  Read Romans from the Berean Standard Bible (BSB) Online
+layout: single-section
 ---
+
+# Romans
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

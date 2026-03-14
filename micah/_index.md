@@ -1,7 +1,13 @@
 ---
-title: Micah
+title: "Micah BSB | Read the Bible Online"
+linkTitle: "Micah"
 weight: 33
+description: >
+  Read Micah from the Berean Standard Bible (BSB) Online
+layout: single-section
 ---
+
+# Micah
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

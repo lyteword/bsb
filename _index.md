@@ -1,5 +1,5 @@
 ---
-title: "Berean Standard Bible (BSB) | Read the Bible Online"
+title: "Berean Standard Bible (BSB) | Read the Bible Online BSB | Read the Bible Online"
 linkTitle: "BSB"
 description: >
   A modern English translation designed to balance accuracy to the Hebrew and Greek with clear, readable language.

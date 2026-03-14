@@ -1,7 +1,13 @@
 ---
-title: Esther
+title: "Esther BSB | Read the Bible Online"
+linkTitle: "Esther"
 weight: 17
+description: >
+  Read Esther from the Berean Standard Bible (BSB) Online
+layout: single-section
 ---
+
+# Esther
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}
